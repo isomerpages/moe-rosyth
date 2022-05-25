@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements.md
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School Crest.md
@@ -11,3 +10,4 @@ collections:
       - School Organisation Chart.md
       - School Advisory Committee.md
       - Rosyth School Alumni Association.md
+      - Our Achievements.md
