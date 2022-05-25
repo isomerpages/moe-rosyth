@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - eHistory.md
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School Crest.md
@@ -13,3 +12,4 @@ collections:
       - Rosyth School Alumni Association.md
       - Our Achievements/.keep
       - Our Achievements/2019.md
+      - eHistory.md
