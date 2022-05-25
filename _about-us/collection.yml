@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - 2019/Our Achievements.md
-      - 2019/.keep
+      - Our Achievements/Our Achievements.md
+      - Our Achievements/.keep
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School Crest.md
