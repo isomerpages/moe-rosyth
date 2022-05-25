@@ -2,8 +2,8 @@ title: Title
 url: ""
 favicon: /images/logo.png
 colors:
-  primary-color: "#080404"
-  secondary-color: "#5e7ec9"
+  primary-color: "#5e7ec9"
+  secondary-color: "#040404"
   media-colors:
     - title: media-color-one
       color: "#49759a"
