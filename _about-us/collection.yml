@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Rosyth School Alumni Association.md
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School Crest.md
