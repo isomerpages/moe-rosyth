@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
       - School History.md
       - School Organisation Chart.md
+      - School Advisory Committee.md
