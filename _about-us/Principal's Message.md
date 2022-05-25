@@ -6,11 +6,11 @@ description: ""
 ![](/images/Principal_Mdm%20Tan%20(1).jpg)
 
 Welcome to Rosyth School where students and staff 
-'Learn with Passion, Serve with Compassion and Lead with Vision'
+***'Learn with Passion, Serve with Compassion and Lead with Vision'***
 
 Rosyth School’s vision espouses a community of life-long learners who are motivated and competent to learn. As compassionate and active citizens, Rosythians aspire to use their knowledge, skills and talents to care and serve for the betterment of others and the community.  We envision Rosythians to grow up as leaders in their own lives as they take on different leadership roles in their development, set goals to pursue their dreams and value the talents within themselves, thereby blossoming into confident and fulfilled individual.
 
-Pursuing this vision is an innovative mind-set that the school and staff embrace. We continuously seek new ways to improve our teaching and learning programmes in the Rosyth experiences to develop our students holistically. These are underpinned by the unifying Rosyth’s I-CARE values of Integrity, Care, grAtitude, Respect and Resilience, and Entrepreneurial Spirit.
+Pursuing this vision is an innovative mind-set that the school and staff embrace. We continuously seek new ways to improve our teaching and learning programmes in the Rosyth experiences to develop our students holistically. These are underpinned by the unifying Rosyth’s **I-CARE** values of **I**ntegrity, **C**are, gr**A**titude, **R**espect and Resilience, and **E**ntrepreneurial Spirit.
 
 In the 21st century, globalisation and advancement in technology will affect nearly every aspect of our lives. The way we work, learn and live is getting more dynamic and involves rapid changes. In Rosyth, information communication technology (ICT) is a key engine to innovate our teaching and learning to better engage and prepare our students for the future. Our students can look forward to expressing their creativity in the Manga digital art programme and engaging in self-directed and collaborative learning through ICT enhanced flipped lessons. Importantly, we want our students to grow up as responsible and ethical users in the digital age through our Rosyth’s active cyberwellness ambassador programme where they are equipped with the knowledge and skills to navigate in the dynamic world. 
 
