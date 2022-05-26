@@ -92,3 +92,6 @@ The Rosyth Forum where students can write into to air their views on current aff
 
 Straits Times Forum
 1) [Preserve culture by letting it evolve](https://www.straitstimes.com/forum/letters-in-print/preserve-culture-by-letting-it-evolve)
+2) [Road names key to remembering Singapore's past](https://www.straitstimes.com/forum/letters-in-print/road-names-key-to-remembering-singapores-past)
+3) [Not enough to just say 'nay'](https://www.straitstimes.com/forum/letters-in-print/not-enough-to-just-say-nay)
+4) [Educating youth on ills of sugar more effective than imposing tax](https://www.straitstimes.com/forum/letters-in-print/educating-youth-on-ills-of-sugar-more-effective-than-imposing-tax)
