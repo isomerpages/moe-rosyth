@@ -10,7 +10,7 @@ mohamed_hanifa_nazrin@schools.gov.sg
 
 <hr style="border-top: dotted 1px;" />
 
-#### VISION
+### VISION
 ***Nurture Talents in Every Child.***
 
 ##### PROGRAMME FOR AESTHETICS INTEGRATION @ ROSYTH (PAIR)
