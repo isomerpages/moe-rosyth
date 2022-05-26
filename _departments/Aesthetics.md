@@ -37,4 +37,6 @@ As a N1 Cluster Centre of Excellence for the Aesthetics the school aims to:
 * P1 - P3 Integrated Curriculum (Art and Music integrated with English)
 * P4 - P6 Curriculum ( Modular system for music and art)
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
 ##### PHOTO GALLERY
