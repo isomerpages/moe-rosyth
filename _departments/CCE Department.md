@@ -23,3 +23,10 @@ description: ""
 2. Instilling the spirit of Active Citizenry in our students.
 
 ##### DESIRED OUTCOMES
+Every Rosythian leader, an active contributor, confident communicator, creative thinker, critical problem solver and concerned citizen grounded on our ICARE Values:
+
+* Integrity First
+* Care & Share
+* Adventurous Spirit
+* Respect & responsibility
+* Excellence in all we do
