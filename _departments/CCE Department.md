@@ -156,7 +156,7 @@ Bishan Park Science-VIA Learning Journey
 * To leverage on technology to get instant information to increase their knowledge
 * To remove the litters around the place as this might be the cause of the animals to die
 	
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 **Talent Development**
 
