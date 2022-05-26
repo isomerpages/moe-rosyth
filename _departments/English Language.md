@@ -15,6 +15,7 @@ description: ""
 | STELLAR Mentors | Mdm Yap Chai Muay | yap_chai_muay@schools.gov.sg |
 | | Miss Laurene Danker | danker_laurene@schools.gov.sg | 
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 ##### VISION
 	
