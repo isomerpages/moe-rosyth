@@ -100,9 +100,11 @@ Straits Times Forum:
 
 4) [Educating youth on ills of sugar more effective than imposing tax](https://www.straitstimes.com/forum/letters-in-print/educating-youth-on-ills-of-sugar-more-effective-than-imposing-tax)
 
+
 TODAY'S Voices:
 
 1) [Give Singapore's education system credit where it's due](https://www.todayonline.com/voices/give-singapores-education-system-credit-where-its-due)
+
 
 Straits Times' Voices of Youth:
 
@@ -127,3 +129,57 @@ Straits Times' Voices of Youth:
 10) [Change attitudes on 'ugly' food](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_4898.JPG)
 
 11) [Bridging divide through CCAs](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_7687.jpg)
+
+**Discipline**
+
+In accordance to Rosyth School’s mission of maximising potential through the development of Mind, Body and Soul, the school’s Discipline Committee aims to create a safe and conducive environment so that learning can be maximised. It is therefore important that all students formed positive behaviours, and respectful and caring relationships in school to uphold the highest standard of the school’s I-CARE values. This is the key purpose and function of Discipline in Rosyth School.
+
+***Student leadership Development***
+
+Leaders of Tomorrow
+
+* develop leadership qualities through a comprehensive leadership programme
+* provide platforms for students to display leadership qualities
+* cultivate 21st CC skills and I-CARE values
+
+***VIA***
+
+Bishan Park Science-VIA Learning Journey
+
+* To understand the perspective of our leaders to make the City in a Garden
+* To investigate the cause and effect of man’s activities
+* To leverage on technology to get instant information to increase their knowledge
+* To remove the litters around the place as this might be the cause of the animals to die
+
+**Talent Development**
+
+Dare.Dream.Discover (D3)
+
+* To manage student talents in the identified domains of talent
+* To discover latent student talents in the identified domains of talent
+* To ensure a systematic and pragmatic approach to discovering student talent throughout the students’ school years
+* To cultivate 21st CC skills and values in students through their involvement in the innovation and entrepreneurial programmes and promote social entrepreneurship by service to the community
+
+***Partnership***
+
+1) PiSP (Parents in School Programme)
+
+* to increase the level of parental involvement in the school curriculum as well as key programmes, so as to enhance the development of social emotional skills and process of values inculcation in our students.
+
+2) Parent Support Group (PSG) Weekend Enrichment Classes @ Rosyth
+
+* To provide enrichment classes to complement regular school curriculum for those who are interested.
+* To increases student motivation and fostering the students’ social skills, learning strategies and self-confidence.
+* To provide safe venues for enrichment classes and provide them at a more affordable rate.
+* To further strengthen the partnership between the school and PSG.
+
+![](/images/CCE4.jpg)
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+	
+
+##### ACHIEVEMENTS
+	
+BPA – Student all round development
+
+BPA - Partnership
