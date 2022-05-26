@@ -90,7 +90,7 @@ The Rosyth Forum where students can write into to air their views on current aff
 
 ***Newspaper Forum Publications by Rosythians***
 
-Straits Times Forum
+Straits Times Forum:
 
 1) [Preserve culture by letting it evolve](https://www.straitstimes.com/forum/letters-in-print/preserve-culture-by-letting-it-evolve)
 
@@ -99,3 +99,31 @@ Straits Times Forum
 3) [Not enough to just say 'nay'](https://www.straitstimes.com/forum/letters-in-print/not-enough-to-just-say-nay)
 
 4) [Educating youth on ills of sugar more effective than imposing tax](https://www.straitstimes.com/forum/letters-in-print/educating-youth-on-ills-of-sugar-more-effective-than-imposing-tax)
+
+TODAY'S Voices:
+
+1) [Give Singapore's education system credit where it's due](https://www.todayonline.com/voices/give-singapores-education-system-credit-where-its-due)
+
+Straits Times' Voices of Youth:
+
+1) [Make organ donation a mandated choice](https://www.straitstimes.com/forum/letters-in-print/make-organ-donation-a-mandated-choice)
+
+2) [E-sports is not just child's play](https://www.straitstimes.com/forum/letters-in-print/e-sports-is-not-just-childs-play)
+
+3) [E-sports finding place in the real world](https://www.straitstimes.com/forum/letters-in-print/e-sports-finding-place-in-the-real-world)
+
+4) [Educate public on natural disasters](https://www.straitstimes.com/forum/letters-in-print/educate-public-on-natural-disasters)
+
+5) [New system a more holistic approach](https://www.straitstimes.com/forum/letters-in-print/new-system-a-more-holistic-approach)
+
+6) [Guard against over-learning](https://www.straitstimes.com/forum/letters-in-print/guard-against-over-learning)
+
+7) [Step up anti-terror measures in schools](https://www.straitstimes.com/forum/letters-in-print/step-up-anti-terror-measures-in-schools)
+
+8) [Recognise meaning behind festivals](https://www.straitstimes.com/forum/letters-in-print/recognise-meaning-behind-festivals)
+
+9) [Second-hand smoke danger in public areas](https://www.straitstimes.com/forum/letters-in-print/second-hand-smoke-danger-in-public-areas)
+
+10) [Change attitudes on 'ugly' food](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_4898.JPG)
+
+11) [Bridging divide through CCAs](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_7687.jpg)
