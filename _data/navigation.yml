@@ -7,7 +7,7 @@ links:
   - title: Example Page
     url: /example-page/
   - title: About Us
-    url: /about-us
+    url: /about-us/principal-message
     sublinks:
       - title: Principal's Message
         url: /about-us/principal-message
