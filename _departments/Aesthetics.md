@@ -4,7 +4,7 @@ permalink: /departments/aesthetics
 description: ""
 ---
 ### Aesthetics Department
-**HOD (Aesthetics)**: Mdm Hanifa mohamed_hanifa_nazrin@schools.gov.sg
+**HOD (Aesthetics)**: Mdm Hanifa, mohamed_hanifa_nazrin@schools.gov.sg
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
