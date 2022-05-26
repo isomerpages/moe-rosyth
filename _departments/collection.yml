@@ -2,6 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - English Language.md
       - Aesthetics.md
       - CCE Department.md
+      - English Language.md
