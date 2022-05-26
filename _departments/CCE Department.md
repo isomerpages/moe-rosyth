@@ -60,3 +60,34 @@ iREACH
 * Coping with conflicts/ difficult situations
 * Perspective Taking
 * Problem Solving
+
+**Value moments**
+* Every Tuesdays and Thursdays (10 mins before morning assembly)
+* To address school's concerns like timeliness, cleanliness and bite-size factors, which are important considerations when we talk about a whole-school approach.
+* To sustain efforts for the inculcation of values.
+
+**National Education & Social Studies**
+
+
+***Current Affairs @ Rosyth School***
+
+The impact of globalisation and technological innovation has shaped the landscape of the 21st century world to become highly competitive. In order for Singapore to continue thriving, its citizens must grow to become more proactive in partnering the government in developing solutions to problems.   
+
+To nurture active citizenship, upper primary students are encouraged to select a piece of current affairs news, before using the iMovie application to create a short video, also known as 60 Seconds of News, to share with the rest of the school. This process allows students to gain knowledge of global and local issues, while honing their ability to process information and communicate it, effectively.   
+
+Following which, students can write into our very own Rosyth Forum to air their opinions. Outstanding submissions would be further refined by student editors and they would be submitted to platforms such as, the Straits Times Forum, TODAY’s Voices and Straits Times’ Voices of Youth. 
+
+Through the C@RS Programme, Rosyth School hopes to nurture our young to become global citizens who are informed and involved in current affairs.
+
+![](/images/Untitled1.jpg)
+Students writing their news scripts 
+
+![](/images/Untitled2.jpg)
+ Students filming the news segment
+ 
+ 
+
+| ![](/images/Untitled1.jpg) | ![](/images/Untitled2.jpg) |
+| -------- | -------- |
+| Students writing their news scripts | Students filming the news segment | 
+
