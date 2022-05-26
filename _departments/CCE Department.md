@@ -61,13 +61,16 @@ iREACH
 * Perspective Taking
 * Problem Solving
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
+
 **Value moments**
 * Every Tuesdays and Thursdays (10 mins before morning assembly)
 * To address school's concerns like timeliness, cleanliness and bite-size factors, which are important considerations when we talk about a whole-school approach.
 * To sustain efforts for the inculcation of values.
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
+	
 **National Education & Social Studies**
-
 
 ***Current Affairs @ Rosyth School***
 
@@ -130,6 +133,8 @@ Straits Times' Voices of Youth:
 
 11) [Bridging divide through CCAs](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_7687.jpg)
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>	
+
 **Discipline**
 
 In accordance to Rosyth School’s mission of maximising potential through the development of Mind, Body and Soul, the school’s Discipline Committee aims to create a safe and conducive environment so that learning can be maximised. It is therefore important that all students formed positive behaviours, and respectful and caring relationships in school to uphold the highest standard of the school’s I-CARE values. This is the key purpose and function of Discipline in Rosyth School.
@@ -150,6 +155,8 @@ Bishan Park Science-VIA Learning Journey
 * To investigate the cause and effect of man’s activities
 * To leverage on technology to get instant information to increase their knowledge
 * To remove the litters around the place as this might be the cause of the animals to die
+	
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
 
 **Talent Development**
 
