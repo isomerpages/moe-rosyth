@@ -3,7 +3,7 @@ title: CCE Department
 permalink: /departments/cce-department
 description: ""
 ---
-### CCE Department
+## CCE Department
 
 | CCE Department |  | |
 | -------- | -------- | -------- |
@@ -15,10 +15,10 @@ description: ""
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
-##### VISION
+### VISION
 ***Every Rosythian, An Active Global Citizen of Character***
 
-##### MISSION
+### MISSION
 1. To deliver values-based programmes for development of 21st Century Competencies.
 2. Instilling the spirit of Active Citizenry in our students.
 
