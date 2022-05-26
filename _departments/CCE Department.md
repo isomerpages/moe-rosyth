@@ -19,5 +19,8 @@ description: ""
 
 | Year Head (Primary 1 - 2) |  | 
 | -------- | -------- | 
-| Mrs May Soh  | sim_mui_huang@schools.gov.sg| 
+| Mrs May Soh  | sim_mui_huang@schools.gov.sg|
 
+| Subject Head (Discipline) |  | 
+| -------- | -------- | 
+| Mr Justin Lim Lai Fu | lim_lai_fu@schools.gov.sg |
