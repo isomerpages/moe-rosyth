@@ -40,3 +40,10 @@ description: ""
 | Subject Head (CCE & VIA) |  | 
 | -------- | -------- | 
 | Mdm Lim Yiling, Eileen | lim_yiling_eileen@schools.gov.sg |
+
+
+
+| CCE Department |  | |
+| -------- | -------- | -------- |
+|Year Head (Primary 1 - 2)| Mrs May Soh | sim_mui_huang@schools.gov.sg |
+
