@@ -19,8 +19,8 @@ description: ""
 ***Every Rosythian, An Active Global Citizen of Character***
 
 ### MISSION
-1. To deliver values-based programmes for development of 21st Century Competencies.
-2. Instilling the spirit of Active Citizenry in our students.
+1) To deliver values-based programmes for development of 21st Century Competencies.
+2) Instilling the spirit of Active Citizenry in our students.
 
 ##### DESIRED OUTCOMES
 Every Rosythian leader, an active contributor, confident communicator, creative thinker, critical problem solver and concerned citizen grounded on our ICARE Values:
@@ -83,11 +83,12 @@ Through the C@RS Programme, Rosyth School hopes to nurture our young to become g
 Students writing their news scripts 
 
 ![](/images/Untitled2.jpg)
- Students filming the news segment
- 
- 
+Students filming the news segment
 
-| ![](/images/Untitled1.jpg) | ![](/images/Untitled2.jpg) |
-| -------- | -------- |
-| Students writing their news scripts | Students filming the news segment | 
+![](/images/Poster%203%20-%20Picture%203.jpg)
+The Rosyth Forum where students can write into to air their views on current affairs
 
+***Newspaper Forum Publications by Rosythians***
+
+Straits Times Forum
+1) [Preserve culture by letting it evolve](https://www.straitstimes.com/forum/letters-in-print/preserve-culture-by-letting-it-evolve)
