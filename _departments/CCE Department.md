@@ -39,3 +39,24 @@ Every Rosythian leader, an active contributor, confident communicator, creative 
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+##### SIGNATURE PROGRAMMES
+
+**Pastoral Care**
+
+iCAN
+
+* to enhance the development of our students in social emotional competencies in the following areas:
+
+	* Self-Confidence;
+	* Self-leadership; and
+	* Decision-making and goal-setting skills
+* to motivate low achieving students in their learning
+
+iREACH
+
+* Regulate and control emotions
+* Perform pro-social behavior
+* Assertive Communication
+* Coping with conflicts/ difficult situations
+* Perspective Taking
+* Problem Solving
