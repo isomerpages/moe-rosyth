@@ -61,15 +61,13 @@ iREACH
 * Perspective Taking
 * Problem Solving
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
 
 **Value moments**
 * Every Tuesdays and Thursdays (10 mins before morning assembly)
 * To address school's concerns like timeliness, cleanliness and bite-size factors, which are important considerations when we talk about a whole-school approach.
 * To sustain efforts for the inculcation of values.
-
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
 	
+
 **National Education & Social Studies**
 
 ***Current Affairs @ Rosyth School***
