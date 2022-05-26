@@ -96,3 +96,25 @@ The programme has provided the school with the opportunity to build successful p
 
 The Learning Support Programme (LSP) is an early intervention programme aimed at providing additional support to pupils who enter Primary 1 with weak English language and literacy skills. Its objective is to equip the pupils with basic reading and spelling skills.
 Pupils are identified for the LSP through the Early Literacy Indicators (ELI), a group-screening instrument developed by MOE, at the beginning of each year. Pupils attaining low levels on the ELI (Levels 0, 1 and 2) are placed in the LSP for additional support.
+
+**G) PREP with MUMs @ Rosyth**
+
+PREP with MUMs @ Rosyth is a programme that aims to equip weak readers with the reading skills necessary for their daily school work. The programme also aims to help pupils cultivate good reading habits and ignite their love for reading so that in time to come, these pupils will become successful readers who will no longer learn to read but rather, they will read at more appropriately challenging levels in order to read to learn.
+
+**Enhanced PREP with MUMs** exposes students to word games, student collaboration and class presentations. There are opportunities for independent learning through book reviews. The programme provides deep learning to enhance greater student motivation through vocabulary lists and reading logs.
+
+**H) Extensive Reading Programme**
+
+The Extensive Reading Programme involves ring-fencing weekly one-period lessons for reading activities for all students. For P1 & 2 students, library activities are compiled into a teacher-designed booklet and differentiated to arouse interest. Students earn tokens upon completion of tasks. The different activities give the students autonomy when they explore texts of different genres and plan their completion on their own, thus developing self-directedness in learning.
+
+**I) Read@Rosyth**
+
+The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” book sharing and “Book Character Day”. “It’s Storytime!” allows students to participate in the reading of their favourite book, giving them full autonomy of what they would like to present. “Book Character Day” evokes interest in students when teachers dress up as book characters.
+
+![](/images/Character%20Day.jpg)
+
+![](/images/Character.jpg)
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### ACHIEVEMENTS
