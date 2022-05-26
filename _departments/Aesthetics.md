@@ -7,8 +7,7 @@ description: ""
 **HOD (Aesthetics)**: Mdm Hanifa
    mohamed_hanifa_nazrin@schools.gov.sg
 
-| | |  |
-| -------- | -------- | -------- |
+<hr style="border-top: dotted 1px;" />
 
 #### VISION
 ***Nurture Talents in Every Child.***
