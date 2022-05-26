@@ -6,7 +6,7 @@ description: ""
 ### Aesthetics Department
 **HOD (Aesthetics)**: Mdm Hanifa
 
-   mohamed_hanifa_nazrin@schools.gov.sg
+  [ mohamed_hanifa_nazrin@schools.gov.sg]( mohamed_hanifa_nazrin@schools.gov.sg)
 
 <hr style="border-top: dotted 1px;" />
 
