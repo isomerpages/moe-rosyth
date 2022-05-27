@@ -2,6 +2,8 @@ collections:
   departments:
     output: true
     order:
+      - Gifted Education Programme/Gifted Education Programme (GEP) in Rosyth
+        School.md
       - Gifted Education Programme/.keep
       - Aesthetics.md
       - CCE Department.md
