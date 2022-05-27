@@ -170,8 +170,7 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
-
-**PRIMARY ONE **
+**PRIMARY ONE**
 
 | S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
 | -------- | -------- | -------- |
@@ -197,9 +196,8 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 | 20 | ALEXANDER AND THE WIND UP MOUSE | LEO LIONNI |
 | 21 | LADYBIRD READ IT YOURSELF (GRADED READERS) | VARIOUS |
 
-
-**PRIMARY TWO **
+**PRIMARY TWO**
 
 | S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
 | -------- | -------- | -------- |
-| 1 | LITTLE FRIENDS | ONUR TUKEL | 
+| 1 | LITTLE FRIENDS | ONUR TUKEL |
