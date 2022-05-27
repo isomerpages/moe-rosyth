@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - ICT Department.md
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
@@ -12,3 +11,4 @@ collections:
       - Gifted Education Programme/Gifted Education Programme (GEP) in Rosyth
         School.md
       - Gifted Education Programme/Enriched Curriculum.md
+      - ICT Department.md
