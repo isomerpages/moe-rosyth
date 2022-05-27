@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - English/English Language.md
-      - English/.keep
+      - English Language/English Language.md
+      - English Language/.keep
       - Aesthetics.md
       - CCE Department.md
