@@ -167,4 +167,3 @@ Spending too much time on a question may result in less time or insufficient tim
 *The PSLE format*
 
 PSLE Standard Mathematics Examination Format
-
