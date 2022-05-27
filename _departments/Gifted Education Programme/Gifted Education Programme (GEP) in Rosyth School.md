@@ -172,5 +172,4 @@ Written by Kaydon Arianne Tan
 
 | Website | Brief Description |
 | -------- | -------- | 
-| MOE Gifted Education Programme| https://www.moe.gov.sg/education/programmes/gifted-education-programme |
-
+| MOE Gifted Education Programme | https://www.moe.gov.sg/education/programmes/gifted-education-programme |
