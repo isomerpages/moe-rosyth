@@ -121,9 +121,25 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 **English Department Achievements - 2019**
 
-
 | No. | Name of Competition | Achievement level |
 | -------- | -------- | -------- |
 | 1 | The Moo-O Awards 2019 | Bronze Award |
 
+**English Department Achievements - 2018**
 
+| No. | Name of Competition | Achievement level |
+| -------- | -------- | -------- |
+| 1 | Babble and Speak 2018 | Finalist |
+| 2 | NEW-C (Writing Competition) | Merit Award - P3/P4 Category |
+| 3 | Spin A Tale	| 1st Runner Up | 
+| | | 2nd Runner Up |
+| 4 | The Moo-O Awards 2018	| Certificate of participation |
+
+**English Department Achievements - 2017**
+
+| No. | Name of Competition | Achievement level |
+| -------- | -------- | -------- |
+| 1 | The Moo-O Awards 2017| Gold Award ([click here to watch the video](https://plus.moo-o.com/tma/?sel=2017-singapore)) |
+| 2 | Spin A Tale	| Third - Category 1 |
+| 3 | NEW-C (Writing Competition)	| 1st Runner Up | 
+| 4 | SOTA Creative Writing Competition	| Finalist |
