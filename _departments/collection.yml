@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Gifted Education Programme/Gifted Education Programme (GEP) in Rosyth
-        School.md
-      - Gifted Education Programme/.keep
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/P4 Earnest Pupils' Interview with Mr Zanal.md
+      - Gifted Education Programme/.keep
+      - Gifted Education Programme/Gifted Education Programme (GEP) in Rosyth
+        School.md
