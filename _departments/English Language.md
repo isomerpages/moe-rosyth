@@ -143,3 +143,11 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 | 2 | Spin A Tale	| Third - Category 1 |
 | 3 | NEW-C (Writing Competition)	| 1st Runner Up | 
 | 4 | SOTA Creative Writing Competition	| Finalist |
+
+**English Department Achievements - 2016**
+
+| No. | Name of Competition | Achievement level |
+| -------- | -------- | -------- |
+| 1 | 14th World Children’s Haiku Contest |	JAL Special Prize |
+| 2 | The Moo-O Awards 2016 |	Certificate of participation |
+
