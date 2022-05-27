@@ -139,7 +139,7 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 | No. | Name of Competition | Achievement level |
 | -------- | -------- | -------- |
-| 1 | The Moo-O Awards 2017| Gold Award ([click here to watch the video](https://plus.moo-o.com/tma/?sel=2017-singapore)) |
+| 1 | The Moo-O Awards 2017 | Gold Award ([click here to watch the video](https://plus.moo-o.com/tma/?sel=2017-singapore)) |
 | 2 | Spin A Tale	| Third - Category 1 |
 | 3 | NEW-C (Writing Competition)	| 1st Runner Up | 
 | 4 | SOTA Creative Writing Competition	| Finalist |
@@ -151,3 +151,19 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 | 1 | 14th World Children’s Haiku Contest |	JAL Special Prize |
 | 2 | The Moo-O Awards 2016 |	Certificate of participation |
 
+**English Department Achievements - 2015**
+
+| No. | Name of Competition | Achievement level |
+| -------- | -------- | -------- |
+| 1 | 14th Inter-School National Scrabble Championship 2015 – Finals | SENIOR DIVISION: Team Event – 11th position; Certificate of Participation, Individual Event - 3rd Position |
+| 2 | Spelling Bee 2015	| Zonal Round – Certificate of participation |
+| 3 | 29th YMCA Plain English Speaking Awards	| Upper Primary Category – 1st place | 
+| 4 | 14th Budding Writers Project 2015	| Certificate of participation |
+| 5 | The Moo-O Awards 2016	| Certificate of participation |
+| 6 | Cluster Challenge – Spin A Tale organized by Seng Kang Primary School Participants: | **Upper Primary Category** – 1st runner-up & Certificate of participation
+| | | **Lower Primary Category** – Certificate of participation | 
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
+
+##### READING LISTS
+	
