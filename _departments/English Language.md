@@ -402,5 +402,16 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 | 28 | A LONG WALK TO WATER | LINDA SUE PARK |
 | 29 | SHADOW | MICHAEL MORPURGO |
 | 30 | THE WRECK OF THE ZANZIBAR | MICHAEL MORPURGO |
-| 31 | THE MIRACULOUS JOURNEY OF EDWARD TULANE | KATE DICAMILLO | 
+| 31 | THE MIRACULOUS JOURNEY OF EDWARD TULANE | KATE DICAMILLO |
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### WEB RESOURCES
+
+
+| Website | Brief Description | 
+| -------- | -------- | 
+| [BBC Schools - KS2 Bitsize Revision](https://www.bbc.co.uk/bitesize/subjects/zv48q6f) | Links to pages with games on reading, writing, spelling and grammar. |
+| [Advanced English Lessons](https://www.englishpage.com/) | Contains online English lessons & ESL / EFL resources. Learn English using the English tutorials featuring dozens of interactive exercises. | 
+| [EnglishLearner.com: English Lessons and Tests](http://english.unitecnology.ac.nz/) | **English Lessons and Tests**: Learners of English will find interactive tests and exercises here: grammar, vocabulary , reading, crosswords, hangman and more. | 
 
