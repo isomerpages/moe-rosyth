@@ -84,9 +84,9 @@ His schoolmate Josiah Chia, 10, who is not from the GEP, said he hangs out with 
 
 International Torrance Legacy Creativity Awards 2019 (second place winner)
 
-Written by Kaydon Arianne Tan
-
 ***The Princess and the Pearl***
+
+Written by Kaydon Arianne Tan
 
 > Once upon a time, in a faraway kingdom, there lived a princess called Alyssa. She wore gorgeous gowns, savoured delectable dishes, and was surrounded by an army of servants.
 > 
@@ -159,4 +159,4 @@ Written by Kaydon Arianne Tan
 > With a smile, she took his hand and nodded her head demurely. Little did he know that in her other hand, she clutched reverently to her Pearl of Wisdom.
 > 
 > > Together, they ruled wisely and lived happily ever after.
-> 
+>
