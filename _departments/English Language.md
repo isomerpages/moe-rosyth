@@ -1083,3 +1083,8147 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 </tr>
 </tbody>
 </table>
+
+<table width="0" class="MsoNormalTable" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+ 
+<tbody>
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt">
+  
+<td width="596" nowrap="" style="width: 679px; border: 1pt solid windowtext; background: black; padding: 0cm 5.4pt; height: 15pt;" colspan="4">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;mso-bidi-language:TA">PRIMARY TWO</span></b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-bidi-language:TA"> </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:1;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">S/No.  </span></b></p>
+  
+</td>
+  
+<td width="349" nowrap="" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Title of Book </span></b></p>
+  
+</td>
+  
+<td width="198" nowrap="" style="width:148.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" colspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Author(s) </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:2;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Name </span></b></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Last Name </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:3;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">1 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Little Friends </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Onur </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tukel </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:4;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">2 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Blast Off! (Storytime) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Malachy </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Doyle </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:5;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">3 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Hilda and the Troll </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Luke </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Pearson </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:6;height:3.5pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">4 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Exclamation Mark </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Amy </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Krouse Rosenthal </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:7;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">5 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">If You Want to See a
+  Whale </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Julie </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fogliano </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:8;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">6 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Tooth Mouse </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Susan  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Hood </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:9;height:11.25pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:solid black 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">7 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Frank 'n' Beans<br>
+  (Comics Land) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Amy  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:11.25pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lemke </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:10;height:3.5pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Donald </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lemke </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:11;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">8 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Mighty Lalouche </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Matthew </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Olshan </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:12;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">9 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Bluebird </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Bob </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Staake </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:13;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">10 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fog Island </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tomi </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ungerer </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:14;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">11 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Matchbox Diary </span></p>
+  
+</td>
+  
+<td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Paul </span></p>
+  
+</td>
+  
+<td width="104" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fleischman </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:15;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">12 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Dark </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lemony </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Snicket </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:16;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">13 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Top 10 Mythical Creatures<br>
+  (Blazers. Top 10 Unexplained) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lori </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Polydoros </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:17;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">14 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">You Are Stardust </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Elin </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kelsey </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:18;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">15 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mr. Zinger's Hat </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cary  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fagan </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:19;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">16 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sherlock Bones and the
+  Missing Cheese </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Susan  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Stevens Crummel </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:20;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">17 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Xanda's Panda Party </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Linda Sue </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Park </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:21;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">18 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Little Santa </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jon  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Agee </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:22;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">19 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ralph Masiello's Robot
+  Drawing Book </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ralph </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Masiello </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:23;height:26.25pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:26.25pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">20 </span></p>
+  
+</td>
+  
+<td width="349" valign="bottom" style="width:261.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.25pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">How to Bicycle to the
+  Moon to Plant Sunflowers: <br>
+  A Simple but Brilliant Plan in 24 Steps </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.25pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mordicai  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:26.25pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Gerstein </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:24;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">21 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rosie Revere, Engineer </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Andrea </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Beaty </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:25;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">22 </span></p>
+  
+</td>
+  
+<td width="349" valign="bottom" style="width:261.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Summer of the Sea Serpent<br>
+  (Magic Tree House, Book 31) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mary </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Pope Osborne </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:26;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">23 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Oliver Moon and the
+  Spider Spell </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sue </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mongredien </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:27;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">24 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Toys Go Out: Being the
+  Adventures of a Knowledgeable Stingray, a Toughy Buffalo and Someone Called
+  Plastic </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Emily  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jenkins </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:28;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">25 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Velveteen Rabbit </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Margery  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Williams </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:29;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">26 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Witch's Dog and the
+  Flying Carpet </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Frank  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rodgers </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:30;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">27 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Patch (Breyer
+  Stablemates) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kristin  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Earhart </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:31;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">28 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Beach Boy (GUNK
+  Aliens, Book 5) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jonny </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Moon </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:32;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">29 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Super Chicken Nugget Boy
+  and <br>
+  the Pizza Planet People </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Josh  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lewis </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:33;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">30 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Giraffe and The Pelly
+  and Me </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dahl </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Roald </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:34;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">31 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">I Believe in Unicorns </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morpurgo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:35;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">32 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Where The Wild Things Are </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Maurice  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sendak </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:36;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">33 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Giving Tree </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Shel </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Silverstein </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:37;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">34 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Oliver Twist (Simplified) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Marcia </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Williams </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:38;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">35 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A Midsummer Night's Dream
+  (Simplified) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Marcia </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Williams </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:39;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">36 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">DK Marvel (Graded
+  Readers) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Various </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">&nbsp; </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:40;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">37 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">DK DC Superheroes (Graded
+  Readers) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Various </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">&nbsp; </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:41;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">38 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">DK Star Wars (Graded
+  Readers) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Various </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">&nbsp; </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:42;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">39 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Secret Kingdom (Series) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rosie </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Banks </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:43;mso-yfti-lastrow:yes;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">40 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sea Quest (Series) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Adam  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Blade</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0" class="MsoNormalTable" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+ 
+<tbody>
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:3.5pt">
+  
+<td width="596" nowrap="" style="width: 679px; border: 1pt solid windowtext; background: black; padding: 0cm 5.4pt; height: 3.5pt;" colspan="4">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;mso-bidi-language:TA">PRIMARY THREE</span></b><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-bidi-language:TA"> </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:1;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">S/No.  </span></b></p>
+  
+</td>
+  
+<td width="349" nowrap="" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Title of Book </span></b></p>
+  
+</td>
+  
+<td width="198" nowrap="" style="width:148.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" colspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Author </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:2;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Name </span></b></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Last Name </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:3;height:3.5pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">1 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Yucky Yodelling Yeti
+  (Monster Hospital) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Gillian </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Johnson </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:4;height:3.5pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">2 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Legend of Captain
+  Crow's Teeth </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Eoin </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Colfer </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:5;height:3.5pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">3 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Fight for the Frozen
+  Land: Arctic<br>
+  (Secret Agent Jack Stalwart) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Elizabeth </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Singer Hunt </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:6;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">4 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Sloppy Copy Slipup </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">DyAnne </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">DiSalvo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:7;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:solid black 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">5 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Meet the Beast <br>
+  (Beast Friends Forever, Book 1)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nate  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Evans </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:8;height:3.5pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Vince </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Evans </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:9;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">7 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">How to Write Really Badly </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Anne </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fine </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:10;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">8 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Killer Cat Runs Away </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Anne </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fine </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:11;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">9 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Museum Mayhem (Magic
+  Trix) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sara </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Grant </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:12;height:12.75pt">
+  
+<td width="48" nowrap="" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">10 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Reluctant Dragon </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kenneth  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Grahame </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:13;height:3.5pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">11 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Howl </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">James </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lee </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:14;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">12 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Wild, Wild Southwest!
+  (Junior Explorer) </span></p>
+  
+</td>
+  
+<td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jeff </span></p>
+  
+</td>
+  
+<td width="104" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Corwin </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:15;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">13 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">What's a Blue Furry?
+  (Pittodrie Pirates, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lynette </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morrison </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:16;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">14 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Exciting Escapades (On
+  the Edge) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jane </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Bingham </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:17;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">15 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">My Hamster is a Genius
+  (Stinky &amp; Jinks, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dave </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lowe </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:18;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">16 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Confessions of a Fairy
+  Tale Villain: <br>
+  Cinderella's Not So Ugly Sister </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Claire </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Pyatt </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:19;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">17 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Monster Mansion (Mighty
+  Mighty Monsters) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sean </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">O'Reilly </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:20;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">18 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Bunny Finds the Right
+  Stuff </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Emily  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lim </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:21;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">19 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Pete &amp; Gabby: The
+  Bears Go To Town </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kay </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Winters </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:22;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">20 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Zach &amp; Zoe and the
+  River Rescue (Streetlights) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kristin </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Butcher </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:23;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">21 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">An Egyptian Escape (A
+  Charlie and Bandit adventure) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">K. A.  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Gerrard </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:24;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">22 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">20 Fun Facts About
+  Beetles (Fun Fact File: Bugs!) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Arielle  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Chiger </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:25;height:12.75pt">
+  
+<td width="48" nowrap="" valign="bottom" style="width:35.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">23 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nessie the Mannerless
+  Monster </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ted </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Hughes </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:26;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">24 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">My Best Friend is a Germ </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Guillaume  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Bianco </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:27;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">25 </span></p>
+  
+</td>
+  
+<td width="349" style="width:261.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Justin Case: Shells,
+  Smells and the Horrible <br>
+  Flip-flops of Doom </span></p>
+  
+</td>
+  
+<td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rachel  </span></p>
+  
+</td>
+  
+<td width="104" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Vail </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:28;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">26 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Story of Dr. Dolittle </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Hugh </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lofting </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:29;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">27 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Death Diamond (Dragon
+  Blood Pirates, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dan </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jerris </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:30;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">28 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Seeing Orange (Orca
+  Echoes) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sara </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cassidy </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:31;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">29 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A Seaside Rescue (Willow
+  Valley, Book 6) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tracey </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Corderoy </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:32;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">30 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Vulgar the Viking and the
+  Terrible Talent Show </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Odin </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Redbeard </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:33;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">31 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">How Pirates Really Work! </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Alan </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Snow </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:34;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">32 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Dancing Bear </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morpurgo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:35;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">33 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Day The Crayons Quit </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Drew </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Daywalt </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:36;height:3.5pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">34 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fables </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Arnold  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lobel </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:37;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">35 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">I Want My Hat Back </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">John </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Klassen </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:38;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">36 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Fox and The Ghost
+  king </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morpurgo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:39;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">37 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Morning I met a Whale </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morpurgo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:40;mso-yfti-lastrow:yes;height:12.75pt">
+  
+<td width="48" style="width:35.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">38 </span></p>
+  
+</td>
+  
+<td width="349" nowrap="" valign="bottom" style="width:261.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rainbow Magic (Series) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Daisy </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Meadows</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0" class="MsoNormalTable" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+ 
+<tbody>
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:3.5pt">
+  
+<td width="599" nowrap="" style="width: 679px; border: 1pt solid windowtext; background: black; padding: 0cm 5.4pt; height: 3.5pt;" colspan="4">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;mso-bidi-language:TA">PRIMARY FOUR</span></b><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-bidi-language:TA"> </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:1;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">S/No.  </span></b></p>
+  
+</td>
+  
+<td width="338" nowrap="" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Title of Book </span></b></p>
+  
+</td>
+  
+<td width="202" nowrap="" style="width:151.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" colspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Author </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:2;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Name </span></b></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Last Name </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:3;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">1 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Norby's Other Secret </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Janet </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Asimov </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:4;height:3.5pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Isaac </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Asimov </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:5;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">2 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Wrong Pong: Holiday
+  Hullabaloo </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Steven </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Butler </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:6;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">3 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Hercules: Champion of the
+  World </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nigel  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Gray </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:7;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">4 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lower the Trap (Lobster
+  Chronicles, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jessica </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Scott Kerrin </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:8;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">5 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A Seaside Adventure
+  (Tumtum &amp; Nutmeg) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Emily </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Bearn </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:9;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">6 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A Transylvanian Tale
+  (Ghost Club, Book 3) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Deborah </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Abela </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:10;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">7 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Starring Jules (As
+  Herself) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Beth </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Levine Ain </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:11;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">8 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Time Cat: The Remarkable
+  Journeys of Jason and Gareth </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lloyd </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Alexander </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:12;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">9 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Extraordinary Losers:
+  Operation Pants on Fire </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jessica </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Alejandro </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:13;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt" rowspan="4">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">10 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="4">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Art Smart </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Traci </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Bunkers </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:14;height:12.75pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kathy M.  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Durkin </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:15;height:12.75pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Melanie </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Grimshaw </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:16;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Wendy </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Walker </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:17;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">11 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Rotten Adventures of
+  Zachary Ruthless </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Allan </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Woodrow </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:18;height:12.75pt">
+  
+<td width="59" style="width:44.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">12 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tara and her Talking
+  Kitten Meet a Mermaid </span></p>
+  
+</td>
+  
+<td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Diana </span></p>
+  
+</td>
+  
+<td width="108" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cooper </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:19;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">13 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Egyptians (Weird World of
+  Wonders) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tony  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Robinson </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:20;height:25.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">14 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Whispering Lake
+  Ghosts:<br>
+  A Mystery about Sound </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lynda </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Beauregard </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:21;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="4">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">15 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="4">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tommysaurus Rex </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Doug </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">TenNapel </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:22;height:12.75pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Patricia C. </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">McKissack </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:23;height:12.75pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Frederick L. </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">McKissack </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:24;height:3.5pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">John Patrick  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">McKissack </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:25;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">16 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">13 Hangmen </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Art </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Corriveau </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:26;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">17 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Seeds of Time (Animal
+  Talkers, Book 1)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Shamini </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Flint </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:27;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">18 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Half Upon a Time </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">James  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Riley </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:28;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">19 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Spy Technology  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Stephen  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Timblin </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:29;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">20 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Beware the Ninja Weenies
+  and Other Warped and Creepy Tales </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">David  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lubar </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:30;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">21 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Case of the Terrible
+  T.rex <br>
+  (Doyle and Fossey, Science Detectives, Book 6)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michele  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Torrey </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:31;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">22 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Searching for UFOS,
+  Aliens and Men in Black </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Burgan </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:32;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">23 </span></p>
+  
+</td>
+  
+<td width="338" valign="bottom" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">We Are Not Eaten by Yaks<br>
+  (Accidental Adventure, Book 1)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">C. Alexander </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">London </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:33;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">24 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Coming of Dragons
+  (Darkest Age, Book 1)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A. J.  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" style="width:80.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lake </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:34;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">25 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Loser List </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">H. N.  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kowitt </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:35;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">26 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The 13-Story Treehouse </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Andy </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Griffiths </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:36;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">28 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Exploring the Past </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Anita  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Croy </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:37;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">29 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dragon Boogie (Stone
+  Rabbit, Book 7) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Erik </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Craddock </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:38;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">30 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Tale of Despereaux </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kate </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dicamillo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:39;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">31 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Cricket in Times
+  Square </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">George </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Selden </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:40;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">32 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The One and Only Ivan </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Katherine  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Applegate </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:41;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">33 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Crenshaw </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Katherine  </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Applegate </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:42;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">34 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Charlotte's Web </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">E B </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">White </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:43;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">35 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Charlie and The Chocolate
+  Factory </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Roald </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dahl </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:44;mso-yfti-lastrow:yes;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">36 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kira-Kira </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cynthia </span></p>
+  
+</td>
+  
+<td width="108" nowrap="" valign="bottom" style="width:80.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kadohata</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0" class="MsoNormalTable" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+ 
+<tbody>
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:3.5pt">
+  
+<td width="595" nowrap="" style="width: 679px; border: 1pt solid windowtext; background: black; padding: 0cm 5.4pt; height: 3.5pt;" colspan="4">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;mso-bidi-language:TA">PRIMARY FIVE</span></b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-bidi-language:TA"> </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:1;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">S/No.  </span></b></p>
+  
+</td>
+  
+<td width="338" nowrap="" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Title of Book </span></b></p>
+  
+</td>
+  
+<td width="198" nowrap="" style="width:148.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" colspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Author </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:2;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Name </span></b></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Last Name </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:3;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">1 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Escape from Planet Yastol
+  <br>
+  (Way-Too-Real Aliens, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Pamela F. </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Service </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:4;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">2 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Really Weird Removals.com </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Daniela </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sacerdoti </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:5;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">3 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A Practical Guide to
+  Wizardry </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Susan J. </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morris </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:6;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">4 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">One for the Murphys </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lynda </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mullaly Hunt </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:7;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">5 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Middle School: Get Me Out
+  of Here <br>
+  (Middle School, Book 2) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">James </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Patterson </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:8;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Chris </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tebbetts </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:9;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">6 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dinosaurs on the Beach<br>
+  &nbsp;(Orca Young Readers) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Marilyn </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Helmer </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:10;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">7 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Last Wild </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Piers </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Torday </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:11;height:25.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">8 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Gregor the Overlander<br>
+  (Underland Chronicles, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Suzanne </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Collins </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:12;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">9 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Half Magic </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Edward </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Eager </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:13;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">10 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Case File 13: Zombie Kid<br>
+  (Case File 13, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">J. Scott </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Savage </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:14;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">11 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Ice Ball Man and
+  Other Poems </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Margaret  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Leong </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:15;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">12 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Year of Shadows </span></p>
+  
+</td>
+  
+<td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Claire </span></p>
+  
+</td>
+  
+<td width="104" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Legrand </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:16;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">13 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nicholas St. North and
+  the Battle of the Nightmare King (Guardians, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">William </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Joyce </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:17;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Laura </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Geringer </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:18;height:25.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">14 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Let the Burping Begin
+  (George Brown, Class Clown, Books 1 to 3) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nancy </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Krulik </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:19;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">15 </span></p>
+  
+</td>
+  
+<td width="338" valign="bottom" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Egyptians (Weird World of
+  Wonders) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tony  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Robinson </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:20;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">16 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Whispering Lake
+  Ghosts:<br>
+  A Mystery about Sound </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lynda </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Beauregard </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:21;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">17 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tommysaurus Rex </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Doug </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">TenNapel </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:22;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt" rowspan="3">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">18 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="3">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Clone Codes </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Patricia C. </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">McKissack </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:23;height:12.75pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Frederick L. </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">McKissack </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:24;height:12.75pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">John Patrick  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">McKissack </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:25;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">19 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">13 Hangmen </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Art </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Corriveau </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:26;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">20 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Seeds of Time (Animal
+  Talkers, Book 1)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Shamini </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Flint </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:27;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">21 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Half Upon a Time </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">James  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Riley </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:28;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">22 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Spy Technology  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Stephen  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Timblin </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:29;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">23 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Beware the Ninja Weenies
+  and Other Warped and Creepy Tales </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">David  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lubar </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:30;height:25.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">24 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Case of the Terrible
+  T.rex <br>
+  (Doyle and Fossey, Science Detectives, Book 6)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michele  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Torrey </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:31;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">25 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Searching for UFOS,
+  Aliens and Men in Black </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Burgan </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:32;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">26 </span></p>
+  
+</td>
+  
+<td width="338" valign="bottom" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">We Are Not Eaten by Yaks<br>
+  (Accidental Adventure, Book 1)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">C. Alexander </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">London </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:33;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">27 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Coming of Dragons
+  (Darkest Age, Book 1)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A. J.  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lake </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:34;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">28 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Loser List </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">H. N.  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kowitt </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:35;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">29 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The 13-Story Treehouse </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Andy </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Griffiths </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:36;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">30 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Percy Jackson (Series) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rick  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Riordan </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:37;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">31 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Chocolate Box Girls
+  (Series) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cathy </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cassidy </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:38;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">32 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Diary of Anne Frank </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Anne </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Frank </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:39;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">33 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Penderwicks </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jeanne </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Birdsall </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:40;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">34 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Wonder </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">R J </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Palacio </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:41;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">35 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Alex Rider (Series) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Anthony </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Horowitz </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:42;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">36 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Because of Winn-Dixie </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kate  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dicamillo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:43;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">37 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">War Horse </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morpurgo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:44;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">38 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Treehouse (Series) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Andy </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Griffiths </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:45;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">39 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Inside Out and Back Again </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Thanhha </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lai </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:46;mso-yfti-lastrow:yes;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">40 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Walk Two Moons </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sharon </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Creech</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width="0" class="MsoNormalTable" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+ 
+<tbody>
+<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:3.5pt">
+  
+<td width="595" nowrap="" style="width: 679px; border: 1pt solid windowtext; background: black; padding: 0cm 5.4pt; height: 3.5pt;" colspan="4">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;mso-bidi-language:TA">PRIMARY SIX</span></b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-bidi-language:TA"> </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:1;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">S/No.  </span></b></p>
+  
+</td>
+  
+<td width="338" nowrap="" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" rowspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Title of Book </span></b></p>
+  
+</td>
+  
+<td width="198" nowrap="" style="width:148.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" colspan="2">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Author </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:2;height:3.5pt">
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Name </span></b></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Last Name </span></b></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:3;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">1 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Grounded </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kate </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Klise </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:4;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">2 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mal and Chad: The Biggest,
+  Bestest Time Ever </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Stephen </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">McCranie </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:5;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">3 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Iron Hearted Violet </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kelly </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Regan Barnhill </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:6;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">4 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cardboard </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Doug </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">TenNapel </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:7;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">5 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Mystery
+  (Troubletwisters, Book 3)  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Garth </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nix </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:8;height:3.5pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sean  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Williams </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:9;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">6 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Cavendish Home for
+  Boys and Girls </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Claire </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Legrand </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:10;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">7 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Great Escape </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Megan </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rix </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:11;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">8 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Railway Children </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Edith </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nesbit </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:12;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">9 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">May B.  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Caroline  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Starr Rose </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:13;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">10 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Mudskipper  </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ovidia </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Yu </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:14;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">11 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Spindlers </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Lauren </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Oliver </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:15;height:3.5pt">
+  
+<td width="59" style="width:44.0pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">12 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Doll Bones </span></p>
+  
+</td>
+  
+<td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Holly  </span></p>
+  
+</td>
+  
+<td width="104" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Black </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:16;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">13 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Have An Idea (Templeton
+  Twins, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ellis </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Weiner </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:17;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">14 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Draw Cartoon People in 4
+  Easy Steps:<br>
+  then Write a Story (Drawing in 4 Easy Steps) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Stephanie </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">LaBaff </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:18;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">15 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ancient Egypt (Puzzle
+  Heroes) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Anna </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Nilsen </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:19;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">16 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Boy at the End of the
+  World </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Greg </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">van Eekhout </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:20;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">17 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Twenty-One Balloons </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">William Pène </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Du Bois </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:21;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">18 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Genie in Training </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ciaran </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Murtagh </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:22;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">19 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dalen &amp; Gole: Scandal
+  in Port Angus </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mike </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Deas </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:23;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">20 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Sherlock Holmes and the
+  Adventure of the Dancing Men (On the Case with Holmes and Watson, Book 4) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Murray </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Shaw </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:24;height:12.75pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">M. J.  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Cosson </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:25;height:3.5pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">21 </span></p>
+  
+</td>
+  
+<td width="338" style="width:253.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dodging Danger on the
+  Dartmouth<br>
+  (Ghostly Graphic Adventures, Book 1) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" style="width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Baron </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" style="width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Specter </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:26;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">22 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Diary of a Super Swimmer </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Shamini  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Flint </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:27;height:12.75pt">
+  
+<td width="59" nowrap="" style="width:44.0pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">23 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt" rowspan="2">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Switching Gears
+  (Transformers Classified) </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ryder </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Windham </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:28;height:3.5pt">
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jason </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Fry </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:29;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">24 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">I Am So Over Being a
+  Loser </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Jim  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Smith </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:30;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">25 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ghost Dog Secrets </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Peg </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kehret </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:31;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">26 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mondays are Murder </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Tanya </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Landman </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:32;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">27 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Get-Rich-Quick Club </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Rose  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Impey </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:33;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">28 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">A Long Walk to Water </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Linda Sue </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Park </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:34;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">29 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Shadow </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morpurgo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:35;height:3.5pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">30 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Wreck of The Zanzibar </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Michael </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Morpurgo </span></p>
+  
+</td>
+ 
+</tr>
+ 
+<tr style="mso-yfti-irow:36;mso-yfti-lastrow:yes;height:12.75pt">
+  
+<td width="59" nowrap="" valign="bottom" style="width:44.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">31 </span></p>
+  
+</td>
+  
+<td width="338" nowrap="" valign="bottom" style="width:253.45pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">The Miraculous Journey of
+  Edward Tulane </span></p>
+  
+</td>
+  
+<td width="94" nowrap="" valign="bottom" style="width:70.85pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Kate  </span></p>
+  
+</td>
+  
+<td width="104" nowrap="" valign="bottom" style="width:78.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.75pt">
+  <p class="MsoNormal"><span style="font-size:10.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Dicamillo </span></p>
+  
+</td>
+ 
+</tr>
+</tbody>
+</table>
+
