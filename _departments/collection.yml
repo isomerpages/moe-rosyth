@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Innovation Department.md
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
@@ -13,3 +12,4 @@ collections:
         School.md
       - Gifted Education Programme/Enriched Curriculum.md
       - ICT Department.md
+      - Innovation Department.md
