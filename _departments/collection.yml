@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - English Language/P4 Earnest Pupils' Interview with Mr Zanal.md
-      - English Language/English Language.md
       - English Language/.keep
+      - English Language/English Language.md
+      - English Language/P4 Earnest Pupils' Interview with Mr Zanal.md
       - Aesthetics.md
       - CCE Department.md
