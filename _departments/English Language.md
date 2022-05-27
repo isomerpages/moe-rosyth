@@ -172,7 +172,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 **PRIMARY ONE**
 
-| S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
+| S/NO. | TITLE OF BOOK | AUTHOR(S) NAME |
 | -------- | -------- | -------- |
 | 1 | WANT TO BE A KNIGHT? | PAUL MASON |
 | 2 | KING JACK AND THE DRAGON | PETER BENTLY | 
@@ -198,7 +198,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 **PRIMARY TWO**
 
-| S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
+| S/NO. | TITLE OF BOOK | AUTHOR(S) NAME |
 | -------- | -------- | -------- |
 | 1 | LITTLE FRIENDS | ONUR TUKEL |
 | 2 | BLAST OFF! (STORYTIME) | MALACHY DOYLE |
@@ -243,7 +243,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 **PRIMARY THREE**
 
-| S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
+| S/NO. | TITLE OF BOOK | AUTHOR(S) NAME |
 | -------- | -------- | -------- |
 | 1 | THE YUCKY YODELLING YETI (MONSTER HOSPITAL) | GILLIAN JOHNSON |
 | 2 | THE LEGEND OF CAPTAIN CROW'S TEETH | EOIN COLFER | 
@@ -285,7 +285,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 **PRIMARY FOUR**
 
-| S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
+| S/NO. | TITLE OF BOOK | AUTHOR(S) NAME |
 | -------- | -------- | -------- |
 | 1 | NORBY'S OTHER SECRET | JANET ASIMOV & ISAAC ASIMOV |
 | 2 | THE WRONG PONG: HOLIDAY HULLABALOO | STEVEN BUTLER |
@@ -325,7 +325,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 **PRIMARY FIVE**
 
-| S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
+| S/NO. | TITLE OF BOOK | AUTHOR(S) NAME |
 | -------- | -------- | -------- |
 | 1 | ESCAPE FROM PLANET YASTOL (WAY-TOO-REAL ALIENS, BOOK 1) | PAMELA F. SERVICE |
 | 2 | REALLY WEIRD REMOVALS.COM | DANIELA SACERDOTI |
@@ -370,7 +370,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 **PRIMARY SIX**
 
-| S/NO. | TITLE OF BOOK | AUTHOR(S) - NAME & LAST NAME |
+| S/NO. | TITLE OF BOOK | AUTHOR(S) NAME |
 | -------- | -------- | -------- |
 | 1 | GROUNDED | KATE KLISE |
 | 2 | MAL AND CHAD: THE BIGGEST, BESTEST TIME EVER | STEPHEN MCCRANIE |
@@ -380,7 +380,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 | 6 | THE CAVENDISH HOME FOR BOYS AND GIRLS | CLAIRE LEGRAND |
 | 7 | THE GREAT ESCAPE | MEGAN RIX |
 | 8 | THE RAILWAY CHILDREN | EDITH NESBIT | 
-| 9 | MAY B. | CAROLINE | STARR ROSE |
+| 9 | MAY B. | CAROLINE STARR ROSE |
 | 10 | THE MUDSKIPPER | OVIDIA YU |
 | 11 | THE SPINDLERS | LAUREN OLIVER |
 | 12 | DOLL BONES | HOLLY BLACK |
