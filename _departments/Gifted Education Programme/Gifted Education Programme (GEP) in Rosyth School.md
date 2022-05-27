@@ -84,9 +84,9 @@ His schoolmate Josiah Chia, 10, who is not from the GEP, said he hangs out with 
 
 International Torrance Legacy Creativity Awards 2019 (second place winner)
 
-***The Princess and the Pearl***
-
 Written by Kaydon Arianne Tan
+
+***The Princess and the Pearl***
 
 > Once upon a time, in a faraway kingdom, there lived a princess called Alyssa. She wore gorgeous gowns, savoured delectable dishes, and was surrounded by an army of servants.
 > 
@@ -158,5 +158,19 @@ Written by Kaydon Arianne Tan
 > 
 > With a smile, she took his hand and nodded her head demurely. Little did he know that in her other hand, she clutched reverently to her Pearl of Wisdom.
 > 
-> > Together, they ruled wisely and lived happily ever after.
->
+> Together, they ruled wisely and lived happily ever after.
+
+
+***WINNING ENTRIES -***
+
+[International Torrance Legacy Creative Writing Awards ](https://thecenterforgifted.org/tcw)
+
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### WEB RESOURCES
+
+| Website | Brief Description |
+| -------- | -------- | 
+| MOE Gifted Education Programme| https://www.moe.gov.sg/education/programmes/gifted-education-programme |
+
