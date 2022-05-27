@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - English/.keep
-      - English Language.md
       - Aesthetics.md
       - CCE Department.md
