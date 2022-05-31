@@ -4,3 +4,65 @@ permalink: /for-parents/parents-portal/primary-1-2022
 description: ""
 third_nav_title: Parents Portal
 ---
+### Primary 1 (2022)
+
+| Primary 1 |  | |
+| -------- | -------- | -------- |
+| AYH | Laurene Danker | danker_laurene@schools.gov.sg |
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### FORM TEACHERS
+
+| Class | Form Teacher | Email |
+|:---:|:---:|:---:|
+| P1 INT | SURIANI MOHAMAD (FT) | suriani_mohamad@schools.gov.sg |
+|   | HOE JOE HWEE (Co) | hoe_joe_hwee@schools.gov.sg |
+| P1 CARE | HALAWAH SHAKIR (FT) | halawah_shakir@schools.gov.sg |
+|   | CHAN XIAO SHAN (Co) | chan_xiao_shan@schools.gov.sg |
+| P1 GRA | TONG JIAN YING KELLY (FT) | tong_jian_ying_kelly@schools.gov.sg |
+|   | LI NA (Co) | li_na@schools.gov.sg |
+| P1 RESP | NURJIHAN MOHAMMED NOOR (FT) | nurjihan_mohammed_noor@schools.gov.sg |
+|   | YAM JINGWEN (Co)	 | yam_jingwen@schools.gov.sg |
+| P1 RESI | YEO BAK KENG JOYCE (FT) | yeo_bak_keng_joyce@schools.gov.sg |
+|   | ELIDA WONG (Co) | elida_wahyuningsih_wongsosuhendro@schools.gov.sg |
+| P1 ENT  | SITI HANOM OMAR (FT) | siti_hanom_omar@schools.gov.sg |
+|   | RAO CHUNYAN (Co) | rao_chunyan@schools.gov.sg |
+| P1 INN | LEONG MOK KAM (FT) | leong_mok_kam@schools.gov.sg |
+|   | MOHAMED NAZIRUDEEN MALIK  (Co) | mohamed_nazirudeen_malik@schools.gov.sg |
+| P1 COMM | CAROLYN TOO MUI KENG (FT)   | carolyn_too_mui_keng@schools.gov.sg |
+|   | OH EK WAH (Co) | oh_ek_wah_a@schools.gov.sg |
+| P1 APP | BAI DONGMEI (FT) | bai_dongmei@schools.gov.sg |
+|   | ANNIE KOH (Co) | - |
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### NEWS AND ANNOUNCEMENTS
+
+<table>
+<tbody>
+<tr>
+<th>Circular to Parents</th>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_English.pdf" target="_blank" rel="noopener">2021 P1 Orientation (English)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_%20Chinese.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Chinese)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_Malay.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Malay)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_Tamil.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Tamil)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_Mathematics.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Mathematics)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_PAL.pdf" target="_blank" rel="noopener">2021 P1 Orientation (PAL)</a></td>
+</tr>
+</tbody>
+</table>
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
