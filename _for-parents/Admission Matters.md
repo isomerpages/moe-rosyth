@@ -32,3 +32,11 @@ Parents may refer to Ministry of Education [website](https://www.moe.gov.sg/prim
 |  2018 | 300  | 159  | 67  |  32<br><br><br>Balloting outside 2km: 28 applicants vying for 21 vacancies |  21<br><br><br>Balloting within 1km: 25 applicants | 21 <br><br>Balloting within 1km: 100 applicants |
 |  2017 | 300  | 141  | 65  |  42 | 25<br><br>Balloting outside 2km: 2 applicants vying for 1 vacancy   | 27  <br><br><br>Balloting within 1km: 86 applicants |
 
+**Balloting** will be conducted should the number of applications exceed the number of vacancies in any phase. Singapore Citizen (SC) children will be admitted first ahead of Permanent Resident children before home-school distance is considered. Should the number of SC applications exceed the number of vacancies in a specific phase, places will be balloted according to the home-school distance category in the following order of priority: 
+1)  Children living within 1km of the school of choice 
+2) Children living between 1km and 2km of the school of choice 
+3) Children living outside 2km of the school of choice 
+
+
+**Request for School Record** <br>
+Parents can approach the MOE Customer Service Centre to request for a copy of your school record. Parents can purchase a Certified-True-Copy of your PSLE certificate at $10 from the Customer Service Centre.    
