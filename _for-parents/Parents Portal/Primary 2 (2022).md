@@ -46,3 +46,20 @@ Objective:
 2. To integrate English (Big Book - 'Magnetic Max') and provide the experience for the P2 pupils to write an instructional text on how to make a fridge magnet.
 	
 ![](/images/Amazing%20Science%20P2%20compiled.jpg)
+	
+***LEARNING JOURNEY TO CHANGI AIRPORT (TERM 2)***
+
+This learning journey provides opportunities for our pupils to put into practice Mathematics concepts as well as skills taught during English. During the airport trail, pupils will work in groups as well as individually to complete assigned tasks. 
+
+Mathematics - Estimating Length using Metre and Centimetre
+	
+![](/images/P2%20Maths.jpg)
+	
+English - Extracting information from the board
+
+![](/images/P2%20English.jpg)
+	
+Social Studies - Learning about the Singapore as a hub and our neighboring countries
+	
+![](/images/P2%20SS.jpg)
+	
