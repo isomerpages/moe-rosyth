@@ -81,7 +81,7 @@ PAL modules must engage pupils through their heads, hearts and hands. They are d
 | | | Robotics Club | |
 | | | Green Innovators Club | |
 
-* Please click [here](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCA/CCA%20Teacher%20Deployment%20and%20Venue.pdf) to view the practice days, venue and teachers-in-charge.
+Please click [here](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCA/CCA%20Teacher%20Deployment%20and%20Venue.pdf) to view the practice days, venue and teachers-in-charge.
 
 ***C) Play@Recess***
 
