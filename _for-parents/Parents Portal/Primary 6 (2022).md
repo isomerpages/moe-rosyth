@@ -43,3 +43,19 @@ third_nav_title: Parents Portal
 ***POST EXAMINATION ACTIVITIES (PEA)***
 
 At Rosyth, learning does not stop once the PSLE is over. The PEA gives the P6 students an opportunity to experience different non-academic areas of interest. The activities include learning guitar, hip hop dance, ceramics and photography. The students’ participation culminates in a display of what they have learnt from the PEA sessions, on Graduation Day.
+
+![](/images/p6%20pea%20compiled.jpg)
+
+***JUMBLE SALE***
+
+The annual Jumble Sale is an initiative taken on by the P6 students as part of the school’s “Ready to Serve” motto. Proceeds from this post-PSLE activity go to the School Pocket Money Fund. Students express their entrepreneurial spirit as they take full ownership of their stalls, beginning from the conceptualisation until the day of the event when all students and teachers are invited to patronise the stalls. Games, craft and thrift stalls are the highlight of this key event.
+
+![](/images/P6%20Jumble%20Sale%20compiled.jpg)
+
+***P6 GRADUATION CUM PRIZE GIVING DAY***
+
+The P6 Graduation cum Prize Giving Day is the climatic event for the students as they celebrate their final days as a primary school student in Rosyth. Academic prize winners receive their awards and student councillors are affirmed and recognised during the Awards Ceremony segment. The concert segment follows after that, showcasing what the students have learnt from their post examination activities. All parents of P6 students are invited to this event to celebrate their children’s’ passions and talents. It is also the platform for the students to express their appreciation for the school leaders, their teachers, friends and parents.
+
+![](/images/grad%20compiled%201.jpg)
+
+![](/images/grad%20compiled%202.jpg)
