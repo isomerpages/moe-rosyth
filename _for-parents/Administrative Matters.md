@@ -102,5 +102,19 @@ h) If you are picking up your child on foot, you will be allowed to enter the sc
 
 *Emergency* 
 
-i) If you need to pick up your child due to any emergency, please report to the General Office. **Parents picking up children who are unwell are allowed to drive into the school and park at drop-off/ pick-up point B1 temporarily.** 
+i) If you need to pick up your child due to any emergency, please report to the General Office. **Parents picking up children who are unwell are allowed to drive into the school and park at drop-off/ pick-up point B1 temporarily.**
 
+***1.3 USE OF HDB CAR PARKS*** <br>
+Should you use any of the HDB car parks near Gates 1 and 7, please help us to be good neighbours by not causing any inconvenience or obstruction to the residents living there.  Kindly display parking coupons (if required) should you park longer than the grace period allowed, and do not park in the no parking zones or the red lots meant for season parking holders.  Parents driving into car parks are advised to slow down as you enter the car park and to give way to pedestrians.   
+
+***1.4 PEAK PERIOD TRAFFIC*** <br> 
+The peak period traffic is between 7.00am to 7.30am and 1.30pm to 2.00pm from Mondays to Fridays and Wednesdays from 12.30pm to 1.00pm. Parents who are driving are advised to drive safely and observe all traffic regulations. Please allow for enough time to reach the school before the school hours. Whilst in the school compound, please follow the instructions provided by the school personnel on duty. 
+
+***1.5 STUDENT CARE CENTRE (SCC)*** <br> 
+For parents who are picking up their children: **Before 6pm** you may walk into the school via Gate 1 or drive into the school via Gate 2 and pick up your child at the SCC.  Please show your parent access pass or security pass to our security officers when you enter the school. **After 6pm** you have to meet your child at Gate 7.
+
+***1.6 HOAX CALLS*** <br>
+The Singapore Police Force has over the past years issued warnings about “Phone Kidnapping Scam” calls.  If you should receive such a call about your child during school hours, please contact us immediately to ascertain the safety of your child.  If the main office line is busy, kindly contact our Operations Managers **Mr Quek at 9656 3932** or **Mr Singh at 9755 8132**. 
+
+***1.7 INSURANCE*** <br>
+As part of our student well-being efforts, the school has purchased insurance to provide basic coverage for our students in case of accidents. You may refer to the NTUC Income  [website](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students) for the policy coverage and benefits. In the event of any claim, you have to do e-submission of your claim through their website. If you need higher coverage for your child, please arrange a separate policy from your preferred insurer. 
