@@ -71,8 +71,7 @@ Please refer to the Assessment letter given out by the school in each term in th
 
 ##### 5 BELIEFS OF THE SCIENCE DEPARTMENT
 
-***1. Student – Centricity:***
-
+***1. Student – Centricity:*** <br> 
 We have adopted the 5-E Inquiry Approach to able our students to acquire knowledge and understanding of their natural and physical world based on investigations, apply the skills and processes of inquiry and develop attitudes and values that are essential to the practice of science.
 
 | | | 
@@ -83,8 +82,7 @@ We have adopted the 5-E Inquiry Approach to able our students to acquire knowled
 | **Elaborate** | Activities allow students to apply concepts in contexts, and build on or extend understanding and skill. |
 | **Evalute** | Students assess their knowledge, skills and abilities. <br> Activities permit evaluation of student development & lesson effectiveness. |
 
-***2. Helping Every Child learn Science:***
-
+***2. Helping Every Child learn Science:*** <Br> 
 We have differentiated approach for each topic **(Challenge-Enrich –Support)** and we have produced our own activity books to tailor to the needs of our students.
 
 ![](/images/differentiation.png)
@@ -95,8 +93,7 @@ In addition we have differentiated programmes to challenge, enrich and support o
 |:---:|:---:|:---:|
 | E2 K Programme<br>Destination Imgination<br>Applied Learning Programme<br>Sony Toy Challenge | Life Sciences<br>Green Programmes<br>VIA in Science<br>Compositing Project<br> Amazing Science<br> Amazing Science | Pull-out Programme |
 
-***3. Age–appropriateness:***
-
+***3. Age–appropriateness:*** <br> 
 We have adopted spiral approach to teach the Science Process Skills. We have produced our own workbook to teach the process skills in increasing level of difficulty to lead to imminent learning.
 
 | Skills | Primary 3 | Primary 4 | Primary 5 | Primary 6 |
@@ -109,3 +106,9 @@ We have adopted spiral approach to teach the Science Process Skills. We have pro
 | Predicting | Skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out<br> | Skill of assessing the likelihood of an outcome based on prior knowledge of how things usually turn out with reason | Skill of assessing the likelihood of an outcome based on prior knowledge on how things usually turn out with support<br> |  |
 | Analysing | Skill of identifying the parts of objects in a flow chart and classification tables<br><br>Three types of trends in data tale (increasing, decreasing and constant)<br> | Skill of identifying three types of variables: changed variable/measured variable/ variables kept the same<br><br>Three types of trends in graphs (increasing, decreasing and constant)<br> | Skill of identifying the relationships between two variables (directly proportional r/s, indirectly proportional and no effect) |  |
 | Evaluating | Skill of stating assessing the reasonableness and accuracy of information and feasibility of objects<br> | Skill of stating the three types of variables in an experiment to asses the accuracy of a fair experiment<br><br>Skill of stating the purpose of repeating experiments | Skill of stating the Aim, conclusion of an investigation<br><br>Skill of stating the method and the purpose of a control experiment to assess the reasonableness, accuracy of information <br> |  |
+
+***4. Holistic Education*** <br> 
+We collaborate with other departments in the school to enrich students' learning
+
+***5. Instill values through Science*** <br>
+We have garnered partnerships with other organizations to help students appreciate how science influences people and the environment
