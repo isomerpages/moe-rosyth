@@ -187,3 +187,20 @@ Moo-O is the world's first immersive digital storybook. It transforms readers in
 * Earth Day
 
 ![](/images/Earth%20Day.jpg)
+
+* Racial Harmony Day
+
+![](/images/Racial%20Harmony.jpg)
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### RECOMMENDED RESOURCES
+
+**General Information** from MOE: 
+www.moe.gov.sg
+
+**An Overview of Primary School's education:** <br>
+[Primary School Education Booklet](https://www.moe.gov.sg/docs/default-source/document/education/primary/files/primary-school-education-booklet.pdf)
+
+**More about PERI HA in Rosyth:** <br> 
+[PERI Holistic Assessment Communication Package for Parents](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/News%20and%20Announcments/PERI_Holistic_Assessment_Communication_Package_for_Parents_updated_2_Jan_2013.pdf)
