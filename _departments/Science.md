@@ -40,3 +40,29 @@ Innovators’ @ Rosyth School
 | Primary 5 | Theme: System<br><br>Topics:<br>• Electrical system<br>• Plant Transport system | Theme: System<br><br>Topics:<br>• Human system (Respiratory and Circulatory systems)<br>• Cell | Theme: Cycles<br><br>Topics:<br>• Water Cycle<br>• Reproduction (Plants)<br>• Reproduction (Human) | Theme: Energy<br>Topic: Photosynthesis |
 | Primary 6 | Theme: Energy<br>Topics: Conversion of Energy<br><br>Theme: Interactions<br>Topics: Forces | Theme: Interactions<br><br>Topics:<br>• Characteristics of Environment<br>• Food chains and food webs<br>• Adaptations<br>• Man's Impact on Environment | Revision | Revision |
 | Primary 6 | Theme: Interactions<br>Topic: Forces |  Theme: Interactions<br><br>Topics:<br>• Characteristics of Environment<br>• Food chains<br>• Adaptations<br>• Man's Impact on Environment |  Revision |  Revision |
+
+##### Overview of Science Assessment
+
+Please refer to the Assessment letter given out by the school in each term in the current year to confirm the topics to be tested.
+
+| **Primary 3** |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+| **Term** | **Term 1(0%)** | **Term 2(15%)** | **Term 3(15%)** | **Term 4(70%)** |
+| **Type of assessment** | FA | WA | WA | EYE |
+| **Type of Task** | Daily work<br><br>Class Test  | Paper  | Paper | Practical Test<br><br>Paper |
+| **Scope** |  | Diversity of Living and Non-Living Things<br><br>Diversity of Materials | Human System<br><br>Digestive System<br><br>Magnetic Materials and their properties | Practical test:<br>Observing<br>Measurement<br>Classifying<br>Drawing<br><br>Paper:<br>All<br>P3 Topics |
+| **Primary 4** |  |  |  |  |
+| **Term** | **Term 1(0%)** | **Term 2(30%)** | **Term 3(10%)** | **Term 4(60%)** |
+| **Type of assessment** | FA | MYE | WA | EYE |
+| **Type of Task** | Daily work<br>Class Test  | Paper  | Paper | Practical Test<br><br>Paper |
+| **Scope** |  | P3 Topics<br><br>P4 – Light.<br><br>Life Cycle, Matter<br><br>Three States of Matter | Heat<br>Matter<br>Three States of Matter | Practical test:<br>Observing<br>Measurement<br>Classifying<br>Drawing<br>Analysing<br>Planning Investigation<br><br>Paper:<br>All<br>P4 Topics<br>P3 Topics |
+| **Primary 5<br>** |  |  |  |  |
+| **Term** | **Term 1(0%)** | **Term 2(30%)** | **Term 3(10%)** | **Term 4(60%)** |
+| **Type of assessment** | FA | MYE | WA | EYE |
+| **Type of Task** | Daily work<br><br>Class Test  | Paper  | Paper | Practical Test<br><br>Paper |
+| **Scope** |  | Electricity<br><br>Plant Transport<br> <br>Respiratory System<br><br>Circulatory System<br><br>Cells<br><br>P3 Topics<br><br>P4 Topics | Water Cycle<br><br>Reproduction (Plants) | Practical Test:<br>Observing<br>Measurement<br>Classifying<br>Drawing<br>Analysing<br>Planning Investigation<br><br>Paper:<br>All P5 Topics<br>P3 Topics<br>P4 Topics |
+| **Primary 6 (Science and Foundation)** |  |  |  |  |
+| **Term** | **Term 1(0%)** | **Term 2(100%)** | **Term 3(100%)** | **Term 4(100%)** |
+| **Type of assessment** | FA | MYE | Prelim | PSLE |
+| **Type of Task** | Daily work<br>Class Test  | Paper  | Paper | Paper |
+| **Scope** |  | All topics from P3 to P6<br><br>Except:<br>Man’s Impact on Environment | All topics from P3 to P6  | All topics from P3 to P6 |
