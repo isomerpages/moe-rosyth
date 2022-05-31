@@ -113,3 +113,16 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 **Amazing Science Programme (P1&P6)**
 
 ![](/images/Capture5.jpg)
+
+**Topic:**
+Life Cycle of Plants (Introductory)       
+**Target:**
+* Tie in with P1 English Big Books, Walking Through the Jungle. 
+* Objectives: 
+	1) To expose the P1 pupils to Science and heighten their interest and curiosity to the world of Science. Through this collaboration, P1 pupils will learn about the life cycle of plants and to care for the environment by not picking leaves from trees or plants.    
+	2) To integrate English lesson by getting students to write an instructional text on how to plant green beans.     
+* The P6 classes facilitate the lesson for the P1 pupils and talk about caring for the environment by not picking leaves from trees or plants. At the same time, they will share about Care & Share, Respect & Responsibility. 
+
+Moo-O (EL)
+
+Moo-O is the world's first immersive digital storybook. It transforms readers instantly into story characters, creating a whole new experience for Reading Aloud. Moo-O highly engages and motivates children to read fluently and expressively.
