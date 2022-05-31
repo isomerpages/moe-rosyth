@@ -123,6 +123,8 @@ Life Cycle of Plants (Introductory)
 	2) To integrate English lesson by getting students to write an instructional text on how to plant green beans.     
 * The P6 classes facilitate the lesson for the P1 pupils and talk about caring for the environment by not picking leaves from trees or plants. At the same time, they will share about Care & Share, Respect & Responsibility. 
 
-Moo-O (EL)
+**Moo-O (EL)**
 
 Moo-O is the world's first immersive digital storybook. It transforms readers instantly into story characters, creating a whole new experience for Reading Aloud. Moo-O highly engages and motivates children to read fluently and expressively.
+
+![](/images/Moo%20O%20Compiled.jpg)
