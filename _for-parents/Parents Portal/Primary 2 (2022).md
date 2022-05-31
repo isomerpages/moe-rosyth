@@ -81,19 +81,19 @@ This includes information on subject syllabus, subject-based banding, etc.
 Bully Free (Children's Society): [Bully Free](https://bullyfree.sg/) <br>
 This includes tips and advice to help children handle bullying effectively. 
 
-Cyber Wellness Portal (MOE): Cyber Wellness Portal
+Cyber Wellness Portal (MOE): [Cyber Wellness Portal](http://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101) <br> 
 This includes tips in guiding your child to use the internet appropriately as well as a guide in setting parental controls. 
 
-Holistic Health Framework (MOE): Holistic Health Framework 
+Holistic Health Framework (MOE): [Holistic Health Framework](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fholistic-health-framework&user=extranet%5cAnonymous&site=moe-website) <br> 
 This includes resources for weight management.
 
-Heath Promotion Board: Health Promotion Board
+Heath Promotion Board: [Health Promotion Board](http://www.hpb.gov.sg/HOPPortal/) <br> 
 This includes resources on health and disease prevention.
 
-Primary School Education Booklet (MOE): Primary School Education Booklet
+Primary School Education Booklet (MOE): [Primary School Education Booklet](https://www.moe.gov.sg/docs/default-source/document/education/primary/files/primary-school-education-booklet.pdf) <br>
 This includes tips on how you can help your child in his early years of education.
 
-Schoolbag.sg - The Education News Site: Schoolbag.sg
+Schoolbag.sg - The Education News Site: [Schoolbag.sg](https://www.schoolbag.edu.sg/) <br>
 This features education news and tips from MOE. You can also sign up for its monthly Schoolbag Newsletter. 
 
 Teaching and Learning Resources: Teaching and learning Resources
