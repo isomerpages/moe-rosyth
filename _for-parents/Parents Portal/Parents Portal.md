@@ -18,7 +18,7 @@ third_nav_title: Parents Portal
 | [President Scholar from Rosyth Alumnus ](https://rosyth.moe.edu.sg/others/news/president-scholar-from-rosyth-alumnus) | 
 | [Find out more about changes to the PSLE scoring and Sec 1 posting from 2021](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fpsle%2f&user=extranet%5cAnonymous&site=moe-website) | 
 
-
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 
 | Circular to Parents (All levels) | 
@@ -32,6 +32,7 @@ third_nav_title: Parents Portal
 | [2022 P1 Orientation (PAL)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 
 | News and Announcements | 
@@ -74,6 +75,7 @@ third_nav_title: Parents Portal
 | [Sexuality Education - Info for Parents](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/Info_on_SEd_for_RS_website_2022_final.pdf) |
 
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 
 | Guides | 
