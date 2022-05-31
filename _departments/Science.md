@@ -75,3 +75,11 @@ Please refer to the Assessment letter given out by the school in each term in th
 
 We have adopted the 5-E Inquiry Approach to able our students to acquire knowledge and understanding of their natural and physical world based on investigations, apply the skills and processes of inquiry and develop attitudes and values that are essential to the practice of science.
 
+| | | 
+| -------- | -------- | 
+| **Engage** | Object, event or question used to engage students. <br> Connections facilitated between what students know and can do. |
+| **Explore** | Objects and phenomena are explored. <br> Hands-on activities, with guidance. |
+| **Explain** | Students explain their understanding concepts & processes. New concepts and skills are introduced as conceptual clarity and cohesion are sought. |
+| **Elaborate** | Activities allow students to apply concepts in contexts, and build on or extend understanding and skill. |
+| **Evalute** | Students assess their knowledge, skills and abilities. <br> Activities permit evaluation of student development & lesson effectiveness. |
+
