@@ -53,7 +53,7 @@ This learning journey provides opportunities for our pupils to put into practice
 
 Mathematics - Estimating Length using Metre and Centimetre
 	
-![](/images/P2%20Maths.jpg)
+![](/images/P2%20Maths1.jpg)
 	
 English - Extracting information from the board
 
