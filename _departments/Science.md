@@ -66,3 +66,12 @@ Please refer to the Assessment letter given out by the school in each term in th
 | **Type of assessment** | FA | MYE | Prelim | PSLE |
 | **Type of Task** | Daily work<br>Class Test  | Paper  | Paper | Paper |
 | **Scope** |  | All topics from P3 to P6<br><br>Except:<br>Man’s Impact on Environment | All topics from P3 to P6  | All topics from P3 to P6 |
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### 5 BELIEFS OF THE SCIENCE DEPARTMENT
+
+***1. Student – Centricity:***
+
+We have adopted the 5-E Inquiry Approach to able our students to acquire knowledge and understanding of their natural and physical world based on investigations, apply the skills and processes of inquiry and develop attitudes and values that are essential to the practice of science.
+
