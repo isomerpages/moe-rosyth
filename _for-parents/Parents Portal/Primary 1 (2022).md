@@ -80,3 +80,4 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 ***Unit 1: The Farm Concert***        
 * Our Lego Farm
 
+![](/images/Capture1.jpg)
