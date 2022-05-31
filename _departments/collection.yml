@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Staff Development @ Rosyth.md
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
