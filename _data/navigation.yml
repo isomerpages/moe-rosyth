@@ -48,3 +48,10 @@ links:
         url: /departments/physical-education-n-co-curricular-activities
       - title: Science
         url: /departments/science
+  - title: For Parents
+    url: /for-parents
+    sublinks:
+      - title: P1 e-Orientation
+        url: https://rosyth.moe.edu.sg/p1-orientation
+      - title: Admission Matters
+        url: /admission-matters
