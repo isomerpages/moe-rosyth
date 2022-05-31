@@ -50,6 +50,12 @@ Non-Singapore Citizen (SC) / non-Permanent Resident (PR) children who wish to se
 **Step 1:** Submit an online indication of interest form via the MOE P1 website in June, **and** <br>
 **Step 2:** Non-SC / non-PR children who have submitted the indication of interest form and are notified in October by MOE that they can be offered a P1 place in the school, must register in-person at the designated school during Phase 3 of the P1 Registration Exercise (in late October). 
 
-For those who wish to seek admission to mainstream schools at the Primary 2 to 5 must take part in the **Admissions Exercise for International Students (AEIS).** Please visit [MOE website ](https://www.moe.gov.sg/admissions/international-students) for more information. **The school does not admit any Non SC / Non PR children directly.** 
+For those who wish to seek admission to mainstream schools at the Primary 2 to 5 must take part in the **Admissions Exercise for International Students (AEIS).** Please visit [MOE website ](https://www.moe.gov.sg/admissions/international-students) for more information. **The school does not admit any Non SC / Non PR children directly.**
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+##### TRANSFER TO ROSYTH SCHOOL (FOR SC OR SPR)
+
+The application is only applicable to a child who is a Singapore Citizen or Singapore Permanent Resident. For a child who is not a Singaporean Citizen or Singapore Permanent Resident, please refers to International students above. 
+
+Currently all our places are filled. If you wish to transfer your child to our school, please apply to place him/her on our wait list. Application forms must be submitted to the school's general office by 1 November in order to be considered in the current year for transfer/admission. The application will lapse after one year and parents will need to submit a fresh application yearly. Incomplete submission of documents will not be considered. The school will contact you if you are successful in obtaining a place in our school in Nov/Dec. [Click](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Forms/Wait%20List%20Application%20Form.pdf) to download Wait List Application Form.
