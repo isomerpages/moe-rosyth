@@ -40,3 +40,10 @@ third_nav_title: Parents Portal
 |  P5 Emp    |  VINCENT LEE CHEE MUN (FT)	 | lee_chee_mun@schools.gov.sg |
 |   |  KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+***TEAM BUILDING PROGRAMME***
+
+To develop good working relationships, encourage leadership and critical thinking and infuse values such as care for one another and resilience among the students, the school organises a team building programme for the P5 level. The skills learned from the programme will enhance character development. During the fun and challenging team building activities, the students have the chance to communicate with each other and work towards a common goal. By practising being an effective team member and team leader, students develop confidence in their own abilities and also demonstrate values.
+
+![](/images/P5%201%20compiled.jpg)
