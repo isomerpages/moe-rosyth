@@ -4,10 +4,6 @@ permalink: /departments/english-language
 description: ""
 third_nav_title: English Language
 ---
-
-
-
-
 ### English Language
 
 | English Department |  | |
@@ -136,15 +132,14 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 | -------- | -------- | -------- |
 | 1 | Babble and Speak 2018 | Finalist |
 | 2 | NEW-C (Writing Competition) | Merit Award - P3/P4 Category |
-| 3 | Spin A Tale	| 1st Runner Up | 
-| | | 2nd Runner Up |
+| 3 | Spin A Tale	| 1st Runner Up <br> 2nd Runner Up |
 | 4 | The Moo-O Awards 2018	| Certificate of participation |
 
 **English Department Achievements - 2017**
 
 | No. | Name of Competition | Achievement level |
 | -------- | -------- | -------- |
-| 1 | The Moo-O Awards 2017 | Gold Award ([click here to watch the video](https://plus.moo-o.com/tma/?sel=2017-singapore)) |
+| 1 | The Moo-O Awards 2017 | Gold Award <br> ([click here to watch the video](https://plus.moo-o.com/tma/?sel=2017-singapore)) |
 | 2 | Spin A Tale	| Third - Category 1 |
 | 3 | NEW-C (Writing Competition)	| 1st Runner Up | 
 | 4 | SOTA Creative Writing Competition	| Finalist |
@@ -160,13 +155,12 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 | No. | Name of Competition | Achievement level |
 | -------- | -------- | -------- |
-| 1 | 14th Inter-School National Scrabble Championship 2015 – Finals | SENIOR DIVISION: Team Event – 11th position; Certificate of Participation, Individual Event - 3rd Position |
+| 1 | 14th Inter-School National Scrabble Championship 2015 – Finals | SENIOR DIVISION: <br> Team Event – 11th position; Certificate of Participation, <br> Individual Event - 3rd Position |
 | 2 | Spelling Bee 2015	| Zonal Round – Certificate of participation |
 | 3 | 29th YMCA Plain English Speaking Awards	| Upper Primary Category – 1st place | 
 | 4 | 14th Budding Writers Project 2015	| Certificate of participation |
 | 5 | The Moo-O Awards 2016	| Certificate of participation |
-| 6 | Cluster Challenge – Spin A Tale organized by Seng Kang Primary School Participants: | **Upper Primary Category** – 1st runner-up & Certificate of participation
-| | | **Lower Primary Category** – Certificate of participation | 
+| 6 | Cluster Challenge – Spin A Tale organized by Seng Kang Primary School Participants: | **Upper Primary Category** – 1st runner-up & Certificate of participation <br> **Lower Primary Category** – Certificate of participation | 
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
@@ -211,7 +205,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 | 4 | EXCLAMATION MARK | AMY KROUSE ROSENTHAL |
 | 5 | IF YOU WANT TO SEE A WHALE | JULIE FOGLIANO |
 | 6 | THE TOOTH MOUSE | SUSAN HOOD |
-| 7 | FRANK 'N' BEANS (COMICS LAND) | AMY LEMKE & DONALD LEMKE | 
+| 7 | FRANK 'N' BEANS (COMICS LAND) | AMY LEMKE <br>  DONALD LEMKE | 
 | 8 | THE MIGHTY LALOUCHE | MATTHEW OLSHAN |
 | 9 | BLUEBIRD | BOB STAAKE | 
 | 10 | FOG ISLAND | TOMI UNGERER | 
@@ -435,4 +429,4 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 | [Online Dictionary](https://dictionary.cambridge.org/) | A useful online dictionary by Cambridge Dictionary. Meaning of idioms and phrases can also be easily found at this site. | 
 | [Story Planning](https://www.bbc.co.uk/bitesize/ks2/english/writing/story_plan/play/) | This site has writing games that helps pupils to plan their stories. | 
 | [STELLAR Resources](http://www.stellarliteracy.sg/) | This site provides useful resources for parents whose children are undergoing the STELLAR programme in school. Suggested activities and games can also be found at this site. | 
-| [Story-Telling](https://www.nlb.gov.sg/golibrary/programme/Story-telling%20~2Fcrafts.aspx) | This site provides more information on story-telling sessions organised by the National Library. | 
+| [Story-Telling](https://www.nlb.gov.sg/golibrary/programme/Story-telling%20~2Fcrafts.aspx) | This site provides more information on story-telling sessions organised by the National Library. |
