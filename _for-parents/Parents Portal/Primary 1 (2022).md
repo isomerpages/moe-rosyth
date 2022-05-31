@@ -128,3 +128,18 @@ Life Cycle of Plants (Introductory)
 Moo-O is the world's first immersive digital storybook. It transforms readers instantly into story characters, creating a whole new experience for Reading Aloud. Moo-O highly engages and motivates children to read fluently and expressively.
 
 ![](/images/Moo%20O%20Compiled.jpg)
+
+**Objectives:**
+* The software is a reading and recording tool designed to hone pupils’ reading fluency through digital stories. 
+* It provides opportunities for pupils to collaborate with one another as they take on different characters in the stories.
+
+***ICT Chinese Baseline (CL)***
+
+**Objectives:**
+* To equip pupils with touch-typing skills and the keying in of Chinese characters using hanyu pinyin 
+* Familiarise pupils with the Learning Management System (LMS) for e-learning 
+* Equip pupils with basic knowledge of Cyber Wellness so that they may use technology appropriately and protect themselves
+
+***Learning Journey to Pastamania (EL)***
+
+![](/images/PAstamania%20Compiled.jpg)
