@@ -38,6 +38,7 @@ third_nav_title: Parents Portal
 </tbody>
 </table>
 
+
 <table>
 <tbody>
 <tr>
@@ -66,6 +67,7 @@ third_nav_title: Parents Portal
 </tr>
 </tbody>
 </table>
+
 
 <table>
 <tbody>
@@ -179,6 +181,36 @@ third_nav_title: Parents Portal
 </tr>
 <tr>
 <td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/Info_on_SEd_for_RS_website_2022_final.pdf" target="_blank" rel="noopener">Sexuality Education - Info for Parents</a></td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+<tr>
+<th colspan="5">Guides</th>
+</tr>
+<tr>
+<td colspan="5">-&nbsp;<a href="https://www.youtube.com/watch?v=5TYrh83EzIw&amp;feature=youtu.be" target="_blank" rel="noopener">SLS (Student Learning Space)&nbsp;Login Guide</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/For%20Parents/2018%20Guides%20for%20Parents/Guide%20for%20online%20booking%20of%20PTC%20slot.pdf" target="_blank" rel="noopener">Guide for online booking of PCTC slot</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/For%20Parents/2018%20Guides%20for%20Parents/Guide%20to%20getting%20summary%20from%20consultation%20tool%20(Parents).pdf" target="_blank" rel="noopener">Guide for retrieval of PCTC slots</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/2018%20Guides%20for%20Parents/Parents%20Guide%20to%20Booking%20A%20slot%20for%20Workshop.pdf" target="_blank" rel="noopener">Guide for online booking of Workshop</a>&nbsp;</td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://drive.google.com/drive/folders/19OdQtptOFSbUfUePi_OqE6QVZMg20uG9?usp=sharing" target="_blank" rel="noopener">AsknLearn Login Guide</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://www.youtube.com/watch?v=g0BsujviTuc&amp;feature=youtu.be" target="_blank" rel="noopener">How to Access iMTL Portal</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf" target="_blank" rel="noopener">Developing your child to be a positive peer influence online</a></td>
 </tr>
 </tbody>
 </table>
