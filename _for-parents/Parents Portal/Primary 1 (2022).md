@@ -171,3 +171,14 @@ Moo-O is the world's first immersive digital storybook. It transforms readers in
 
 ***PCTC (Parent-Child-Teacher Conferencing)***
 
+![](/images/PTC.jpg)
+
+**Objectives:**
+
+* Parent-Child-Teacher Conferencing (PCTC) is a session for teachers to update parents on their children's development and learning progress. 
+* During the PCTC, parents have the opportunity to watch their children do a presentation and listen to them sharing on their development in school, 
+
+***Celebrations***
+
+Chinese New Year
+
