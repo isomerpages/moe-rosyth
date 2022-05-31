@@ -180,5 +180,10 @@ Moo-O is the world's first immersive digital storybook. It transforms readers in
 
 ***Celebrations***
 
-Chinese New Year
+* Chinese New Year
 
+![](/images/CNY.jpg)
+
+* Earth Day
+
+![](/images/Earth%20Day.jpg)
