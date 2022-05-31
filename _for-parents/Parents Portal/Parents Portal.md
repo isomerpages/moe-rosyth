@@ -19,6 +19,8 @@ third_nav_title: Parents Portal
 | [Find out more about changes to the PSLE scoring and Sec 1 posting from 2021](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fpsle%2f&user=extranet%5cAnonymous&site=moe-website) | 
 
 
+
+
 | Circular to Parents (All levels) | 
 | -------- | 
 | [Assessment Booklet for Parents 2020](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Assessment%20Booklet%20for%20Parents%202020.pdf) |
@@ -28,6 +30,8 @@ third_nav_title: Parents Portal
 | [2022 P1 Orientation (Tamil)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20Tamil%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
 | [2022 P1 Orientation (Mathematics)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 | [2022 P1 Orientation (PAL)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
+
+
 
 
 | News and Announcements | 
