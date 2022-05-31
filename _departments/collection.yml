@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education and Co Curricular Activities.md
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
@@ -17,3 +16,4 @@ collections:
       - Mathematics.md
       - Mother Tongue Languages.md
       - Staff Development @ Rosyth.md
+      - Physical Education and Co Curricular Activities.md
