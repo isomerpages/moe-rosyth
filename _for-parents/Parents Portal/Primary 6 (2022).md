@@ -12,6 +12,40 @@ third_nav_title: Parents Portal
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+[Infographic - What to Expect During Vaccination](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
+
+[Infographic - Vaccination for Students](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20Vaccination%20for%20Students.pdf)
+
+[FAQs for P6 Parents - Student Vaccination Exercise](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf)
+
+[Raffles Institution 2022 Webinar](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/E-Mailer%20DSA%20Sec%20Webinar.pdf)
+
+[Hwa Chong Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20Open%20House.pdf)
+
+[Cedar Girls' Outreach Talk and e-Open House](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Cedar%20Girls.pdf)
+
+[RGS Virtual Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Virtual%20Open%20House%202022%20-%20Poster.png)
+
+[RGS Virtual Open House 2022 - Webinar Information](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information.pdf)
+
+[Infopack on Transition to Secondary Schools 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022.pdf)
+
+[Singapore Sports School E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Singapore%20Sports%20School%20E-Open%20House%202022.pdf)
+
+[ACSI E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/ACSI%20E-Open%20House%202022.docx.pdf)
+
+[Victoria School Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/VS%20open%20house.pdf)
+
+[DSA to SCGS 2023](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/2022%20DSA%20Postcard%20SCGS.pdf)
+
+[MGS Open House 2022 ](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Invitation%20to%20MGS%20Open%20House%202022.pdf)
+
+[SJI Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SJI.pdf)
+
+[Hwa Chong International School - 2022 Virtual Open House](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf)
+
+[SOTA e-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SOTA%20e-Open%20House%202022.pdf)
+
 ##### FORM TEACHERS
 
 | Class | Form Teacher | Email |
