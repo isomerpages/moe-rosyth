@@ -47,3 +47,6 @@ third_nav_title: Parents Portal
 To develop good working relationships, encourage leadership and critical thinking and infuse values such as care for one another and resilience among the students, the school organises a team building programme for the P5 level. The skills learned from the programme will enhance character development. During the fun and challenging team building activities, the students have the chance to communicate with each other and work towards a common goal. By practising being an effective team member and team leader, students develop confidence in their own abilities and also demonstrate values.
 
 ![](/images/P5%201%20compiled.jpg)
+
+![](/images/P5%202%20compiled.jpg)
+
