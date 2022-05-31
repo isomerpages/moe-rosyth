@@ -118,15 +118,11 @@ Students who have not represented the school will be selected to play in this ca
 
 The pupils will be trained for House competitions during PE lessons.
 
-1) Phillips
-
-2) Kovan
-
-3) Richards
-
-4) Jansen
-
-5) Glasgow
+1) Phillips <br> 
+2) Kovan <br> 
+3) Richards <br> 
+4) Jansen <br> 
+5) Glasgow <br> 
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
