@@ -37,3 +37,33 @@ third_nav_title: Parents Portal
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+<tr>
+<th>Circular to Parents (All levels)</th>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Assessment%20Booklet%20for%20Parents%202020.pdf" target="_blank" rel="noopener">Assessment Booklet for Parents 2020</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20English%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">2022 P1 Orientation (English)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20Chinese%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">2022 P1 Orientation (Chinese)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20Malay%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">2022 P1 Orientation (Malay)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20Tamil%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">2022 P1 Orientation (Tamil)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">2022 P1 Orientation (Mathematics)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">2022 P1 Orientation (PAL)</a></td>
+</tr>
+</tbody>
+</table>
+
