@@ -112,3 +112,39 @@ We collaborate with other departments in the school to enrich students' learning
 
 ***5. Instill values through Science*** <br>
 We have garnered partnerships with other organizations to help students appreciate how science influences people and the environment
+
+| External Organization | Programmes |
+|---|---|
+| PUB | P5 NEWater Visitors' Centre - Raingarden Worskshop<br>Adoption of Waterway at Bishan-AMK Park |
+| RWS | P6 LJ to LKCNHM on animal adaptations |
+| NEA | P3 Buddy Clean<br>Youth for the Environment Day (YED) - Whole school |
+| NParks | P4 Biodiversity & VIA in Bishan-AMK Park<br>P3 Every Child a Seed Programme |
+
+**Safety in the Science Laboratory**
+* Has a safety workplan.
+* Customised safety guidelines for Special rooms.
+* Safety briefing conducted at the beginning of the academic year in all special rooms
+* Safety posters were prominently displayed
+* Rams are done for science experiments involving heat and chemicals and outdoor learning
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### 2014 SCIENCE SYLLABUS
+
+**Schedule of Implementation:**
+
+| Syllabus | Year of Implementation |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+|   | 2014 | 2015 | 2016 | 2017 |
+| Standard Science | P3 | P4 | P5 | P6 |
+| Foundation Science | - | - | P5 | P6 |
+
+**Changes to the Syllabus are as follow:**
+
+| Themes/Topics | Updated / Removed Learning Outcomes |  |
+|:---:|:---:|---|
+| Diversity / Living and Non-Living Things | Recognise some broad groups of living things - animals<br>(Amphibians, birds, fish, insects, mammals, reptiles) |  |
+| Diversity / Materials | Compare physical properties of materials based on:<br>Strength, Flexibility, Ability to flat / sink in water, Waterproof, Transparency |  |
+| Cycle / Life Cycle of Plants and Animals | Observe and compare the life cycles of animals over a period of time (beetle, butterfly, chicken, cockroach, frog, grasshopper, mosquito) |  |
+| System / Electrical System |   |  |
+| Energy / Energy Forms and Uses |   |  |
