@@ -109,3 +109,7 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 * How To Make An Ice-Cream Sundae
 
 ![](/images/Unit%206.jpg)
+
+**Amazing Science Programme (P1&P6)**
+
+![](/images/Capture5.jpg)
