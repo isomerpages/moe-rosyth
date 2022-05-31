@@ -98,3 +98,9 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 * How To Make An Animal Paper Puppet
 
 ![](/images/Capture4.jpg)
+
+***Unit 5: The Hungry Giant*** 
+* Learning Journey to PastaMania 
+* How To Make A Sandwich
+
+![](/images/Unit%205.jpg)
