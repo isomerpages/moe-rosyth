@@ -63,3 +63,10 @@ Social Studies - Learning about the Singapore as a hub and our neighboring count
 	
 ![](/images/P2%20SS.jpg)
 	
+***LEARNING JOURNEY TO SCIENCE CENTRE (TERM 3)***
+
+The learning journey to the Science Centre has been planned to coincide with the STELLAR unit - World of Tools. Pupils will learn about tools in a fun and interactive manner. They will be intrigued by the amazing world of tools, how it works and how it helps us in our daily life. Pupils will also take a walk at the Kinetic Garden to see examples of simple machines. At the end of the class, pupils will make and take home their own craft of a simple machine. 
+	
+![](/images/LJSC%20compiled%201.jpg)
+	
+![](/images/LJSC%20compiled%202.jpg)
