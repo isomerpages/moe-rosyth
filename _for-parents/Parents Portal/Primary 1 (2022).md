@@ -81,3 +81,8 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 * Our Lego Farm
 
 ![](/images/Capture1.jpg)
+
+***Unit 2: Mrs Wishy-Washy***
+* Our Acting Experience
+
+![](/images/Capture2.jpg)
