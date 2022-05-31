@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Staff Development @ Rosyth.md
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
@@ -16,3 +15,4 @@ collections:
       - Innovation Department.md
       - Mathematics.md
       - Mother Tongue Languages.md
+      - Staff Development @ Rosyth.md
