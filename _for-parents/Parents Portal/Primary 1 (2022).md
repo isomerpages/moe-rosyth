@@ -143,3 +143,31 @@ Moo-O is the world's first immersive digital storybook. It transforms readers in
 ***Learning Journey to Pastamania (EL)***
 
 ![](/images/PAstamania%20Compiled.jpg)
+
+**Objectives:**
+* To provide pupils with a hands-on experience of making pizzas in an authentic setting. 
+* The pupils can then make a references to their experiences in their writing. This activity ties in with the Big Book "The Hungry Giant" and one of the English syllabus themes on 'Food'. Besides making pizzas, pupils also watch a presentation about pasta and pizza, and learn about the different kitchen equipment and their uses. 
+
+***Learning Journey to Singapore Zoological Gardens (EL, MA&MT)***
+
+![](/images/Zoo%20compiled.jpg)
+
+**Objectives:**
+* A Learning Journey designed with guided activities to provide opportunities for our pupils to understand more about animals at work and at play. 
+* Pupils work in groups and engage in activities that involve information gathering and collaboration skills.
+ 
+***School Compound Cleaning Activity (VIA)***
+
+**Objectives:**
+* Increase pupils’ awareness on the littering problem within the school compound. 
+* Recognise that it is their responsibility to keep the school compound clean.
+
+***MT Fortnight (MT)***
+
+**Objectives:**
+* To create an immersive environment for the learning of Mother Tongue Language. 
+* To provide platforms for pupils to learn Mother Tongue Language and the associated culture.
+
+
+***PCTC (Parent-Child-Teacher Conferencing)***
+
