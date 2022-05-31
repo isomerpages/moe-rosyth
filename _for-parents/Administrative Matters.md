@@ -62,14 +62,12 @@ Application forms are available from the school.  Please return the completed fo
 Safety of our children is the school’s top priority. We seek parents’ support as we work together to make the school’s environment a safe place for our children.  
 
 
-*1. TRAFFIC ARRANGEMENTS*
-
+*1. TRAFFIC ARRANGEMENTS* <br>
 Below is a diagram of the school’s campus at Serangoon North Ave 4.
 
 ![](/images/map.png)
 
-*1.1 Traffic flow outside school*  
-
+*1.1 Traffic flow outside school*  <br> 
 a) Gate 2 is the ONLY entrance for vehicles into the school.  Gates 4 and 5 are only for vehicular exits.   During non-peak periods, vehicles can use Gate 5 which is fitted with an automated mechanised gate system to exit the school. Please approach the gate to activate the sensor.   
 
 b) Gates 1 and 7 are accessible to pedestrians only.  Thus, students are required to use the pedestrian crossings (marked with the letter A) For the safety of your children, please do not attempt to enter or leave the school through Gates 4 or 5 on foot. Bicycle racks are available at the parents waiting area at Gate 1 should you be cycling to school.  
@@ -117,4 +115,4 @@ For parents who are picking up their children: **Before 6pm** you may walk into 
 The Singapore Police Force has over the past years issued warnings about “Phone Kidnapping Scam” calls.  If you should receive such a call about your child during school hours, please contact us immediately to ascertain the safety of your child.  If the main office line is busy, kindly contact our Operations Managers **Mr Quek at 9656 3932** or **Mr Singh at 9755 8132**. 
 
 ***1.7 INSURANCE*** <br>
-As part of our student well-being efforts, the school has purchased insurance to provide basic coverage for our students in case of accidents. You may refer to the NTUC Income  [website](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students) for the policy coverage and benefits. In the event of any claim, you have to do e-submission of your claim through their website. If you need higher coverage for your child, please arrange a separate policy from your preferred insurer. 
+As part of our student well-being efforts, the school has purchased insurance to provide basic coverage for our students in case of accidents. You may refer to the NTUC Income  [website](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students) for the policy coverage and benefits. In the event of any claim, you have to do e-submission of your claim through their website. If you need higher coverage for your child, please arrange a separate policy from your preferred insurer.
