@@ -167,3 +167,245 @@ Spending too much time on a question may result in less time or insufficient tim
 *The PSLE format*
 
 PSLE Standard Mathematics Examination Format
+
+<table class="iveo_table ives_tab_dark" style="width: 100%;">
+ 
+<tbody class="">
+<tr class="">
+  
+<th>
+  <p class="" align="center">Paper</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Booklet</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Item Type</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Number of questions</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Number of marks per question</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Total marks</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Duration</p>
+  
+</th>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="50" rowspan="4" class="">
+  <p class="" align="center">1</p>
+  
+</td>
+  
+<td width="73" rowspan="2" class="">
+  <p class="" align="center">A</p>
+  
+</td>
+  
+<td width="135" rowspan="2" class="">
+  <p class="" align="center">Multiple-choice</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">1</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" rowspan="4" class="">
+  <p class="" align="center">1 h</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="86" class="">
+  <p class="" align="center">5</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="73" rowspan="2" class="">
+  <p class="" align="center">B</p>
+  
+</td>
+  
+<td width="135" rowspan="2" class="">
+  <p class="" align="center">Short-answer</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">5</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">1</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">5</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">20</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="50" rowspan="2" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="73" rowspan="2" class="">
+  <p class="" align="center">-</p>
+  
+</td>
+  
+<td width="135" class="">
+  <p class="" align="center">Short-answer</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">5</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" rowspan="2" class="">
+  <p class="" align="center">1 h 30 min</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="135" class="">
+  <p class="" align="center">Structured /</p><p class="" align="center">Long-answer</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">12</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">3, 4 or 5</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">45</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="259" colspan="3" class="">
+  <p class="" align="right">Total</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">47</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">-</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">100</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2h 30 min</p>
+  
+</td>
+ 
+</tr>
+</tbody>
+</table>
