@@ -59,3 +59,16 @@ The P6 Graduation cum Prize Giving Day is the climatic event for the students as
 ![](/images/grad%20compiled%201.jpg)
 
 ![](/images/grad%20compiled%202.jpg)
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### EDUCATION AND CAREER GUIDANCE
+
+MySkillsFuture Portal:
+[MySkillsFuture Portal](https://www.myskillsfuture.sg/content/student/en/primary.html)
+
+MOE ECG:  
+[MOE Education and Career Guidance](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fecg-parent-guide%2f&user=extranet%5cAnonymous&site=moe-website#p=22)
+
+Opportunities for Pursuing the Arts: <br>
+[Opportunities for Pursuing Arts](https://www.myskillsfuture.sg/content/dam/Article/OppForPurArt.pdf)
