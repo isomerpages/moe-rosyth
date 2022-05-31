@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Science.md
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
@@ -18,3 +17,4 @@ collections:
       - Mother Tongue Languages.md
       - Staff Development @ Rosyth.md
       - Physical Education and Co Curricular Activities.md
+      - Science.md
