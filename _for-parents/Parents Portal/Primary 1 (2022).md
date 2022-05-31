@@ -104,3 +104,8 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 * How To Make A Sandwich
 
 ![](/images/Unit%205.jpg)
+
+***Unit 6: The Giant’s Ice Cream***
+* How To Make An Ice-Cream Sundae
+
+![](/images/Unit%206.jpg)
