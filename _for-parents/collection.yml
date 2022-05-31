@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Portal/Parents Portal.md
       - Parents Portal/.keep
       - Admission Matters.md
       - Administrative Matters.md
