@@ -66,3 +66,17 @@ third_nav_title: Parents Portal
 </table>
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### LEARNING JOURNEYS FOR PRIMARY 1
+
+**EL Pre-Writing Activities**
+
+With the pre-writing activities, there is a shared experience that is linked to the Big Book that has been read during Shared Reading. The shared experience provides the context and content for the children to think and talk about, using the target language structures and vocabulary they have been exposed to in SBA.           
+
+With the help of the teacher who transcribes the children's input, the pupils come up with a piece of class writing. This becomes the basis for group writing, when the children work in small groups, before they go on to individual writing.           
+
+The whole process is scaffolded for success and pupils also learn about cooperative learning as they work together in mixed-ability groups.   
+
+***Unit 1: The Farm Concert***        
+* Our Lego Farm
+
