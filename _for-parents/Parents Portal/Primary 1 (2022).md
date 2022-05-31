@@ -86,3 +86,9 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 * Our Acting Experience
 
 ![](/images/Capture2.jpg)
+
+***Unit 3: Dan The Flying Man***
+* Dan’s Hat 
+* Our Paper Aeroplane Flying Competition
+
+![](/images/Capture3.jpg)
