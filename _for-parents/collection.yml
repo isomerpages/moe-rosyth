@@ -2,5 +2,5 @@ collections:
   for-parents:
     output: true
     order:
-      - Administrative Matters.md
       - Admission Matters.md
+      - Administrative Matters.md
