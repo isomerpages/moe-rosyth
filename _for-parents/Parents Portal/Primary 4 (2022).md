@@ -44,3 +44,18 @@ third_nav_title: Parents Portal
 As part of our efforts to inculcate the value of care and responsibility, Rosyth School has adopted Ang Mo Kio -Bishan Park. A cross-curricular learning journey is organised for all P4 students to learn about Science as well as Value In Action (VIA). Apart from engaging in experiential activities to better appreciate the biodiversity of plant and animal life in the park, students also pick up litter at the park.
 
 ![](/images/Bishan%20Park%20Compiled.jpg)
+
+***LEARNING JOURNEY TO CHANGI MUSEUM***
+
+As part of our efforts to bring the Social Studies curriculum to life, Rosyth School conducts Learning Journeys to Changi Museum. Through a variety of hands-on activities, our P4 students get to physically touch and learn more about the actual ingredients used in wartime recipes. They also learn about key events that had shaped the psyche of our nation such as the Sook Ching Massacre and the Fall of Singapore. In short, students walk away with a greater appreciation for the resilience and ingenuity displayed by the ordinary Singaporeans and civilian internees during times of adversity. 
+
+![](/images/Changi%20MuseumCompiled.jpg)
+
+***P4 CAMP***
+
+As part of our efforts to provide a holistic education at Rosyth School through the physical domain, our P4 students attend a three-day adventure camp. This camp provides an opportunity for students to experience outdoor living in a rural environment whilst giving them opportunities to build character and leadership responsibility. This camp also aims to inculcate self-confidence and self-discipline, develop students’ collaboration skills and promote camaraderie through teamwork.   
+
+Through the camp, students have a chance to experience outdoor adventure activities such as challenge rope course, zipline, team building programme and campfire. They also display excellent teamwork especially during activities such as abseiling and rock climbing where their safety lines are in the hands of their teammates. True to the camp oath of “Challenge by Choice”, students overcome adversities and personal fears and participate in most activities. The camp also creates a knowledge playground where personalised learning is experienced and friendships develop. 
+
+![](/images/P4%20Camp%20Compiled.jpg)
+
