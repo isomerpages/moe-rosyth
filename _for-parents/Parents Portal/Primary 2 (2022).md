@@ -70,3 +70,37 @@ The learning journey to the Science Centre has been planned to coincide with the
 ![](/images/LJSC%20compiled%201.jpg)
 	
 ![](/images/LJSC%20compiled%202.jpg)
+	
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+	
+##### RECOMMENDED RESOURCES
+	
+MOE Website: [MOE Website](https://www.moe.gov.sg/) <br> 
+This includes information on subject syllabus, subject-based banding, etc.
+
+Bully Free (Children's Society): [Bully Free](https://bullyfree.sg/) <br>
+This includes tips and advice to help children handle bullying effectively. 
+
+Cyber Wellness Portal (MOE): Cyber Wellness Portal
+This includes tips in guiding your child to use the internet appropriately as well as a guide in setting parental controls. 
+
+Holistic Health Framework (MOE): Holistic Health Framework 
+This includes resources for weight management.
+
+Heath Promotion Board: Health Promotion Board
+This includes resources on health and disease prevention.
+
+Primary School Education Booklet (MOE): Primary School Education Booklet
+This includes tips on how you can help your child in his early years of education.
+
+Schoolbag.sg - The Education News Site: Schoolbag.sg
+This features education news and tips from MOE. You can also sign up for its monthly Schoolbag Newsletter. 
+
+Teaching and Learning Resources: Teaching and learning Resources
+This is a useful link to the various subjects' teaching and learning resources. 
+
+Moo-O: Moo-O
+Moo-O is a digital storybook. It transforms readers instantly into story characters, creating a whole new experience for Reading Aloud. Moo-O highly engages and motivates children to read fluently and expressively. It provides an excellent opportunity for family bonding through reading. 
+
+STELLAR: STELLAR
+Resources for STELLAR (STrategies for English Language Learning And Reading)
