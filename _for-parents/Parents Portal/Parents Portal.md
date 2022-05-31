@@ -67,3 +67,118 @@ third_nav_title: Parents Portal
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr>
+<th>News and Announcements</th>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20Open%20House.pdf" target="_blank" rel="noopener">Hwa Chong Open House 2022</a> </td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Cedar%20Girls.pdf" target="_blank" rel="noopener">Cedar Girls' Outreach Talk and E-Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/2022%20DSA%20Postcard%20SCGS.pdf" target="_blank" rel="noopener">DSA to SCGS 2023</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/VS%20open%20house.pdf" target="_blank" rel="noopener">Victoria School Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/E-Mailer%20DSA%20Sec%20Webinar.pdf" target="_blank" rel="noopener">Raffles Institution 2022 Webinar</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Virtual%20Open%20House%202022%20-%20Poster.png" target="_blank" rel="noopener">RGS Virtual Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information.pdf" target="_blank" rel="noopener">RGS Virtual Open House 2022 - Webinar Information&nbsp;</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SJI.pdf" target="_blank" rel="noopener">SJI Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Invitation%20to%20MGS%20Open%20House%202022.pdf" target="_blank" rel="noopener">Invitation to MGS Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SOTA%20e-Open%20House%202022.pdf" target="_blank" rel="noopener">SOTA e-Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf" target="_blank" rel="noopener">Hwa Chong International School - 2022 Virtual Open House</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/ACSI%20E-Open%20House%202022.docx.pdf" target="_blank" rel="noopener">ACS(I) E-Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Singapore%20Sports%20School%20E-Open%20House%202022.pdf" target="_blank" rel="noopener">Singapore Sports School E-Open House 2022</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/2022-parent-volunteer-application" target="_blank" rel="noopener">2022 Parent Volunteer Application</a>&nbsp;</td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf" target="_blank" rel="noopener">Infographic - What to Expect During Vaccination&nbsp;</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20Vaccination%20for%20Students.pdf" target="_blank" rel="noopener">Infographic - Vaccination for students</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf" target="_blank" rel="noopener">FAQs for P6 Parents - Student Vaccination Exercise</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/School%20Of%20The%20Arts%20Singapore%20-%20DSA%20Application.pdf" target="_blank" rel="noopener">School Of The Arts Singapore - DSA Application</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/St%20Josephs%20Institution%20E-Open%20House%202021.pdf" target="_blank" rel="noopener">St Joseph's Institution E-Open House 2021</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Tanjong%20Katong%20Girls%20School%20E-Open%20House%202021.pdf" target="_blank" rel="noopener">Tanjong Katong Girls' School E-Open House 2021</a>&nbsp;</td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Maris%20Stella%20High%20School%20E-Open%20House%202021.pdf" target="_blank" rel="noopener">Maris Stella High School E-Open House 2021</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Hwa%20Chong%20Institution%20E-Open%20House%202021.pdf" target="_blank" rel="noopener">Hwa Chong Institution E-Open House 2021</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="http://temasek%20jc%20integrated%20programme%20e-open%20house%202021/" target="_blank" rel="noopener">Temasek JC Integrated Programme E-Open House 2021</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Methodist%20Girls%20School%20E-Open%20House%202021.docx.pdf" target="_blank" rel="noopener">Methodist Girls' School (MGS) - E-Open House 2021</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Holiday%20Care%20Pack%20Pri%201%20-2%20Edition(5May).pdf" target="_blank" rel="noopener">Holiday Care Pack Primary 1 - 2 Edition</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Holiday%20Care%20Pack%20Pri%203%20-%206%20Edition(5May).pdf" target="_blank" rel="noopener">Holiday Care Pack Primary 3 - 6 Edition</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/wipe-down-routine" target="_blank" rel="noopener">Wipe-Down Routine&nbsp;</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/how-to-beat-the-bug" target="_blank" rel="noopener">How to beat the bug!</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Helping%20Your%20Children%20Protect%20Their%20Personal%20Data%20Online.zip" target="_blank" rel="noopener">CyberWellness #0418 - Helping Your Children Protect Their Personal Data Online</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/News%20and%20Announcments/4)%20Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf" target="_blank" rel="noopener">Helping Your Child Manage Excessive Internet Use</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Forms/Application%20Form%20for%20MOE-SPED%20FAS%20v4.3.pdf" target="_blank" rel="noopener">NEU PC Plus Application Form</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Parent/'s%20Brochure_Chinese.pdf" target="_blank" rel="noopener">Parent's Brochure (Chinese)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Parent/'s%20Brochure_English.pdf" target="_blank" rel="noopener">Parent's Brochure (English)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Parent/'s%20Brochure_Malay.pdf" target="_blank" rel="noopener">Parent's Brochure (Malay)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Parent/'s%20Brochure_Tamil.pdf" target="_blank" rel="noopener">Parent's Brochure (Tamil)</a></td>
+</tr>
+<tr>
+<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/Info_on_SEd_for_RS_website_2022_final.pdf" target="_blank" rel="noopener">Sexuality Education - Info for Parents</a></td>
+</tr>
+</tbody>
+</table>
