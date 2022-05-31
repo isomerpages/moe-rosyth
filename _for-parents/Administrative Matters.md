@@ -33,3 +33,38 @@ Termination of LOA
 School Immersion for Children on LOA   
 * Please write to us for placement of your child in the school for immersion at least one month in advance.
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### 2. FINANCIAL ASSISTANCE
+
+The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools and Institute of Higher Learning so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.  
+
+A student is eligible for MOE FAS if he or she meets either of the following criteria: Gross Household Income (GHI) not exceeding $2,750 per month; or Per Capita Income (PCI) not exceeding $690 per month 
+
+You may find out more information from the MOE [website](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2ffinancial-assistance%2fmoe-financial-assistance-scheme&user=extranet%5cAnonymous&site=moe-website) .  
+
+**HOW TO APPLY** 
+
+Application forms are available from the school.  Please return the completed form together with the required supporting documents to the school and our staff will get back to you.
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### 3. BOOKLIST  
+
+**Parents may refer to the school bookshop if your child has misplaced the hardcopy booklist.**
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### 4. SAFETY OF OUR CHILDREN
+
+***THINK SAFE, PLAY SAFE, STAY SAFE*** 
+
+Safety of our children is the school’s top priority. We seek parents’ support as we work together to make the school’s environment a safe place for our children.  
+
+
+*1. TRAFFIC ARRANGEMENTS*
+
+Below is a diagram of the school’s campus at Serangoon North Ave 4.
+
+![](/images/map.png)
+
