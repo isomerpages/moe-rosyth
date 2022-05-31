@@ -68,3 +68,39 @@ Below is a diagram of the school’s campus at Serangoon North Ave 4.
 
 ![](/images/map.png)
 
+*1.1 Traffic flow outside school*  
+
+a) Gate 2 is the ONLY entrance for vehicles into the school.  Gates 4 and 5 are only for vehicular exits.   During non-peak periods, vehicles can use Gate 5 which is fitted with an automated mechanised gate system to exit the school. Please approach the gate to activate the sensor.   
+
+b) Gates 1 and 7 are accessible to pedestrians only.  Thus, students are required to use the pedestrian crossings (marked with the letter A) For the safety of your children, please do not attempt to enter or leave the school through Gates 4 or 5 on foot. Bicycle racks are available at the parents waiting area at Gate 1 should you be cycling to school.  
+
+c) If you are driving along Serangoon North Ave 3 and encounter problem keeping to the right lane, you should *continue on the left lane along Serangoon North Ave 3 and make a ‘U’-turn*. This will bring you back to the junction of Serangoon North Ave 3 and Serangoon North Ave 4 again. 
+
+Source: Street Directory
+![](/images/New%20Image%20for%20Administrative%20Matters.png)
+
+
+***1.2 TRAFFIC AND PEDESTRIAN FLOW INSIDE SCHOOL***
+
+**DROPPING OFF AND PICKING UP OF STUDENTS**
+
+*By Vehicle*
+
+d) If you are driving your child to school and wish to drop him/her off at Gates 1 or 7, please refrain from dropping your child off along Serangoon North Ave 4 as this will both be dangerous for your child and obstruct traffic flow.   
+
+e) Parents who are fetching their children will only be allowed to drive into the school after 1.45pm on Mon, Tue, Thu and Fri, and 12.45pm on Wed.  Please do not wait outside the school gates as this causes congestion along Serangoon North Ave 4 for other road users. For students who are dismissed at 1.30pm on Wed, parents will only be allowed to drive into the school after 1.45pm. To ensure a smooth traffic flow, please do not park and wait for your child at the pickup points.   
+
+
+f) While driving inside the school compound, please adhere to the speed limit within the school and turn off the vehicle engine while waiting for your child’s dismissal.
+ 
+
+g) **For school dismissal**, Vehicles entering the school will be split into 2 routes.  Parents of P1 to P2 students, please follow Route 1 as your children will be waiting for you at drop-off/ pick-up point B1.  Parents of P3 to P6 students, please follow Route 2 as your children will be waiting for you at drop-off/ pick-up point B2.  Families with 2 or more children in the school will have to follow the arrangement for the younger/ youngest child. **For arrival**, please follow the instructions from our security personnel.
+
+*On Foot* 
+
+h) If you are picking up your child on foot, you will be allowed to enter the school and wait at the parents wait area near Gates 1 and 7 after 1.30pm on Mon, Tue, Thu and Fri, and 12.30pm on Wed.  For the safety of our children, please display your Parent Access Pass as it allows the school to look out for strangers on the school premise.  
+
+*Emergency* 
+
+i) If you need to pick up your child due to any emergency, please report to the General Office. **Parents picking up children who are unwell are allowed to drive into the school and park at drop-off/ pick-up point B1 temporarily.** 
+
