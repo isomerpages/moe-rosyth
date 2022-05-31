@@ -92,3 +92,9 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 * Our Paper Aeroplane Flying Competition
 
 ![](/images/Capture3.jpg)
+
+***Unit 4: Walking Through The Jungle***
+* Amazing Science Programme
+* How To Make An Animal Paper Puppet
+
+![](/images/Capture4.jpg)
