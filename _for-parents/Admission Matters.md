@@ -23,3 +23,12 @@ Parents may refer to Ministry of Education [website](https://www.moe.gov.sg/prim
 
 **Rosyth School P1 Registration Exercise Statistics**
 
+| Year | Vacancy available | Places taken up |  |  |  |  |
+|---|---|:---:|:---:|:---:|:---:|:---:|
+|   |   | Phase 1 | Phase 2A1 | Phase 2A2 | Phase 2B | Phase 2C |
+| 2021 | 270 | 149 | 78<br> <br>Balloting outside 2km: 51 applicants  vying for 30 vacancies |  No<br>vacancy left after Phase 2A1 | 21<br> <br>Balloting within 1km: 31 applicants | 22<br> <br>Balloting within 1km: 99 applicants |
+| 2020 | 270  |  142 |  87<br><br>Balloting outside 2km: 59 applicants vying for 57 vacancies |  No<br>vacancy left after Phase 2A1 |  21<br><br><br>Balloting within 1km: 32 applicants | 20 <br><br>Balloting within 1km: 93 applicants  |
+|  2019 | 270  |  141 | 64  |  25<br><br><br>Balloting outside 2km: 18 applicants vying for 8 vacancies |  20<br><br><br>Balloting within 1km: 28 applicants |  20<br><br><br>Balloting within 1km: 76 applicants |
+|  2018 | 300  | 159  | 67  |  32<br><br><br>Balloting outside 2km: 28 applicants vying for 21 vacancies |  21<br><br><br>Balloting within 1km: 25 applicants | 21 <br><br>Balloting within 1km: 100 applicants |
+|  2017 | 300  | 141  | 65  |  42 | 25<br><br>Balloting outside 2km: 2 applicants vying for 1 vacancy   | 27  <br><br><br>Balloting within 1km: 86 applicants |
+
