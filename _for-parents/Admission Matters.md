@@ -39,4 +39,17 @@ Parents may refer to Ministry of Education [website](https://www.moe.gov.sg/prim
 
 
 **Request for School Record** <br>
-Parents can approach the MOE Customer Service Centre to request for a copy of your school record. Parents can purchase a Certified-True-Copy of your PSLE certificate at $10 from the Customer Service Centre.    
+Parents can approach the MOE Customer Service Centre to request for a copy of your school record. Parents can purchase a Certified-True-Copy of your PSLE certificate at $10 from the Customer Service Centre.
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### INTERNATIONAL STUDENTS
+
+Non-Singapore Citizen (SC) / non-Permanent Resident (PR) children who wish to seek admission to Primary One (P1) are required to undergo a two-step process:
+
+**Step 1:** Submit an online indication of interest form via the MOE P1 website in June, **and** <br>
+**Step 2:** Non-SC / non-PR children who have submitted the indication of interest form and are notified in October by MOE that they can be offered a P1 place in the school, must register in-person at the designated school during Phase 3 of the P1 Registration Exercise (in late October). 
+
+For those who wish to seek admission to mainstream schools at the Primary 2 to 5 must take part in the **Admissions Exercise for International Students (AEIS).** Please visit [MOE website ](https://www.moe.gov.sg/admissions/international-students) for more information. **The school does not admit any Non SC / Non PR children directly.** 
+
+
