@@ -35,3 +35,14 @@ third_nav_title: Parents Portal
 | P2 APP | SIM HUI LING JACINTHA (FT) | sim_hui_ling_jacintha@schools.gov.sg |
 |   | SEE THOR HUI QI (Co) | see_thor_hui_qi@schools.gov.sg |
 
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
+
+
+***AMAZING SCIENCE PROGRAMME (PRIMARY 2 AND 5) (TERM 2)***
+
+Objective: 
+1. To expose the P2 pupils to Science and heighten their interest and curiosity to the world of Science. Through this collaboration with the Primary 5, the P2 pupils will learn about the different types of manets and how to make a fridge magnet. 
+
+2. To integrate English (Big Book - 'Magnetic Max') and provide the experience for the P2 pupils to write an instructional text on how to make a fridge magnet.
+	
+![](/images/Amazing%20Science%20P2%20compiled.jpg)
