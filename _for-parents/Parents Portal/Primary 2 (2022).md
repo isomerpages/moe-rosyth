@@ -35,7 +35,7 @@ third_nav_title: Parents Portal
 | P2 APP | SIM HUI LING JACINTHA (FT) | sim_hui_ling_jacintha@schools.gov.sg |
 |   | SEE THOR HUI QI (Co) | see_thor_hui_qi@schools.gov.sg |
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div>
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 
 ***AMAZING SCIENCE PROGRAMME (PRIMARY 2 AND 5) (TERM 2)***
