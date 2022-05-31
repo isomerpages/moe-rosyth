@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Aesthetics.md
       - CCE Department.md
       - English Language/.keep
@@ -15,3 +14,4 @@ collections:
       - ICT Department.md
       - Innovation Department.md
       - Mathematics.md
+      - Mother Tongue Languages.md
