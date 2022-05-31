@@ -83,3 +83,15 @@ We have adopted the 5-E Inquiry Approach to able our students to acquire knowled
 | **Elaborate** | Activities allow students to apply concepts in contexts, and build on or extend understanding and skill. |
 | **Evalute** | Students assess their knowledge, skills and abilities. <br> Activities permit evaluation of student development & lesson effectiveness. |
 
+***2. Helping Every Child learn Science:***
+
+We have differentiated approach for each topic **(Challenge-Enrich –Support)** and we have produced our own activity books to tailor to the needs of our students.
+
+![](/images/differentiation.png)
+
+In addition we have differentiated programmes to challenge, enrich and support our students in science learning.
+
+| Challenge | Enrich | Support |
+|:---:|:---:|:---:|
+| E2 K Programme<br>Destination Imgination<br>Applied Learning Programme<br>Sony Toy Challenge | Life Sciences<br>Green Programmes<br>VIA in Science<br>Compositing Project<br> Amazing Science<br> Amazing Science | Pull-out Programme |
+
