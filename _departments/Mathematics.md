@@ -409,3 +409,262 @@ PSLE Standard Mathematics Examination Format
 </tr>
 </tbody>
 </table>
+
+
+PSLE Foundation Mathematics Examination Format
+
+<table class="iveo_table ives_tab_dark" style="width: 100%;">
+ 
+<tbody class="">
+<tr class="">
+  
+<th>
+  <p class="" align="center">Paper</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Booklet</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Item Type</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Number of questions</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Number of marks per question</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Total marks</p>
+  
+</th>
+  
+<th>
+  <p class="" align="center">Duration</p>
+  
+</th>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="50" rowspan="3" class="">
+  <p class="" align="center">1</p>
+  
+</td>
+  
+<td width="73" rowspan="2" class="">
+  <p class="" align="center">A</p>
+  
+</td>
+  
+<td width="135" rowspan="2" class="">
+  <p class="" align="center">Multiple-choice</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">1</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" rowspan="3" class="">
+  <p class="" align="center">1 h</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">20</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="73" class="">
+  <p class="" align="center">B</p>
+  
+</td>
+  
+<td width="135" class="">
+  <p class="" align="center">Short-answer</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">20</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="50" rowspan="2" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="73" rowspan="2" class="">
+  <p class="" align="center">-</p>
+  
+</td>
+  
+<td width="135" class="">
+  <p class="" align="center">Short-answer</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">10</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">20</p>
+  
+</td>
+  
+<td width="86" rowspan="2" class="">
+  <p class="" align="center">1 h</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="135" class="">
+  <p class="" align="center">Structured </p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">6</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">3 or 4</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">20</p>
+  
+</td>
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="259" colspan="3" class="">
+  <p class="" align="right">Total</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">46</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">-</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">90</p>
+  
+</td>
+  
+<td width="86" class="">
+  <p class="" align="center">2h</p>
+  
+</td>
+ 
+</tr>
+</tbody>
+</table>
+
+The duration for Paper 1 is 50 minutes.
+
+The duration for Paper 2 is 1 hour 40 minutes.
+
+*The suggested time frame for completing each section is:*
+
+Paper 1
+
+* 20 minutes for Booklet A Multiple-choice questions
+* 20 minutes for Booklet B Short questions
+* 10 minutes for checking
+
+Paper 2
+
+* 15 minutes for Short questions
+* 60-65 minutes for Long and structured questions
+* 15-20 minutes for checking
+
+Do advise your child wisely on his time management.
+
+##### Rosyth Learning Support Programme for Mathematics
+
+* The programme provides early intervention so that pupils will have a good foundation in Mathematics.
+* The focus is on equipping pupils with basic mathematical skills and concepts.
+* It aims to build pupils’ confidence and positive beliefs about their ability to do Mathematics
+* The programme supports Primary 1 and 2 pupils.
+
+**Important features in the Learning Support Programme for Mathematics**
+
+* Small group teaching so pupils receive more attention
+* Parallel teaching but at a slower pace
+* Pupils learn through hands-on-experiences
