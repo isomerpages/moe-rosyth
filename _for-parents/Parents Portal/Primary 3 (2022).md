@@ -40,3 +40,20 @@ third_nav_title: Parents Portal
 The Buddy Programme provides opportunity for our P3 pupils to show Care and Share to our P1 pupils during their first week in school. They buddy the P1 pupils to orientate them so that they can be familiar with the school environment and befriend the P1 pupils so as to help them settle into school.
 
 ![](/images/bud%20prog%20compiled.jpg)
+
+***AMAZING SCIENCE P3-P1 DIGESTIVE APRON (TERM 3)***
+
+This collaboration with the lower primary allows our P3 pupils to share their knowledge about the digestive system with the P1 pupils.  Besides reinforcing their knowledge, it is also a platform for the P3 pupils to build confidence in presentation skills in an authentic classroom environment.   
+
+Our Work-Digestive System using recycled materials
+
+![](/images/Amazing%20Science%201-2%20Compiled.jpg)
+
+Sharing with the P2 pupils- Putting on the Digestive Aprons
+
+![](/images/Amazing%20Science%203-4%20Compiled.jpg)
+
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
+##### RECOMMENDED RESOURCES
+
