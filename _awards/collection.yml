@@ -2,4 +2,5 @@ collections:
   awards:
     output: true
     order:
+      - School Green Awards.md
       - Best Practice Awards.md
