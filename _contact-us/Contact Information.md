@@ -13,20 +13,20 @@ description: ""
 
 
 | Staff Rooms |  |
-|:---:|:---:|
+|---|---|
 | Staff Room 1 | 6483 0516 |
 | Staff Room 2 | 6483 2517 |
 |   |  |  |
 
 
 | Principal |  |  |
-|:---:|:---:|:---:|
+|---|---|---|
 | Mdm Elis Tan | Email | Elis_Tan@schools.gov.sg  |
 |   |  |  |
 
 
 | Vice-Principals |  |  |
-|:---:|:---:|:---:|
+|---|---|---|
 | Ms Poh Hwee Thing (EO) | Email | Poh_Hwee_Thing@schools.gov.sg  |
 | Mr Tan Boon Seng (Admin) | Email | Tan_Boon_Seng@schools.gov.sg  |
 |   |  |  |
