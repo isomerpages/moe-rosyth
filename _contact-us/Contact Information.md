@@ -52,3 +52,28 @@ description: ""
 | Mrs Katherine Wong | Email | tan_nguang_leng@schools.gov.sg |
 | | | |
 
+| HOD/Mother Tongue Languages |  |  |
+|---|---|---|
+| Miss Tan Chia Chih | Email | tan_chia_chih@schools.gov.sg |
+| | | |
+
+| HOD/Gifted Education (Humanities) |  |  |
+|---|---|---|
+| Mrs Helen Tan | Email | sing_helen@schools.gov.sg |
+| | | |
+
+| HOD/Gifted Education (Mathematics & Science) |  |  |
+|---|---|---|
+| Mr Michael Kao | Email | kao_horng_yih@schools.gov.sg |
+| | | |
+
+| HOD/Mathematics  |  |  |
+|---|---|---|
+| Miss Jau Hsiao Chien | Email | jau_hsiao_chien@schools.gov.sg |
+| | | |
+
+| HOD/Science |  |  |
+|---|---|---|
+| Mdm R Parvathy | Email | r_parvathy@schools.gov.sg |
+| | | |
+
