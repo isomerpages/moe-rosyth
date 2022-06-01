@@ -14,4 +14,4 @@ The school must show evidence of both of the following
 For more information, please visit the following website.
 http://www.sec.org.sg/sga/awards-information.php
 
-![](/images/lotus_green_award.jpg)
+![](/images/lotus_green_award1.jpg)
