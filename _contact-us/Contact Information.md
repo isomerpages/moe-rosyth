@@ -77,3 +77,7 @@ description: ""
 | Mdm R Parvathy | Email | r_parvathy@schools.gov.sg |
 | | | |
 
+| HOD/Physical Education & CCA |  |  |
+|---|---|---|
+| Mr Ahmad Zohri B Bakri | Email | ahmad_zohri_bakri@schools.gov.sg |
+| | | | 
