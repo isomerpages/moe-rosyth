@@ -2,8 +2,8 @@ collections:
   awards:
     output: true
     order:
-      - Singapore Quality Class.md
       - Best Practice Awards.md
       - School Green Awards.md
       - People Developer Standard.md
       - School Distinction Award.md
+      - Singapore Quality Class.md
