@@ -6,8 +6,8 @@ third_nav_title: Parents Portal
 ---
 ![](/images/News%20Flash%20Image.png)
 
-
-| New Flash | 
+### News Flash
+|  | 
 | -------- | 
 | [Caring Teachers Award (CTA) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/caring-teachers-award-cta-2022) |
 | [President's Award for Teachers (PAT) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/presidents-award-for-teachers-pat-2022) | 
@@ -19,9 +19,8 @@ third_nav_title: Parents Portal
 | [Find out more about changes to the PSLE scoring and Sec 1 posting from 2021](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fpsle%2f&user=extranet%5cAnonymous&site=moe-website) | 
 
 
-
-
-| Circular to Parents (All levels) | 
+### Circular to Parents (All levels)
+|  | 
 | -------- | 
 | [Assessment Booklet for Parents 2020](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Assessment%20Booklet%20for%20Parents%202020.pdf) |
 | [2022 P1 Orientation (English)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20English%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
@@ -32,9 +31,9 @@ third_nav_title: Parents Portal
 | [2022 P1 Orientation (PAL)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 
 
+### News and Announcements
 
-
-| News and Announcements | 
+|  | 
 | -------- | 
 | [Hwa Chong Open House 2022  ](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20Open%20House.pdf) |
 | [Cedar Girls' Outreach Talk and E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Cedar%20Girls.pdf) | 
@@ -74,9 +73,8 @@ third_nav_title: Parents Portal
 | [Sexuality Education - Info for Parents](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/Info_on_SEd_for_RS_website_2022_final.pdf) |
 
 
-
-
-| Guides | 
+### Guides
+| | 
 | -------- | 
 | [SLS (Student Learning Space) Login Guide](https://www.youtube.com/watch?v=5TYrh83EzIw&feature=youtu.be) |
 | [Guide for online booking of PCTC slot](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/For%20Parents/2018%20Guides%20for%20Parents/Guide%20for%20online%20booking%20of%20PTC%20slot.pdf) |
