@@ -7,6 +7,7 @@ third_nav_title: Parents Portal
 ![](/images/News%20Flash%20Image.png)
 
 ### News Flash
+
 |  | 
 | -------- | 
 | [Caring Teachers Award (CTA) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/caring-teachers-award-cta-2022) |
@@ -20,6 +21,7 @@ third_nav_title: Parents Portal
 
 
 ### Circular to Parents (All levels)
+
 |  | 
 | -------- | 
 | [Assessment Booklet for Parents 2020](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Assessment%20Booklet%20for%20Parents%202020.pdf) |
@@ -74,6 +76,7 @@ third_nav_title: Parents Portal
 
 
 ### Guides
+
 | | 
 | -------- | 
 | [SLS (Student Learning Space) Login Guide](https://www.youtube.com/watch?v=5TYrh83EzIw&feature=youtu.be) |
