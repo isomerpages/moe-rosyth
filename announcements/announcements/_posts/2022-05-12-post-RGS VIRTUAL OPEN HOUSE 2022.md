@@ -5,3 +5,4 @@ date: 2022-05-12
 layout: post
 description: ""
 ---
+![](/images/Virtual%20Open%20House%202022%20-%20Poster.png)
