@@ -2,5 +2,6 @@ collections:
   awards:
     output: true
     order:
+      - People Developer Standard.md
       - Best Practice Awards.md
       - School Green Awards.md
