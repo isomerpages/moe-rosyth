@@ -80,4 +80,29 @@ description: ""
 | HOD/Physical Education & CCA |  |  |
 |---|---|---|
 | Mr Ahmad Zohri B Bakri | Email | ahmad_zohri_bakri@schools.gov.sg |
+| | | |
+
+| HOD/CCE |  |  |
+|---|---|---|
+| Mdm See Chui Geok | Email | see_chui_geok@schools.gov.sg |
+| | | |
+
+| HOD/ICT |  |  |
+|---|---|---|
+| Mr Chew Ansheng Victor | Email | chew_ansheng_victor@schools.gov.sg |
 | | | | 
+
+| HOD/Aesthetics |  |  |
+|---|---|---|
+| Mdm Mohamed Hanifa Nazrin | Email | mohamed_hanifa_nazrin@schools.gov.sg |
+| | | | 
+
+| HOD/Student Management (Covering) |  |  |
+|---|---|---|
+| Mr Justyn Lim | Email | lim_lai_fu@schools.gov.sg | 
+| | | | 
+
+| HOD/Innovation |  |  |
+|---|---|---|
+| Mdm Evelyn Koh | Email | koh_mui_lee_evelyn@schools.gov.sg |
+| | | |
