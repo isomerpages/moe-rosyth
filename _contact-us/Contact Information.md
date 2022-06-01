@@ -106,3 +106,11 @@ description: ""
 |---|---|---|
 | Mdm Evelyn Koh | Email | koh_mui_lee_evelyn@schools.gov.sg |
 | | | |
+
+
+| School Dental Clinic | Telephone: 6481 2945<br>Opening hours during school term:<br>Monday, Wednesday, Thursday - 8am to 5:30pm<br>Friday - 8am to 5pm   <br> |
+|---|---|
+| School Bus Operator | Min Yang Trading and Transport Services Pte Ltd<br>Telephone: 6288 8298<br>Email: info@myservices.com.sg |
+| School Bookshop | Pacific Bookstores Pte Ltd<br>Website: www.pacificbookstores.com<br>Email: rss@pacificbookstores.com<br>Tel: 6235 8572<br>Opening hours in school: Monday to Friday 7.30am to 2.30pm (during school term) |
+| School Uniform Supplier | Shirley Season Wear<br>Telephone: 6280 4917<br>Retail shop: 7030 Ang Mo Kio Ave 5, Northstar building, #04-55 (Lift lobby 1), Singapore 569880<br>Opening hours: Mon-Sat 12noon to 6pm. Close on Sun<br><br>Supplier will be in school during the following period:<br>Term 1: Every Monday from 9.30am to 2.00pm<br>Term 2 to 3: First Monday of the month from 9.30am to 2.00pm |
+| Student Care Centre     | Kidz Treehouse @ Rosyth <br>Telephone: 6560 7200, 97228723 (Hp)<br>Opening hours: Mon-Fri 10.00am to 7.00pm (during school term)<br>Email: rosyth@kowabunga.com.sg |
