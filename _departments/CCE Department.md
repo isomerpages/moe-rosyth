@@ -124,20 +124,16 @@ Leaders of Tomorrow
 * provide platforms for students to display leadership qualities
 * cultivate 21st CC skills and I-CARE values
 
-***VIA***
-
-Bishan Park Science-VIA Learning Journey
-
+***VIA*** <br>
+Bishan Park Science-VIA Learning Journey <br>
 * To understand the perspective of our leaders to make the City in a Garden
 * To investigate the cause and effect of man’s activities
 * To leverage on technology to get instant information to increase their knowledge
 * To remove the litters around the place as this might be the cause of the animals to die
 	
 
-**Talent Development**
-
-Dare.Dream.Discover (D3)
-
+**Talent Development** <br> 
+Dare.Dream.Discover (D3) <br>
 * To manage student talents in the identified domains of talent
 * To discover latent student talents in the identified domains of talent
 * To ensure a systematic and pragmatic approach to discovering student talent throughout the students’ school years
