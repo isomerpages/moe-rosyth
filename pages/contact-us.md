@@ -18,9 +18,4 @@ contacts:
       - other: In case of an emergency involving your child, kindly contact our
           Operations Managers, Mr Quek at 9656 3932 or Mr Singh at 9755 8132
     title: General Office
-  - content:
-      - phone: +65 6483 0516
-      - email: ""
-      - other: ""
-    title: Staff Rooms
 ---
