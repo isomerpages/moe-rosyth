@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Forms.md
       - Admission Matters.md
       - Administrative Matters.md
       - Parents Portal/.keep
@@ -15,3 +14,4 @@ collections:
       - Parents Portal/Primary 4 (2022).md
       - Parents Portal/Primary 5 (2022).md
       - Parents Portal/Primary 6 (2022).md
+      - Forms.md
