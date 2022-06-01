@@ -41,5 +41,7 @@ description: ""
 |   |  |  |
 
 | Administration Manager |  |  |
+|---|---|---|
 | Mdm Chia Chin Woon | Phone | 6481 2273 |
 |  | Email | rosyth_sch@schools.gov.sg |
+|   |  |  |
