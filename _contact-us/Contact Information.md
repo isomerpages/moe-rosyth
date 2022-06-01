@@ -118,8 +118,8 @@ description: ""
 
 ##### Teachers' E-Mail Addresses
 
-[Chinese Language Teachers](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Contact/MT%20trs%20email%202019-CL.pdf)
+[Chinese Language Teachers](/files/MT%20trs%20email%202019-CL.pdf)
 
-[Malay Language Teachers](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Contact/MT%20trs%20email%202019-ML.pdf) 
+[Malay Language Teachers](/files/MT%20trs%20email%202019-ML.pdf)
 
-[Tamil Language Teachers](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Contact/MT%20trs%20email%202019-TL.pdf)
+[Tamil Language Teachers](/files/MT%20trs%20email%202019-TL.pdf)
