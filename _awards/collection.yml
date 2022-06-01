@@ -1,4 +1,5 @@
 collections:
   awards:
     output: true
-    order: []
+    order:
+      - Best Practice Awards.md
