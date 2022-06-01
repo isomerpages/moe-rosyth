@@ -19,8 +19,6 @@ description: ""
 | | |
 
 
-
-
 | Principal |  |  |
 |---|---|---|
 | Mdm Elis Tan | Email | Elis_Tan@schools.gov.sg  |
@@ -42,8 +40,13 @@ description: ""
 |  | Email | quek_kim_hoe@schools.gov.sg |
 |   |  |  |
 
+
 | Administration Manager |  |  |
 |---|---|---|
 | Mdm Chia Chin Woon | Phone | 6481 2273 |
 |  | Email | rosyth_sch@schools.gov.sg |
 |   |  |  |
+
+| HOD/English Language |  |  |
+|---|---|---|
+| Mrs Katherine Wong | Email | tan_nguang_leng@schools.gov.sg |
