@@ -6,9 +6,9 @@ third_nav_title: Parents Portal
 ---
 ![](/images/News%20Flash%20Image.png)
 
-### News Flash
+**News Flash**
 
-|  | 
+| | 
 | -------- | 
 | [Caring Teachers Award (CTA) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/caring-teachers-award-cta-2022) |
 | [President's Award for Teachers (PAT) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/presidents-award-for-teachers-pat-2022) | 
