@@ -69,7 +69,7 @@ iREACH
 	
 
 **National Education & Social Studies**
-
+<br>
 ***Current Affairs @ Rosyth School***
 
 The impact of globalisation and technological innovation has shaped the landscape of the 21st century world to become highly competitive. In order for Singapore to continue thriving, its citizens must grow to become more proactive in partnering the government in developing solutions to problems.   
@@ -90,14 +90,11 @@ Students filming the news segment
 The Rosyth Forum where students can write into to air their views on current affairs
 
 ***Newspaper Forum Publications by Rosythians***
-
-Straits Times Forum:
-
-1) [Preserve culture by letting it evolve](https://www.straitstimes.com/forum/letters-in-print/preserve-culture-by-letting-it-evolve)
-
-2) [Road names key to remembering Singapore's past](https://www.straitstimes.com/forum/letters-in-print/road-names-key-to-remembering-singapores-past)
-
-3) [Not enough to just say 'nay'](https://www.straitstimes.com/forum/letters-in-print/not-enough-to-just-say-nay)
+<br>
+Straits Times Forum: <br>
+1) [Preserve culture by letting it evolve](https://www.straitstimes.com/forum/letters-in-print/preserve-culture-by-letting-it-evolve) <br>
+2) [Road names key to remembering Singapore's past](https://www.straitstimes.com/forum/letters-in-print/road-names-key-to-remembering-singapores-past) <br>
+3) [Not enough to just say 'nay'](https://www.straitstimes.com/forum/letters-in-print/not-enough-to-just-say-nay) 
 
 4) [Educating youth on ills of sugar more effective than imposing tax](https://www.straitstimes.com/forum/letters-in-print/educating-youth-on-ills-of-sugar-more-effective-than-imposing-tax)
 
