@@ -2,7 +2,7 @@ collections:
   awards:
     output: true
     order:
-      - School Distinction Award.md
       - Best Practice Awards.md
       - School Green Awards.md
       - People Developer Standard.md
+      - School Distinction Award.md
