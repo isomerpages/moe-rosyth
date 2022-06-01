@@ -12,11 +12,13 @@ description: ""
 |   |  |  |
 
 
-| Staff Rooms |  |
-|---|---|
+| Staff Rooms | |
+| -------- | -------- | 
 | Staff Room 1 | 6483 0516 |
 | Staff Room 2 | 6483 2517 |
-|   |  |  |
+| | |
+
+
 
 
 | Principal |  |  |
