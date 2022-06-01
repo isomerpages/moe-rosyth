@@ -94,48 +94,32 @@ The Rosyth Forum where students can write into to air their views on current aff
 Straits Times Forum: <br>
 1) [Preserve culture by letting it evolve](https://www.straitstimes.com/forum/letters-in-print/preserve-culture-by-letting-it-evolve) <br>
 2) [Road names key to remembering Singapore's past](https://www.straitstimes.com/forum/letters-in-print/road-names-key-to-remembering-singapores-past) <br>
-3) [Not enough to just say 'nay'](https://www.straitstimes.com/forum/letters-in-print/not-enough-to-just-say-nay) 
-
+3) [Not enough to just say 'nay'](https://www.straitstimes.com/forum/letters-in-print/not-enough-to-just-say-nay) <br>
 4) [Educating youth on ills of sugar more effective than imposing tax](https://www.straitstimes.com/forum/letters-in-print/educating-youth-on-ills-of-sugar-more-effective-than-imposing-tax)
 
 
-TODAY'S Voices:
-
+TODAY'S Voices: <br>
 1) [Give Singapore's education system credit where it's due](https://www.todayonline.com/voices/give-singapores-education-system-credit-where-its-due)
 
 
-Straits Times' Voices of Youth:
-
-1) [Make organ donation a mandated choice](https://www.straitstimes.com/forum/letters-in-print/make-organ-donation-a-mandated-choice)
-
-2) [E-sports is not just child's play](https://www.straitstimes.com/forum/letters-in-print/e-sports-is-not-just-childs-play)
-
-3) [E-sports finding place in the real world](https://www.straitstimes.com/forum/letters-in-print/e-sports-finding-place-in-the-real-world)
-
-4) [Educate public on natural disasters](https://www.straitstimes.com/forum/letters-in-print/educate-public-on-natural-disasters)
-
-5) [New system a more holistic approach](https://www.straitstimes.com/forum/letters-in-print/new-system-a-more-holistic-approach)
-
-6) [Guard against over-learning](https://www.straitstimes.com/forum/letters-in-print/guard-against-over-learning)
-
-7) [Step up anti-terror measures in schools](https://www.straitstimes.com/forum/letters-in-print/step-up-anti-terror-measures-in-schools)
-
-8) [Recognise meaning behind festivals](https://www.straitstimes.com/forum/letters-in-print/recognise-meaning-behind-festivals)
-
-9) [Second-hand smoke danger in public areas](https://www.straitstimes.com/forum/letters-in-print/second-hand-smoke-danger-in-public-areas)
-
-10) [Change attitudes on 'ugly' food](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_4898.JPG)
-
+Straits Times' Voices of Youth: <br>
+1) [Make organ donation a mandated choice](https://www.straitstimes.com/forum/letters-in-print/make-organ-donation-a-mandated-choice) <br>
+2) [E-sports is not just child's play](https://www.straitstimes.com/forum/letters-in-print/e-sports-is-not-just-childs-play) <br>
+3) [E-sports finding place in the real world](https://www.straitstimes.com/forum/letters-in-print/e-sports-finding-place-in-the-real-world) <br>
+4) [Educate public on natural disasters](https://www.straitstimes.com/forum/letters-in-print/educate-public-on-natural-disasters) <br> 
+5) [New system a more holistic approach](https://www.straitstimes.com/forum/letters-in-print/new-system-a-more-holistic-approach) <br>
+6) [Guard against over-learning](https://www.straitstimes.com/forum/letters-in-print/guard-against-over-learning) <br>
+7) [Step up anti-terror measures in schools](https://www.straitstimes.com/forum/letters-in-print/step-up-anti-terror-measures-in-schools) <br>
+8) [Recognise meaning behind festivals](https://www.straitstimes.com/forum/letters-in-print/recognise-meaning-behind-festivals) <br>
+9) [Second-hand smoke danger in public areas](https://www.straitstimes.com/forum/letters-in-print/second-hand-smoke-danger-in-public-areas) <br>
+10) [Change attitudes on 'ugly' food](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_4898.JPG) <br>
 11) [Bridging divide through CCAs](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/CCE/IMG_7687.jpg)
 
-**Discipline**
-
+**Discipline** <br>
 In accordance to Rosyth School’s mission of maximising potential through the development of Mind, Body and Soul, the school’s Discipline Committee aims to create a safe and conducive environment so that learning can be maximised. It is therefore important that all students formed positive behaviours, and respectful and caring relationships in school to uphold the highest standard of the school’s I-CARE values. This is the key purpose and function of Discipline in Rosyth School.
 
-***Student leadership Development***
-
-Leaders of Tomorrow
-
+***Student leadership Development*** <br>
+Leaders of Tomorrow 
 * develop leadership qualities through a comprehensive leadership programme
 * provide platforms for students to display leadership qualities
 * cultivate 21st CC skills and I-CARE values
