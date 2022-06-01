@@ -10,4 +10,7 @@ description: ""
 | Fax | 6483 1102 |
 | Email | rosyth_sch@schools.gov.sg |
 
-
+| Staff Rooms |  |
+|:---:|:---:|
+| Staff Room 1 | 6483 0516 |
+| Staff Room 2 | 6483 2517 |
