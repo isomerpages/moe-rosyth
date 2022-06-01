@@ -6,7 +6,7 @@ third_nav_title: Parents Portal
 ---
 ![](/images/News%20Flash%20Image.png)
 
-**News Flash**
+### News Flash
 
 | | 
 | -------- | 
