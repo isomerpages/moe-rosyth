@@ -16,11 +16,11 @@ third_nav_title: Parents Portal
 
 [Infographic - Vaccination for Students](/files/Infographic%20-%20Vaccination%20for%20Students.pdf)
 
-[FAQs for P6 Parents - Student Vaccination Exercise](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf)
+[FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf)
 
-[Raffles Institution 2022 Webinar](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/E-Mailer%20DSA%20Sec%20Webinar.pdf)
+[Raffles Institution 2022 Webinar](/files/E-Mailer%20DSA%20Sec%20Webinar%20(1).pdf)
 
-[Hwa Chong Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20Open%20House.pdf)
+[Hwa Chong Open House 2022](/files/Hwa%20Chong%20Open%20House.pdf)
 
 [Cedar Girls' Outreach Talk and e-Open House](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Cedar%20Girls.pdf)
 
