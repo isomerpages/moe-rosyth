@@ -20,5 +20,4 @@ Let us work together to role model and reinforce these good practices at home. W
 Mdm Elis Tan
 
 
-Please click here to view the files.
-Please click here to download the files.
+Please click [here](https://moe-rosyth-staging.netlify.app/announcements/announcements/how-to-beat-the-bug/how-to-beat-the-bug) to view the files.
