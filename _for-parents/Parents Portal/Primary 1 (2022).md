@@ -186,4 +186,4 @@ www.moe.gov.sg
 [Primary School Education Booklet](https://www.moe.gov.sg/docs/default-source/document/education/primary/files/primary-school-education-booklet.pdf)
 
 **More about PERI HA in Rosyth:** <br> 
-[PERI Holistic Assessment Communication Package for Parents](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/News%20and%20Announcments/PERI_Holistic_Assessment_Communication_Package_for_Parents_updated_2_Jan_2013.pdf)
+[PERI Holistic Assessment Communication Package for Parents](/files/PERI_Holistic_Assessment_Communication_Package_for_Parents_updated_2_Jan_2013.pdf)
