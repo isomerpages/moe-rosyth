@@ -56,7 +56,7 @@ third_nav_title: Parents Portal
 | [FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf) |
 | [School Of The Arts Singapore - DSA Application](/files/School%20Of%20The%20Arts%20Singapore%20-%20DSA%20Application.pdf) |
 | [St Joseph's Institution E-Open House 2021](/files/St%20Josephs%20Institution%20E-Open%20House%202021.pdf) |
-| [Tanjong Katong Girls' School E-Open House 2021 ](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Tanjong%20Katong%20Girls%20School%20E-Open%20House%202021.pdf) |
+| [Tanjong Katong Girls' School E-Open House 2021](/files/Tanjong%20Katong%20Girls%20School%20E-Open%20House%202021.pdf) |
 | [Maris Stella High School E-Open House 2021](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Maris%20Stella%20High%20School%20E-Open%20House%202021.pdf) |
 | [Hwa Chong Institution E-Open House 2021](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Hwa%20Chong%20Institution%20E-Open%20House%202021.pdf) |
 | [Temasek JC Integrated Programme E-Open House 2021](http://temasek%20jc%20integrated%20programme%20e-open%20house%202021/) | 
