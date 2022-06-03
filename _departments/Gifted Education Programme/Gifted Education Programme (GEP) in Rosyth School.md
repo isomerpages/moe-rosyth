@@ -17,7 +17,7 @@ third_nav_title: Gifted Education Programme
 
 ***A Love For Learning and Learning to Love***
 
-[FAQ for Newly Posted students to P4 GEP ](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/Departments/Gifted%20Education/Photos/PostingFlowchart_FAQ_(for_parents).pdf)
+[FAQ for Newly Posted students to P4 GEP](/files/PostingFlowchart_FAQ_(for_parents).pdf)
 
 [Learning Experience ](https://rosyth.moe.edu.sg/ge-school-experience)
 
