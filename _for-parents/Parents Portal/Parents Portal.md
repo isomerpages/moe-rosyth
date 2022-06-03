@@ -11,7 +11,7 @@ third_nav_title: Parents Portal
 | | 
 | -------- | 
 | [Caring Teachers Award (CTA) 2022](https://moe-rosyth-staging.netlify.app/announcements/announcements/caring-teachers-award-2022) |
-| [President's Award for Teachers (PAT) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/presidents-award-for-teachers-pat-2022) | 
+| [President’s Award for Teachers (PAT) 2022](https://moe-rosyth-staging.netlify.app/announcements/announcements/presidents-award-for-teachers-pat-2022) | 
 | [CNY Wishes for Rosyth Teachers ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/cny-wishes-for-rosyth-teachers) |
 | [Rosyth School e-library updated OPAC link for reservation of books for P3 - P6 students only](https://schoolibrary.moe.edu.sg/rosyth/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
 | [FAQ for Newly Posted Students to P4 GEP](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Departments/Gifted%20Education/Photos/PostingFlowchart_FAQ_(for_parents).pdf) | 
