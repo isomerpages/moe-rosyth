@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/rosyth.gif
       key_highlights:
-        - title: News Flash & Announcements
+        - title: Announcements
           description: ""
           url: /announcements/
 ---
