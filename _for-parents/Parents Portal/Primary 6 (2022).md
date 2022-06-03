@@ -12,9 +12,9 @@ third_nav_title: Parents Portal
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
-[Infographic - What to Expect During Vaccination](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
+[Infographic - What to Expect During Vaccination](/files/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
 
-[Infographic - Vaccination for Students](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20Vaccination%20for%20Students.pdf)
+[Infographic - Vaccination for Students](/files/Infographic%20-%20Vaccination%20for%20Students.pdf)
 
 [FAQs for P6 Parents - Student Vaccination Exercise](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf)
 
