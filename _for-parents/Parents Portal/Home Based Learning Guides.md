@@ -18,4 +18,4 @@ third_nav_title: Parents Portal
 | 9 | Rosyth School - VC Code of Conduct and Rules | [RS VC Code of Conduct and Rules](/files/VC%20Code%20of%20Conduct.pdf) |
 | 10 | Rules for Online Class Meeting (P1 & P2)  | [Rules for Online Class Meeting (P1 & P2)](/files/Rules%20for%20Online%20Class%20Meeting%20(P1%20and%20P2).pdf) |
 | 11 | Video Guide for Google Meet P1-P6 Video Conferencing Log In |  [P1 - P6 Google Meet Guide](https://drive.google.com/file/d/15x7EOtHP_Khr6XAmKGeeq16DNJ_bu17F/view) |
-| 12  | Parent Kit - Supporting Your Child During Full HBL |  Parent Kit - Supporting Your Child During Full HBL |
+| 12  | Parent Kit - Supporting Your Child During Full HBL | [Parent Kit - Supporting Your Child During Full HBL](/files/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf) |
