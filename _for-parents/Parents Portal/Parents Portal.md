@@ -10,7 +10,7 @@ third_nav_title: Parents Portal
 
 | | 
 | -------- | 
-| [Caring Teachers Award (CTA) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/caring-teachers-award-cta-2022) |
+| [Caring Teachers Award (CTA) 2022](https://moe-rosyth-staging.netlify.app/announcements/announcements/caring-teachers-award-2022) |
 | [President's Award for Teachers (PAT) 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/presidents-award-for-teachers-pat-2022) | 
 | [CNY Wishes for Rosyth Teachers ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/cny-wishes-for-rosyth-teachers) |
 | [Rosyth School e-library updated OPAC link for reservation of books for P3 - P6 students only](https://schoolibrary.moe.edu.sg/rosyth/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
@@ -86,4 +86,3 @@ third_nav_title: Parents Portal
 | [AsknLearn Login Guide](https://drive.google.com/drive/folders/19OdQtptOFSbUfUePi_OqE6QVZMg20uG9) |
 | [How to Access iMTL Portal](https://www.youtube.com/watch?v=g0BsujviTuc) |
 | [Developing your child to be a positive peer influence online](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf) |
-
