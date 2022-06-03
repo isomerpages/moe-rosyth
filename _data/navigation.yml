@@ -49,12 +49,12 @@ links:
       - title: Science
         url: /departments/science
   - title: For Parents
-    url: /admission-matters
+    url: /for-parents/p1-eorientation
     sublinks:
       - title: P1 e-Orientation
         url: https://rosyth.moe.edu.sg/p1-orientation
       - title: Admission Matters
-        url: /admission-matters
+        url: /for-parents/admission-matters
       - title: Administrative Matters
         url: /for-parents/administrative-matters
       - title: Information for New Students
