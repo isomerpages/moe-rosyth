@@ -67,7 +67,7 @@ third_nav_title: Parents Portal
 | [How to beat the bug!](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/how-to-beat-the-bug) |
 | [CyberWellness #0418 - Helping Your Children Protect Their Personal Data Online](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Helping%20Your%20Children%20Protect%20Their%20Personal%20Data%20Online.zip) |
 | [Helping Your Child Manage Excessive Internet Use](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/News%20and%20Announcments/4%20Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf) |
-| [NEU PC Plus Application Form](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Forms/Application%20Form%20for%20MOE-SPED%20FAS%20v4.3.pdf) |
+| [NEU PC Plus Application Form](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v4.pdf) |
 | [Parent's Brochure (Chinese)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Parent/'s%20Brochure_Chinese.pdf) |
 | [Parent's Brochure (English)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Parent/'s%20Brochure_English.pdf) |
 | [Parent's Brochure (Malay)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Parent/'s%20Brochure_Malay.pdf) |
