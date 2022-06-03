@@ -39,31 +39,14 @@ third_nav_title: Parents Portal
 
 ##### NEWS AND ANNOUNCEMENTS
 
-<table>
-<tbody>
-<tr>
-<th>Circular to Parents</th>
-</tr>
-<tr>
-<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_English.pdf" target="_blank" rel="noopener">2021 P1 Orientation (English)</a></td>
-</tr>
-<tr>
-<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_%20Chinese.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Chinese)</a></td>
-</tr>
-<tr>
-<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_Malay.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Malay)</a></td>
-</tr>
-<tr>
-<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_Tamil.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Tamil)</a></td>
-</tr>
-<tr>
-<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_Mathematics.pdf" target="_blank" rel="noopener">2021 P1 Orientation (Mathematics)</a></td>
-</tr>
-<tr>
-<td>-&nbsp;<a href="https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2021/2021%20P1%20Orientation/PDFs%20to%20be%20Uploaded%20for%20Parents_by%20HODs/2021%20P1%20Orientation_PAL.pdf" target="_blank" rel="noopener">2021 P1 Orientation (PAL)</a></td>
-</tr>
-</tbody>
-</table>
+| Circular to Parents |
+|---|
+| [2021 P1 Orientation (English)](/files/P1%20English%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
+| [2021 P1 Orientation (Chinese)](/files/P1%20Chinese%20Language-%20slides%20for%20parents%204%20Jan%202022%20(1).pdf) |
+| [2021 P1 Orientation (Malay)](/files/P1%20Malay%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
+| [2021 P1 Orientation (Tamil)](/files/P1%20Tamil%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
+| [2021 P1 Orientation (Mathematics)](/files/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf) |
+| [2021 P1 Orientation (PAL)](/files/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
