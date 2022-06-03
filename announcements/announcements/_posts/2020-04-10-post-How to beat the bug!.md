@@ -5,3 +5,20 @@ date: 2020-04-10
 layout: post
 description: ""
 ---
+Dear parents and guardians,
+
+ 
+
+In school, we are teaching our children about the novel coronavirus and the good personal hygiene practices to protect themselves against transmission.
+
+ 
+
+Let us work together to role model and reinforce these good practices at home. Watch, download and share the educational resources on our school website on how to beat the bug!
+
+ 
+
+Mdm Elis Tan
+
+
+Please click here to view the files.
+Please click here to download the files.
