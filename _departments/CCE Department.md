@@ -86,6 +86,9 @@ Students writing their news scripts
 ![](/images/Untitled2.jpg)
 Students filming the news segment
 
+![](/images/conceptualising.jpg)
+A student conceptualising his forum letter to give his writing a unique angle
+
 ![](/images/Poster%203%20-%20Picture%203.jpg)
 The Rosyth Forum where students can write into to air their views on current affairs
 
