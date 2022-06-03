@@ -41,7 +41,7 @@ third_nav_title: Parents Portal
 | [Cedar Girls' Outreach Talk and E-Open House 2022](/files/Cedar%20Girls%20(1).pdf) | 
 | [DSA to SCGS 2023](/files/2022%20DSA%20Postcard%20SCGS%20(1).pdf) | 
 | [Victoria School Open House 2022](/files/VS%20open%20house%20(1).pdf) | 
-| [Raffles Institution 2022 Webinar](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/E-Mailer%20DSA%20Sec%20Webinar.pdf) | 
+| [Raffles Institution 2022 Webinar](/files/E-Mailer%20DSA%20Sec%20Webinar%20(1).pdf) | 
 | [RGS Virtual Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Virtual%20Open%20House%202022%20-%20Poster.png) | 
 | [RGS Virtual Open House 2022 - Webinar Information ](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information.pdf) |
 | [SJI Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SJI.pdf) |
