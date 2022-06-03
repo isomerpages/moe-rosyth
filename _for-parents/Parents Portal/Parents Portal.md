@@ -49,7 +49,7 @@ third_nav_title: Parents Portal
 | [SOTA e-Open House 2022](/files/SOTA%20e-Open%20House%202022.pdf) |
 | [Hwa Chong International School - 2022 Virtual Open House](/files/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf) |
 | [ACS(I) E-Open House 2022](/files/ACSI%20E-Open%20House%202022.pdf) |
-| [Singapore Sports School E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Singapore%20Sports%20School%20E-Open%20House%202022.pdf) |
+| [Singapore Sports School E-Open House 2022](/files/Singapore%20Sports%20School%20E-Open%20House%202022.pdf) |
 | [2022 Parent Volunteer Application ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/2022-parent-volunteer-application) |
 | [Infographic - What to Expect During Vaccination ](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf) |
 | [Infographic - Vaccination for students](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20Vaccination%20for%20Students.pdf) |
