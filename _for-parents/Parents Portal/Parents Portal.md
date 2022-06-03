@@ -45,9 +45,9 @@ third_nav_title: Parents Portal
 | [RGS Virtual Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Virtual%20Open%20House%202022%20-%20Poster.png) | 
 | [RGS Virtual Open House 2022 - Webinar Information ](/files/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information%20(1).pdf) |
 | [SJI Open House 2022](/files/SJI%20(1).pdf) |
-| [Invitation to MGS Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Invitation%20to%20MGS%20Open%20House%202022.pdf) |
-| [SOTA e-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SOTA%20e-Open%20House%202022.pdf) |
-| [Hwa Chong International School - 2022 Virtual Open House](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf) |
+| [Invitation to MGS Open House 2022](/files/SOTA%20e-Open%20House%202022%20(1).pdf) |
+| [SOTA e-Open House 2022](/files/SOTA%20e-Open%20House%202022.pdf) |
+| [Hwa Chong International School - 2022 Virtual Open House](/files/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf) |
 | [ACS(I) E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/ACSI%20E-Open%20House%202022.docx.pdf) |
 | [Singapore Sports School E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Singapore%20Sports%20School%20E-Open%20House%202022.pdf) |
 | [2022 Parent Volunteer Application ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/2022-parent-volunteer-application) |
