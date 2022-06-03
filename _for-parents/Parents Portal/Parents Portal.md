@@ -12,10 +12,10 @@ third_nav_title: Parents Portal
 | -------- | 
 | [Caring Teachers Award (CTA) 2022](https://moe-rosyth-staging.netlify.app/announcements/announcements/caring-teachers-award-2022) |
 | [President’s Award for Teachers (PAT) 2022](https://moe-rosyth-staging.netlify.app/announcements/announcements/presidents-award-for-teachers-pat-2022) | 
-| [CNY Wishes for Rosyth Teachers ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/cny-wishes-for-rosyth-teachers) |
+| [CNY Wishes for Rosyth Teachers](https://moe-rosyth-staging.netlify.app/announcements/announcements/cny-wishes-for-rosyth-teachers) |
 | [Rosyth School e-library updated OPAC link for reservation of books for P3 - P6 students only](https://schoolibrary.moe.edu.sg/rosyth/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
-| [FAQ for Newly Posted Students to P4 GEP](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Departments/Gifted%20Education/Photos/PostingFlowchart_FAQ_(for_parents).pdf) | 
-| [Infopack on Transition to Secondary School 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022.pdf) |
+| [FAQ for Newly Posted Students to P4 GEP](/files/PostingFlowchart_FAQ_(for_parents)%20(1).pdf) | 
+| [Infopack on Transition to Secondary School 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(1).pdf) |
 | [President Scholar from Rosyth Alumnus ](https://rosyth.moe.edu.sg/others/news/president-scholar-from-rosyth-alumnus) | 
 | [Find out more about changes to the PSLE scoring and Sec 1 posting from 2021](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fpsle%2f&user=extranet%5cAnonymous&site=moe-website) | 
 
