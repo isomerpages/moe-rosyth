@@ -16,7 +16,7 @@ third_nav_title: Parents Portal
 | [Rosyth School e-library updated OPAC link for reservation of books for P3 - P6 students only](https://schoolibrary.moe.edu.sg/rosyth/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) |
 | [FAQ for Newly Posted Students to P4 GEP](/files/PostingFlowchart_FAQ_(for_parents)%20(1).pdf) | 
 | [Infopack on Transition to Secondary School 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(1).pdf) |
-| [President Scholar from Rosyth Alumnus ](https://rosyth.moe.edu.sg/others/news/president-scholar-from-rosyth-alumnus) | 
+| [President Scholar from Rosyth Alumnus](https://moe-rosyth-staging.netlify.app/announcements/announcements/president-scholar-from-rosyth-alumnus) | 
 | [Find out more about changes to the PSLE scoring and Sec 1 posting from 2021](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fpsle%2f&user=extranet%5cAnonymous&site=moe-website) | 
 
 
