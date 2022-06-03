@@ -34,17 +34,17 @@ third_nav_title: Parents Portal
 
 [ACSI E-Open House 2022](/files/ACSI%20E-Open%20House%202022.pdf)
 
-[Victoria School Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/VS%20open%20house.pdf)
+[Victoria School Open House 2022](/files/VS%20open%20house.pdf)
 
-[DSA to SCGS 2023](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/2022%20DSA%20Postcard%20SCGS.pdf)
+[DSA to SCGS 2023](/files/2022%20DSA%20Postcard%20SCGS.pdf)
 
-[MGS Open House 2022 ](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Invitation%20to%20MGS%20Open%20House%202022.pdf)
+[MGS Open House 2022](/files/Invitation%20to%20MGS%20Open%20House%202022.pdf)
 
-[SJI Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SJI.pdf)
+[SJI Open House 2022](/files/SJI.pdf)
 
-[Hwa Chong International School - 2022 Virtual Open House](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf)
+[Hwa Chong International School - 2022 Virtual Open House](/files/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf)
 
-[SOTA e-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/SOTA%20e-Open%20House%202022.pdf)
+[SOTA e-Open House 2022](/files/SOTA%20e-Open%20House%202022.pdf)
 
 ##### FORM TEACHERS
 
