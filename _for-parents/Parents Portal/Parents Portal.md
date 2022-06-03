@@ -29,7 +29,7 @@ third_nav_title: Parents Portal
 | [2022 P1 Orientation (Chinese)](/files/P1%20Chinese%20Language-%20slides%20for%20parents%204%20Jan%202022%20(1).pdf) | 
 | [2022 P1 Orientation (Malay)](/files/P1%20Malay%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 | [2022 P1 Orientation (Tamil)](/files/P1%20Tamil%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
-| [2022 P1 Orientation (Mathematics)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
+| [2022 P1 Orientation (Mathematics)](/files/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 | [2022 P1 Orientation (PAL)](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/2022/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 
 
