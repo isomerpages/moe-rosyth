@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Rosyth School
+title: Rosyth Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -13,3 +13,4 @@ sections:
           description: ""
           url: /announcements/
 ---
+
