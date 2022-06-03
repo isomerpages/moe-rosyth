@@ -81,7 +81,7 @@ third_nav_title: Parents Portal
 | -------- | 
 | [SLS (Student Learning Space) Login Guide](https://www.youtube.com/watch?v=5TYrh83EzIw&feature=youtu.be) |
 | [Guide for online booking of PCTC slot](/files/Guide%20for%20online%20booking%20of%20PTC%20slot.pdf) |
-| [Guide for retrieval of PCTC slots](https://rosyth.moe.edu.sg/qql/slot/u178/Sub%20pages/For%20Parents/2018%20Guides%20for%20Parents/Guide%20to%20getting%20summary%20from%20consultation%20tool%20(Parents).pdf) |
+| [Guide for retrieval of PCTC slots](/files/Guide%20to%20getting%20summary%20from%20consultation%20tool%20(Parents).pdf) |
 | [Guide for online booking of Workshop ](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/2018%20Guides%20for%20Parents/Parents%20Guide%20to%20Booking%20A%20slot%20for%20Workshop.pdf) |
 | [AsknLearn Login Guide](https://drive.google.com/drive/folders/19OdQtptOFSbUfUePi_OqE6QVZMg20uG9) |
 | [How to Access iMTL Portal](https://www.youtube.com/watch?v=g0BsujviTuc) |
