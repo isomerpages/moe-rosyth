@@ -12,6 +12,5 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+      title: Rosyth School
 ---
-
-
