@@ -85,4 +85,4 @@ third_nav_title: Parents Portal
 | [Guide for online booking of Workshop](/files/Parents%20Guide%20to%20Booking%20A%20slot%20for%20Workshop.pdf) |
 | [AsknLearn Login Guide](https://drive.google.com/drive/folders/19OdQtptOFSbUfUePi_OqE6QVZMg20uG9) |
 | [How to Access iMTL Portal](https://www.youtube.com/watch?v=g0BsujviTuc) |
-| [Developing your child to be a positive peer influence online](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf) |
+| [Developing your child to be a positive peer influence online](/files/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf) |
