@@ -22,11 +22,11 @@ third_nav_title: Parents Portal
 
 [Hwa Chong Open House 2022](/files/Hwa%20Chong%20Open%20House.pdf)
 
-[Cedar Girls' Outreach Talk and e-Open House](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Cedar%20Girls.pdf)
+[Cedar Girls' Outreach Talk and e-Open House](/files/Cedar%20Girls.pdf)
 
-[RGS Virtual Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Virtual%20Open%20House%202022%20-%20Poster.png)
+[RGS Virtual Open House 2022](/files/Virtual%20Open%20House%202022%20-%20Poster%20(2).pdf)
 
-[RGS Virtual Open House 2022 - Webinar Information](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information.pdf)
+[RGS Virtual Open House 2022 - Webinar Information](/files/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information.pdf)
 
 [Infopack on Transition to Secondary Schools 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022.pdf)
 
