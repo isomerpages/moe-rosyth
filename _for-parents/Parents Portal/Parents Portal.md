@@ -60,7 +60,7 @@ third_nav_title: Parents Portal
 | [Maris Stella High School E-Open House 2021](/files/Maris%20Stella%20High%20School%20E-Open%20House%202021.pdf) |
 | [Hwa Chong Institution E-Open House 2021](/files/Hwa%20Chong%20Institution%20E-Open%20House%202021.pdf) |
 | [Temasek JC Integrated Programme E-Open House 2021](http://temasek%20jc%20integrated%20programme%20e-open%20house%202021/) | 
-| [Methodist Girls' School (MGS) - E-Open House 2021](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Methodist%20Girls%20School%20E-Open%20House%202021.docx.pdf) |
+| [Methodist Girls' School (MGS) - E-Open House 2021](/files/Methodist%20Girls%20School%20E-Open%20House%202021.pdf) |
 | [Holiday Care Pack Primary 1 - 2 Edition](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Holiday%20Care%20Pack%20Pri%201%20-2%20Edition(5May).pdf) |
 | [Holiday Care Pack Primary 3 - 6 Edition](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/PDF/Holiday%20Care%20Pack%20Pri%203%20-%206%20Edition(5May).pdf) |
 | [Wipe-Down Routine ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/wipe-down-routine) |
