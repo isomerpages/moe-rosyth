@@ -28,11 +28,11 @@ third_nav_title: Parents Portal
 
 [RGS Virtual Open House 2022 - Webinar Information](/files/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information.pdf)
 
-[Infopack on Transition to Secondary Schools 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022.pdf)
+[Infopack on Transition to Secondary Schools 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(2).pdf)
 
-[Singapore Sports School E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/Singapore%20Sports%20School%20E-Open%20House%202022.pdf)
+[Singapore Sports School E-Open House 2022](/files/Singapore%20Sports%20School%20E-Open%20House%202022.pdf)
 
-[ACSI E-Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/ACSI%20E-Open%20House%202022.docx.pdf)
+[ACSI E-Open House 2022](/files/ACSI%20E-Open%20House%202022.pdf)
 
 [Victoria School Open House 2022](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/2022/VS%20open%20house.pdf)
 
