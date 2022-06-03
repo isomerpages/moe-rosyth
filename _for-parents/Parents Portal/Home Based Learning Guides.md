@@ -14,8 +14,8 @@ third_nav_title: Parents Portal
 | 6 | Home-Based Learning Resource Kit<br>(Part 3) | [Home-Based Learning Resource Kit Part 3](/files/Resource%20Kit%20-%20HBL%20(Part%203).pdf) |
 | 7 | Home-Based Learning Resource Kit <br>(Part 4)  | [Home-Based Learning Resource Kit Part 4](/files/Resource%20Kit%20-%20HBL%20(Part%204).pdf) |
 | 8 | Home-Based Learning Resource Kit <br>(Part 5)   | [Home-Based Learning Resource Kit Part 5](/files/Resource%20Kit%20-%20School%20Holiday%20Edition.pdf) |
-| 9 | Home-Based Learning Resource Kit <br>(Part 6)  | Home-Based Learning Resource Kit Part 6  |
-| 9 | Rosyth School - VC Code of Conduct and Rules | RS VC Code of Conduct and Rules  |
-| 10 | Rules for Online Class Meeting (P1 & P2)  | Rules for Online Class Meeting (P1 & P2) |
+| 9 | Home-Based Learning Resource Kit <br>(Part 6)  | [Home-Based Learning Resource Kit Part 6](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20School%20(Updated-final).pdf) |
+| 9 | Rosyth School - VC Code of Conduct and Rules | [RS VC Code of Conduct and Rules](/files/VC%20Code%20of%20Conduct.pdf) |
+| 10 | Rules for Online Class Meeting (P1 & P2)  | [Rules for Online Class Meeting (P1 & P2)](/files/Rules%20for%20Online%20Class%20Meeting%20(P1%20and%20P2).pdf) |
 | 11 | Video Guide for Google Meet P1-P6 Video Conferencing Log In |  P1 - P6 Google Meet Guide |
 | 12  | Parent Kit - Supporting Your Child During Full HBL |  Parent Kit - Supporting Your Child During Full HBL |
