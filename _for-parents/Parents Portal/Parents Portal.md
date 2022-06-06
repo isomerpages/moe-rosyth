@@ -6,9 +6,9 @@ third_nav_title: Parents Portal
 ---
 ![](/images/News%20Flash%20Image.png)
 
-### News Flash
+<p> </p> 
 
-| | 
+| News Flash | 
 | -------- | 
 | [Caring Teachers Award (CTA) 2022](https://moe-rosyth-staging.netlify.app/announcements/announcements/caring-teachers-award-2022) |
 | [President’s Award for Teachers (PAT) 2022](https://moe-rosyth-staging.netlify.app/announcements/announcements/presidents-award-for-teachers-pat-2022) | 
@@ -20,9 +20,9 @@ third_nav_title: Parents Portal
 | [Find out more about changes to the PSLE scoring and Sec 1 posting from 2021](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fpsle%2f&user=extranet%5cAnonymous&site=moe-website) | 
 
 
-### Circular to Parents (All levels)
+<p> </p>
 
-|  | 
+| Circular to Parents (All levels) | 
 | -------- | 
 | [Assessment Booklet for Parents 2020](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Assessment%20Booklet%20for%20Parents%202020.pdf) |
 | [2022 P1 Orientation (English)](/files/P1%20English%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
@@ -33,9 +33,9 @@ third_nav_title: Parents Portal
 | [2022 P1 Orientation (PAL)](/files/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 
 
-### News and Announcements
+<p> </p>
 
-|  | 
+| News and Announcements | 
 | -------- | 
 | [Hwa Chong Open House 2022 ](/files/Hwa%20Chong%20Open%20House.pdf) |
 | [Cedar Girls' Outreach Talk and E-Open House 2022](/files/Cedar%20Girls%20(1).pdf) | 
@@ -75,9 +75,9 @@ third_nav_title: Parents Portal
 | [Sexuality Education - Info for Parents](/files/Info_on_SEd_for_RS_website_2022_final.pdf) |
 
 
-### Guides
+<p> </p>
 
-| | 
+| Guides | 
 | -------- | 
 | [SLS (Student Learning Space) Login Guide](https://www.youtube.com/watch?v=5TYrh83EzIw&feature=youtu.be) |
 | [Guide for online booking of PCTC slot](/files/Guide%20for%20online%20booking%20of%20PTC%20slot.pdf) |
