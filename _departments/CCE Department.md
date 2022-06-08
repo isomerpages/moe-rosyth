@@ -40,9 +40,6 @@ Every Rosythian leader, an active contributor, confident communicator, creative 
 * Adventurous Spirit
 * Respect & responsibility
 * Excellence in all we do
-
-<img src="/images/CCE1.png" 
-     style="width:50%">
 		
 <img src="/images/CCE2.jpg" 
      style="width:50%">
