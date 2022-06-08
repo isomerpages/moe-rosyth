@@ -17,11 +17,15 @@ third_nav_title: Gifted Education Programme
 
 ***A Love For Learning and Learning to Love***
 
-[FAQ for Newly Posted students to P4 GEP](/files/PostingFlowchart_FAQ_(for_parents).pdf)
+[FAQ for Newly Posted students to P4 GEP](/files/PostingFlowchart_FAQ_(for_parents).pdf) <br>
+[Learning Experience ](https://rosyth.moe.edu.sg/ge-school-experience) <br>
+[Desired Outcomes](#DesiredOutcomes) <br>
+[Key Programmes of GEP](#KeyProgrammesofGEP) <br> 
+[Mixed Form Classes](#MixedFormClasses) <br>
+[Torrance Creativity Awards](#TorranceCreativityAwards) <br> [Web Resources](#WebResources)
 
-[Learning Experience ](https://rosyth.moe.edu.sg/ge-school-experience)
-
-##### DESIRED OUTCOMES
+<a name="DesiredOutcomes"></a>
+##### DESIRED OUTCOMES 
 
 Students are engaged individually and in small groups, or as a class, challenged by knowledge, concepts and skills in the various disciplines, as well as through interdisciplinary approaches.
 
@@ -31,6 +35,7 @@ Students learn in a community, in an extended family called the Rosythian family
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+<a name="KeyProgrammesofGEP"></a>
 ##### KEY PROGRAMMES OF GEP
 
 1. VALUES IN ACTION (for Primary 4 - Primary 5)
@@ -44,6 +49,7 @@ Students learn in a community, in an extended family called the Rosythian family
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+<a name="MixedFormClasses"></a>
 ##### MIXED FORM CLASSES
 
 *Reported by Amelia Tang. PUBLISHED in The Sunday Times 11 Aug 2019*
@@ -80,6 +86,7 @@ His schoolmate Josiah Chia, 10, who is not from the GEP, said he hangs out with 
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+<a name="TorranceCreativityAwards"></a>
 ##### INTERNATIONAL TORRANCE LEGACY CREATIVE WRITING AWARDS
 
 International Torrance Legacy Creativity Awards 2019 (second place winner)
@@ -168,6 +175,7 @@ Written by Kaydon Arianne Tan
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+<a name="WebResources"></a>
 ##### WEB RESOURCES
 
 | Website | Brief Description |
