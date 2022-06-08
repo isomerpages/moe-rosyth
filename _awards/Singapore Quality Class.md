@@ -9,4 +9,5 @@ The Singapore Quality Class and Singapore Quality Award are key milestones of th
 
 For more information, please visit the following website. <br> [https://www.spring.gov.sg/Building-Trust/Business-Excellence/Pages/business-excellence-overview.aspx](https://www.spring.gov.sg/Building-Trust/Business-Excellence/Pages/business-excellence-overview.aspx)
 
-![](/images/20080728001_01.jpg)
+<img src="/images/20080728001_01.jpg" 
+     style="width:60%">
