@@ -28,15 +28,6 @@ Cultivating a rich environment for communications to develop reading, writing, l
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div><div>
 
-<p> </p>	
-
-<p><a href="#Desired Outcomes">
-  Desired Outcomes
-</a></p>
-
-<h2 id="Desired Outcomes">Desired Outcomes</h2>
-
-<p>
 	
 All our pupils will be able to use English to express themselves.
 
