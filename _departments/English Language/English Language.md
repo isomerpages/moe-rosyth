@@ -120,7 +120,8 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 ![](/images/Character%20Day.jpg)
 
-![](/images/Character.jpg)
+<img src="/images/Character.jpg" 
+     style="width:70%">
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
