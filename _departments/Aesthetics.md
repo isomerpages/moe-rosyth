@@ -19,8 +19,7 @@ A structured and integrated programme to develop all pupils (P1 to P6) in the ae
 * aesthetically cultured
 * equipped with at least 2 forms of performing and visual arts skills 
 
-**Centre of Excellence for the Aesthetics**
-
+**Centre of Excellence for the Aesthetics** <br>
 As a N1 Cluster Centre of Excellence for the Aesthetics the school aims to:
 * Share our best practices amongst North Zone schools and at national and international levels
 * Develop pupils to be aesthetically sensitive, appreciating both performing and visual arts and are aware of developments of different cultures and countries
