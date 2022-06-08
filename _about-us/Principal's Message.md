@@ -6,7 +6,7 @@ description: ""
 <div>
 <div style="float: left">
 <img src="/images/Principal_Mdm%20Tan%20(1).jpg" 
-     style="width:60%">
+     style="width:80%">
 </div>
 <div>
 
