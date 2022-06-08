@@ -31,11 +31,14 @@ Every Rosythian leader, an active contributor, confident communicator, creative 
 * Respect & responsibility
 * Excellence in all we do
 
-![](/images/CCE1.png)
+<img src="/images/CCE1.png" 
+     style="width:50%">
+		
+<img src="/images/CCE2.jpg" 
+     style="width:50%">
 
-![](/images/CCE2.jpg)
-
-![](/images/CCE3.png)
+<img src="/images/CCE3.png" 
+     style="width:50%">
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
