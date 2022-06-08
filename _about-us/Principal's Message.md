@@ -11,9 +11,11 @@ description: ""
 <img src="https://loremflickr.com/320/240" />
 </div>
 <div>
-Text content goes here
+Welcome to Rosyth School where students and staff <strong> 'Learn with Passion, Serve with Compassion and Lead with Vision' </strong>
 </div>
 </div>
+
+
 
 Welcome to Rosyth School where students and staff 
 ***'Learn with Passion, Serve with Compassion and Lead with Vision'***
