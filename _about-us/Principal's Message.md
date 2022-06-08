@@ -29,6 +29,5 @@ Rosyth School has a rich history of 64 years and has held to its commitment and 
 Moving forward, Rosyth School will continue to aspire for greater height of growth and learning in our students as they serve and contribute to the community to live out the school motto “Ready to Serve”.
 
 
-Mdm Elis Tan Lee Ching
-
+Mdm Elis Tan Lee Ching <br>
 Principal
