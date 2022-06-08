@@ -6,7 +6,7 @@ description: ""
 <div>
 <div style="float: left">
 <img src="/images/Principal_Mdm%20Tan%20(1).jpg" 
-     style="width:25%">
+     style="width:60%">
 </div>
 <div>
 Welcome to Rosyth School where students and staff <strong> 'Learn with Passion, Serve with Compassion and Lead with Vision' </strong>
