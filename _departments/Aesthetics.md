@@ -40,3 +40,5 @@ As a N1 Cluster Centre of Excellence for the Aesthetics the school aims to:
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 ##### PHOTO GALLERY
+
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThWRjzVPPMWfYIDTWfrVjQzXeW90dK42W9k8XRajHrvV2yDVc3PN5ia9mHnjQKUGGyhI5THMpkabSz/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
