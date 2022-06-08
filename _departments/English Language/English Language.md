@@ -43,8 +43,12 @@ All our pupils will be able to use English to express themselves.
 **All should attain foundational skills, particularly in grammar, spelling and basic pronunciation.** They should be able to use English in everyday situations and for functional purposes, such as giving directions, information or instructions and making requests. **The majority of our pupils will attain a good level of competence in English, in both speech and writing.**
 
 </p>	
-test 1
 
+Take me to [pookie](#pookie)
+<a name="pookie"></a>
+	
+[Signature Programmes1](#SignatureProgrammes1) 
+	
 ##### SIGNATURE PROGRAMMES
 
 **A) STELLAR Programme**
@@ -59,6 +63,8 @@ As part of the Rosyth School strategic thrusts, the STELLAR @ Rosyth programme s
 It supports the current syllabus and is in line with the 2010 English Language Syllabus. It aims to mover learners towards independence using quality children's books and activities that motivate and engage young learners.
 
 During STELLAR lessons, children are exposed to more speaking and listening activities. Children learn reading and writing using varied and interesting books, with discussion, enriched with children's written language and filled with various reading materials for children to use. Teachers use a variety of print and non-print resources and children are exposed to literature and different texts to promote the writing. Learning Centres are created in classroom for independent small group learning. This provides the reinforcement and extension of teacher-guided lessons and language-experiential activities. Through interdepartment collaboration, lower primary children are also introduced to early Science in the English Curriculum. At P3, the children learn about environmental care and write about it as part of Writing . In essence, this collaboration will bring about greater engagement and meaning for the learning of skills and values within the existing curriculum.
+
+<a name="SignatureProgrammes1"></a>
 
 **B) Bookflood Programme**
 
