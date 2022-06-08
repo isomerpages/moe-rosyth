@@ -3,9 +3,12 @@ title: Rosyth School Alumni Association
 permalink: /about-us/rosyth-school-alumni-association
 description: ""
 ---
-![](/images/Capture.jpg)
+<img src="/images/Capture.jpg" 
+     style="width:70%">
 
-![](/images/rosyth60_logo.jpg)
+<img src="/images/rosyth60_logo.jpg" 
+     style="width:70%">
+
 
 #### Rosyth School Alumni Association
 
