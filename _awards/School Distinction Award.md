@@ -9,4 +9,5 @@ The School Distinction Award was first introduced in 2004 to give recognition to
 
 To get the top award, a school must shine in three different areas - such as uniformed groups, the arts and sports - and win two Best Practice Awards, including one for all-round student development.
 
-![](/images/SDALogo.jpg)
+<img src="/images/SDALogo.jpg" 
+     style="width:60%">
