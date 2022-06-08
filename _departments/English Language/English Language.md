@@ -43,7 +43,7 @@ All our pupils will be able to use English to express themselves.
 **All should attain foundational skills, particularly in grammar, spelling and basic pronunciation.** They should be able to use English in everyday situations and for functional purposes, such as giving directions, information or instructions and making requests. **The majority of our pupils will attain a good level of competence in English, in both speech and writing.**
 
 </p>	
-test	
+test 1
 
 ##### SIGNATURE PROGRAMMES
 
