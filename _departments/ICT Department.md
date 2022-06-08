@@ -20,7 +20,7 @@ description: ""
 
 ##### ICT Programmes
 
-![](/images/StudentsManga_1.jpg)
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTl7jqhqCQOarqsBFOpXWY4q77l9P3FZaimNzsS18NHu_tOCT_23_JY6KS04yoA08t1qolBrB-HEqgC/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 Rosyth School has benefited from the flexibility and autonomy through the devolution of ICT funds. Moving away from the standard provision of ICT equipment has given us the freedom to better choose our ICT tools that would allow us to cater to the needs and abilities of our pupils. Our ICT vision can now be driven by our educational goals and objectives, rather than by the standard provision of technologies.
 
