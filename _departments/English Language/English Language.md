@@ -36,7 +36,7 @@ Cultivating a rich environment for communications to develop reading, writing, l
 
 <h2 id="Desired Outcomes">Desired Outcomes</h2>
 
-<br>
+<p> </p>
 	
 All our pupils will be able to use English to express themselves.
 
