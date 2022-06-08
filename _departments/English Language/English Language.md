@@ -29,6 +29,8 @@ Cultivating a rich environment for communications to develop reading, writing, l
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div><div>
 
 	
+##### Desired Outcomes
+	
 All our pupils will be able to use English to express themselves.
 
 **All should attain foundational skills, particularly in grammar, spelling and basic pronunciation.** They should be able to use English in everyday situations and for functional purposes, such as giving directions, information or instructions and making requests. **The majority of our pupils will attain a good level of competence in English, in both speech and writing.**
