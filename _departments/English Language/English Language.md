@@ -26,7 +26,9 @@ third_nav_title: English Language
 	
 Cultivating a rich environment for communications to develop reading, writing, listening and speaking skills.
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"><div></div>
+
+<p> </p>
 
 [Desired Outcomes](#DesiredOutcomes) <br>
 [Signature Programmes](#SignatureProgrammes) <br>
