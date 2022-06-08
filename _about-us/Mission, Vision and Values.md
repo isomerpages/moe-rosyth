@@ -10,7 +10,7 @@ description: ""
 Maximising Potential through the Development of Mind, Body and Soul
 
 <img src="/images/ICARE%20Circle%20(transparent).png" 
-     style="width:60%">
+     style="width:55%">
 
 ### SCHOOL VALUES
 **I**ntegrity
