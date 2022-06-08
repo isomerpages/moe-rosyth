@@ -3,7 +3,17 @@ title: Principal's Message
 permalink: /about-us/principal-message
 description: ""
 ---
-![](/images/Principal_Mdm%20Tan%20(1).jpg)
+<img src="/images/Principal_Mdm%20Tan%20(1).jpg" 
+     style="width:25%">
+		 
+<div>
+<div style="float: left">
+<img src="https://loremflickr.com/320/240" />
+</div>
+<div>
+Text content goes here
+</div>
+</div>
 
 Welcome to Rosyth School where students and staff 
 ***'Learn with Passion, Serve with Compassion and Lead with Vision'***
