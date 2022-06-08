@@ -26,11 +26,11 @@ third_nav_title: English Language
 	
 Cultivating a rich environment for communications to develop reading, writing, listening and speaking skills.
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"><div></div>
-
 [Desired Outcomes](#DesiredOutcomes) <br>
 [Signature Programmes](#SignatureProgrammes) <br>
-[Achievements](#Achievements)
+[Achievements](#Achievements) <br>
+[Reading Lists](#ReadingLists) <br>
+[Web Resources](#WebResources)
 
 <a name="Desired Outcomes"></a>
 ##### Desired Outcomes
@@ -174,7 +174,7 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
-	
+<a name="ReadingLists"></a>
 ##### READING LISTS
 
 Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
@@ -415,6 +415,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
+<a name="WebResources"></a>
 ##### WEB RESOURCES
 
 
