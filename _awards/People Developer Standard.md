@@ -9,4 +9,5 @@ The People Developer Standard is a mark conferred by SPRING Singapore, which giv
 
 It is also the certification for the business excellence niche standard for people and provides organisations with a total approach to managing people and achieving high performance through people systems. It covers five dimensions of excellence, namely, Leadership, Planning, Information, People and Results. In order to attain the PD certification, organisations must attain at least 400 points in the healthcheck.
 
-![](/images/20140309131640.jpg)
+<img src="/images/20140309131640.jpg" 
+     style="width:70%">
