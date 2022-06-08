@@ -25,7 +25,7 @@ description: ""
 <div>
 <div style="float: right">
 <img src="/images/CCE1.png" 
-     style="width:50%">
+     style="width:80%">
 </div>
 <div>
 	
