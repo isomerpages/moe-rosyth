@@ -3,7 +3,15 @@ title: School Crest
 permalink: /about-us/school-crest
 description: ""
 ---
-![](/images/abt_crest.png)
+<div>
+<div style="float: right">
+<img src="/images/abt_crest.png" 
+     style="width:90%">
+</div>
+<div>
+
+</div>
+</div>
 
 ***By Mr Loh Khee Yew (Creator of the School Crest)***
 
