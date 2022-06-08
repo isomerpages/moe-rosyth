@@ -22,6 +22,16 @@ description: ""
 1) To deliver values-based programmes for development of 21st Century Competencies.
 2) Instilling the spirit of Active Citizenry in our students.
 
+<div>
+<div style="float: right">
+<img src="/images/CCE1.png" 
+     style="width:50%">
+</div>
+<div>
+	
+</div>
+</div>
+
 ##### DESIRED OUTCOMES
 Every Rosythian leader, an active contributor, confident communicator, creative thinker, critical problem solver and concerned citizen grounded on our ICARE Values:
 
