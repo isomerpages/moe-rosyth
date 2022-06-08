@@ -168,8 +168,7 @@ Written by Kaydon Arianne Tan
 > Together, they ruled wisely and lived happily ever after.
 
 
-***WINNING ENTRIES -***
-
+***WINNING ENTRIES -*** <br>
 [International Torrance Legacy Creative Writing Awards ](https://thecenterforgifted.org/tcw)
 
 
