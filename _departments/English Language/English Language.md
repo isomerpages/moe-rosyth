@@ -26,6 +26,22 @@ third_nav_title: English Language
 	
 Cultivating a rich environment for communications to develop reading, writing, listening and speaking skills.
 
+<!-- <a> element links to the section below -->
+<p><a href="#Section_further_down">
+  Desired Outcomes
+</a></p>
+
+<!-- Heading to link to -->
+<h2 id="Section_further_down">Section further down</h2>
+
+
+**Desired Outcomes** <br>
+**Signature Programmes** <br> 
+**Achievements** <br> 
+**Reading Lists** <br> 
+**Web Resources**
+
+
 ##### DESIRED OUTCOMES
 
 All our pupils will be able to use English to express themselves.
