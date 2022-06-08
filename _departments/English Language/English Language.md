@@ -22,8 +22,7 @@ third_nav_title: English Language
 	
 ***Effective and Confident Communicators***
 
-### MISSION
-	
+### MISSION  
 Cultivating a rich environment for communications to develop reading, writing, listening and speaking skills.
 
 <a name="Top"></a>
@@ -42,8 +41,7 @@ All our pupils will be able to use English to express themselves.
 **All should attain foundational skills, particularly in grammar, spelling and basic pronunciation.** They should be able to use English in everyday situations and for functional purposes, such as giving directions, information or instructions and making requests. **The majority of our pupils will attain a good level of competence in English, in both speech and writing.**
 
 <a name="SignatureProgrammes"></a>
-##### SIGNATURE PROGRAMMES
-[Top](#Top)
+##### SIGNATURE PROGRAMMES <br> [Top](#Top)
 
 **A) STELLAR Programme**
 
@@ -131,8 +129,7 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 <a name="Achievements"></a>
-##### ACHIEVEMENTS
-[Top](#Top)
+##### ACHIEVEMENTS <br> [Top](#Top)
 
 **English Department Achievements - 2019**
 
@@ -179,8 +176,7 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 <a name="ReadingLists"></a>
-##### READING LISTS
-[Top](#Top)
+##### READING LISTS <br> [Top](#Top)
 
 Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
@@ -421,8 +417,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 <a name="WebResources"></a>
-##### WEB RESOURCES
-[Top](#Top)
+##### WEB RESOURCES <br> [Top](#Top)
 
 
 | Website | Brief Description | 
