@@ -26,6 +26,8 @@ third_nav_title: English Language
 	
 Cultivating a rich environment for communications to develop reading, writing, listening and speaking skills.
 
+<a name="Top"></a>
+	 
 [Desired Outcomes](#DesiredOutcomes) <br>
 [Signature Programmes](#SignatureProgrammes) <br>
 [Achievements](#Achievements) <br>
@@ -34,6 +36,7 @@ Cultivating a rich environment for communications to develop reading, writing, l
 
 <a name="Desired Outcomes"></a>
 ##### Desired Outcomes
+[Top](#Top)
 	
 All our pupils will be able to use English to express themselves.
 
@@ -41,6 +44,7 @@ All our pupils will be able to use English to express themselves.
 
 <a name="SignatureProgrammes"></a>
 ##### SIGNATURE PROGRAMMES
+[Top](#Top)
 
 **A) STELLAR Programme**
 
@@ -129,6 +133,7 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 <a name="Achievements"></a>
 ##### ACHIEVEMENTS
+[Top](#Top)
 
 **English Department Achievements - 2019**
 
@@ -176,6 +181,7 @@ The annual school-wide initiative, Read@Rosyth includes “It’s Storytime!” 
 
 <a name="ReadingLists"></a>
 ##### READING LISTS
+[Top](#Top)
 
 Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
@@ -417,6 +423,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 
 <a name="WebResources"></a>
 ##### WEB RESOURCES
+[Top](#Top)
 
 
 | Website | Brief Description | 
