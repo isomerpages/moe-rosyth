@@ -9,7 +9,8 @@ description: ""
 ### SCHOOL MISSION
 Maximising Potential through the Development of Mind, Body and Soul
 
-![](/images/ICARE%20Circle%20(transparent).png)
+<img src="/images/ICARE%20Circle%20(transparent).png" 
+     style="width:70%">
 
 ### SCHOOL VALUES
 **I**ntegrity
