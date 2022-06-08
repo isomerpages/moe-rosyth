@@ -9,11 +9,6 @@ description: ""
      style="width:60%">
 </div>
 <div>
-Welcome to Rosyth School where students and staff <strong> 'Learn with Passion, Serve with Compassion and Lead with Vision' </strong>
-</div>
-</div>
-
-
 
 Welcome to Rosyth School where students and staff 
 ***'Learn with Passion, Serve with Compassion and Lead with Vision'***
