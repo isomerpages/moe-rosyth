@@ -13,14 +13,10 @@ Maximising Potential through the Development of Mind, Body and Soul
      style="width:55%">
 
 ### SCHOOL VALUES
-**I**ntegrity
-
-**C**are
-
-gr**A**titude
-
-**R**espect and Resilience
-
+**I**ntegrity <br>
+**C**are <br>
+gr**A**titude <br>
+**R**espect and Resilience <br>
 **E**ntrepreneurial Spirit
 
 ![](/images/ICARE%20line-up.png)
