@@ -6,7 +6,7 @@ description: ""
 <div>
 <div style="float: right">
 <img src="/images/abt_crest.png" 
-     style="width:90%">
+     style="width:100%">
 </div>
 <div>
 
