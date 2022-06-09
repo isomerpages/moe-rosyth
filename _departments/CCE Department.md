@@ -90,8 +90,7 @@ Following which, students can write into our very own Rosyth Forum to air their 
 
 Through the C@RS Programme, Rosyth School hopes to nurture our young to become global citizens who are informed and involved in current affairs.
 
-<img src="/images/Untitled1.jpg" 
-     style="width:90%">
+![](/images/Untitled1.jpg)
 Students writing their news scripts 
 
 ![](/images/Untitled2.jpg)
