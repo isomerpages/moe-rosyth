@@ -13,4 +13,5 @@ sections:
           description: ""
           url: /announcements/
       title: Rosyth School
+      subtitle: Learn with Passion, Serve with Compassion, Lead with Vision
 ---
