@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/rosyth.gif
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/
       title: Rosyth School
       subtitle: Learn with Passion, Serve with Compassion, Lead with Vision
+  - resources:
+      title: Announcements
+      subtitle: check out our latest
+      button: Click here for more
 ---
