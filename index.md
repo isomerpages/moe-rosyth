@@ -10,6 +10,10 @@ sections:
       background: /images/rosyth.gif
       title: Rosyth School
       subtitle: Learn with Passion, Serve with Compassion, Lead with Vision
+      key_highlights:
+        - title: FREQUENTLY ASKED QUESTIONS
+          description: ""
+          url: /faq
   - resources:
       title: Announcements
       subtitle: check out our latest
