@@ -21,7 +21,7 @@ sections:
         positive attitudes, nurturing healthy minds for happy hearts.
       button: Click for more
       url: https://sites.google.com/moe.edu.sg/rosythhmhh/home
-      alt: Image alt text
+      alt: Healthy Mind, Healthy Heart
       image: /images/PAL ssports (9).jpg
   - resources:
       title: Announcements
