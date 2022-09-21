@@ -2,4 +2,5 @@ collections:
   p1-orientation:
     output: true
     order:
+      - Learn with Passion/.keep
       - My School, Rosyth School.md
