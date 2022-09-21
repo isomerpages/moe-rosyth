@@ -17,3 +17,7 @@ We learn through/with,
 Learning is never dull in Rosyth and you have to experience it yourself!
 
 Please click and view more photographs of us learning in school:
+
+### Role-playing
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxsehTNPb-pTRJ_FfEY3qbuwTMXsT76p-aZL79uifVf3kNNEfQW7_sMms_Ytv2SSOG9kM9fmvUN8Cg/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
