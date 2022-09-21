@@ -17,3 +17,14 @@ We have
 8.  Character and Citizenship Education
 
 Please click and view some photographs of us having lessons in school.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SFKu53b4HyY?start=1" height="315" width="560"></iframe>
+
+### The Subjects we learn
+
+#### English
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqJgFzlXcOazxPw8wSHWC8wpriHSatniw--UP3UR24v-7aRVjuoC2SdJz55jYFv7IUsomIcBsOdv1h/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+#### Mother Tongue
+
