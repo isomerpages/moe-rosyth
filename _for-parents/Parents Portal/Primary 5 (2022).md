@@ -1,6 +1,6 @@
 ---
 title: Primary 5 (2022)
-permalink: /for-parents/parents-portal/primary-5-2022
+permalink: /for-parents/parents-portal/primary-5-2022/
 description: ""
 third_nav_title: Parents Portal
 ---
@@ -59,9 +59,6 @@ This includes information on subject syllabus, subject-based banding, etc.
 
 Bully Free (Children's Society): [Bully Free](https://bullyfree.sg/) <br>
 This includes tips and advice to help children handle bullying effectively. 
-
-Cyber Wellness Portal (MOE): [Cyber Wellness Portal](http://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101) <br> 
-This includes tips in guiding your child to use the internet appropriately as well as a guide in setting parental controls. 
 
 Holistic Health Framework (MOE): [Holistic Health Framework](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fholistic-health-framework&user=extranet%5cAnonymous&site=moe-website) <br> 
 This includes resources for weight management.
