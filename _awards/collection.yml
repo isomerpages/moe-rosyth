@@ -2,7 +2,6 @@ collections:
   awards:
     output: true
     order:
-      - School Green Awards.md
       - People Developer Standard.md
       - School Distinction Award.md
       - Singapore Quality Class.md
