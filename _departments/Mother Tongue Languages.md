@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /departments/mother-tongue-languages
+permalink: /departments/mother-tongue-languages/
 description: ""
 ---
 ### Mother Tongue Languages
@@ -60,4 +60,3 @@ Objectives of the programme:
 | **Tamil Language** | |
 | **Chinese Language** | |
 | [推广华文学习委员会网站 Committee to Promote Chinese Language Learning](https://www.cpcll.sg/) | 提供由社区组织举办的与华文学习有关的活动资讯。<br> A website that contains information about the various events and programmes organized by the community to support children in the learning of Chinese Language outside schools. | 
-| [讲华语故事活动 Chinese Story-telling Sessions](https://www.nlb.gov.sg/golibrary/programme/Story-telling%20~2Fcrafts.aspx) | 提供由国家图书馆举办的讲华文故事的活动资讯。<br> This link provides details about the Chinese story-telling sessions held in the national libraries. |
