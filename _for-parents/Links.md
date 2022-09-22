@@ -18,6 +18,6 @@ description: ""
 * [Rosyth School eLibrary (P3-P6 Students)](https://schoolibrary.moe.edu.sg/rosyth/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [Skills Future Portal (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 * [Bully Free Campaign](http://bullyfree.sg/)
-* [Scratch - Imagine, Program, Share (mit.edu)](https://scratch.mit.edu/)
-* [Micro:bit Educational Foundation | micro:bit (microbit.org)](https://www.microbit.org/)
+* [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
+* [Micro:bit Educational Foundation](https://www.microbit.org/)
 * [Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)
