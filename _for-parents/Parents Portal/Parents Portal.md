@@ -21,7 +21,6 @@ third_nav_title: Parents Portal
 * [FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf) 
 * [Holiday Care Pack Primary 1 - 2 Edition](/files/Holiday%20Care%20Pack%20Pri%201%20-2%20Edition(5May).pdf) 
 * [Holiday Care Pack Primary 3 - 6 Edition](/files/Holiday%20Care%20Pack%20Pri%203%20-%206%20Edition(5May).pdf) 
-* [NEU PC Plus Application Form](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v4.pdf)
 * [Sexuality Education - Info for Parents](/files/Info_on_SEd_for_RS_website_2022_final.pdf)
 
 <p> </p>
