@@ -13,11 +13,11 @@ description: ""
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
-##### VISION
+### VISION
 
 ***Empowering Future Ready Learners through the Use of ICT***
 
-##### ICT Programmes
+### ICT PROGRAMMES
 
 Rosyth School has benefited from the flexibility and autonomy through the devolution of ICT funds. Moving away from the standard provision of ICT equipment has given us the freedom to better choose our ICT tools that would allow us to cater to the needs and abilities of our pupils. Our ICT vision can now be driven by our educational goals and objectives, rather than by the standard provision of technologies.
 
