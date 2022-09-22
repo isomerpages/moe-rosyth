@@ -1,6 +1,6 @@
 ---
 title: Primary 6 (2022)
-permalink: /for-parents/parents-portal/primary-6-2022
+permalink: /for-parents/parents-portal/primary-6-2022/
 description: ""
 third_nav_title: Parents Portal
 ---
@@ -18,33 +18,7 @@ third_nav_title: Parents Portal
 
 [FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf)
 
-[Raffles Institution 2022 Webinar](/files/E-Mailer%20DSA%20Sec%20Webinar%20(1).pdf)
-
-[Hwa Chong Open House 2022](/files/Hwa%20Chong%20Open%20House.pdf)
-
-[Cedar Girls' Outreach Talk and e-Open House](/files/Cedar%20Girls.pdf)
-
-[RGS Virtual Open House 2022](/files/Virtual%20Open%20House%202022%20-%20Poster%20(2).pdf)
-
-[RGS Virtual Open House 2022 - Webinar Information](/files/Annex%20I%20-%20RGS%20Virtual%20Open%20House%202022%20-%20Webinar%20Information.pdf)
-
 [Infopack on Transition to Secondary Schools 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(2).pdf)
-
-[Singapore Sports School E-Open House 2022](/files/Singapore%20Sports%20School%20E-Open%20House%202022.pdf)
-
-[ACSI E-Open House 2022](/files/ACSI%20E-Open%20House%202022.pdf)
-
-[Victoria School Open House 2022](/files/VS%20open%20house.pdf)
-
-[DSA to SCGS 2023](/files/2022%20DSA%20Postcard%20SCGS.pdf)
-
-[MGS Open House 2022](/files/Invitation%20to%20MGS%20Open%20House%202022.pdf)
-
-[SJI Open House 2022](/files/SJI.pdf)
-
-[Hwa Chong International School - 2022 Virtual Open House](/files/Hwa%20Chong%20International%20School%20-%202021%20Virtual%20Open%20House.pdf)
-
-[SOTA e-Open House 2022](/files/SOTA%20e-Open%20House%202022.pdf)
 
 ##### FORM TEACHERS
 
@@ -100,9 +74,6 @@ The P6 Graduation cum Prize Giving Day is the climatic event for the students as
 
 MySkillsFuture Portal:
 [MySkillsFuture Portal](https://www.myskillsfuture.sg/content/student/en/primary.html)
-
-MOE ECG:  
-[MOE Education and Career Guidance](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fecg-parent-guide%2f&user=extranet%5cAnonymous&site=moe-website#p=22)
 
 Opportunities for Pursuing the Arts: <br>
 [Opportunities for Pursuing Arts](https://www.myskillsfuture.sg/content/dam/Article/OppForPurArt.pdf)
