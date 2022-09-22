@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Information for New Students.md
       - Admission Matters.md
       - Administrative Matters.md
+      - Information for New Students.md
       - Parents Portal/.keep
       - Parents Portal/Parents Portal.md
       - Parents Portal/Learning with Technology.md
