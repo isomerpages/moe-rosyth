@@ -16,8 +16,3 @@ description: ""
 * Member: Mr Melvin See Hsien Huei
 * Member: Mr Edwin Chin Fook Kin
 * Member: Mr Yap Voon Kian
-
-
-
-
-* 
