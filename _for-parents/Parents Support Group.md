@@ -3,7 +3,7 @@ title: Parents Support Group
 permalink: /for-parents/parents-support-group/
 description: ""
 ---
-### Rosyth School PSG
+### Rosyth School Parents Support Group (PSG)
 
 The Rosyth School Parents Support Group (PSG) play a vital area in supporting teachers and students. Parents of current and new Rosythians may find out more about how they can contribute and participate in the PSG activities by clicking on the following link.
 
