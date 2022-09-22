@@ -24,7 +24,6 @@ sections:
       alt: Healthy Mind, Healthy Heart
       image: /images/PAL ssports (9).jpg
   - resources:
-      title: Announcements
-      subtitle: Our Latest
+      title: NEWSFLASH
       button: Click here for more
 ---
