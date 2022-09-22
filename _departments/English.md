@@ -190,4 +190,3 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*. 
 | [English4Today.com : Online English Grammar](https://english4today.com/grammar-search-results/) | This site has information on different grammar items as well as links to pages on punctuation, writing tips and English tests. | 
 | [EnglishClub.com : English Vocabulary - Vocabulary Awareness for ESL Learners](https://www.englishclub.com/vocabulary/) | This site contains links to useful word lists including phrasal verbs, figures of speech and idioms | 
 | [Online Dictionary](https://dictionary.cambridge.org/) | A useful online dictionary by Cambridge Dictionary. Meaning of idioms and phrases can also be easily found at this site. | 
-| [STELLAR Resources](http://www.stellarliteracy.sg/) | This site provides useful resources for parents whose children are undergoing the STELLAR programme in school. Suggested activities and games can also be found at this site. |
