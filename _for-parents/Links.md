@@ -1,8 +1,11 @@
 ---
 title: Links
-permalink: /for-parents/links
+permalink: /for-parents/links/
 description: ""
 ---
+**For Teachers **
+* [SLS (Student Learning Space)] (https://learning.moe.edu.sg/login)
+* 
 <table>
 <tbody>
 <tr>
