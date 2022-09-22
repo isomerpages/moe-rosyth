@@ -20,6 +20,6 @@ With effect from 15 December 2015, Mdm Elis Tan took over principalship.
 
 In 2001, the school was relocated to Serangoon North Ave 4 to accomodate the increasing student population. There are currently almost 2030 students.
 
-Please click on the following link to view the school's history microsite, which was created as part of the the school's 60th anniversary celebrations.
+Please click on the following link to view the school's e-history microsite, which was created as part of the the school's 60th anniversary celebrations.
 
 [Click here to visit site](https://rosyth60.wixsite.com/rs60)
