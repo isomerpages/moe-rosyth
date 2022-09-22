@@ -3,7 +3,6 @@ title: Contact Information
 permalink: /contact-us/
 description: ""
 ---
-
 | General Office |  |
 |---|---|
 | Address | 21 Serangoon North Ave 4,<br>Singapore 555855 |
@@ -44,7 +43,7 @@ description: ""
 
 | Administration Manager |  |  |
 |---|---|---|
-| Mdm Chia Chin Woon | Phone | 6481 2273 |
+| Mdm Lee Hwee Ching | Phone | 6481 2273 |
 |  | Email | rosyth_sch@schools.gov.sg |
 |   |  |  |
 
@@ -98,7 +97,7 @@ description: ""
 | Mdm Mohamed Hanifa Nazrin | Email | mohamed_hanifa_nazrin@schools.gov.sg |
 | | | | 
 
-| HOD/Student Management (Covering) |  |  |
+| HOD/Student Management |  |  |
 |---|---|---|
 | Mr Justyn Lim | Email | lim_lai_fu@schools.gov.sg | 
 | | | | 
