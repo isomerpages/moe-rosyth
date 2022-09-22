@@ -1,8 +1,18 @@
 ---
 title: School Organisation Chart
-permalink: /about-us/school-organisation-chart
+permalink: /about-us/school-organisation-chart/
 description: ""
 ---
-![](/images/School%20Organisation%20Chart%2018%20April%202022.jpg)
+**School Leaders**
+Principal: Mdm Elis Tan
+Vice-Principal: Ms Poh Hwee Thing
+Vice-Principal (Admin): Mr Tan Boon Seng
 
-[Click here to download pdf](/files/School%20Organisation%20Chart%2018%20April%202022.pdf)
+**School Admin Team**
+Admin Manager: Mdm Lee Hwee Ching
+Operations Manager: Mr Quek Kim Hoe
+Operations Manager: Mr Jasbir Singh
+
+English Department
+HOD/English: Mdm Tan Nguang Leng
+LH/English: Mdm Au Zhi Jun
