@@ -3,7 +3,6 @@ title: ICT & MRL
 permalink: /departments/ict-department/
 description: ""
 ---
-
 ### ICT Department
 
 | ICT Department | | |
@@ -16,8 +15,6 @@ description: ""
 ##### VISION
 
 ***ICT is used to engage pupils in learning.***
-
-[Manga @ Rosyth ](https://rosyth.moe.edu.sg/departments/aesthetics/manga-art-at-rosyth)
 
 ##### ICT Programmes
 
