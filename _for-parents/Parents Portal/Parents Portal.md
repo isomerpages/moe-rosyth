@@ -13,8 +13,6 @@ third_nav_title: Parents Portal
 <p> </p>
 
 **News and Announcements**
-* [Wipe-Down Routine ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/wipe-down-routine) 
-* [How to beat the bug!](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/how-to-beat-the-bug) 
 * [Infographic - What to Expect During Vaccination](/files/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
 * [Infographic - Vaccination for students](/files/Infographic%20-%20Vaccination%20for%20Students.pdf)[](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20Vaccination%20for%20Students.pdf)
 * [FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf) 
