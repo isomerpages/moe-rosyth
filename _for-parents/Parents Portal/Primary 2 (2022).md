@@ -98,6 +98,3 @@ This is a useful link to the various subjects' teaching and learning resources.
 
 Moo-O: [Moo-O](https://www.moo-o.com/) <br> 
 Moo-O is a digital storybook. It transforms readers instantly into story characters, creating a whole new experience for Reading Aloud. Moo-O highly engages and motivates children to read fluently and expressively. It provides an excellent opportunity for family bonding through reading. 
-
-STELLAR: [STELLAR](http://www.stellarliteracy.sg/)
-Resources for STELLAR (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading)
