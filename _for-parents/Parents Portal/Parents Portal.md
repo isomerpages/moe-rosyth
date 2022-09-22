@@ -11,6 +11,7 @@ third_nav_title: Parents Portal
 | [Infopack on Transition to Secondary School 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(1).pdf) |
 | [Find out more about changes to the PSLE scoring and Sec 1 posting from 2021](https://www.moe.gov.sg/page%20not%20found?item=%2fmicrosites%2fpsle%2f&user=extranet%5cAnonymous&site=moe-website) | 
 
+<p> </p>
 
 | Circular to Parents (All levels) | 
 | -------- | 
@@ -21,6 +22,7 @@ third_nav_title: Parents Portal
 | [2022 P1 Orientation (Mathematics)](/files/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 | [2022 P1 Orientation (PAL)](/files/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
 
+<p> </p>
 
 | News and Announcements | 
 | -------- | 
@@ -35,6 +37,7 @@ third_nav_title: Parents Portal
 | [NEU PC Plus Application Form](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v4.pdf) |
 | [Sexuality Education - Info for Parents](/files/Info_on_SEd_for_RS_website_2022_final.pdf) |
 
+<p> </p>
 
 | Guides | 
 | -------- | 
