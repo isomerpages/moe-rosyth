@@ -169,7 +169,7 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*. 
 
 [Reading List](/files/Reading%20List.pdf)
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+
 
 <a name="WebResources"></a>
 ##### WEB RESOURCES <br> [Top](#Top)
