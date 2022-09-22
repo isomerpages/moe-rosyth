@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_5338.jpg
+      background: /images/IMG_5338v3.jpg
       title: Rosyth School
       subtitle: Learn with Passion, Serve with Compassion, Lead with Vision
       key_highlights:
