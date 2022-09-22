@@ -4,7 +4,6 @@ permalink: /departments/gifted-education-programme-gep-in-rosyth-school/
 description: ""
 third_nav_title: Gifted Education
 ---
-
 ### Gifted Education Programme (GEP) in Rosyth School
 
 | Gifted Education (GE) Department |  | |
@@ -21,7 +20,6 @@ third_nav_title: Gifted Education
 <a name="Top"></a>
 
 [FAQ for Newly Posted students to P4 GEP](/files/PostingFlowchart_FAQ_(for_parents).pdf) <br>
-[Learning Experience ](https://rosyth.moe.edu.sg/ge-school-experience) <br>
 [Desired Outcomes](#DesiredOutcomes) <br>
 [Key Programmes of GEP](#KeyProgrammesofGEP) <br> 
 [Mixed Form Classes](#MixedFormClasses) <br>
