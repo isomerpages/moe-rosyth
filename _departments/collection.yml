@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - English Language.md
       - Aesthetics.md
       - CCE Department.md
+      - English Language.md
       - Gifted Education Programme/.keep
       - Gifted Education Programme/Gifted Education Programme (GEP) in Rosyth
         School.md
