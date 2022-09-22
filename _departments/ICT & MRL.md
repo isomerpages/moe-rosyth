@@ -32,5 +32,3 @@ During art lessons, instead of paper, pencils or paints, pupils are handed graph
 In line with the MOE initiatives to take learning out of the classroom, Rosyth School integrates the use of iPads in our Learning Journeys at the zoo and at Changi Airport. The use of the mobile technology provides a platform for pupils to gather data, record their experiences and reflect upon it before planning and applying what they have learnt.
 
 Coding and Robotics are also infused into our curriculum. Our students were featured by the international Telecommunication Union (ITU) as they embarked on the Lab on Wheels Program. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yWrBI2LEChk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
