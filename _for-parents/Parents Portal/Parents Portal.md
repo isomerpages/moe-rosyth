@@ -13,7 +13,6 @@ third_nav_title: Parents Portal
 <p> </p>
 
 **News and Announcements**
-* [2022 Parent Volunteer Application ](https://moe-rosyth-staging.netlify.app/announcements/announcements/2022-parent-volunteer-applications)
 * [Wipe-Down Routine ](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/wipe-down-routine) 
 * [How to beat the bug!](https://rosyth-moe-edu-sg-admin.cwp.sg/others/announcements/how-to-beat-the-bug) 
 * [Infographic - What to Expect During Vaccination](/files/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
