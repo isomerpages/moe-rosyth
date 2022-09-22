@@ -23,7 +23,7 @@ description: ""
 
 Rosyth School has benefited from the flexibility and autonomy through the devolution of ICT funds. Moving away from the standard provision of ICT equipment has given us the freedom to better choose our ICT tools that would allow us to cater to the needs and abilities of our pupils. Our ICT vision can now be driven by our educational goals and objectives, rather than by the standard provision of technologies.
 
-We are able to equip ourselves with the appropriate ICT tools to experiment, contextualize and boost current teaching pedagogies. It has certainly empowered us to leverage on ICT as a platform to enhance our teaching and school processes. Amongst the varied technologies that we hold are MP3 players, graphic tablets, handhelds, interactive whiteboards and video production equipment.
+We are able to equip ourselves with the appropriate ICT tools to experiment, contextualize and boost current teaching pedagogies. It has certainly empowered us to leverage on ICT as a platform to enhance our teaching and school processes. Amongst the varied technologies that we hold are graphic tablets, handhelds, interactive whiteboards and video production equipment. Students are empowered to learn with technology through the following framework, which empowers them to be future ready creators and learners.
 
 During art lessons, instead of paper, pencils or paints, pupils are handed graphic tablets on which they create Manga Characters. This is part of our Manga Art @ Rosyth Programme which uses technology to help pupils learn the techniques of manga drawing during their formal Art curriculum.
 
