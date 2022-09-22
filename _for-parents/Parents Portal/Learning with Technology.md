@@ -22,6 +22,6 @@ third_nav_title: Parents Portal
 <p> </p>
 
 **CyberWellness**
-* [Cyber wellness | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+* [MOE Cyber wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 * [Protecting personal data online](/files/Managing%20Personal%20Data.pdf) 
 * [Positive peer influence online](/files/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf)
