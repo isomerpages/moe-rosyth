@@ -23,5 +23,5 @@ third_nav_title: Parents Portal
 
 **CyberWellness**
 * [Tips and guides on reinforcing your child's cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) 
-* [Protecting personal data online](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Helping%20Your%20Children%20Protect%20Their%20Personal%20Data%20Online.zip) 
+* [Protecting personal data online](/files/Managing%20Personal%20Data.pdf) 
 * [Positive peer influence online](/files/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf)
