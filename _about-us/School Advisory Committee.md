@@ -1,8 +1,23 @@
 ---
 title: School Advisory Committee
-permalink: /about-us/school-advisory-committee
+permalink: /about-us/school-advisory-committee/
 description: ""
 ---
-![](/images/SAC-PDFv21-14072020.jpg)
+**School Advisory Committee**
+* Chairman: Dr Chen Lisa
+* Vice-Chairman: Mr Alfred Chua Cheng Huat
+* Hon. Secretary: Mdm Elis Tan
+* Hon. Treasurer: Mr Tan Wee Pin
+* Member: Ms Priya Jean Alexander
+* Member: Mrs Cherie Tseng
+* Member: Dr Kevin Lee Boon Leng
+* Member: Mr Sathinathan S/O M R Karuppiah
+* Member: Dr Kelvin Loh Chi-Keon
+* Member: Mr Melvin See Hsien Huei
+* Member: Mr Edwin Chin Fook Kin
+* Member: Mr Yap Voon Kian
 
-[Click here to download pdf](/files/SAC-PDFv21-14072020.pdf)
+
+
+
+* 
