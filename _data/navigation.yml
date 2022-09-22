@@ -13,6 +13,8 @@ links:
         url: /about-us/schoolsong
       - title: School History
         url: /about-us/school-history
+      - title: School Awards
+        url: /about-us/school-awards
       - title: School Organisation Chart
         url: /about-us/school-organisation-chart
       - title: School Advisory Committee
@@ -21,8 +23,6 @@ links:
         url: /about-us/rosyth-school-alumni-association
       - title: Students Achievements
         url: /about-us/our-achievements/2019
-      - title: School Awards
-        url: /about-us/school-awards
   - title: Departments
     url: /departments/aesthetics
     sublinks:
