@@ -25,6 +25,6 @@ sections:
       image: /images/PAL ssports (9).jpg
   - resources:
       title: Announcements
-      subtitle: check out our latest
+      subtitle: Our Latest
       button: Click here for more
 ---
