@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
 ---
 Rosyth School started in 1956. It was situated at Rosyth Road from which it derived its name. The majority of pupils then were from the neighbouring kampungs. In early 1983, the school was identified as one of the four primary schools to host the Gifted Education Programme.
@@ -19,3 +19,7 @@ The school had seven Principals. <br>
 With effect from 15 December 2015, Mdm Elis Tan took over principalship.
 
 In 2001, the school was relocated to Serangoon North Ave 4 to accomodate the increasing student population. There are currently almost 2030 students.
+
+Please click on the following link to view the school's history microsite, which was created as part of the the school's 60th anniversary celebrations.
+
+[Click here to visit site](https://rosyth60.wixsite.com/rs60)
