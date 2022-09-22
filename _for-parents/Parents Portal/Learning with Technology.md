@@ -6,7 +6,7 @@ third_nav_title: Parents Portal
 ---
 **Learning with Technology**
 * [SLS Login Guide](https://www.youtube.com/watch?v=5TYrh83EzIw&feature=youtu.be)
-* [SLS Login Troublehooting](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html) 
+* [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
 * [Google Meet Guide](https://drive.google.com/file/d/15x7EOtHP_Khr6XAmKGeeq16DNJ_bu17F/view) 
 * [Zoom Learning Guide](/files/Zoom%20for%20Students.pdf) 
 * [RS VC Code of Conduct and Rules](/files/VC%20Code%20of%20Conduct.pdf)
@@ -25,4 +25,4 @@ third_nav_title: Parents Portal
 * [Tips and guides on reinforcing your child's cyberwellness](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) 
 * [Protecting personal data online](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/For%20Parents/Helping%20Your%20Children%20Protect%20Their%20Personal%20Data%20Online.zip) 
 * [Managing excessive internet use](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/News%20and%20Announcments/4%20Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf)
-* [Positive peer influence online](/files/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf) 
+* [Positive peer influence online](/files/T1%20-%20Developing%20your%20child%20to%20be%20a%20positive%20peer%20influence%20online.pdf)
