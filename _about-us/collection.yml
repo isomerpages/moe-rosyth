@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Awards/.keep
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School Crest.md
       - School Song.md
       - School History.md
+      - School Awards/.keep
       - School Organisation Chart.md
       - School Advisory Committee.md
       - Rosyth School Alumni Association.md
