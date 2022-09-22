@@ -3,7 +3,6 @@ title: English
 permalink: /departments/english-language/
 description: ""
 ---
-
 ### English Language
 
 | English Department |  | |
@@ -412,21 +411,15 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*.
 | -------- | -------- | 
 | [BBC Schools - KS2 Bitsize Revision](https://www.bbc.co.uk/bitesize/subjects/zv48q6f) | Links to pages with games on reading, writing, spelling and grammar. |
 | [Advanced English Lessons](https://www.englishpage.com/) | Contains online English lessons & ESL / EFL resources. Learn English using the English tutorials featuring dozens of interactive exercises. | 
-| [EnglishLearner.com: English Lessons and Tests](http://english.unitecnology.ac.nz/) | **English Lessons and Tests**: Learners of English will find interactive tests and exercises here: grammar, vocabulary, reading, crosswords, hangman and more. |
-| [English Online. Exploring Language: A Handbook for Teachers](http://grammar.ccc.commnet.edu/grammar/) | **A Handbook for Teachers**: A site for English teachers which includes teaching resources, networks and research for teachers and student projects. | 
 | [Guide to Grammar and Writing](https://learnenglish.britishcouncil.org/grammar) | This site has grammar topics, interactive quizzes and PowerPoint presentations. | 
 | [Learn English - Grammar Games Index Page](https://learnenglish.britishcouncil.org/grammar) | A portal which links to all the British Council's websites for teachers and learners of English. This page contains a series of grammar games. |
 | [Learning English Kids Home Page](http://learnenglishkids.britishcouncil.org/) | This site is for children who are learning English, containing games, songs, stories and activities for learning English. | 
 | [The Free Dictionary - Idioms and Phrases](https://idioms.thefreedictionary.com/) | The idiom dictionary is compiled from the Cambridge International Dictionary of Idioms and the Cambridge Dictionary of American Idioms. The Cambridge International Dictionary of Idioms explains over 7,000 idioms current in British, American and Australian English, helping learners to understand them and use them with confidence. | 
 | [Online Basic Skill Games](https://idioms.thefreedictionary.com/) | This site has educational resources for K-8 students. | 
-| [Funbrain.com - Curriculum Guide](https://www.funbrain.com/teachers/subj_lang.html) | This is a language arts site for K-8 teachers and students. |
 | [English-Zone.com](https://www.english-zone.com/) | This site has links to several zones including grammar zone, reading zone, verb zone, idiom zone, spelling zone, writing zone as well as worksheets to print. | 
 | [ESL Home.org - Vocabulary Sorted by Topics](http://www.eslhome.org/ESLstudent/online.html#vocabulary) | This site has online exercises on vocabulary sorted by topics. | 
 | [The Internet Grammar of English - Contents](https://www.ucl.ac.uk/internet-grammar/frames/contents.htm) | This is an online course in English grammar written primarily for university undergraduates. It is, however, useful to those interested in the English language and does not assume any prior knowledge of grammar. | 
 | [English4Today.com : Online English Grammar](https://english4today.com/grammar-search-results/) | This site has information on different grammar items as well as links to pages on punctuation, writing tips and English tests. | 
 | [EnglishClub.com : English Vocabulary - Vocabulary Awareness for ESL Learners](https://www.englishclub.com/vocabulary/) | This site contains links to useful word lists including phrasal verbs, figures of speech and idioms | 
-| [IROn-line (Interactive Resources) (English)](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fsyllabuses%2fenglish-language-and-literature&user=extranet%5cAnonymous&site=moe-website) | The Educational Technology Division (ETD) collaborates with teachers in the development of Interactive Resources (IRs) for teaching and learning in schools. Each web-based IR is a stand alone resource that can be reused and customized to meet the needs of teachers and pupils. The IRs developed with teachers are added to the pool of resources that can be shared and used in classroom teaching and learning. | 
 | [Online Dictionary](https://dictionary.cambridge.org/) | A useful online dictionary by Cambridge Dictionary. Meaning of idioms and phrases can also be easily found at this site. | 
-| [Story Planning](https://www.bbc.co.uk/bitesize/ks2/english/writing/story_plan/play/) | This site has writing games that helps pupils to plan their stories. | 
 | [STELLAR Resources](http://www.stellarliteracy.sg/) | This site provides useful resources for parents whose children are undergoing the STELLAR programme in school. Suggested activities and games can also be found at this site. | 
-| [Story-Telling](https://www.nlb.gov.sg/golibrary/programme/Story-telling%20~2Fcrafts.aspx) | This site provides more information on story-telling sessions organised by the National Library. |
