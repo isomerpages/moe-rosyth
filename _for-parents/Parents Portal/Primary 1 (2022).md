@@ -1,6 +1,6 @@
 ---
 title: Primary 1 (2022)
-permalink: /for-parents/parents-portal/primary-1-2022
+permalink: /for-parents/parents-portal/primary-1-2022/
 description: ""
 third_nav_title: Parents Portal
 ---
@@ -181,9 +181,6 @@ Moo-O is the world's first immersive digital storybook. It transforms readers in
 
 **General Information** from MOE: 
 www.moe.gov.sg
-
-**An Overview of Primary School's education:** <br>
-[Primary School Education Booklet](https://www.moe.gov.sg/docs/default-source/document/education/primary/files/primary-school-education-booklet.pdf)
 
 **More about PERI HA in Rosyth:** <br> 
 [PERI Holistic Assessment Communication Package for Parents](/files/PERI_Holistic_Assessment_Communication_Package_for_Parents_updated_2_Jan_2013.pdf)
