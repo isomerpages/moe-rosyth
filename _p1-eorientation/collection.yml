@@ -1,5 +1,5 @@
 collections:
-  p1-orientation:
+  p1-eorientation:
     output: true
     order:
       - My School, Rosyth School.md
