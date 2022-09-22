@@ -13,17 +13,6 @@ third_nav_title: Parents Portal
 
 <p> </p>
 
-| Circular to Parents (All levels) | 
-| -------- | 
-| [2022 P1 Orientation (English)](/files/P1%20English%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
-| [2022 P1 Orientation (Chinese)](/files/P1%20Chinese%20Language-%20slides%20for%20parents%204%20Jan%202022%20(1).pdf) | 
-| [2022 P1 Orientation (Malay)](/files/P1%20Malay%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
-| [2022 P1 Orientation (Tamil)](/files/P1%20Tamil%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
-| [2022 P1 Orientation (Mathematics)](/files/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
-| [2022 P1 Orientation (PAL)](/files/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) | 
-
-<p> </p>
-
 | News and Announcements | 
 | -------- | 
 | [2022 Parent Volunteer Application ](https://moe-rosyth-staging.netlify.app/announcements/announcements/2022-parent-volunteer-applications) |
