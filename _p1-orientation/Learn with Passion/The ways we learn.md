@@ -39,6 +39,8 @@ Please click and view more photographs of us learning in school:
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSp3Ix-h5P3Rf4Laq6IHVG1ebRJajJTMabvm8tvoJfkXQqJe227mJCw7MjBpxzEcdsQt2SsNCkUreiB/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
-![](/images/DSC_2616%20(2).jpg)
+<img src="/images/DSC_2616%20(2).jpg" 
+    style="width:80%">
 
-![](/images/IMG_6596%20(2).jpg)
+<img src="/images/IMG_6596%20(2).jpg" 
+    style="width:80%">
