@@ -27,7 +27,7 @@ Please click on the following link to view the school's e-history microsite, whi
 [Click here to visit the microsite](https://rosyth60.wixsite.com/rs60)
 
 ### SCHOOL CREST
-<br>
+
 <div>
 <div style="float: right">
 <img src="/images/abt_crest.png" 
