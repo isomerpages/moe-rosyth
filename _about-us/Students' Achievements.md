@@ -7,4 +7,4 @@ Our students participate in numerous competitions and conferences regularly. Ple
 
 [2022 Achievements](/files/Student%20Achievements%202022%20(12%20Sep%202022).pdf)
 
-[2021 Acheivements](/files/Student%20Achievements%202022%20(12%20Sep%202022).pdf)
+[2021 Achievements](/files/Student%20Achievements%202021%20(Updated%20on%2029%20Dec).pdf)
