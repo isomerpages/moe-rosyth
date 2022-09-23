@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Students Achievements.md
       - Principal's Message.md
       - Mission, Vision and Values.md
       - School History.md
@@ -15,3 +14,4 @@ collections:
       - School Organisation Chart.md
       - School Advisory Committee.md
       - School Alumni Association.md
+      - Students Achievements.md
