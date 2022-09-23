@@ -2,6 +2,7 @@ collections:
   p1-orientation:
     output: true
     order:
+      - Serve with Compassion/.keep
       - My School, Rosyth School.md
       - Learn with Passion/.keep
       - Learn with Passion/The subjects we learn.md
