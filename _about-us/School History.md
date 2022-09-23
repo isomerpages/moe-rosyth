@@ -28,7 +28,6 @@ Please click on the following link to view the school's e-history microsite, whi
 
 ### SCHOOL CREST
 <br>
-
 <div>
 <div style="float: right">
 <img src="/images/abt_crest.png" 
