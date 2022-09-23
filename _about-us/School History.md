@@ -24,7 +24,7 @@ In 2001, the school was relocated to Serangoon North Ave 4 to accomodate the inc
 
 Please click on the following link to view the school's e-history microsite, which was created as part of the the school's 60th anniversary celebrations.
 
-[Click here to visit site](https://rosyth60.wixsite.com/rs60)
+[Click here to visit the microsite](https://rosyth60.wixsite.com/rs60)
 
 ### SCHOOL CREST
 <br>
