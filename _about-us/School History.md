@@ -27,6 +27,7 @@ Please click on the following link to view the school's e-history microsite, whi
 [Click here to visit site](https://rosyth60.wixsite.com/rs60)
 
 ### School Crest
+<br>
 
 <div>
 <div style="float: right">
