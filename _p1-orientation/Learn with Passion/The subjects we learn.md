@@ -40,6 +40,8 @@ Please click and view some photographs of us having lessons in school.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQjWlywFD2elHcxMw6ESszGyD4ab1RKvVoq3NOajKljUUXwyFmGNF8SzM1u3wU4JN_ahuYUHh0dHNz/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SFKu53b4HyY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Art
