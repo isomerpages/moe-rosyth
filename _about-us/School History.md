@@ -3,6 +3,8 @@ title: School History
 permalink: /about-us/school-history/
 description: ""
 ---
+### School History
+
 Rosyth School started in 1956. It was situated at Rosyth Road from which it derived its name. The majority of pupils then were from the neighbouring kampungs. In early 1983, the school was identified as one of the four primary schools to host the Gifted Education Programme.
 
 At the end of that year, the school moved to Parry Avenue.
@@ -23,3 +25,5 @@ In 2001, the school was relocated to Serangoon North Ave 4 to accomodate the inc
 Please click on the following link to view the school's e-history microsite, which was created as part of the the school's 60th anniversary celebrations.
 
 [Click here to visit site](https://rosyth60.wixsite.com/rs60)
+
+### School Crest
