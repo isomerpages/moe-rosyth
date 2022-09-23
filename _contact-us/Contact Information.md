@@ -47,66 +47,6 @@ description: ""
 |  | Email | rosyth_sch@schools.gov.sg |
 |   |  |  |
 
-| HOD/English Language |  |  |
-|---|---|---|
-| Mrs Katherine Wong | Email | tan_nguang_leng@schools.gov.sg |
-| | | |
-
-| HOD/Mother Tongue Languages |  |  |
-|---|---|---|
-| Miss Tan Chia Chih | Email | tan_chia_chih@schools.gov.sg |
-| | | |
-
-| HOD/Gifted Education (Humanities) |  |  |
-|---|---|---|
-| Mrs Helen Tan | Email | sing_helen@schools.gov.sg |
-| | | |
-
-| HOD/Gifted Education (Mathematics & Science) |  |  |
-|---|---|---|
-| Mr Michael Kao | Email | kao_horng_yih@schools.gov.sg |
-| | | |
-
-| HOD/Mathematics  |  |  |
-|---|---|---|
-| Miss Jau Hsiao Chien | Email | jau_hsiao_chien@schools.gov.sg |
-| | | |
-
-| HOD/Science |  |  |
-|---|---|---|
-| Mdm R Parvathy | Email | r_parvathy@schools.gov.sg |
-| | | |
-
-| HOD/Physical Education & CCA |  |  |
-|---|---|---|
-| Mr Ahmad Zohri B Bakri | Email | ahmad_zohri_bakri@schools.gov.sg |
-| | | |
-
-| HOD/CCE |  |  |
-|---|---|---|
-| Mdm See Chui Geok | Email | see_chui_geok@schools.gov.sg |
-| | | |
-
-| HOD/ICT |  |  |
-|---|---|---|
-| Mr Chew Ansheng Victor | Email | chew_ansheng_victor@schools.gov.sg |
-| | | | 
-
-| HOD/Aesthetics |  |  |
-|---|---|---|
-| Mdm Mohamed Hanifa Nazrin | Email | mohamed_hanifa_nazrin@schools.gov.sg |
-| | | | 
-
-| HOD/Student Management |  |  |
-|---|---|---|
-| Mr Justyn Lim | Email | lim_lai_fu@schools.gov.sg | 
-| | | | 
-
-| HOD/Innovation |  |  |
-|---|---|---|
-| Mdm Evelyn Koh | Email | koh_mui_lee_evelyn@schools.gov.sg |
-| | | |
-
 | | |
 |---|---|
 | School Dental Clinic | Telephone: 6481 2945<br>Opening hours during school term:<br>Monday, Wednesday, Thursday - 8am to 5:30pm<br>Friday - 8am to 5pm   <br> |
