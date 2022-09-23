@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /faq
+permalink: /faq/
 description: ""
 ---
 ### **FAQ**
@@ -12,7 +12,7 @@ You may look under the “Admission Matters” tab in “For Parents”. You wil
  
 **I wish to understand more about my child’s progress in school. Who should I contact?**
 
-You may email your child’s form teacher. His/her email address can be found in the “Parents Portal” on the website. Click on your child’s “level” on the right.
+You may email your child’s form teacher. His/her email address can be found in the “Parents Portal” on the website. Click on your child’s “level” on the menu bar on the left.
 
  
 **I wish to contact the bookshop / uniform supplier / school bus vendor? Where can I get their contact information?**
@@ -22,4 +22,4 @@ You may look for their contact information via the “Contact Us” tab on the s
 
 **I wish to share some feedback with the school. Who should I contact?**
 
-You can send an email to [rosyth_sch@schools.gov.sg](rosyth_sch@schools.gov.sg). If you wish to email the HODs of the relevant departments, you may look for their contact information via the “Contact Us” tab on the school website.
+You can send an email to [rosyth_sch@schools.gov.sg](rosyth_sch@schools.gov.sg). We will get back to you or redirect you to the relevant staff in our school. 
