@@ -8,17 +8,14 @@ third_nav_title: Parents Portal
 
 | Primary 6 |  | |
 | -------- | -------- | -------- |
-| AYH 5/6 | Miss Lim Swee Ching | lim_swee_ching@schools.gov.sg |
+| YH 5/6 | Miss Lim Swee Ching | lim_swee_ching@schools.gov.sg |
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
-[Infographic - What to Expect During Vaccination](/files/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
-
-[Infographic - Vaccination for Students](/files/Infographic%20-%20Vaccination%20for%20Students.pdf)
-
-[FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf)
-
-[Infopack on Transition to Secondary Schools 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(2).pdf)
+* [Infographic - What to Expect During Vaccination](/files/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
+* [Infographic - Vaccination for Students](/files/Infographic%20-%20Vaccination%20for%20Students.pdf)
+* [FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf)
+* [Infopack on Transition to Secondary Schools 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(2).pdf)
 
 ##### FORM TEACHERS
 
@@ -73,7 +70,4 @@ The P6 Graduation cum Prize Giving Day is the climatic event for the students as
 ##### EDUCATION AND CAREER GUIDANCE
 
 MySkillsFuture Portal:
-[MySkillsFuture Portal](https://www.myskillsfuture.sg/content/student/en/primary.html)
-
-Opportunities for Pursuing the Arts: <br>
-[Opportunities for Pursuing Arts](https://www.myskillsfuture.sg/content/dam/Article/OppForPurArt.pdf)
+[MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/portal/en/index.html)
