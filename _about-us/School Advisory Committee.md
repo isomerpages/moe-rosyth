@@ -13,6 +13,5 @@ description: ""
 * Member: Dr Kevin Lee Boon Leng
 * Member: Mr Sathinathan S/O M R Karuppiah
 * Member: Dr Kelvin Loh Chi-Keon
-* Member: Mr Melvin See Hsien Huei
 * Member: Mr Tan Wee Pin
 * Member: Mr Yap Voon Kian
