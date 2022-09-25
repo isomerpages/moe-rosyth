@@ -38,6 +38,8 @@ description: ""
 |  | Email | jasbir_singh_gurdial_singh@schools.gov.sg |
 | Mr Quek Kim Hoe | Phone | 6481 3180 |
 |  | Email | quek_kim_hoe@schools.gov.sg |
+| Mr Kng Ter Sern | Phone | 6481 3180 |
+|  | Email | Kng_Ter_Sern@schools.gov.sg |
 |   |  |  |
 
 
