@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Staff Development.md
       - Aesthetics.md
       - CCE Department.md
       - English.md
@@ -15,3 +14,4 @@ collections:
       - Mother Tongue Languages.md
       - Physical Education & CCA.md
       - Science.md
+      - Staff Development.md
