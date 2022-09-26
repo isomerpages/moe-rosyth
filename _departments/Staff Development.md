@@ -8,6 +8,12 @@ description: ""
 ***Professional Excellence: Engaged. Empowered. Motivated.***
 ***Strengthening staff in collaborative and innovative leadership***
 
+For more details and resources, visit our microsite: [go.gov.sg/rosyth-staff-development](go.gov.sg/rosyth-staff-development)
+Access is available only for MOE staff via iCON email login.
+
+
+
+
 #### Rosyth Staff Framework
 
 ***Our Value Proposition***
