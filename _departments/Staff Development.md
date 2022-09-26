@@ -5,9 +5,10 @@ description: ""
 ---
 ### Staff Development
 
-#### Professional Excellence: Engaged. Empowered. Motivated.
+***Professional Excellence: Engaged. Empowered. Motivated.***
+***Strengthening staff in collaborative and innovative leadership***
 
-Rosyth Staff Framework
+#### Rosyth Staff Framework
 
 Our Value Proposition
 *  Empower staff to make decisions, solve problems & have space to learn and grow
