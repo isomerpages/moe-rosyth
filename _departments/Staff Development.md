@@ -27,4 +27,3 @@ The focus on professional excellence builds a community where we show care for o
 * Differentiated Instruction for CES
 
 ![](/images/STP.png)
-
