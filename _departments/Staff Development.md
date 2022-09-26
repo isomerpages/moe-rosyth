@@ -18,6 +18,9 @@ description: ""
 
 ![](/images/PD%20Framework.png)
 
+<img src="/images/PD%20Framework.png" 
+     style="width:70%">
+
 The focus on professional excellence builds a community where we show care for our teachers and strengthen our capabilities to stay ahead of the demands of the changing world, thus uplifting our confidence.
 
 ***School Key Learning Direction 2021-2024***
