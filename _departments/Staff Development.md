@@ -11,7 +11,7 @@ description: ""
 For more details and resources, visit our microsite: [go.gov.sg/rosyth-staff-development](go.gov.sg/rosyth-staff-development)
 Access is available only for MOE staff via iCON email login.
 
-<img src="/images/picture1.jpg" 
+<img src="/images/staffdevelopmentqr.jpg" 
      style="width:40%">
 
 #### Rosyth Staff Framework
