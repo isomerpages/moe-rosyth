@@ -39,7 +39,7 @@ description: ""
 | Mr Quek Kim Hoe | Phone | 6481 3180 |
 |  | Email | quek_kim_hoe@schools.gov.sg |
 | Mr Kng Ter Sern | Phone | 6481 3180 |
-|  | Email | Kng_Ter_Sern@schools.gov.sg |
+|  | Email | kng_ter_sern@schools.gov.sg |
 |   |  |  |
 
 
