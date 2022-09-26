@@ -62,7 +62,7 @@ For the Future of the Nation Passes through Our Hands.
 #### Key Professional Development Links
 
 * OPAL 2.0: [https://www.opal2.moe.edu.sg/](https://www.opal2.moe.edu.sg/)
-* Skills Future for Educators (SFEd): [https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page] (https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page)
+* Skills Future for Educators (SFEd): [https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page](https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page)
 * The Singapore Teaching Practice (STP): [https://go.gov.sg/stpwiki](https://go.gov.sg/stpwiki)
 * Educational Leadership and School Excellence (ELSE):
 [https://www.opal2.moe.edu.sg/csl/s/educational-leadership-and-school-excelle/](https://www.opal2.moe.edu.sg/csl/s/educational-leadership-and-school-excelle/)
