@@ -16,10 +16,8 @@ description: ""
 *  Engage staff to feel passionate and committed to making positive contributions to school improvement
 *  Motivate staff by promoting a caring and conducive work climate
 
-![](/images/PD%20Framework.png)
-
 <img src="/images/PD%20Framework.png" 
-     style="width:70%">
+     style="width:60%">
 
 The focus on professional excellence builds a community where we show care for our teachers and strengthen our capabilities to stay ahead of the demands of the changing world, thus uplifting our confidence.
 
@@ -29,7 +27,8 @@ The focus on professional excellence builds a community where we show care for o
 * FA5 (SRL) & ePedagogy (Active Learning Processes + Learning Interactions)
 * Differentiated Instruction for CES
 
-![](/images/STP.png)
+<img src="/images/STP.png" 
+     style="width:60%">
 
 ***School Vision***
 
@@ -37,7 +36,8 @@ The focus on professional excellence builds a community where we show care for o
 * I-CARE about Serving with Compassion (2019-2020)
 * I-CARE about Leading with Vision (2021-2022)
 
-![](/images/Vision.jpg)
+<img src="/images/Vision.jpg" 
+     style="width:60%">
 
 ***Our People Are Our Greatest Asset:***
 
