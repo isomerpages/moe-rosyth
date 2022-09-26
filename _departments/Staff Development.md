@@ -55,3 +55,23 @@ As individuals and as a community of professionals, we seek continually to deepe
 We forge trusting partnerships with families and the community for the growth and well-being of each student.
 We Lead, Care, Inspire,
 For the Future of the Nation Passes through Our Hands.
+
+#### Key Professional Development Links
+
+* OPAL 2.0: https://www.opal2.moe.edu.sg/
+* Skills Future for Educators (SFEd): https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page
+* The Singapore Teaching Practice (STP): https://go.gov.sg/stpwiki
+* Educational Leadership and School Excellence (ELSE):
+https://www.opal2.moe.edu.sg/csl/s/educational-leadership-and-school-excelle/
+* Sg Learning Designers Circle (SgLDC):
+https://www.facebook.com/groups/sglearningdesigners/
+* HR Online:
+https://intranet.moe.gov.sg/hronline/Pages/Home.aspx
+* PLC: Access via MS Teams
+* Learning Page: 
+https://sites.google.com/moe.edu.sg/rosyth-school-staffdevelopment/learning
+* Innovation Page: https://sites.google.com/moe.edu.sg/rosyth-school-staffdevelopment/innovation
+* Recognition Page: https://sites.google.com/moe.edu.sg/rosyth-school-staffdevelopment/recognition
+* Well-being Page: https://sites.google.com/moe.edu.sg/rosyth-school-staffdevelopment/well-being
+
+
