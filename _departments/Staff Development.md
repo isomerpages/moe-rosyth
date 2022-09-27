@@ -18,8 +18,7 @@ description: ""
 </div>
 </div>
 
-For more details and resources, visit our microsite: [https://go.gov.sg/rosyth-staff-development](https://go.gov.sg/rosyth-staff-development)
-. Access is available only for MOE staff via iCON email login.
+For more details and resources, visit our microsite: [https://go.gov.sg/rosyth-staff-development](https://go.gov.sg/rosyth-staff-development) . Access is available only for MOE staff via iCON email login.
 
 #### Rosyth Staff Framework
 
