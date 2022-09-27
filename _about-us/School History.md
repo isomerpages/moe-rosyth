@@ -26,6 +26,10 @@ Please click on the following link to view the school's e-history microsite, whi
 
 [Click here to visit the microsite](https://rosyth60.wixsite.com/rs60)
 
+Click on the following link to visit Rosyth Heritage Gallery.
+
+[Click here to visit the heritage gallery](https://go.gov.sg/rosyth-heritage-gallery)
+
 ### SCHOOL CREST
 
 <div>
