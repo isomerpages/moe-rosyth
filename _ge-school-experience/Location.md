@@ -44,11 +44,13 @@ Interesting Places:
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyzD8i3-vkDniKDpP3-so4xoKN5tPebwxSxSnPHAs1TKhoA8luiRKnpSGCyt7l9TMWY93rDfdZ_oZn/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 <figure>
-<img src="/images/Picture1_Slide%203%20Heritage%20Hub.png">
+<img src="/images/Picture1_Slide%203%20Heritage%20Hub.png" 
+    style="width:80%">
 <figcaption> <strong> Heritage Hub </strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Main%20Spine_Slide%203.png">
+	<img src="/images/Main%20Spine_Slide%203.png" 
+    style="width:80%">
 <figcaption> <strong> The main spine </strong> </figcaption>
 </figure>
