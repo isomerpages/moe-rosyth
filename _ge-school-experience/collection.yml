@@ -2,5 +2,6 @@ collections:
   ge-school-experience:
     output: true
     order:
+      - Learn with Passion/.keep
       - History.md
       - Location.md
