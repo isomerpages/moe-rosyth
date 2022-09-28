@@ -2,7 +2,7 @@ collections:
   ge-school-experience:
     output: true
     order:
-      - Learn with Passion/The Ways We Learn.md
-      - Learn with Passion/.keep
       - History.md
       - Location.md
+      - Learn with Passion/.keep
+      - Learn with Passion/The Ways We Learn.md
