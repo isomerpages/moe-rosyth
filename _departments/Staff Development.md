@@ -6,7 +6,7 @@ description: ""
 ### Staff Development
 
 ***Professional Excellence: Engaged. Empowered. Motivated.***
-***Strengthening staff in collaborative and innovative leadership***
+***(Strengthening staff in collaborative and innovative leadership)***
 
 <div>
 <div style="float: left">
