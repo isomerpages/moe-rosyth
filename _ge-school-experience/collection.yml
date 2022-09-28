@@ -2,6 +2,7 @@ collections:
   ge-school-experience:
     output: true
     order:
+      - Serve with Compassion/Values in Action.md
       - Serve with Compassion/.keep
       - History.md
       - Location.md
