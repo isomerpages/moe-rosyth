@@ -2,7 +2,6 @@ collections:
   ge-school-experience:
     output: true
     order:
-      - Lead with Vision/.keep
       - History.md
       - Location.md
       - Learn with Passion/.keep
@@ -13,3 +12,4 @@ collections:
       - Serve with Compassion/.keep
       - Serve with Compassion/Values in Action.md
       - Serve with Compassion/Serving the Community.md
+      - Lead with Vision/.keep
