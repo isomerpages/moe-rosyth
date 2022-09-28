@@ -2,5 +2,5 @@ collections:
   ge-school-experience:
     output: true
     order:
-      - Location.md
       - History.md
+      - Location.md
