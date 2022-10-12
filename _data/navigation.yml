@@ -1,13 +1,65 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
+  - title: About Us
+    url: /about-us/principal-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principal-message
+      - title: Mission, Vision and Values
+        url: /about-us/mission-vision-and-values
+      - title: School History
+        url: /about-us/school-history
+      - title: School Awards
+        url: /about-us/best-practice-awards/
+      - title: School Organisation Chart
+        url: /about-us/school-organisation-chart
+      - title: School Advisory Committee
+        url: /about-us/school-advisory-committee
+      - title: School Alumni Association
+        url: /about-us/rosyth-school-alumni-association
+      - title: Students' Achievements
+        url: /about-us/students-achievements
+  - title: Departments
+    url: /departments/aesthetics
+    sublinks:
+      - title: Aesthetics
+        url: /departments/aesthetics
+      - title: CCE
+        url: /departments/cce-department
+      - title: English Language
+        url: /departments/english-language
+      - title: Gifted Education
+        url: /departments/gifted-education-programme-gep-in-rosyth-school
+      - title: ICT & MRL
+        url: /departments/ict-department
+      - title: Innovation
+        url: /departments/innovation-department
+      - title: Mathematics
+        url: /departments/mathematics
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages
+      - title: Physical Education & CCA
+        url: /departments/physical-education-n-co-curricular-activities
+      - title: Science
+        url: /departments/science
+      - title: Staff Development
+        url: /departments/staff-development
+  - title: For Parents
+    url: /for-parents/admission-matters
+    sublinks:
+      - title: Admission Matters
+        url: /for-parents/admission-matters
+      - title: Administrative Matters
+        url: /for-parents/administrative-matters
+      - title: Information for New Students
+        url: /for-parents/information-for-new-students
+      - title: Parents Portal
+        url: /for-parents/parents-portal
+      - title: Parents Support Group
+        url: /for-parents/parents-support-group
+      - title: Forms and Links
+        url: /for-parents/forms
+  - title: P1 Orientation
+    collection: p1-orientation
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+    collection: contact-us

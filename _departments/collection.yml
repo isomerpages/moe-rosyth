@@ -1,0 +1,17 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Aesthetics.md
+      - CCE Department.md
+      - English.md
+      - Gifted Education/.keep
+      - Gifted Education/Gifted Education Programme (GEP) in Rosyth School.md
+      - Gifted Education/Enriched Curriculum.md
+      - ICT & MRL.md
+      - Innovation.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education & CCA.md
+      - Science.md
+      - Staff Development.md

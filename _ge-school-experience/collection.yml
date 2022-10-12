@@ -1,0 +1,17 @@
+collections:
+  ge-school-experience:
+    output: true
+    order:
+      - History.md
+      - Location.md
+      - Learn with Passion/.keep
+      - Learn with Passion/The Ways We Learn.md
+      - Learn with Passion/Holistic Learning Experience.md
+      - Learn with Passion/Learning Journeys.md
+      - Learn with Passion/Co Curricular Activities.md
+      - Serve with Compassion/.keep
+      - Serve with Compassion/Values in Action.md
+      - Serve with Compassion/Serving the Community.md
+      - Lead with Vision/.keep
+      - Lead with Vision/Leadership Opportunities.md
+      - Lead with Vision/Entrepreneurial Spirit.md

@@ -1,0 +1,18 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Admission Matters.md
+      - Administrative Matters.md
+      - Information for New Students.md
+      - Parents Portal/.keep
+      - Parents Portal/Parents Portal.md
+      - Parents Portal/Learning with Technology.md
+      - Parents Portal/Primary 1 (2022).md
+      - Parents Portal/Primary 2 (2022).md
+      - Parents Portal/Primary 3 (2022).md
+      - Parents Portal/Primary 4 (2022).md
+      - Parents Portal/Primary 5 (2022).md
+      - Parents Portal/Primary 6 (2022).md
+      - Parents Support Group.md
+      - Forms and Links.md

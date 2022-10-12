@@ -1,0 +1,19 @@
+collections:
+  p1-orientation:
+    output: true
+    order:
+      - My School, Rosyth School.md
+      - Learn with Passion/.keep
+      - Learn with Passion/The Subjects We Learn.md
+      - Learn with Passion/The Ways We Learn.md
+      - Learn with Passion/The Places in School.md
+      - Learn with Passion/Holistic Learning Experiences.md
+      - Learn with Passion/Learning Journeys.md
+      - Learn with Passion/After School Activities.md
+      - Serve with Compassion/.keep
+      - Serve with Compassion/Serving the Community.md
+      - Serve with Compassion/Values in Action.md
+      - Lead with Vision/.keep
+      - Lead with Vision/Leadership Opportunities.md
+      - Lead with Vision/Co Curricular Activities.md
+      - Lead with Vision/Dismissal Arrangements.md
