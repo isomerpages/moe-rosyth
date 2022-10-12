@@ -9,7 +9,7 @@ description: ""
 
 ***2022 PRIMARY 1 REGISTRATION EXERCISE***
 
-Parents may refer to Ministry of Education [website](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates) for information regarding Primary One Registration Exercise.  
+Parents may refer to Ministry of Education (MOE) [website](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates) for information regarding Primary One Registration Exercise.  
 
 
 **Rosyth School P1 Registration Exercise Statistics**
