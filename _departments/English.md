@@ -8,8 +8,7 @@ description: ""
 | English Department |  | |
 | -------- | -------- | -------- |
 | HOD (English) | Mrs Katherine Wong | tan_nguang_leng@schools.gov.sg |
-| Level Heads (English) | Mdm Shoba Jaganathan | lim_lai_fu@schools.gov.sg | 
-| | Mdm Au Zhi Jun| au_zhi_jun@schools.gov.sg |
+| Level Head (English) | Mdm Au Zhi Jun| au_zhi_jun@schools.gov.sg |
 | Senior Teachers | Mdm Norlela Men | norlela_men@schools.gov.sg |
 |  | Mrs Julia Ng | lee_hwee_hoon_julia@schools.gov.sg |
 | STELLAR Mentors | Mdm Yap Chai Muay | yap_chai_muay@schools.gov.sg |
@@ -189,4 +188,4 @@ Recommended reading lists for Primary 1 to Primary 6 *(updated 20 March 2018)*. 
 | [The Internet Grammar of English - Contents](https://www.ucl.ac.uk/internet-grammar/frames/contents.htm) | This is an online course in English grammar written primarily for university undergraduates. It is, however, useful to those interested in the English language and does not assume any prior knowledge of grammar. | 
 | [English4Today.com : Online English Grammar](https://english4today.com/grammar-search-results/) | This site has information on different grammar items as well as links to pages on punctuation, writing tips and English tests. | 
 | [EnglishClub.com : English Vocabulary - Vocabulary Awareness for ESL Learners](https://www.englishclub.com/vocabulary/) | This site contains links to useful word lists including phrasal verbs, figures of speech and idioms | 
-| [Online Dictionary](https://dictionary.cambridge.org/) | A useful online dictionary by Cambridge Dictionary. Meaning of idioms and phrases can also be easily found at this site. | 
+| [Online Dictionary](https://dictionary.cambridge.org/) | A useful online dictionary by Cambridge Dictionary. Meaning of idioms and phrases can also be easily found at this site. |
