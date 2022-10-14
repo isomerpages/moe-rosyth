@@ -66,7 +66,7 @@ description: ""
 * Senior Teacher (PE): Mr Mohd Zailani
 
 **Student Development**
-* HOD/SD: Mr Justyn Lim
+* HOD/SM: Mr Justyn Lim
 * SH/SWB: Mdm Kang Li Min
 
 **Character & Citizenship Education**
@@ -85,9 +85,3 @@ description: ""
 * AYH/P5: Mdm Shoba Jaganathan
 * AYH/P6: Miss Pamela Goh
 * Senior School Counsellor: Mdm Mok Swee Peng Pauline
-
-
-
-
-
-
