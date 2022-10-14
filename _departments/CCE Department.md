@@ -41,7 +41,7 @@ Every Rosythian leader, an active contributor, confident communicator, creative 
 * Respect & responsibility
 * Excellence in all we do
 		
-<img src="/images/CCE2.jpg" 
+<img src="/images/WSA.jpg" 
      style="width:50%">
 
 <img src="/images/CCE3.png" 
