@@ -35,11 +35,11 @@ description: ""
 ##### DESIRED OUTCOMES
 Every Rosythian leader, an active contributor, confident communicator, creative thinker, critical problem solver and concerned citizen grounded on our ICARE Values:
 
-* Integrity First
-* Care & Share
-* Adventurous Spirit
-* Respect & responsibility
-* Excellence in all we do
+* Integrity
+* Care
+* grAtitude
+* Respect & Resilience
+* Entrepreneurial Spirit
 		
 <img src="/images/WSA.jpg" 
      style="width:50%">
