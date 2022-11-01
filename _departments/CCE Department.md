@@ -8,7 +8,6 @@ description: ""
 | CCE Department |  | |
 | -------- | -------- | -------- |
 | Year Head (Primary 1 - 2) | Mrs May Soh | sim_mui_huang@schools.gov.sg |
-| HOD (Student Management) | Mr Justyn Lim Lai Fu | lim_lai_fu@schools.gov.sg |
 | HOD (CCE) | Mdm See Chui Geok | see_chui_geok@schools.gov.sg |
 | Subject Head (Student Development) | Mdm Nur Azianah | azianah_zakaria@schools.gov.sg |
 | Subject Head (CCE & VIA) | Mdm Lim Yiling, Eileen | lim_yiling_eileen@schools.gov.sg |

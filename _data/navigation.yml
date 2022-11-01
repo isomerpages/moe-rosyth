@@ -44,6 +44,8 @@ links:
         url: /departments/science
       - title: Staff Development
         url: /departments/staff-development
+      - title: Student Management
+        url: /departments/studentmanagement
   - title: For Parents
     url: /for-parents/admission-matters
     sublinks:
