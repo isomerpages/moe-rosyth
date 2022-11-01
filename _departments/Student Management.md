@@ -10,7 +10,7 @@ description: ""
 | HOD (SM) | Mr Justyn Lim | lim_lai_fu@schools.gov.sg |
 | SH (SWB) | Mr Kang Li Min | kang_li_min@schools.gov.sg |
 
-**Guiding Principle in Student Management**
+### Guiding Principle in Student Management
 
 In accordance to Rosyth School’s mission of maximising potential through the development of Mind, Body and Soul, the school’s Student Management Department aims to create a safe and conducive environment so that learning can be maximised. It is therefore important that all students formed positive behaviours, and respectful and caring relationships in school to uphold the highest standard of the school’s I-CARE values. This is the key purpose and function of Student Management in Rosyth School.
 
@@ -22,7 +22,7 @@ In Rosyth School, every child will continue to show **CARE** towards self and ot
 <img src="/images/SM_Care2.jpg" 
      style="width:50%">
 
-**Our Customised Programmes**
+### Our Customised Programmes
 
 
 
