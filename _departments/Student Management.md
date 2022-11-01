@@ -24,8 +24,6 @@ In Rosyth School, every child will continue to show **CARE** towards self and ot
 
 ### Our Customised Programmes
 
-
-
 | Programme | Description |
 | -------- | -------- | 
 | ![](/images/60sOfCAre.png)     | Grounded by our philosophy of building a Culture of Care, 60s of CARE is a school-wide sharing of termly snippets of positive messaging from our every own Rosythians to fellow Rosythians. | 
