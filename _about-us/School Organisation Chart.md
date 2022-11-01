@@ -65,7 +65,7 @@ description: ""
 * Senior Teacher (Science): Mdm Goh Tiang Ai
 * Senior Teacher (PE): Mr Mohd Zailani
 
-**Student Development**
+**Student Management**
 * HOD/SM: Mr Justyn Lim
 * SH/SWB: Mdm Kang Li Min
 
