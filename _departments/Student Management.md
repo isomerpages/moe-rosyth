@@ -27,7 +27,6 @@ In Rosyth School, every child will continue to show **CARE** towards self and ot
 
 | Programme | Description |
 | -------- | -------- | 
-| Text     | Grounded by our philosophy of building a Culture of Care, 60s of CARE is a school-wide sharing of termly snippets of positive messaging from our every own Rosythians to fellow Rosythians. | 
-| Text     | As part of the school’s vision for Rosythians to lead with vision and to serve with compassion, POPKIDz (Pupils On Patrol) is a Service Voluntary programme designed for Primary 2 and 3 students to play an active part in ensuring positive behaviours in their peers. | 
-| Text     | As part of our individualised support for our students, the Aspire Programme is a Teacher Mentoring Programme that is planned for selected students. | 
-
+| ![](/images/60sOfCAre.png)     | Grounded by our philosophy of building a Culture of Care, 60s of CARE is a school-wide sharing of termly snippets of positive messaging from our every own Rosythians to fellow Rosythians. | 
+| ![](/images/PopKidz.jpg)     | As part of the school’s vision for Rosythians to lead with vision and to serve with compassion, POPKIDz (Pupils On Patrol) is a Service Voluntary programme designed for Primary 2 and 3 students to play an active part in ensuring positive behaviours in their peers. | 
+| ![](/images/Aspire.jpg)     | As part of our individualised support for our students, the Aspire Programme is a Teacher Mentoring Programme that is planned for selected students. |
