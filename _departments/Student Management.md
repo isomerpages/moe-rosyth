@@ -12,6 +12,22 @@ In accordance to Rosyth School’s mission of maximising potential through the d
 | HOD (SM) | Mr Justyn Lim | lim_lai_fu@schools.gov.sg |
 | SH (SWB) | Mr Kang Li Min | kang_li_min@schools.gov.sg |
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 **Guiding Principle in Student Management**
+
+![](/images/SM_Care1.jpg)
+
+In Rosyth School, every child will continue to show **CARE** towards self and others.
+
+![](/images/SM_Care2.jpg)
+
+**Our Customised Programmes**
+
+
+
+| Programme | Description |
+| -------- | -------- | 
+| Text     | Grounded by our philosophy of building a Culture of Care, 60s of CARE is a school-wide sharing of termly snippets of positive messaging from our every own Rosythians to fellow Rosythians. | 
+| Text     | As part of the school’s vision for Rosythians to lead with vision and to serve with compassion, POPKIDz (Pupils On Patrol) is a Service Voluntary programme designed for Primary 2 and 3 students to play an active part in ensuring positive behaviours in their peers. | 
+| Text     | As part of our individualised support for our students, the Aspire Programme is a Teacher Mentoring Programme that is planned for selected students. | 
+
