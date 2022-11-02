@@ -7,24 +7,20 @@ Dear Diary,
 
 Have you ever wondered what I do in Rosyth School every day? Let me share with you!  
 
-My school principal is Mdm Elis Tan and she welcomes me to school every day with a big and warm smile.
+My favourite teacher is my Form Teacher and she is someone I can always turn to when I need help. I am also surrounded by my other subject teachers and classmates. We have great fun learning and playing every day. You may view the following videos to learn about what our 2022 and 2021 P1 students have to say about Rosyth School. You can also listen to our School Song and learn how to sing it!
 
-I am also surrounded by my teachers and classmates. My favourite teacher is my Form Teacher and she is someone I can always turn to when I need help.
+#### 2022 P1 Students
 
-<div>  
-<div style="float: left">  
-<img src="/images/frame.png" 
-    style="width:30%">
-</div>  
-<div></div>  
-</div>
-
-Scan the QR code or click [here](https://youtu.be/Ads6e9ZTTVI) to see what our 2021 P1 students have to say about their favourite activities in Rosyth School!
-
-#### Welcome Address by Principal
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3MHoHWw8Dv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The video will be uploaded shortly.
 
 <br>
+
+#### 2021 P1 Students
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ads6e9ZTTVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+#### Rosyth School Song
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0EfjVlKmfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
