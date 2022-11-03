@@ -4,7 +4,7 @@ permalink: /p1-orientation/learn-with-passion/holistic-learning-experiences/
 description: ""
 third_nav_title: Learn with Passion
 ---
-Our teachers also plan many interesting programmes for us so that we can have a holistic learning experience in school.
+Our teachers also plan many interesting programmes for us so that we can have a fun learning experience in school.
 
 <img src="/images/20190925_095647.jpg" 
     style="width:60%">
