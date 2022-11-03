@@ -4,7 +4,6 @@ permalink: /p1-orientation/learn-with-passion/the-places-in-school/
 description: ""
 third_nav_title: Learn with Passion
 ---
-
 Please click and view some photographs of the different places in school:
 
 <img src="/images/20190821_102124.jpg" style="width:80%">
@@ -13,7 +12,7 @@ Please click and view some photographs of the different places in school:
 
 Depending on the needs of the lessons, our teachers may also bring us to some of the special places in school. I love all of these places because I get to experience so much fun with my classmates.
 
-We have been to
+We have been to the ...
 
 #### 1. School Canteen
 
