@@ -4,9 +4,9 @@ permalink: /p1-orientation/lead-with-vision/co-curricular-activities/
 description: ""
 third_nav_title: Lead with Vision
 ---
-At P3, I took ownership of my learning experience in Rosyth and joined the Manga Art Club to learn how to draw digitally. Rosyth has so many CCAs to keep us engaged.
+When i am in P3, I can take part in CCAs.
 
-CCAs in Rosyth School
+CCAs in Rosyth School:
 
 1. Badminton
 2. Tennis

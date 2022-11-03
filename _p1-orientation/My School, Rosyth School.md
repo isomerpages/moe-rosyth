@@ -5,26 +5,22 @@ description: ""
 ---
 Dear Diary,  
 
-Have you ever wondered what I do in Rosyth School every day? Let me share with you!  
+I love going to Rosyth School every day. There are many interesting activities that I do with my friends and teachers. I enjoy going to the Science Garden and the computer lab to learn. I also like the yummy chicken rice and noodles in the school canteen.
 
-My school principal is Mdm Elis Tan and she welcomes me to school every day with a big and warm smile.
+This is what some of my friends have to say about learning in Rosyth School.
 
-I am also surrounded by my teachers and classmates. My favourite teacher is my Form Teacher and she is someone I can always turn to when I need help.
+#### 2022 P1 Students
 
-<div>  
-<div style="float: left">  
-<img src="/images/frame.png" 
-    style="width:30%">
-</div>  
-<div></div>  
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2LX97BGlv84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Scan the QR code or click [here](https://youtu.be/Ads6e9ZTTVI) to see what our 2021 P1 students have to say about their favourite activities in Rosyth School!
+#### 2021 P1 Students
 
-#### Welcome Address by Principal
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3MHoHWw8Dv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ads6e9ZTTVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
+I am still learning how to sing the Rosyth school song.
+
+#### Rosyth School Song
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0EfjVlKmfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
