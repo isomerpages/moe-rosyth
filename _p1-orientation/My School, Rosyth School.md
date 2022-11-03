@@ -11,9 +11,7 @@ This is what some of my friends have to say about learning in Rosyth School.
 
 #### 2022 P1 Students
 
-The video will be uploaded shortly.
-
-<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2LX97BGlv84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 2021 P1 Students
 
