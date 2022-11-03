@@ -4,7 +4,7 @@ permalink: /p1-orientation/lead-with-vision/dismissal-arrangements/
 description: ""
 third_nav_title: Lead with Vision
 ---
-This is how i go home every day from school. 
+This is how I go home every day from school. 
 
 2021 P1 Dismissal Arrangements - Gate 1:
 
