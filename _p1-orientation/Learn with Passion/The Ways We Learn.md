@@ -4,16 +4,15 @@ permalink: /p1-orientation/learn-with-passion/the-ways-we-learn/
 description: ""
 third_nav_title: Learn with Passion
 ---
-
 My teachers make learning interesting and we learn in so many ways. For example, during Mother Tongue lessons, we role-play and act and the class is always filled with fun and laughter.
 
 We learn through/with,
 
-1.  Role-Play
-2.  Games
-3.  Experiments
-4.  Group Work
-5.  Technology
+1. Role-Play
+2. Games
+3. Experiments
+4. Group Work
+5. Technology
 
 Learning is never dull in Rosyth and you have to experience it yourself!
 
@@ -39,9 +38,3 @@ Please click and view more photographs of us learning in school:
 #### Technology
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSp3Ix-h5P3Rf4Laq6IHVG1ebRJajJTMabvm8tvoJfkXQqJe227mJCw7MjBpxzEcdsQt2SsNCkUreiB/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
-
-<img src="/images/DSC_2616%20(2).jpg" 
-    style="width:80%">
-
-<img src="/images/IMG_6596%20(2).jpg" 
-    style="width:80%">
