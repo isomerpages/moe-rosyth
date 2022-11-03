@@ -6,7 +6,7 @@ third_nav_title: Lead with Vision
 ---
 My elder sister is a Student Leader in Rosyth. As she is interested in the environment, she became an Environment Ambassador to advocate recycling.
 
-Student Leadership in Rosyth
+Students in Rosyth can be trained to become ...
 1.  Student Councillors
 2.  Environment Ambassadors
 3.  NE Ambassadors
