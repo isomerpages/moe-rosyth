@@ -9,7 +9,7 @@ Our teachers also plan many interesting programmes for us so that we can have a 
 <img src="/images/20190925_095647.jpg" 
     style="width:60%">
 
-We have PAL (Program for Active Learning) lessons every week and I look forward to it.
+We have PAL (Programme for Active Learning) lessons every week and I look forward to it.
 
 <img src="/images/PAL%20sports%20(9).jpg" 
     style="width:80%">
