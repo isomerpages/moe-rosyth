@@ -5,9 +5,9 @@ description: ""
 ---
 Dear Diary,  
 
-Have you ever wondered what I do in Rosyth School every day? Let me share with you!  
+I love going to Rosyth School every day. There are many interesting activities that I do with my friends and teachers. I enjoy going to the Science Garden and the computer lab to learn. I also like the yummy chicken rice and noodles in the school canteen.
 
-My favourite teacher is my Form Teacher and she is someone I can always turn to when I need help. I am also surrounded by my other subject teachers and classmates. We have great fun learning and playing every day. You can view the following videos to learn about what our 2022 and 2021 P1 students have to say about Rosyth School. You can also listen to our School Song and learn how to sing it!
+This is what some of my friends have to say about learning in Rosyth School.
 
 #### 2022 P1 Students
 
@@ -20,6 +20,8 @@ The video will be uploaded shortly.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ads6e9ZTTVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
+I am still learning how to sing the Rosyth school song.
 
 #### Rosyth School Song
 
