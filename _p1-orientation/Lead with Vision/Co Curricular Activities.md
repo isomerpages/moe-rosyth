@@ -4,7 +4,7 @@ permalink: /p1-orientation/lead-with-vision/co-curricular-activities/
 description: ""
 third_nav_title: Lead with Vision
 ---
-When i am in P3, I can take part in CCAs.
+When I am in P3, I can take part in CCAs.
 
 CCAs in Rosyth School:
 
