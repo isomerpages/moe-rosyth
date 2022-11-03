@@ -14,6 +14,6 @@ We have PAL (Programme for Active Learning) lessons every week and I look forwar
 <img src="/images/PAL%20sports%20(9).jpg" 
     style="width:80%">
 		
-We also have Period PHI at P3 and P4 which allows us to explore our passion and areas of interests. We also learn the 7Es protocol which enables us to innovate and create. There is also Roszania!
+We also have Period PHI at P3 and P4 which allows us to explore our passion and areas of interests. There is also Roszania!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B6d5SvGfAAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
