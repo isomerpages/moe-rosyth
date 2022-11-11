@@ -17,7 +17,7 @@ Parents may refer to Ministry of Education (MOE) [website](https://www.moe.gov.s
 | Year | Vacancy available | Places taken up |  |  |  |  |
 |---|---|:---:|:---:|:---:|:---:|:---:|
 |   |   | Phase 1 | Phase 2A | Phase 2A2<br>(merge under Phase 2A) | Phase 2B | Phase 2C |
-| 2022 | 270 | 136 | 73<br> <br>Balloting outside 2km: 42 applicants  vying for 40 vacancies |  N.A.<br> | 20<br> <br>Balloting within 1km: 24 applicants | 41<br> <br>Balloting within 1km: 125 applicants |
+| 2022 | 270 | 136 | 73<br> <br>Balloting Between 1km to 2km: 42 applicants vying for 40 vacancies |  N.A.<br> | 20<br> <br>Balloting within 1km: 24 applicants | 41<br> <br>Balloting within 1km: 125 applicants |
 | 2021 | 270 | 149 | 78<br> <br>Balloting outside 2km: 51 applicants  vying for 30 vacancies |  No<br>vacancy left after Phase 2A1 | 21<br> <br>Balloting within 1km: 31 applicants | 22<br> <br>Balloting within 1km: 99 applicants |
 | 2020 | 270  |  142 |  87<br><br>Balloting outside 2km: 59 applicants vying for 57 vacancies |  No<br>vacancy left after Phase 2A1 |  21<br><br><br>Balloting within 1km: 32 applicants | 20 <br><br>Balloting within 1km: 93 applicants  |
 |  2019 | 270  |  141 | 64  |  25<br><br><br>Balloting outside 2km: 18 applicants vying for 8 vacancies |  20<br><br><br>Balloting within 1km: 28 applicants |  20<br><br><br>Balloting within 1km: 76 applicants |
