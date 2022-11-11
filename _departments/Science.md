@@ -68,3 +68,11 @@ We have garnered partnerships with other organizations to help students apprecia
 | NEA | Waste Minimisation and Recycling |
 | NParks | P4 Learning Journey to Bishan-AMK Park<br>P3 Every Child a Seed Programme<br>Community in Blossom |
 | SEC | School Green Award (SGA) |
+
+***P4 Learning Journey to Bishan-Ang Mo Kio Park*** <br>
+
+***Rice Sustainable Programme (ALP)*** <br>
+
+***P5 Learning Journey to NEWater Visitors’ Centre*** <br>
+
+***P6 Learning Journey to Lee Kong Chien Natural History Museum (LKCNHM)***<br>
