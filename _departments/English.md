@@ -38,6 +38,8 @@ The core curriculum seeks to develop our pupils holistically, with a comprehensi
 * To employ a variety of effective teaching and learning pedagogies that focus on WHAT and HOW students are learning;
 * To have a balanced and holistic assessment of our pupils.
 
+![](/images/English1.jpg)
+
 ##### SIGNATURE PROGRAMMES<br>
 
 **ERP @ Rosyth ( Extensive Reading Programme)** <br>
@@ -57,6 +59,8 @@ To promote the use of good English in Speaking, Reading, Writing and Listening, 
 Pupils are provided with opportunities to perform to their classmates, pupils in other classes as well as the general school population. This is in alignment with the desired outcomes to nurtrure each child into a confident person, self-directed learner,  active contributor and concerned citizen.
 
 Through the various school programmes, we hope that Rosythians will be able to use English to communicate well with each other and build happy relationships. Teachers and parents are especially important in this initiative as we are the main facilitators who play a very important role in the acquisition and usage of Standard English.
+
+![](/images/English2.jpg)
 
 **Primary 1 Moo-O PiSP (Parents-in-School Programme)** <br>
 The Moo-O programme has been incorporated into the P1-2 English curriculum in Rosyth. It uses a reading software that transforms the way stories are read and enjoyed, by involving the readers in the virtual story world as story characters. It is designed to help children read well, by letting them experience and understand how by reading fluently and expressively, they can enjoy their stories better. The programme strives to develop oracy  and collaborative learning  amongst our pupils.
