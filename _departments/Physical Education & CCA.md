@@ -3,8 +3,6 @@ title: Physical Education & CCA
 permalink: /departments/physical-education-n-co-curricular-activities/
 description: ""
 ---
-
-
 ### Physical Education & Co-Curricular Activities
 
 | PE & CCA Department |  | |
@@ -15,128 +13,50 @@ description: ""
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
-### VISION
+### VISION <br>
 ***A School of Active and Physically Competent Individuals***
 
-##### DESIRED OUTCOMES
 
-The purpose of physical education is to enable students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
+##### INTRODUCTION <br>
 
-The physical education programme develops students who:
+The purpose of physical education is to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.
 
-***A) Learning How to Move Well***
+Physical education programme thus is an integral component of Rosyth School curriculum.  It provides our students with learning opportunities that make use of movement to develop the whole person.
 
-* have a range of skills through participation in regular and varied physical education experiences.
-	* These skills enable students to enjoy movement, discover interests, and achieve personal goals related to participation in physical activity.
-* possess competency in movement.
-	* This provides the foundation for continual skill acquisition and facilitates future successful participation in physical activity resulting from changing life patterns.
+At the Rosyth School, students learn the fundamental movement skills incorporating the movement concepts.  They develop efficiency, effectiveness and versatility in their performance as they practice and transfer their skills across the seven learning areas of Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming to become competent movers.
 
-***B) Learning through Movement***
-* have sufficient knowledge related to movement experiences.
-	* An understanding about how to move allows students to make informed decisions in relation to work and recreation. This includes movement concepts, principles and theories, game rules, tactics and strategies, health- and fitness-related benefits, and environmental risks and personal safety concerns.
-* have extensive knowledge base about movement across a wide variety of settings, within and outside of school, to help generalise and transfer learning to new and challenging real-life physical activity.
-	* More importantly, students develop the ability to transfer knowledge to additional skills while continuing to refine existing ones as self-directed and independent learners.
+With the broadbased development of physical competencies, everyone is able to continue participating at a recreational level.
 
-***C) Learning about Movement***
-* take deliberate actions to be involved in safe physical activities that help to develop health-related physical fitness: muscular strength and endurance, aerobic capacity, flexibility, agility, and body composition.
-	* Students plan, monitor, and assess their physical fitness status and activity patterns using established fitness assessment tools, and compare the results to age- and gender-specific standards that contribute towards good health.
-* enjoy and value the benefits of daily physical activities.
-	* Students who value active living while young are more likely as adults to continue this practice and advocate an active and balanced lifestyle.
+##### GOALS OF PHYSICAL EDUCATION <br>
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+| Goals | Description | 
+| -------- | -------- | 
+| Goal 1 | Acquire a range of movement skills to participate in a variety of physical activities. | 
+| Goal 2 | Understand and apply movement concepts, principles and strategies in a range of physical activities. | 
+| Goal 3 | Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment. | 
+| Goal 4 | Display positive personal and social behaviour across different experiences. | 
+| Goal 5 | Acquire and maintain health-enhancing fitness through regular participation in physical activities. | 
+| Goal 6 | Enjoy and value the benefits of living a physically active and healthy life. | 
 
-##### SIGNATURE PROGRAMMES
+##### OUR SIGNATURE PROGRAMMES <br>
 
-***A)  Programme for Active Learning (PAL)***
+**PROGRAMME FOR ACTIVE LEARNING (PAL)**<br>
 
-**Objectives of Programme:**
+Programme for Active Learning (PAL) is aimed at providing a greater emphasis on non-academic programmes for all Primary 1 and 2 students.  PAL is part of the curriculum and offered during time-tabled time. In PAL, students are exposed to varied and fun learning experiences in four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts.  During PAL, students are taught socio-emotional competencies such as respecting others and responsible decision making. PAL nurtures confidence, curiosity and cooperation skills in students. 
 
-* Provide pupils with broad exposure and experiences through fun and varied activities in two broad areas:
-	* Sports & Games and Outdoor Education, and
-	* Performing Arts (Music and Dance) and Visual Arts
-* Facilitate holistic development of pupils in the five domains, that is, moral, cognitive, physical, social and aesthetics
-* Provide varied avenues for pupils to develop social and emotional competencies
+**LOWER PRIMARY SPORTS DAY (LPS) **<br>
 
-All P1 and P2 students
+The Lower Primary Sports Day (P1 to P2) is held every year as part of the National Day celebrations. The event is aimed at providing the students with the opportunity to apply the motor skills learnt in the PE syllabus in the form of relay games to cultivate the various ICARE values.  It also develops the camaraderie in students as they compete and cheer on their classmates.  All students will participate in at least two relay events competing with other classes in the same level.  These relay events would involve skills such as throwing and catching a ball, dribbling a ball with/without an equipment implement, and performing general locomotor movements such as running and balancing.  Everyone is a winner during LPS Day as we celebrate our nation’s birthday and goes home with a medal.
 
-Description:
+**SWIMSAFER** <br>
 
-PAL modules must engage pupils through their heads, hearts and hands. They are designed with the five characteristics in mind:
+The SwimSafer™ 2.0 is a National Water Safety Programme in Singapore designed to teach participants how to stay safe around aquatic environments. The programme aims to teach swimming proficiency and water survival skills in a fun manner. 
 
-1. Experiential in Nature
-2. Encompasses Learning in a Creative Way
-3. Provide Opportunities for Students to Create
-4. Incorporates Values Education and Social Emotional Learning
-5. Fun and Enjoyable
+**PRIMARY 5 CAMP** <br>
 
-***B) CCA Programme***
+The Primary 5 Cohort Camp is a key Student Development Experiences (SDE), under the CCE curriculum as well as serves as an extension of the Outdoor Education in the PE curriculum. The camp provides opportunities for students to apply their learning in an authentic context through a variety of outdoor living experiences and adventurous activities.
 
-| Sports & Games | Performing Arts | Clubs & Societies | Uniformed Groups | 
-| -------- | -------- | -------- | -------- |
-| Athletics |	Brass Band | Art Club | Brownies | 
-| Badminton	| Chinese Orchestra	| Chess Club | Scouts |
-| Basketball | Choir | Chinese Ambassadors’ Club | | 
-| Football | Chinese Dance | Debate Club | | 
-| Tennis | Indian Dance |	E2K | | 
-| | Malay Dance	| Infocomm Club | |
-| | | Manga Art | | 
-| | | Robotics Club | |
-| | | Green Innovators Club | |
+**IDARE Series** <br>
 
-Please click [here](/files/CCA%20Teacher%20Deployment%20and%20Venue.pdf) to view the practice days, venue and teachers-in-charge.
-
-***C) Play@Recess***
-
-**Objectives of Programme:**
-
-* To promote school wide participation in physical activity during break time.
-* To bring about parent and child bonding through physical activities.
-
-All students P1-P6 <br> 
-Parent Volunteers
-
-Description: <br> 
-Sports and fitness activity stations are set up at the parade square during recess on specified days of the week. Parent volunteers are deployed to conduct physical activities and games with the students.
-
-***D) N1 Cluster Sports Carnival*** 
-
-**Objectives of Programme:**
-* To promote mass participation of sports among N1 Cluster primary schools.
-* To provide non-National School Games (NSG) players an opportunity to represent their schools.
-* To provide a platform to display Olympic values of Excellence, Friendship and Respect.
-
-**Reach:** <br> 
-P4 and P5 students (N1 Cluster Primary Schools)
-
-**Description:** <br> 
-Students who have not represented the school will be selected to play in this carnival. They are given the chance to represent their school in these two games:
-
-1) Basketball <br> 
-2) Football
-
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
-
-##### HOUSE SYSTEM
-
-The pupils will be trained for House competitions during PE lessons.
-
-1) Phillips <br> 
-2) Kovan <br> 
-3) Richards <br> 
-4) Jansen <br> 
-5) Glasgow <br> 
-
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
-
-##### PE PROGRAMME / EVENTS 
-
-* Primary 4 Camp
-* Modified Games Competition (Primary 4 to Primary 6)
-* Lower Primary Sports (Primary 1 - Primary 3)
-* NAPFA Test (Primary 4 and Primary 6)
-* Interclass Competition (Primary 4 to Primary 6)
-* Post Exam Activities (Primary 4 to Primary 6)
-* Swimsafer Programme (Primary 2 and Primary 3)
-* Overseas Learning Journey (Surabaya)
-* Fitness for Food (Primary 1 to Primary 6)
-* North Zone Sports Carnival
+The IDARE Series (P3 to P6) are school-based Student Development Experiences (SDE) that provide students with experiences that cannot be replicated in the classroom.  Students go through activities such as rope climbing, Skyline Luge, Dragonboating, Laser and Archery Tag, 12km North Eastern Riverine Loop Hike.  These activities are aimed at providing authentic contexts in which students apply what they have learnt from Character and Citizenship Education (CCE) and Outdoor Education in Physical Education (OE in PE) lessons. 
+The richness and complexity of experiences, such as working with their peers to overcome challenges or navigating in a new environment during a journey, allow them to extend and deepen their learning from the classroom into real-life.  
