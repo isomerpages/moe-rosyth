@@ -91,3 +91,5 @@ All CCA emphasise social interaction by providing a common space for friendships
 * Spirit of service to the community	
 
 ##### CCAs in Rosyth School <br>
+
+![](/images/CCA1.jpg)
