@@ -71,8 +71,16 @@ We have garnered partnerships with other organizations to help students apprecia
 
 ***P4 Learning Journey to Bishan-Ang Mo Kio Park*** <br>
 
+![](/images/Science%201.jpg)
+
 ***Rice Sustainable Programme (ALP)*** <br>
+
+![](/images/Science%202.jpg)
 
 ***P5 Learning Journey to NEWater Visitors’ Centre*** <br>
 
+![](/images/Science%203.jpg)
+
 ***P6 Learning Journey to Lee Kong Chien Natural History Museum (LKCNHM)***<br>
+
+![](/images/Science%204.jpg)
