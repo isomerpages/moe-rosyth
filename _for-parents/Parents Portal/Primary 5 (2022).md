@@ -40,28 +40,17 @@ third_nav_title: Parents Portal
 |  P5 Emp    |  VINCENT LEE CHEE MUN (FT)	 | lee_chee_mun@schools.gov.sg |
 |   |  KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
-***TEAM BUILDING PROGRAMME***
 
-To develop good working relationships, encourage leadership and critical thinking and infuse values such as care for one another and resilience among the students, the school organises a team building programme for the P5 level. The skills learned from the programme will enhance character development. During the fun and challenging team building activities, the students have the chance to communicate with each other and work towards a common goal. By practising being an effective team member and team leader, students develop confidence in their own abilities and also demonstrate values.
+**Immersion Programme**
 
-![](/images/P5%201%20compiled.jpg)
+The Overseas immersion trip is a key student learning experience for our Primary 5 Rosythians. Such pivoted virtual or face to face exchange programmes between Rosyth School and international schools play an important part in our students’ learning. They aim to nurture students’ cultural quotient and global perspectives, in line with key objectives of the 21st Century Competencies of Critical Thinking, Creativity, Collaboration and Communication. Such programmes also expose students to Asia with greater focus on ASEAN countries and sensitise them to Singapore’s place in the world, strengthening their commitment and rootedness to Singapore.
 
-![](/images/P5%202%20compiled.jpg)
+**Outdoor Learning Programme**
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+The outdoor learning programme (OLP) is a milestone event for all Primary 5 students as it aims to provide opportunities for our students to experience a rugged outdoor experience. In addition, the school also intends to build resilience in students when they participate in challenging outdoor activities. Students also develop a strong sense of teamwork and co-operation amongst one another.
 
-##### RECOMMENDED RESOURCES
+**Interclass Games**
 
-MOE Website: [MOE Website](https://www.moe.gov.sg/) <br> 
-This includes information on subject syllabus, subject-based banding, etc.
-
-Bully Free (Children's Society): [Bully Free](https://bullyfree.sg/) <br>
-This includes tips and advice to help children handle bullying effectively. 
-
-Heath Promotion Board: [Health Promotion Board](http://www.hpb.gov.sg) <br> 
-This includes resources on health and disease prevention.
-
-Schoolbag.sg - The Education News Site: [Schoolbag.sg](https://www.schoolbag.edu.sg/) <br>
-This features education news and tips from MOE. You can also sign up for its monthly Schoolbag Newsletter. 
+The interclass games are usually held as part of the post-examination activity (PEA) in primary 5. Besides giving students an opportunity to have fun together as a level, the interclass games foster stronger bonds and build rapport amongst one another.
