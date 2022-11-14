@@ -45,6 +45,18 @@ I can make a difference through:
 
 Pupils undertake Values-In-Action (VIA) projects to identify real community needs.  Through these projects, the pupils learn with passion, serve with compassion and lead with vision.
 
+![](/images/ge1.jpg)
+Building 21st Century Competencies: Being Confident Speakers
+
+![](/images/ge2.jpg)
+Holistic development: Out of classroom experiences for Primary 4
+
+![](/images/ge3.jpg)
+Working with our hands!
+
+![](/images/ge4.jpg)
+Proud of our finished products - our very own pencil holders
+
 **COMPUTER ENRICHMENT PROGRAMME (CEP)**
 
 Students will be enrolled in the Computer Enrichment Program which take place on selected days after school-hours. Students will taught how to understand and apply digital technologies and in the process, acquire media literacy.
