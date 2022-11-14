@@ -47,10 +47,16 @@ third_nav_title: Parents Portal
 
 The Overseas immersion trip is a key student learning experience for our Primary 5 Rosythians. Such pivoted virtual or face to face exchange programmes between Rosyth School and international schools play an important part in our students’ learning. They aim to nurture students’ cultural quotient and global perspectives, in line with key objectives of the 21st Century Competencies of Critical Thinking, Creativity, Collaboration and Communication. Such programmes also expose students to Asia with greater focus on ASEAN countries and sensitise them to Singapore’s place in the world, strengthening their commitment and rootedness to Singapore.
 
+![](/images/p5_1.jpg)
+
 **Outdoor Learning Programme**
 
 The outdoor learning programme (OLP) is a milestone event for all Primary 5 students as it aims to provide opportunities for our students to experience a rugged outdoor experience. In addition, the school also intends to build resilience in students when they participate in challenging outdoor activities. Students also develop a strong sense of teamwork and co-operation amongst one another.
 
+![](/images/P5_2.jpg)
+
 **Interclass Games**
 
 The interclass games are usually held as part of the post-examination activity (PEA) in primary 5. Besides giving students an opportunity to have fun together as a level, the interclass games foster stronger bonds and build rapport amongst one another.
+
+![](/images/p5_3.png)
