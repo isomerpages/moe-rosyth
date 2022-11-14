@@ -43,31 +43,23 @@ third_nav_title: Parents Portal
 |   | MUHD SALIHIN ABDUL RASHID (Co) | muhd_salihin_abdul_rashid@schools.gov.sg |
 |   | SHARIFAH AMIRAH (Co) | sharifah_amirah_syed_hamid@schools.gov.sg  |
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
-***POST EXAMINATION ACTIVITIES (PEA)***
 
-At Rosyth, learning does not stop once the PSLE is over. The PEA gives the P6 students an opportunity to experience different non-academic areas of interest. The activities include learning guitar, hip hop dance, ceramics and photography. The students’ participation culminates in a display of what they have learnt from the PEA sessions, on Graduation Day.
+**Team Building**
 
-![](/images/p6%20pea%20compiled.jpg)
+The programme aims to build and strengthen friendships among the students. Our Primary 6 students learn to support one another with care and resilience as they work together to achieve a common goal set out for them in the various activities.
 
-***JUMBLE SALE***
+![](/images/P6_1.jpg)
 
-The annual Jumble Sale is an initiative taken on by the P6 students as part of the school’s “Ready to Serve” motto. Proceeds from this post-PSLE activity go to the School Pocket Money Fund. Students express their entrepreneurial spirit as they take full ownership of their stalls, beginning from the conceptualisation until the day of the event when all students and teachers are invited to patronise the stalls. Games, craft and thrift stalls are the highlight of this key event.
+**Care Carnival**
 
-![](/images/P6%20Jumble%20Sale%20compiled.jpg)
+The Care Carnival is a unique social innovation project by our Primary  6 students that connects their innovation learning with Values-in-Action, which is a Key Student Development Experience. While students prepare for the Care Carnival, they grow in awareness about empathy and social responsibility and foster stronger I-CARE values. Working collaboratively, students put into practice skills learnt, such as creating publicity posters and making crafts and conceptualise their stalls. By putting into action their entrepreneurial spirit, students also take full ownership of these stalls with the guidance of their teachers and lead their fellow schoolmates into doing their part for the community. Games, craft and thrift stalls are the highlights of this key event.
 
-***P6 GRADUATION CUM PRIZE GIVING DAY***
+![](/images/P6_2.jpg)
 
-The P6 Graduation cum Prize Giving Day is the climatic event for the students as they celebrate their final days as a primary school student in Rosyth. Academic prize winners receive their awards and student councillors are affirmed and recognised during the Awards Ceremony segment. The concert segment follows after that, showcasing what the students have learnt from their post examination activities. All parents of P6 students are invited to this event to celebrate their children’s’ passions and talents. It is also the platform for the students to express their appreciation for the school leaders, their teachers, friends and parents.
+ **P6 GRADUATION DAY**
 
-![](/images/grad%20compiled%201.jpg)
+The P6 Graduation Day is pivotal for the students as they celebrate their final days as a primary school student in Rosyth School. ICARE champions, outstanding academic prize winners receive their awards and student councillors are affirmed and recognised during the Awards Ceremony segment. The concert segment gives opportunities to the students to showcase what they have learnt from their post examination activities.  It is also the platform for the students to express their appreciation for the school leaders, their teachers, friends and parents.
 
-![](/images/grad%20compiled%202.jpg)
-
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
-
-##### EDUCATION AND CAREER GUIDANCE
-
-MySkillsFuture Portal:
-[MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/portal/en/index.html)
+![](/images/P6_3.jpg)
