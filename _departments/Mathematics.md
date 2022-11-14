@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /departments/mathematics
+permalink: /departments/mathematics/
 description: ""
 ---
 ### Mathematics Department
@@ -23,645 +23,86 @@ description: ""
 
 ##### DESIRED OUTCOMES
 
-Developing lifelong learners with a passion for Mathematics abf
+In Rosyth School, we aim to nurture Rosythians who are able to think logically, abstractly, critically, creatively and innovatively.
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+Through Rosyth Signature Programmes and Rosyth Learning Experiences, we develop Rosythians’ metacognition, as well as their appreciation for the beauty and depth of Mathematics. Rosythians are also given opportunities and platforms to extend and apply their learning of Mathematics.
+
+**Rosyth Signature Programmes:**
+
+* STAR approach to problem-solving
+* Rosyth Learning Experiences <br>
+         - Differentiated Instructions <br>
+				 - Learning Centres <br>
+				 - Formative Assessment <br>
+				 - Open-ended Tasks <br>
+				 - Gamification <br>
+* Student Leaders in Mathematics
 
 ##### SIGNATURE PROGRAMMES
 
-STAR approach to problem-solving (P1 – P6)
+**STAR approach to problem-solving (P1 – P6)**
+
+In Rosyth School, we have a structured approach for teaching heuristics and problem- solving skills.  STAR is the acronym for this structured approach.
 
 * S – Study the Problem
 * T – Think of a plan
 * A – Act on the plan
 * R – Reflect on your own answer
 
-Rosyth Thinking Programme
-In this Rosyth Thinking Programme (RTP), P3 students are challenged with Thinking Tasks that are set in interesting and authentic contexts, and constructed with an open question or a twist. These tasks are content-based, and are usually open and multi-dimensional. Thus, they arouse students’ curiosity and naturally lead them to search for solutions. As they search for out-of-the-box answers, they will need to think critically and creatively about the problems and their possible solutions. They use skills such as making conjectures, analysing, synthesising, and evaluating information gathered from observations, experiences, reasoning and communication.
+**Rosythians’ Learning Experiences**
 
-The school integrates a differentiated **‘Challenge-Enrich-Support’** approach into its tasks and activities. Higher-ability students are challenged their thinking, while support structures are in place to encourage the less able.
+Differentiated Instructions (DI): <br>
+All students have the same learning goal. In Rosyth School, our teachers have developed a series of DI lessons to meet the diverse learning needs of our students in order to maximise their progress in learning; these lessons vary based on students' interests, preferences, strengths, and struggles.
 
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
+![](/images/math1.jpg)
 
-##### PROBLEM SOLVING
+Learning Centres (P1 and P2): <br>
+Learning Centre is a method of instruction in which small groups of students move through many learning centers, or stations, allowing teachers to differentiate instruction by incorporating students' needs, interests, and learning styles. This involves group work whereby our students have the opportunities to apply their learning and demonstrate their thinking skills aloud to their peers.
 
-Mathematical problem solving is central to mathematics learning. It involves the acquisition and application of mathematics concepts and skills in a wide range of situations, including non-routine, open-ended and real-world problems.
+![](/images/Math2.png)
 
-One of the aims of mathematics education is to develop the mathematical thinking and problem solving skills and apply these skills to formulate and solve problems.
+Formative Assessment: <br>
+The Mathematics department makes use of Formative Assessment (FA) to discover what our students know while they’re still in the process of learning it.
 
-Problem solving can be made easier when children are mentally equipped with a ready set of thinking skills and heuristics.
+FA is a planned, ongoing process used by all students and teachers during learning and teaching to elicit and use evidence of student learning to improve student understanding of intended disciplinary learning outcomes and support students to become self-directed learners.
 
-The essential thinking skills are:
-* Classifying – arranging pieces of information into meaningful groups
-* Comparing – making comparisons among groups or pieces of information
-* Sequencing – arranging information into a meaningful/logical order
-* Analysing parts and wholes – comparing, visualizing and synthesizing various bits of information and making sense of them as a whole
-* Identifying patterns and relationships
-* Induction – making generalizations using specific examples
-* Deduction – infer various specific examples from given generalizations
-* Spatial visualization – mentally manipulate (“logical imagination”) an object/a problem without concrete materials
-* The heuristics are the tools which children use based on the plan that they have created from their thinking skills.
-* Listed below are the heuristics, categorized into 4 groups, that children can employ in helping them solve problems.
+![](/images/math3.png)
 
-Source: Primary Mathematics Syllabus 2007 ([Click](/files/maths-primary-2007.pdf) )
+Teachers make use of tools like the Mini Whiteboard. The mini whiteboard allows teachers to assess students on their knowledge of the topics and their ability to perform procedural skills in mathematics. The feedback gained would be used by teachers to determine if the class is ready to move on to more challenging tasks.
 
-* To give a representation – e.g. draw a diagram, make a list, use equations
-* To make a calculated guess – e.g. guess and check, look for patterns, make suppositions
-* To go through the process – e.g. act it out, work backwards, before & after concept
-* To change the problem – e.g. restate the problem, simplify the problem, solve part of the problem
+One of the main strategies used in FA is “**Find the errors and fix them**”.
 
-**Steps for problem-solving**
+Our students are provided with solutions, both right and wrong to evaluate.  They would comment on the mistakes made, the organization of the solutions and misconception. This allows our students to be more reflective learners and understand the concepts taught better.
 
-Knowing how to solve problems is an important skill and an essential part of our lives. George Polya, a mathematician, spent considerable effort on trying to characterize the methods that people use to solve problems, and to describe how problem-solving should be taught and learned.
+![](/images/math4.png)
 
-Polya devised a general approach that one can take to solve a problem.
+“**If you learned it, help someone who hasn’t**” is another strategy that teachers use to guide their students to be self-directed learners.
 
-**4 Steps for Problem-Solving**
+Students are encouraged to share their learning with their friends and point out key words/  phrases which help them to identify the concepts and methods to use in problem solving. Through teaching and learning from their peers, our students are able to understand the concepts and strategies better.
 
-*Step 1: UNDERSTAND the problem*
+Open-ended Tasks: <br>
+Learning Mathematics with open-ended tasks is an important experience that our students undergo in Rosyth School. Such tasks are open, i.e. there is no one fixed answer (many possible answers).  They can be solved in different ways and on different levels (accessible to mixed abilities).  These open-ended tasks empower our Rosythians to make their own mathematical decisions and make room for their own mathematical thinking. These enable them to further develop reasoning and communication skills, which is an important competency in the 21st century. For example, the Primary 4 students have to take on the role of an Urban Planner, plan its land usage for a particular plot of land, and come up with all the possible dimensions of the rectangular plot of land and calculate the cost of fencing, based on the type of fencing!
 
-* Read the problem carefully to understand what is required in the problem.
-* Break up the problem into smaller sections and understand each section thoroughly before moving on to understand the next section.
-* Draw or write down the information given in the problem in a simpler form to help you understand better.
+![](/images/math5.jpg)
+![](/images/math6.png)
 
-*Step 2: PLAN what to do/Devise a plan*
+Gamification: <br>
+![](/images/math7.jpg)
+Motivation is one of the core benefits of game-based learning. It tends to be increased, as games are naturally thrilling and successful in keeping the players hooked. Our Math department uses a lot of gamification to get our students to arrive at that “high joy, high learning” state, so that they are engaged and be able to apply what they have learnt.
 
-* Choose a heuristic to use to solve the problem
+![](/images/math8.jpg)
 
-*Step 3: DO it/Carry out the plan*
+One example of such a learning experience is when the department created a Halloween-themed Escape Room (Imagine dimmed room, light stick, spooky music, scary decorations and actors who ‘scare’ the students!) for our Math learners to work as a team and solve challenging Math questions on Volume, Geometry and Fractions!
 
-* Use computational skills, geometrical skills and logical reasoning to carry out your plan to solve the problem.
+**Student Leaders in Mathematics**
 
-*Step 4: CHECK the solution/Review*
+![](/images/math9.png)
 
-* Check the reasonableness of your solution
-* Improve on the method used
-* Seek alternative solutions
-* Extend the method to other problems
-
-*In short, the 4-steps for problem-solving is*
-
-* Understand
-* Plan
-* Do
-* Check
-
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
-
-##### FOR PARENTS: HELPING YOUR CHILD WITH HOMEWORK
-
-**Solving word problems**
-
-Go through the steps for problem solving together.
-
-*Step 1: UNDERSTAND the problem*
-
-Help your child understand the problem by getting him to read aloud one sentence at a time. Ask your child to explain his understanding of the sentence read in his own words. Once your child understands the sentence, move on to the next sentence.
-
-*Step 2: PLAN what to do*
-
-After understanding the problem, prompt your child to think of how to solve the problem. Give your child time to explore different methods to solving the problem. Encourage him to talk about what he is thinking. Challenge your child to find alternative ways to solving the problem.
-
-Ask leading questions such as...
-
-* "What should you do next?"
-* "Will your method work?"
-
-*Step 3: DO it*
-
-Advise your child to write proper mathematical sentences to show the process of solving the problem. Develop the habit of showing all working clearly as method marks will be awarded in the examinations.
-
-Your child should read the question again and answer according to what is asked for. Reading the question and writing the final answer statement is a checking mechanism to ensure the correct answer is given. (eg. Giving the answer in the unit required)
-
-*Step 4: CHECK the solution*
-
-Ask your child to check his answer. Ask leading questions such as...
-* "How did you get this answer?"
-* "Is your answer reasonable?"
-* "How do you know that your answer is correct?"
-* "Did you use another method to check if your answer is correct?"
-
-Going through the steps for problem solving, will help your child to become an independent thinker and problem solver.
-
-**Helping your child when his answer is wrong**
-
-If your child gets a wrong answer, ask your child to explain how he solved the problem. His explanation may help you discover if he needs help with computational skills such as addition, subtraction, multiplication and division or with the concepts involved in solving the problem.
-
-Remember:
-Don't provide the answers immediately. Giving the answers will not help your child. Learning mathematics is more than finding the correct answer. It is a process of solving problems and applying mathematical knowledge to new problems.
-
-Common reasons why some children do not do well for long structured questions
-
-**Using a tedious method**
-
-The key to doing well in Mathematics is learning when to apply the methods learnt. There is a basic set of methods which children have learnt that can be used for all questions e.g. unitary method, listing, working backwards.
-
-Although children know how to use various different problem-solving methods, they have difficulty knowing when to apply them effectively. Many children often choose the wrong (and often more difficult) methods instead of the ones mentioned above. If children choose the wrong or more time-consuming methods (e.g. Guess and Check), they may not have enough time to sufficiently complete and check their solutions during an examination.
-
-**Poor time management**
-
-Sometimes children spend too much time on questions that they cannot solve easily. If they encounter difficulty solving a question, they should skip that question and continue to solve the remaining questions. They can come back to attempt the question again when all the other questions have been completed.
-
-Spending too much time on a question may result in less time or insufficient time for other questions that could be solved easily.
-
-*The PSLE format*
-
-PSLE Standard Mathematics Examination Format
-
-<table class="iveo_table ives_tab_dark" style="width: 100%;">
- 
-<tbody class="">
-<tr class="">
-  
-<th>
-  <p class="" align="center">Paper</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Booklet</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Item Type</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Number of questions</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Number of marks per question</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Total marks</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Duration</p>
-  
-</th>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="50" rowspan="4" class="">
-  <p class="" align="center">1</p>
-  
-</td>
-  
-<td width="73" rowspan="2" class="">
-  <p class="" align="center">A</p>
-  
-</td>
-  
-<td width="135" rowspan="2" class="">
-  <p class="" align="center">Multiple-choice</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">1</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" rowspan="4" class="">
-  <p class="" align="center">1 h</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="86" class="">
-  <p class="" align="center">5</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="73" rowspan="2" class="">
-  <p class="" align="center">B</p>
-  
-</td>
-  
-<td width="135" rowspan="2" class="">
-  <p class="" align="center">Short-answer</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">5</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">1</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">5</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">20</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="50" rowspan="2" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="73" rowspan="2" class="">
-  <p class="" align="center">-</p>
-  
-</td>
-  
-<td width="135" class="">
-  <p class="" align="center">Short-answer</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">5</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" rowspan="2" class="">
-  <p class="" align="center">1 h 30 min</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="135" class="">
-  <p class="" align="center">Structured /</p><p class="" align="center">Long-answer</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">12</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">3, 4 or 5</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">45</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="259" colspan="3" class="">
-  <p class="" align="right">Total</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">47</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">-</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">100</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2h 30 min</p>
-  
-</td>
- 
-</tr>
-</tbody>
-</table>
-
-
-PSLE Foundation Mathematics Examination Format
-
-<table class="iveo_table ives_tab_dark" style="width: 100%;">
- 
-<tbody class="">
-<tr class="">
-  
-<th>
-  <p class="" align="center">Paper</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Booklet</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Item Type</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Number of questions</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Number of marks per question</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Total marks</p>
-  
-</th>
-  
-<th>
-  <p class="" align="center">Duration</p>
-  
-</th>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="50" rowspan="3" class="">
-  <p class="" align="center">1</p>
-  
-</td>
-  
-<td width="73" rowspan="2" class="">
-  <p class="" align="center">A</p>
-  
-</td>
-  
-<td width="135" rowspan="2" class="">
-  <p class="" align="center">Multiple-choice</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">1</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" rowspan="3" class="">
-  <p class="" align="center">1 h</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">20</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="73" class="">
-  <p class="" align="center">B</p>
-  
-</td>
-  
-<td width="135" class="">
-  <p class="" align="center">Short-answer</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">20</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="50" rowspan="2" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="73" rowspan="2" class="">
-  <p class="" align="center">-</p>
-  
-</td>
-  
-<td width="135" class="">
-  <p class="" align="center">Short-answer</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">10</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">20</p>
-  
-</td>
-  
-<td width="86" rowspan="2" class="">
-  <p class="" align="center">1 h</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="135" class="">
-  <p class="" align="center">Structured </p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">6</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">3 or 4</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">20</p>
-  
-</td>
- 
-</tr>
- 
-<tr class="">
-  
-<td width="259" colspan="3" class="">
-  <p class="" align="right">Total</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">46</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">-</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">90</p>
-  
-</td>
-  
-<td width="86" class="">
-  <p class="" align="center">2h</p>
-  
-</td>
- 
-</tr>
-</tbody>
-</table>
-
-The duration for Paper 1 is 50 minutes.
-
-The duration for Paper 2 is 1 hour 40 minutes.
-
-*The suggested time frame for completing each section is:*
-
-Paper 1
-
-* 20 minutes for Booklet A Multiple-choice questions
-* 20 minutes for Booklet B Short questions
-* 10 minutes for checking
-
-Paper 2
-
-* 15 minutes for Short questions
-* 60-65 minutes for Long and structured questions
-* 15-20 minutes for checking
-
-Do advise your child wisely on his time management.
+The Mathematics Student Representatives of Rosyth School are chosen to serve a pivotal role in the classroom ecosystem of care and leadership. They serve two main groups of people – their Mathematics teachers and their classmates. They are to lead with passion in their classrooms by being innovative problem-solvers and creative thinkers in learning Mathematics, and be role-models of lifelong learners with a passion for Mathematics. For example, they do research on famous Mathematicians and the positive traits that they have, and how they contribute to the world with their findings.  Together with their teachers, the Mathematics representatives in the class help to shape the dynamics of the class towards a positive and caring climate in the learning of Mathematics.
 
 ##### Rosyth Learning Support Programme for Mathematics
 
-* The programme provides early intervention so that pupils will have a good foundation in Mathematics.
-* The focus is on equipping pupils with basic mathematical skills and concepts.
-* It aims to build pupils’ confidence and positive beliefs about their ability to do Mathematics
-* The programme supports Primary 1 and 2 pupils.
+The programme provides early intervention so that pupils will have a good foundation in Mathematics. The focus is on equipping pupils with basic mathematical skills and concepts. It aims to build pupils’ confidence and positive beliefs about their ability to do Mathematics. The programme supports Primary 1 to Primary 3 pupils.
 
 **Important features in the Learning Support Programme for Mathematics**
 
