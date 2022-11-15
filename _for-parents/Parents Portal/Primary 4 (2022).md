@@ -43,6 +43,10 @@ third_nav_title: Parents Portal
 
 At Rosyth, we aim to develop our Rosythians holistically in values and character. The I-DARE Teambuilding Day provides opportunities for our students to develop positive peer relationships and a sense of teamwork amongst classmates. They also get to experience outdoor learning in outdoor settings and develop greater resilience as they participate in challenging outdoor activities.
 
+![](/images/P4_1.jpg)
+
 **Learning Journey to Bishan Park**
 
 As part of our efforts to inculcate the value of care and responsibility, Rosyth School has adopted Ang Mo Kio-Bishan Park. We organize a cross-curricular learning journey for all P4 Rosythians to learn about Science as well as Value In Action (VIA). Apart from engaging in experiential activities to better appreciate the biodiversity of plant and animal life in the park, students also pick up litter at the park.
+
+![](/images/P4_2.jpg)
