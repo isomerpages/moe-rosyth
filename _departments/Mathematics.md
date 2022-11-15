@@ -87,7 +87,6 @@ Learning Mathematics with open-ended tasks is an important experience that our s
 ![](/images/math6.png)
 
 Gamification: <br>
-![](/images/math7.jpg)
 Motivation is one of the core benefits of game-based learning. It tends to be increased, as games are naturally thrilling and successful in keeping the players hooked. Our Math department uses a lot of gamification to get our students to arrive at that “high joy, high learning” state, so that they are engaged and be able to apply what they have learnt.
 
 ![](/images/math8.jpg)
