@@ -28,8 +28,6 @@ To develop Rosythians holistically through a coherent, robust and engaging co-cu
 
 Through purposeful programming, scaling across the six levels of education and strong partnerships, Rosyth School takes a whole school approach in the holistic development of our Rosythians, anchored on our school’s I-CA**R**E values.
 
-![](/images/ICARE%20Circle%20(transparent).png)
-
 ##### CCE Lessons
 
 **CCE (FTGP)**
