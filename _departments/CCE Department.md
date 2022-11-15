@@ -45,7 +45,7 @@ Our structured CCE Form Teacher Guidance Period **CCE (FTGP)** curriculum develo
 
 At Rosyth, we focus on the cultivation of a “Growth Mindset”, with emphasis on effort and positivity. We recognise that all students are capable of developing resilience by tapping on their internal strengths and external resources. Using a strength approach of I Am, I Can & I Have, we equip our Rosythians with the knowledge, values and competencies to enhance their resilience and positivity. Growth Mindset lessons are carried out using a four-stage approach during CCE(FTGP) lessons. The table below shows a series of lessons taught over six years.
 
-![](/images/CCE1.jpg)
+![](/images/CCE13.jpg)
 
 **CCE (MTL)**
 
@@ -65,7 +65,7 @@ We envision Rosythians to grow up as leaders in their own lives as they take on 
 
 Rosyth Leadership Development Programme is a six-year programme spanning from Primary 1 to Primary 6.  It is structured according to C.A.R.E leadership (Caring, Alert, Responsible, Exemplary) for Primary 1-3 and Leadership Challenge Model by Jim Kouzes and Barry Posner for Primary 4-6.
 
-![](/images/CCE11.gif)
+![](/images/CCE14.jpg)
 
 Every Rosythian is nurtured with values and skills of a student mentor to be:
 
