@@ -6,9 +6,10 @@ third_nav_title: Parents Portal
 ---
 ### Primary 3 (2022)
 
-| Primary 3 |  | |
+| Primary 3 | | |
 | -------- | -------- | -------- |
-| AYH P3/4 | Mrs Chen Jing Er | chen_jing_er@schools.gov.sg |
+| YH P3/4 | Mrs Lui May Ling | tang_may_ling@schools.gov.sg | 
+| AYH P3 (Covering) | Mrs Chen Jing Er | chen_jing_er@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
