@@ -28,8 +28,6 @@ To develop Rosythians holistically through a coherent, robust and engaging co-cu
 
 Through purposeful programming, scaling across the six levels of education and strong partnerships, Rosyth School takes a whole school approach in the holistic development of our Rosythians, anchored on our school’s I-CA**R**E values.
 
-![](/images/ICARE%20Circle%20(transparent).png)
-
 ##### CCE Lessons
 
 **CCE (FTGP)**
@@ -65,19 +63,15 @@ Values Moments are structured time during school assembly to address school’s 
 
 We envision Rosythians to grow up as leaders in their own lives as they take on different leadership roles in their development, set goals to pursue their dreams and value the talents within themselves, thereby blossoming into confident and fulfilled individuals.
 
-![](/images/CCE2_1.jpg)
-
 Rosyth Leadership Development Programme is a six-year programme spanning from Primary 1 to Primary 6.  It is structured according to C.A.R.E leadership (Caring, Alert, Responsible, Exemplary) for Primary 1-3 and Leadership Challenge Model by Jim Kouzes and Barry Posner for Primary 4-6.
 
-![](/images/CCE3.jpg)
+![](/images/CCE11.gif)
 
 Every Rosythian is nurtured with values and skills of a student mentor to be:
 
 * a C.A.R.ing Buddy who **C**ares, shows gr**A**titude, and **R**espects others.
 * a good role model who models the way and leads by example.
 * a supportive mentor who can use the CHEER model to help others.
-
-![](/images/CCE4.png)
 
 #####  National Education
 
@@ -91,11 +85,9 @@ National Education Cohort learning journeys also take place as extensions of the
 
 Values in Action (VIA) are Key Student Developmental Experiences that play a pivotal role in nurturing Rosythians with a heart to serve. We adopt a 6-year plan with clear learning outcomes based on Circle of Love. Some level-wide signature programmes are Appreciation Day for school staff, Love Our Community and Care Carnival.
 
-![](/images/CCE6.jpg)
-
 To cultivate in our Rosythians a sense of responsibility and care for their own space and shared spaces, Rosyth incorporates daily cleaning activities in class every day. Through daily practice, our students cultivate good life habits.   To provide authentic experiences for our students to serve the community and display their strengths and talents, our CCAs design and implement customized service-learning opportunities which leverage students’ skills and competencies that have been developed in the CCA.
 
-![](/images/CCE7.jpg)
+![](/images/CCE12.jpg)
 
 ##### ENABLE
 
@@ -109,8 +101,6 @@ To partner our parents in our efforts, a one-stop resource portal for parents is
 **Healthy Minds, Happy Hearts” Well-being Portal**
 
 [https](https)[://](https://go.gov.sg/hmhh4rosythians)[go.gov.sg/hmhh4rosythians](https://go.gov.sg/hmhh4rosythians)
-
-![](/images/CCE8.jpg)
 
 ##### Partnership
 
