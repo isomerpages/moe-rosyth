@@ -34,9 +34,11 @@ third_nav_title: Parents Portal
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
-**Titans Challenge**
+**TITANS CHALLENGE**
 
 Titans Challenge integrates the subject disciplines of Science and PE. This programme aims to provide opportunities for students to practice growth mindset, develop collaborative skills, teamwork and care for peers, as they face physically challenging obstacles while attempting to complete given tasks at each station.
+
+![](/images/P3.png)
 
 **P3 AND P1 BUDDY PROGRAMME (TERM 1 - FIRST THREE DAYS OF SCHOOL)**
 
@@ -55,19 +57,3 @@ Our Work-Digestive System using recycled materials
 Sharing with the P2 pupils- Putting on the Digestive Aprons
 
 ![](/images/Amazing%20Science%203-4%20Compiled.jpg)
-
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
-
-##### RECOMMENDED RESOURCES
-
-MOE Website: [MOE Website](https://www.moe.gov.sg/) <br> 
-This includes information on subject syllabus, subject-based banding, etc.
-
-Bully Free (Children's Society): [Bully Free](https://bullyfree.sg/) <br>
-This includes tips and advice to help children handle bullying effectively.
-
-Heath Promotion Board: [Health Promotion Board](http://www.hpb.gov.sg) <br> 
-This includes resources on health and disease prevention.
-
-Schoolbag.sg - The Education News Site: [Schoolbag.sg](https://www.schoolbag.edu.sg/) <br>
-This features education news and tips from MOE. You can also sign up for its monthly Schoolbag Newsletter.
