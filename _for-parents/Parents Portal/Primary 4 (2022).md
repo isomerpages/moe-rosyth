@@ -39,38 +39,10 @@ third_nav_title: Parents Portal
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
-***LEARNING JOURNEY TO BISHAN PARK***
+**I-DARE Teambuilding Day**
 
-As part of our efforts to inculcate the value of care and responsibility, Rosyth School has adopted Ang Mo Kio -Bishan Park. A cross-curricular learning journey is organised for all P4 students to learn about Science as well as Value In Action (VIA). Apart from engaging in experiential activities to better appreciate the biodiversity of plant and animal life in the park, students also pick up litter at the park.
+At Rosyth, we aim to develop our Rosythians holistically in values and character. The I-DARE Teambuilding Day provides opportunities for our students to develop positive peer relationships and a sense of teamwork amongst classmates. They also get to experience outdoor learning in outdoor settings and develop greater resilience as they participate in challenging outdoor activities.
 
-![](/images/Bishan%20Park%20Compiled.jpg)
+**Learning Journey to Bishan Park**
 
-***LEARNING JOURNEY TO CHANGI MUSEUM***
-
-As part of our efforts to bring the Social Studies curriculum to life, Rosyth School conducts Learning Journeys to Changi Museum. Through a variety of hands-on activities, our P4 students get to physically touch and learn more about the actual ingredients used in wartime recipes. They also learn about key events that had shaped the psyche of our nation such as the Sook Ching Massacre and the Fall of Singapore. In short, students walk away with a greater appreciation for the resilience and ingenuity displayed by the ordinary Singaporeans and civilian internees during times of adversity. 
-
-![](/images/Changi%20MuseumCompiled.jpg)
-
-***P4 CAMP***
-
-As part of our efforts to provide a holistic education at Rosyth School through the physical domain, our P4 students attend a three-day adventure camp. This camp provides an opportunity for students to experience outdoor living in a rural environment whilst giving them opportunities to build character and leadership responsibility. This camp also aims to inculcate self-confidence and self-discipline, develop students’ collaboration skills and promote camaraderie through teamwork.   
-
-Through the camp, students have a chance to experience outdoor adventure activities such as challenge rope course, zipline, team building programme and campfire. They also display excellent teamwork especially during activities such as abseiling and rock climbing where their safety lines are in the hands of their teammates. True to the camp oath of “Challenge by Choice”, students overcome adversities and personal fears and participate in most activities. The camp also creates a knowledge playground where personalised learning is experienced and friendships develop. 
-
-![](/images/P4%20Camp%20Compiled.jpg)
-
-<div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
-
-##### RECOMMENDED RESOURCES
-
-MOE Website: [MOE Website](https://www.moe.gov.sg/) <br> 
-This includes information on subject syllabus, subject-based banding, etc.
-
-Bully Free (Children's Society): [Bully Free](https://bullyfree.sg/) <br>
-This includes tips and advice to help children handle bullying effectively. 
-
-Heath Promotion Board: [Health Promotion Board](http://www.hpb.gov.sg) <br> 
-This includes resources on health and disease prevention.
-
-Schoolbag.sg - The Education News Site: [Schoolbag.sg](https://www.schoolbag.edu.sg/) <br>
-This features education news and tips from MOE. You can also sign up for its monthly Schoolbag Newsletter. 
+As part of our efforts to inculcate the value of care and responsibility, Rosyth School has adopted Ang Mo Kio-Bishan Park. We organize a cross-curricular learning journey for all P4 Rosythians to learn about Science as well as Value In Action (VIA). Apart from engaging in experiential activities to better appreciate the biodiversity of plant and animal life in the park, students also pick up litter at the park.
