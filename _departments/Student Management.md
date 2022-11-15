@@ -8,7 +8,7 @@ description: ""
 | Student Management | | |
 | -------- | -------- | -------- |
 | HOD (SM) | Mr Justyn Lim | lim_lai_fu@schools.gov.sg |
-| SH (SWB) | Mr Kang Li Min | kang_li_min@schools.gov.sg |
+
 
 ### Guiding Principle in Student Management
 
