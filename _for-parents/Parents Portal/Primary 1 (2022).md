@@ -22,8 +22,8 @@ third_nav_title: Parents Portal
 |   | LESLIE THIO (Co) | leslie_tan@schools.gov.sg |
 | P1 GRA | YAP CHAI MUAY (FT) | yap_chai_muay@schools.gov.sg |
 |   | TAN LI JIA (Co) | tan_li_jia@schools.gov.sg |
-| P1 RESP | NURJIHAN MOHAMMED NOOR (FT) | nurjihan_mohammed_noor@schools.gov.sg |
-|   | YAM JINGWEN (Co)	 | yam_jingwen@schools.gov.sg |
+| P1 RESP | ONG HUI LI (FT) | ong_hui_li@schools.gov.sg |
+|   | LIM YILING EILEEN (Co) | lim_yiling_eileen@schools.gov.sg |
 | P1 RESI | YEO BAK KENG JOYCE (FT) | yeo_bak_keng_joyce@schools.gov.sg |
 |   | ELIDA WONG (Co) | elida_wahyuningsih_wongsosuhendro@schools.gov.sg |
 | P1 ENT  | SITI HANOM OMAR (FT) | siti_hanom_omar@schools.gov.sg |
