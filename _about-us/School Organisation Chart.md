@@ -12,7 +12,7 @@ description: ""
 **School Admin Team**
 * Admin Manager: Mdm Lee Hwee Ching
 * Operations Manager: Mr Quek Kim Hoe
-* Operations Manager: Mr Jasbir Singh
+* Operations Manager: Mr Kng Ter Sern
 
 **English Department**
 * HOD/English: Mdm Tan Nguang Leng
