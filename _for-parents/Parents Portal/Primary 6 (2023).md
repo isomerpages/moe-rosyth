@@ -38,8 +38,8 @@ third_nav_title: Parents Portal
 |   | SHI LIANG (Co)   | shi_liang@schools.gov.sg  |
 | P6 RESP | CHAN ELIZA JANE (FT) | chan_eliza_jane@schools.gov.sg |
 |   | ZAILANI (Co)  | mohammad_zailani_kasmuri@schools.gov.sg |
-| P6 INT | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
-|   | YEO ZIYI (Co) | yeo_ziyi@schools.gov.sg |
+| P6 INT | FIONA NG KENG CHOON (FT) | ng_keng_choon@schools.gov.sg |
+|   | CHARLENE GOH SHAN MEI (FT) | charlene_goh_shan_mei@schools.gov.sg |
 | P6 GRA    | MELVIN SINGH DHILLION (FT) | melvin_singh_dhillion@schools.gov.sg |
 |   | MUHD SALIHIN ABDUL RASHID (Co) | muhd_salihin_abdul_rashid@schools.gov.sg |
 |   | SHARIFAH AMIRAH (Co) | sharifah_amirah_syed_hamid@schools.gov.sg  |
