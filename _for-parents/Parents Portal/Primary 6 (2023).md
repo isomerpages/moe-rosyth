@@ -32,8 +32,8 @@ third_nav_title: Parents Portal
 |   | KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
 | P6 INN | JESSLYN GOH (FT) | goh_jielin_jesslyn@schools.gov.sg |
 |   | LIM CHUI LING (Co) | lim_chui_ling@schools.gov.sg |
-| P6 CARE   | EDMOND LEE KHENG TAT (FT)	 | lee_kheng_tat_edmond@schools.gov.sg |
-|   | TAY YUAN CHONG BRYAN | tay_yuan_chong_bryan_a@schools.gov.sg |
+| P6 CARE   | TAN KIAN TIONG (FT)	 | tan_kian_tiong@schools.gov.sg |
+|   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
 | P6 ENT | SHIRLEY KANG (FT) | kang_li_sanshirley@schools.gov.sg |
 |   | SAIRA BEGUM ABDUL JABBAR (Co)   | saira_begum_abdul_jabbar@schools.gov.sg  |
 | P6 RESP | CHAN ELIZA JANE (FT) | chan_eliza_jane@schools.gov.sg |
