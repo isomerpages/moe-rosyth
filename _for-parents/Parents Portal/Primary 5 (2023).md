@@ -25,7 +25,7 @@ third_nav_title: Parents Portal
 | P5 TMW | CHAN XIAO SHAN (FT) | chan_xiao_shan@schools.gov.sg |
 |   | AGNES LIM (FT) | lim_yin_khuan@schools.gov.sg |
 | P5 INN | EDMOND LEE KHENG TAT (FT)	 | lee_kheng_tat_edmond@schools.gov.sg |
-|   | LIM CHUI LING (Co) | lim_chui_ling@schools.gov.sg |
+|   | USHARANI SIVARAJOO (Co) | usharani_sivarajoo@schools.gov.sg |
 | P5 CARE   | TAN KIAN TIONG (FT) | tan_kian_tiong@schools.gov.sg |
 |   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
 | P5 ENT | FAIRUS ATAN (FT)	 | fairus_atan@schools.gov.sg |
