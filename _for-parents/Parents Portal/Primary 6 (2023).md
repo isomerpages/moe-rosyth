@@ -36,13 +36,14 @@ third_nav_title: Parents Portal
 |   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
 | P6 ENT | FAIRUS ATAN (FT) | fairus_atan@schools.gov.sg |
 |   | SHI LIANG (Co)   | shi_liang@schools.gov.sg  |
-| P6 RESP | CHAN ELIZA JANE (FT) | chan_eliza_jane@schools.gov.sg |
-|   | ZAILANI (Co)  | mohammad_zailani_kasmuri@schools.gov.sg |
+| P6 RESP | SHOBA JAGANATHAN (FT) | shoba_jaganathan@schools.gov.sg |
+|   | WANG ZHUOYUN (FT) | wang_zhuoyun@schools.gov.sg |
 | P6 INT | FIONA NG KENG CHOON (FT) | ng_keng_choon@schools.gov.sg |
 |   | CHARLENE GOH SHAN MEI (FT) | charlene_goh_shan_mei@schools.gov.sg |
-| P6 GRA    | MELVIN SINGH DHILLION (FT) | melvin_singh_dhillion@schools.gov.sg |
-|   | MUHD SALIHIN ABDUL RASHID (Co) | muhd_salihin_abdul_rashid@schools.gov.sg |
-|   | SHARIFAH AMIRAH (Co) | sharifah_amirah_syed_hamid@schools.gov.sg  |
+| P6 GRA    | JI MIN (FT) | ji_min@schools.gov.sg |
+|   | GOH SOOK HWA (FT) | goh_sook_hwa@schools.gov.sg |
+| P6 TWK | FIONA NG KENG CHOON (FT) | ng_keng_choon@schools.gov.sg |
+|   | CHARLENE GOH SHAN MEI (FT) | charlene_goh_shan_mei@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
