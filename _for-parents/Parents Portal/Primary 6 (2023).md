@@ -4,7 +4,6 @@ permalink: /for-parents/parents-portal/primary-6-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
-
 ### Primary 6 (2023)
 
 | Primary 6 |  | |
@@ -22,12 +21,13 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P6 COM | LEE HWEE HOON JULIA (FT)(MS)	 | lee_hwee_hoon_julia@schools.gov.sg |
-|   | GOH YONG YONG (FT)(GE)  | goh_yong_yong@schools.gov.sg |
-| P6 APP | PAMELA GOH DONG HONG (FT)(MS) | pamela_goh_dong_hong@schools.gov.sg |
-|   | SERENE YEO (FT)(GE)  | yeo_ai_ho_serene@schools.gov.sg |
-| P6 RESI | KHONG WEI JIA SERENA(FT)(MS) | khong_wei_jia_serena@schools.gov.sg |
-|   | SHI LIANG (FT)(GE) | shi_liang@schools.gov.sg |
+| P6 COM | AU ZHI JUN (FT) | au_zhi_jun@schools.gov.sg |
+|   | LEE BAO LING (Co) | lee_bao_ling@schools.gov.sg |
+| P6 APP | JOSHUA WONG YOU YI (FT) | pamela_goh_dong_hong@schools.gov.sg |
+|   | ANPARASI (FT) | - |
+| P6 RESI | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
+|   | SITI HIDAYAH (FT)(GE) | siti_hidayah_mohamad_taha@schools.gov.sg |
+|   | ZAILANI (Co) | mohammad_zailani_kasmuri@schools.gov.sg |
 | P6 EMP | THOMAS ANG (FT)(MS) | ang_tiong_wei@schools.gov.sg |
 |   | AGNES LIM (FT)(GE) | lim_yin_khuan@schools.gov.sg |
 | P6 INN | SITI HIDAYAH (FT)	 | siti_hidayah_mohamad_taha@schools.gov.sg |
