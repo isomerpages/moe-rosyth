@@ -4,8 +4,7 @@ permalink: /for-parents/parents-portal/primary-4-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
-
-### Primary 4 (2022)
+### Primary 4 (2023)
 
 | Primary 4 |  | |
 | -------- | -------- | -------- |
@@ -17,16 +16,15 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P4 COM  | NOOR HAIDAH MOHAMED SALL (FT) | noor_haidah_mohamed_sall@schools.gov.sg |
-|   | WANG ZHUOYUN (FT) | wang_zhuoyun@schools.gov.sg |
-| P4 APP | JANE ONG (FT)(GE) | ong_chiew_meng@schools.gov.sg |
-|   | GOH SOOK HWA (FT)(GE) | goh_sook_hwa@schools.gov.sg |
+| P4 APP | MUHD SALIHIN ABDUL RASHID (FT) | muhd_salihin_abdul_rashid@schools.gov.sg |
+|   | JANE ONG (FT) | ong_chiew_meng@schools.gov.sg |
 | P4 RESI | AZIANAH ZAKARIA (FT) | azianah_zakaria@schools.gov.sg |
-|   | ANGIE DAI HUILING (Co) | angie_dai_huiling@schools.gov.sg |
-| P4 EMP | CHEN EIK FANG (FT)(GE) | chen_eik_fang@schools.gov.sg |
-|   | DEBBIE GOH (FT)(GE) | goh_tiang_ai@schools.gov.sg |
-| P4 INN | KOH KIM ENG DEBORAH (FT) | koh_kim_eng@schools.gov.sg |
-|   | NG CHIN HOON (Co)  | ng_chin_hoon@schools.gov.sg  |
+|   | NG CHIN HOON (Co) | ng_chin_hoon@schools.gov.sg |
+| P4 EMP | ELSIE LIM (FT) | lim_yin_xin@schools.gov.sg |
+|   | TEO LEE PING (FT) | teo_lee_ping@schools.gov.sg |
+| P4 INN | SUDHEESH BALAKRISHNA PILLAI (FT) | sudheesh_balakrishna_pillai@schools.gov.sg |
+|   | NUR SHAZWANI KAMSARI (Co)  | nur_shazwani_kamsari@schools.gov.sg  | 
+|   | SAIRA BEGUM ABDUL JABBAR (Co)  | saira_begum_abdul_jabbar@schools.gov.sg  | 
 | P4 CARE | TAN MIAN CHOON (FT) | tan_mian_choon@schools.gov.sg |
 |   | ANNA CHEN (Co)  | chen_ying_ying@schools.gov.sg |
 | P4 ENT | LIM ENG WAH SHANNEN (FT) | lim_eng_wah@schools.gov.sg |
