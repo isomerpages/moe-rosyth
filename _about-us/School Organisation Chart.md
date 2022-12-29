@@ -4,8 +4,9 @@ permalink: /about-us/school-organisation-chart/
 description: ""
 ---
 **School Leaders**
-* Principal: Mdm Elis Tan
+* Principal: Mr Suraj Nair Venugopal
 * Vice-Principal: Ms Poh Hwee Thing
+* Vice-Principal: Mdm Tan Lay Wah
 * Vice-Principal (Admin): Mr Tan Boon Seng
 
 **School Admin Team**
