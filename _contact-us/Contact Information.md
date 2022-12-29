@@ -21,7 +21,7 @@ description: ""
 
 | Principal |  |  |
 |---|---|---|
-| Mdm Suraj Nair Venugopal | Email | Suraj_Nair_Venugopal@schools.gov.sg |
+| Mr Suraj Nair Venugopal | Email | Suraj_Nair_Venugopal@schools.gov.sg |
 |   |  |  |
 
 
