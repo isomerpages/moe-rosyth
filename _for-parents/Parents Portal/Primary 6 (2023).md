@@ -34,8 +34,8 @@ third_nav_title: Parents Portal
 |   | LIM CHUI LING (Co) | lim_chui_ling@schools.gov.sg |
 | P6 CARE   | TAN KIAN TIONG (FT)	 | tan_kian_tiong@schools.gov.sg |
 |   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
-| P6 ENT | SHIRLEY KANG (FT) | kang_li_sanshirley@schools.gov.sg |
-|   | SAIRA BEGUM ABDUL JABBAR (Co)   | saira_begum_abdul_jabbar@schools.gov.sg  |
+| P6 ENT | FAIRUS ATAN (FT) | fairus_atan@schools.gov.sg |
+|   | SHI LIANG (Co)   | shi_liang@schools.gov.sg  |
 | P6 RESP | CHAN ELIZA JANE (FT) | chan_eliza_jane@schools.gov.sg |
 |   | ZAILANI (Co)  | mohammad_zailani_kasmuri@schools.gov.sg |
 | P6 INT | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
