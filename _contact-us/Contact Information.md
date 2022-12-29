@@ -21,13 +21,14 @@ description: ""
 
 | Principal |  |  |
 |---|---|---|
-| Mdm Elis Tan | Email | Elis_Tan@schools.gov.sg  |
+| Mdm Suraj Nair Venugopal | Email | Suraj_Nair_Venugopal@schools.gov.sg |
 |   |  |  |
 
 
 | Vice-Principals |  |  |
 |---|---|---|
 | Ms Poh Hwee Thing (EO) | Email | Poh_Hwee_Thing@schools.gov.sg  |
+| Mdm Lay Wah Tan (EO) | Email | TAN_Lay_Wah@schools.gov.sg  |
 | Mr Tan Boon Seng (Admin) | Email | Tan_Boon_Seng@schools.gov.sg  |
 |   |  |  |
 
