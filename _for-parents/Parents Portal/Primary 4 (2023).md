@@ -25,14 +25,15 @@ third_nav_title: Parents Portal
 | P4 INN | SUDHEESH BALAKRISHNA PILLAI (FT) | sudheesh_balakrishna_pillai@schools.gov.sg |
 |   | NUR SHAZWANI KAMSARI (Co)  | nur_shazwani_kamsari@schools.gov.sg  | 
 |   | SAIRA BEGUM ABDUL JABBAR (Co)  | saira_begum_abdul_jabbar@schools.gov.sg  | 
-| P4 CARE | TAN MIAN CHOON (FT) | tan_mian_choon@schools.gov.sg |
-|   | ANNA CHEN (Co)  | chen_ying_ying@schools.gov.sg |
-| P4 ENT | LIM ENG WAH SHANNEN (FT) | lim_eng_wah@schools.gov.sg |
-|   | MAGGIE CHONG (Co) | chong_mei_kei_maggie@schools.gov.sg |
-| P4 RESP |  CHEN GENGSHI RUTH (FT) | chen_gengshi_ruth@schools.gov.sg |
-|   |  MOHAMAD ROSHAN MOHD SAH (Co)	 | mohamad_roshan_mohd_sah@schools.gov.sg |
-| P4 INT | EILEEN SEOW (FT) | seow_guat_leng@schools.gov.sg |
-|   | ROSALIND TAN (Co) | tan_hwee_tiang@schools.gov.sg |
+| P4 CARE | CHEN JING ER (FT) | chen_jing_er@schools.gov.sg |
+|   | AQUILA (Co)  | - |
+| P4 ENT | ZHANG CONG (FT) | zhang_cong@schools.gov.sg |
+|   | DEBBIE GOH (Co) | goh_tiang_ai@schools.gov.sg |
+| P4 RESP |  LIM ENG WAH SHANNEN (FT) | lim_eng_wah@schools.gov.sg |
+|   |  MELACH SENG (Co)	 | seng_chih_hsien@schools.gov.sg |
+| P4 INT | FADILLAH SAID (FT) | fadillah_said@schools.gov.sg |
+|   | CHEN GENGSHI RUTH (Co) | chen_gengshi_ruth@schools.gov.sg |
+|   | SHARIFAH AMIRAH (Co) | sharifah_amirah_syed_hamid@schools.gov.sg |
 | P4 GRA   |  LIN WEISHAN (FT) | lin_weishan@schools.gov.sg |
 |   |  DYANA (Co)  | dyana_a@schools.gov.sg |
 
