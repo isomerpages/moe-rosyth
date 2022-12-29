@@ -30,7 +30,7 @@ third_nav_title: Parents Portal
 |   | YEO ZIYI (Co) | yeo_ziyi@schools.gov.sg |
 | P5 ENT | CHAN ELIZA JANE (FT)	 | chan_eliza_jane@schools.gov.sg |
 |   | TAY YUAN CHONG BRYAN(Co)	 | tay_yuan_chong_bryan_a@schools.gov.sg |
-| P5 COM | AU ZHI JUN (FT) | au_zhi_jun@schools.gov.sg |
+| P5 COM | MELVIN SINGH DHILLION (FT) | melvin_singh_dhillion@schools.gov.sg |
 |   | NURUL MURNY BINTE JUBIR (FT) | nurul_murny_jubir@schools.gov.sg |
 |   | LEE BAO LING (Co) | tan_mian_choon@schools.gov.sg |
 | P5 APP | JOSHUA WONG YOU YI (FT) | wong_you_yi@schools.gov.sg |
