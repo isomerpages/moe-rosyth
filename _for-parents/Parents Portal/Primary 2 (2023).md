@@ -4,8 +4,7 @@ permalink: /for-parents/parents-portal/primary-2-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
-
-### Primary 2 (2022)
+### Primary 2 (2023)
 
 | Primary 2 |  | |
 | -------- | -------- | -------- |
@@ -17,24 +16,24 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P2 INT | ONG HUI LI (FT) | ong_hui_li@schools.gov.sg |
-|   | TAN LI JIA (Co) | tan_li_jia@schools.gov.sg |
-| P2 CARE | YAP CHAI MUAY (FT) | yap_chai_muay@schools.gov.sg |
-|   | LOW WEN HUEY (Co) | low_wen_huey@schools.gov.sg |
-| P2 GRA | FAZILAH ABDUL AZIZ (FT) | Fazilah_abdul_aziz@schools.gov.sg |
-|   | USHARANI SIVARAJOO (Co) | usharani_sivarajoo@schools.gov.sg |
-| P2 RESP | AMELIA NALANI WALLACE (FT) | amelia_nalani_wallace@schools.gov.sg |
-|   | SENG CHIH HSIEN MELACH (Co) | seng_chih_hsien@schools.gov.sg |
-| P2 RESI | LAURENE DANKER (FT) | danker_laurene@schools.gov.sg |
-|   | KUAN NAI LIN (Co)  | kuan_nai_lin@schools.gov.sg |
-| P2 ENT  | VERNON TAY CHIN LEONG (FT) | tay_chin_leong@schools.gov.sg |
-|   | LIM HUEY CHEE (Co) | lim_huey_chee@schools.gov.sg |
-| P2 INN | TRINA ANG YUE TING (FT) | ang_yue_ting_trina@schools.gov.sg |
-|   | LESLIE THIO (Co) | leslie_tan@schools.gov.sg |
-| P2 COMM | SITI RAMLAH YUSOFF (FT)   | siti_ramlah_yusoff@schools.gov.sg |
-|   | LIM YILING EILEEN (Co) | lim_yiling_eileen@schools.gov.sg |
-| P2 APP | SIM HUI LING JACINTHA (FT) | sim_hui_ling_jacintha@schools.gov.sg |
-|   | SEE THOR HUI QI (Co) | see_thor_hui_qi@schools.gov.sg |
+| P2 INT | SURIANI MOHAMAD (FT) | suriani_mohamad@schools.gov.sg |
+|   | HOE JOE HWEE (Co) | hoe_joe_hwee@schools.gov.sg |
+| P2 CARE | HALAWAH SHAKIR (FT) | halawah_shakir@schools.gov.sg |
+|   | LIM HUEY CHEE (Co) | lim_huey_chee@moe.edu.sg |
+| P2 GRA | TONG JIAN YING KELLY (FT) | tong_jian_ying_kelly@schools.gov.sg |
+|   | LI NA (Co) | li_na@schools.gov.sg |
+| P2 RESP | NURJIHAN MOHAMMED NOOR (FT) | nurjihan_mohammed_noor@schools.gov.sg |
+|   | YAM JINGWEN (Co) | yam_jingwen@schools.gov.sg |
+| P2 RESI | YEO BAK KENG JOYCE (FT) | yeo_bak_keng_joyce@schools.gov.sg |
+|   | ELIDA WONG (Co) | elida_wahyuningsih_wongsosuhendro@schools.gov.sg |
+| P2 ENT  | SITI HANOM OMAR (FT) | siti_hanom_omar@schools.gov.sg |
+|   | RAO CHUNYAN (Co) | rao_chunyan@schools.gov.sg |
+| P2 INN | LEONG MOK KAM (FT) | leong_mok_kam@schools.gov.sg |
+|   | MOHAMED NAZIRUDEEN MALIK (Co) | mohamed_nazirudeen_malik@schools.gov.sg |
+| P2 COMM | CAROLYN TOO MUI KENG (FT)   | carolyn_too_mui_keng@schools.gov.sg |
+|   | ZURAINA MOHD SENEN (Co) | zuraina_mohd_senen@moe.edu.sg |
+| P2 APP | BAI DONGMEI (FT) | bai_dongmei@schools.gov.sg |
+|   | ANNIE KOH (Co) | - |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
