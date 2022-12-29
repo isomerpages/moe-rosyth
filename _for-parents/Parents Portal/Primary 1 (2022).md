@@ -26,8 +26,8 @@ third_nav_title: Parents Portal
 |   | LIM YILING EILEEN (Co) | lim_yiling_eileen@schools.gov.sg |
 | P1 RESI | JOSEPHINE SEE HWEE MENG (FT) | josephine_see_hwee_meng@moe.edu.sg |
 |   | NUR MAHANA MAHWAN (Co) | nur_mahana_mahwan@moe.edu.sg |
-| P1 ENT  | SITI HANOM OMAR (FT) | siti_hanom_omar@schools.gov.sg |
-|   | RAO CHUNYAN (Co) | rao_chunyan@schools.gov.sg |
+| P1 ENT  | VERNON TAY CHIN LEONG (FT) | tay_chin_leong@schools.gov.sg |
+|   | LOW WEN HUEY (Co) | low_wen_huey@schools.gov.sg |
 | P1 INN | LEONG MOK KAM (FT) | leong_mok_kam@schools.gov.sg |
 |   | MOHAMED NAZIRUDEEN MALIK  (Co) | mohamed_nazirudeen_malik@schools.gov.sg |
 | P1 COMM | CAROLYN TOO MUI KENG (FT)   | carolyn_too_mui_keng@schools.gov.sg |
