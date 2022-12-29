@@ -20,8 +20,8 @@ third_nav_title: Parents Portal
 |   | MARDIANA (Co) | mardiana_mohd_sharip@schools.gov.sg |
 | P1 CARE | TRINA ANG YUE TING (FT) | ang_yue_ting_trina@schools.gov.sg |
 |   | LESLIE THIO (Co) | leslie_tan@schools.gov.sg |
-| P1 GRA | TONG JIAN YING KELLY (FT) | tong_jian_ying_kelly@schools.gov.sg |
-|   | LI NA (Co) | li_na@schools.gov.sg |
+| P1 GRA | YAP CHAI MUAY (FT) | yap_chai_muay@schools.gov.sg |
+|   | TAN LI JIA (Co) | tan_li_jia@schools.gov.sg |
 | P1 RESP | NURJIHAN MOHAMMED NOOR (FT) | nurjihan_mohammed_noor@schools.gov.sg |
 |   | YAM JINGWEN (Co)	 | yam_jingwen@schools.gov.sg |
 | P1 RESI | YEO BAK KENG JOYCE (FT) | yeo_bak_keng_joyce@schools.gov.sg |
