@@ -26,7 +26,7 @@ third_nav_title: Parents Portal
 |   | NUR SHAZWANI KAMSARI (Co)  | nur_shazwani_kamsari@schools.gov.sg  | 
 |   | SAIRA BEGUM ABDUL JABBAR (Co)  | saira_begum_abdul_jabbar@schools.gov.sg  | 
 | P4 CARE | CHEN JING ER (FT) | chen_jing_er@schools.gov.sg |
-|   | AQUILA (Co)  | - |
+|   | AQUILA (FT)  | - |
 | P4 ENT | ZHANG CONG (FT) | zhang_cong@schools.gov.sg |
 |   | DEBBIE GOH (Co) | goh_tiang_ai@schools.gov.sg |
 | P4 RESP |  LIM ENG WAH SHANNEN (FT) | lim_eng_wah@schools.gov.sg |
