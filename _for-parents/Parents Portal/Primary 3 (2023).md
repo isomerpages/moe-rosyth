@@ -4,7 +4,6 @@ permalink: /for-parents/parents-portal/primary-3-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
-
 ### Primary 3 (2022)
 
 | Primary 3 | | |
@@ -18,12 +17,12 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P3 INT |  FADILLAH SAID (FT) | fadillah_said@schools.gov.sg |
-|   |  LIM MING HUI (Co) | lim_ming_hui@schools.gov.sg |
-| P3 CARE | CHEN JING ER (FT) | chen_jing_er@schools.gov.sg |
+| P3 INT |  EILEEN SEOW (FT) | seow_guat_leng@schools.gov.sg |
+|   | MAGGIE CHONG (Co) | chong_mei_kei_maggie@schools.gov.sg |
+| P3 CARE | LIN WEISHAN (FT) | chen_jing_er@schools.gov.sg |
 |   | JAYALAKSHMI DANABAL (Co)   |  jayalakshmi_danabal@schools.gov.sg |
-| P3 GRA | FARIDAH BTE RAMBILE (FT)  | faridah_rambile@schools.gov.sg |
-|   | LIM KUAN CHIN (Co) | lim_kuan_chin_a@schools.gov.sg |
+| P3 GRA | CHEN EIK FANG (FT)  | chen_eik_fang@schools.gov.sg |
+|   | ROSALIND TAN (Co) | tan_hwee_tiang@schools.gov.sg |
 | P3 RESP | ANGELINE ONG (FT) | ong_chong_ghee@schools.gov.sg |
 |   | BERNARD SOH (Co) | soh_yang_yit@schools.gov.sg |
 | P3 RESI | LEOW KOK SIANG (FT) | leow_kok_siang@schools.gov.sg |
