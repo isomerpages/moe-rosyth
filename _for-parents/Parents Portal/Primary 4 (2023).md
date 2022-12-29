@@ -34,8 +34,8 @@ third_nav_title: Parents Portal
 | P4 INT | FADILLAH SAID (FT) | fadillah_said@schools.gov.sg |
 |   | CHEN GENGSHI RUTH (Co) | chen_gengshi_ruth@schools.gov.sg |
 |   | SHARIFAH AMIRAH (Co) | sharifah_amirah_syed_hamid@schools.gov.sg |
-| P4 GRA   |  LIN WEISHAN (FT) | lin_weishan@schools.gov.sg |
-|   |  DYANA (Co)  | dyana_a@schools.gov.sg |
+| P4 GRA   |  FARIDAH BTE RAMBILE (FT) | faridah_rambile@schools.gov.sg |
+|   |  KANG LI MIN (Co)  | kang_li_min@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
