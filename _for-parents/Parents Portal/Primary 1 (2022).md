@@ -31,7 +31,7 @@ third_nav_title: Parents Portal
 | P1 INN | LAURENE DANKER (FT) | danker_laurene@schools.gov.sg |
 |   | OH EK WAH (Co) | oh_ek_wah_a@schools.gov.sg |
 | P1 COMM | SEE THOR HUI QI (FT)   | see_thor_hui_qi@schools.gov.sg |
-|   | CELIA ONG (Co) | -@schools.gov.sg |
+|   | CELIA ONG (Co) | - |
 | P1 APP | FAZILAH ABDUL AZIZ (FT) | Fazilah_abdul_aziz@schools.gov.sg |
 |   | TEO WEE MENG | teo_wee_meng_a@moe.edu.sg  |
 
