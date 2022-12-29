@@ -24,8 +24,8 @@ third_nav_title: Parents Portal
 |   | TAN LI JIA (Co) | tan_li_jia@schools.gov.sg |
 | P1 RESP | ONG HUI LI (FT) | ong_hui_li@schools.gov.sg |
 |   | LIM YILING EILEEN (Co) | lim_yiling_eileen@schools.gov.sg |
-| P1 RESI | YEO BAK KENG JOYCE (FT) | yeo_bak_keng_joyce@schools.gov.sg |
-|   | ELIDA WONG (Co) | elida_wahyuningsih_wongsosuhendro@schools.gov.sg |
+| P1 RESI | JOSEPHINE SEE HWEE MENG (FT) | josephine_see_hwee_meng@moe.edu.sg |
+|   | NUR MAHANA MAHWAN (Co) | nur_mahana_mahwan@moe.edu.sg |
 | P1 ENT  | SITI HANOM OMAR (FT) | siti_hanom_omar@schools.gov.sg |
 |   | RAO CHUNYAN (Co) | rao_chunyan@schools.gov.sg |
 | P1 INN | LEONG MOK KAM (FT) | leong_mok_kam@schools.gov.sg |
