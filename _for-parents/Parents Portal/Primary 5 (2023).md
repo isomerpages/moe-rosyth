@@ -35,8 +35,8 @@ third_nav_title: Parents Portal
 |   | LEE BAO LING (Co) | tan_mian_choon@schools.gov.sg |
 | P5 APP | LEOW KOK SIANG (FT) | leow_kok_siang@schools.gov.sg |
 |   | MOHAMMAD ZULFADLI (Co) | mohammad_zulfadli_mohd_rashid@schools.gov.sg |
-| P5 RESI   | NORLELA MEN (FT)	 | norlela_men@schools.gov.sg |
-|   | ALBERT ANG GUO RONG (Co) | ang_guorong_albert@schools.gov.sg |
+| P5 RESI   | NORLELA MEN (FT) | norlela_men@schools.gov.sg |
+|   | LIM KUAN CHIN (Co) | lim_kuan_chin_a@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
