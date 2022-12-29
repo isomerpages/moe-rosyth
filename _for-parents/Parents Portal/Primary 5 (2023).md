@@ -4,7 +4,6 @@ permalink: /for-parents/parents-portal/primary-5-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
-
 ### Primary 5 (2022)
 
 | Primary 5 |  | |
@@ -17,13 +16,13 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P5 GRA | JI MIN (FT)(MS) | ji_min@schools.gov.sg |
-|   | TEO LEE PING (FT)(GE) | teo_lee_ping@schools.gov.sg |
-| P5 RESP | SHOBA JAGANATHAN (FT)(MS) | shoba_jaganathan@schools.gov.sg |
-|   | TAN JING YAN JULIENNE (FT)(GE) | tan_jing_yan@schools.gov.sg |
-| P5 INT | FIONA NG KENG CHOON (FT)(MS) | ng_keng_choon@schools.gov.sg |
-|   | MASHITA ABDOL RAHMAN (FT)(GE) | mashita_abdol_rahman@schools.gov.sg |
-| P5 TMW | KWOK CAIXIN AUDREY (FT)(MS)	 | kwok_caixin@schools.gov.sg |
+| P5 GRA | PAMELA GOH DONG HONG (FT) | pamela_goh_dong_hong@schools.gov.sg |
+|   | TAN JING YAN JULIENNE (FT) | tan_jing_yan@schools.gov.sg |
+| P5 RESP | KHONG WEI JIA SERENA(FT) | khong_wei_jia_serena@schools.gov.sg |
+|   | SERENE YEO (FT) | yeo_ai_ho_serene@schools.gov.sg |
+| P5 INT | BERNARD SOH (FT) | soh_yang_yit@schools.gov.sg |
+|   | GOH YONG YONG (FT) | goh_yong_yong@schools.gov.sg |
+| P5 TMW | CHAN XIAO SHAN (FT) | chan_xiao_shan@schools.gov.sg |
 |   | CHARLENE GOH SHAN MEI (FT)(GE) | charlene_goh_shan_mei@schools.gov.sg |
 | P5 INN | JESSLYN GOH (FT)	 | goh_jielin_jesslyn@schools.gov.sg |
 |   | LIM CHUI LING (Co) | lim_chui_ling@schools.gov.sg |
