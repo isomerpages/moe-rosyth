@@ -16,10 +16,10 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P1 INT | SURIANI MOHAMAD (FT) | suriani_mohamad@schools.gov.sg |
-|   | HOE JOE HWEE (Co) | hoe_joe_hwee@schools.gov.sg |
-| P1 CARE | HALAWAH SHAKIR (FT) | halawah_shakir@schools.gov.sg |
-|   | CHAN XIAO SHAN (Co) | chan_xiao_shan@schools.gov.sg |
+| P1 INT | SIM HUI LING JACINTHA (FT) | sim_hui_ling_jacintha@schools.gov.sg |
+|   | MARDIANA (Co) | mardiana_mohd_sharip@schools.gov.sg |
+| P1 CARE | TRINA ANG YUE TING (FT) | ang_yue_ting_trina@schools.gov.sg |
+|   | LESLIE THIO (Co) | leslie_tan@schools.gov.sg |
 | P1 GRA | TONG JIAN YING KELLY (FT) | tong_jian_ying_kelly@schools.gov.sg |
 |   | LI NA (Co) | li_na@schools.gov.sg |
 | P1 RESP | NURJIHAN MOHAMMED NOOR (FT) | nurjihan_mohammed_noor@schools.gov.sg |
