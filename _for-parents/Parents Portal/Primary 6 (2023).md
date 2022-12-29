@@ -42,8 +42,8 @@ third_nav_title: Parents Portal
 |   | CHARLENE GOH SHAN MEI (FT) | charlene_goh_shan_mei@schools.gov.sg |
 | P6 GRA    | JI MIN (FT) | ji_min@schools.gov.sg |
 |   | GOH SOOK HWA (FT) | goh_sook_hwa@schools.gov.sg |
-| P6 TWK | FIONA NG KENG CHOON (FT) | ng_keng_choon@schools.gov.sg |
-|   | CHARLENE GOH SHAN MEI (FT) | charlene_goh_shan_mei@schools.gov.sg |
+| P6 TWK | KWOK CAIXIN AUDREY (FT) | kwok_caixin@schools.gov.sg |
+|   | MASHITA ABDOL RAHMAN (FT) | mashita_abdol_rahman@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
