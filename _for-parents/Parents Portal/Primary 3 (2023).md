@@ -29,8 +29,8 @@ third_nav_title: Parents Portal
 |   | LIM MING HUI (Co) | lim_ming_hui@schools.gov.sg |
 | P3 ENT  | THOMAS ANG (FT) | ang_tiong_wei@schools.gov.sg |
 |   | ANGIE DAI HUILING (Co) | angie_dai_huiling@schools.gov.sg |
-| P3 INN | SUDHEESH BALAKRISHNA PILLAI (FT) | sudheesh_balakrishna_pillai@schools.gov.sg |
-|   | NUR SHAZWANI KAMSARI (Co) | nur_shazwani_kamsari@schools.gov.sg |
+| P3 INN | TAN MIAN CHOON (FT) | tan_mian_choon@schools.gov.sg |
+|   | MOHAMAD ROSHAN MOHD SAH (Co) | mohamad_roshan_mohd_sah@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
