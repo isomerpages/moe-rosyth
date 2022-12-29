@@ -19,7 +19,7 @@ third_nav_title: Parents Portal
 |:---:|:---:|:---:|
 | P3 INT |  EILEEN SEOW (FT) | seow_guat_leng@schools.gov.sg |
 |   | MAGGIE CHONG (Co) | chong_mei_kei_maggie@schools.gov.sg |
-| P3 CARE | LIN WEISHAN (FT) | chen_jing_er@schools.gov.sg |
+| P3 CARE | LIN WEISHAN (FT) | lin_weishan@schools.gov.sg |
 |   | JAYALAKSHMI DANABAL (Co)   |  jayalakshmi_danabal@schools.gov.sg |
 | P3 GRA | CHEN EIK FANG (FT)  | chen_eik_fang@schools.gov.sg |
 |   | ROSALIND TAN (Co) | tan_hwee_tiang@schools.gov.sg |
