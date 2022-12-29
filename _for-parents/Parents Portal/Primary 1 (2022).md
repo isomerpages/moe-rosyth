@@ -28,12 +28,12 @@ third_nav_title: Parents Portal
 |   | NUR MAHANA MAHWAN (Co) | nur_mahana_mahwan@moe.edu.sg |
 | P1 ENT  | VERNON TAY CHIN LEONG (FT) | tay_chin_leong@schools.gov.sg |
 |   | LOW WEN HUEY (Co) | low_wen_huey@schools.gov.sg |
-| P1 INN | LEONG MOK KAM (FT) | leong_mok_kam@schools.gov.sg |
-|   | MOHAMED NAZIRUDEEN MALIK  (Co) | mohamed_nazirudeen_malik@schools.gov.sg |
-| P1 COMM | CAROLYN TOO MUI KENG (FT)   | carolyn_too_mui_keng@schools.gov.sg |
+| P1 INN | LAURENE DANKER (FT) | danker_laurene@schools.gov.sg |
 |   | OH EK WAH (Co) | oh_ek_wah_a@schools.gov.sg |
-| P1 APP | BAI DONGMEI (FT) | bai_dongmei@schools.gov.sg |
-|   | ANNIE KOH (Co) | - |
+| P1 COMM | SEE THOR HUI QI (FT)   | see_thor_hui_qi@schools.gov.sg |
+|   | CELIA ONG (Co) | -@schools.gov.sg |
+| P1 APP | FAZILAH ABDUL AZIZ (FT) | Fazilah_abdul_aziz@schools.gov.sg |
+|   | TEO WEE MENG | teo_wee_meng_a@moe.edu.sg  |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
