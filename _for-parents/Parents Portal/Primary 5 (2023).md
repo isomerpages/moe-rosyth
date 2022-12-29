@@ -33,12 +33,10 @@ third_nav_title: Parents Portal
 | P5 COM | MELVIN SINGH DHILLION (FT) | melvin_singh_dhillion@schools.gov.sg |
 |   | NUR ASSYIKIN MOHD LAIS (Co) | assyikin_mohd_lais@schools.gov.sg |
 |   | LEE BAO LING (Co) | tan_mian_choon@schools.gov.sg |
-| P5 APP | JOSHUA WONG YOU YI (FT) | wong_you_yi@schools.gov.sg |
-|   | KOKILA ARIVANANDAN (Co) | kokila_arivanandan@schools.gov.sg |
+| P5 APP | LEOW KOK SIANG (FT) | leow_kok_siang@schools.gov.sg |
+|   | MOHAMMAD ZULFADLI (Co) | mohammad_zulfadli_mohd_rashid@schools.gov.sg |
 | P5 RESI   | NORLELA MEN (FT)	 | norlela_men@schools.gov.sg |
 |   | ALBERT ANG GUO RONG (Co) | ang_guorong_albert@schools.gov.sg |
-|  P5 Emp    |  VINCENT LEE CHEE MUN (FT)	 | lee_chee_mun@schools.gov.sg |
-|   |  KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
