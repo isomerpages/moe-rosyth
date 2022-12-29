@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-6-2022/
 description: ""
 third_nav_title: Parents Portal
 ---
-### Primary 6 (2022)
+### Primary 6 (2023)
 
 | Primary 6 |  | |
 | -------- | -------- | -------- |
