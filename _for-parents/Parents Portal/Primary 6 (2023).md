@@ -28,8 +28,8 @@ third_nav_title: Parents Portal
 | P6 RESI | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
 |   | SITI HIDAYAH (FT)(GE) | siti_hidayah_mohamad_taha@schools.gov.sg |
 |   | ZAILANI (Co) | mohammad_zailani_kasmuri@schools.gov.sg |
-| P6 EMP | THOMAS ANG (FT)(MS) | ang_tiong_wei@schools.gov.sg |
-|   | AGNES LIM (FT)(GE) | lim_yin_khuan@schools.gov.sg |
+| P6 EMP | VINCENT LEE CHEE MUN (FT) | lee_chee_mun@schools.gov.sg |
+|   | KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
 | P6 INN | SITI HIDAYAH (FT)	 | siti_hidayah_mohamad_taha@schools.gov.sg |
 |   | MOHAMMAD ZULFADLI (Co)	 | mohammad_zulfadli_mohd_rashid@schools.gov.sg |
 | P6 CARE   | EDMOND LEE KHENG TAT (FT)	 | lee_kheng_tat_edmond@schools.gov.sg |
