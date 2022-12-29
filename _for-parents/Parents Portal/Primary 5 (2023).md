@@ -27,9 +27,9 @@ third_nav_title: Parents Portal
 | P5 INN | EDMOND LEE KHENG TAT (FT)	 | lee_kheng_tat_edmond@schools.gov.sg |
 |   | USHARANI SIVARAJOO (Co) | usharani_sivarajoo@schools.gov.sg |
 | P5 CARE   | SHIRLEY KANG (FT) | kang_li_sanshirley@schools.gov.sg |
-|   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
-| P5 ENT | FAIRUS ATAN (FT)	 | fairus_atan@schools.gov.sg |
-|   | NUR MAHANA MAHWAN (Co)	 | nur_mahana_mahwan@schools.gov.sg |
+|   | YEO ZIYI (Co) | yeo_ziyi@schools.gov.sg |
+| P5 ENT | CHAN ELIZA JANE (FT)	 | chan_eliza_jane@schools.gov.sg |
+|   | TAY YUAN CHONG BRYAN(Co)	 | tay_yuan_chong_bryan_a@schools.gov.sg |
 | P5 COM | AU ZHI JUN (FT) | au_zhi_jun@schools.gov.sg |
 |   | NURUL MURNY BINTE JUBIR (FT) | nurul_murny_jubir@schools.gov.sg |
 |   | LEE BAO LING (Co) | tan_mian_choon@schools.gov.sg |
