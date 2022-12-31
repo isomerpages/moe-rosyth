@@ -1,6 +1,6 @@
 ---
-title: Primary 3 (2022)
-permalink: /for-parents/parents-portal/primary-3-2022/
+title: Primary 3 (2023)
+permalink: /for-parents/parents-portal/primary-3-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
@@ -17,21 +17,20 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P3 INT |  FADILLAH SAID (FT) | fadillah_said@schools.gov.sg |
-|   |  LIM MING HUI (Co) | lim_ming_hui@schools.gov.sg |
-| P3 CARE | CHEN JING ER (FT) | chen_jing_er@schools.gov.sg |
+| P3 INT |  EILEEN SEOW (FT) | seow_guat_leng@schools.gov.sg |
+|   | MAGGIE CHONG (Co) | chong_mei_kei_maggie@schools.gov.sg |
+| P3 CARE | LIN WEISHAN (FT) | lin_weishan@schools.gov.sg |
 |   | JAYALAKSHMI DANABAL (Co)   |  jayalakshmi_danabal@schools.gov.sg |
-| P3 GRA | FARIDAH BTE RAMBILE (FT)  | faridah_rambile@schools.gov.sg |
-|   | LIM KUAN CHIN (Co) | lim_kuan_chin_a@schools.gov.sg |
-| P3 RESP | ANGELINE ONG (FT) | ong_chong_ghee@schools.gov.sg |
-|   | BERNARD SOH (Co) | soh_yang_yit@schools.gov.sg |
-| P3 RESI | LEOW KOK SIANG (FT) | leow_kok_siang@schools.gov.sg |
-|   | KANG LI MIN (FT) | kang_li_min@schools.gov.sg |
-| P3 ENT  | ZHANG CONG (FT) | zhang_cong@schools.gov.sg |
-|   | ELSIE LIM (Co) | chong_mei_kei_maggie@schools.gov.sg |
-|   | NUR ASSYIKIN MOHD LAIS (Co)  | assyikin_mohd_lais@schools.gov.sg  |
-| P3 INN | SUDHEESH BALAKRISHNA PILLAI (FT) | sudheesh_balakrishna_pillai@schools.gov.sg |
-|   | NUR SHAZWANI KAMSARI (Co) | nur_shazwani_kamsari@schools.gov.sg |
+| P3 GRA | CHEN EIK FANG (FT)  | chen_eik_fang@schools.gov.sg |
+|   | ROSALIND TAN (Co) | tan_hwee_tiang@schools.gov.sg |
+| P3 RESP | ANNA CHEN (Co) | chen_ying_ying@schools.gov.sg |
+|   | DYANA (Co) | dyana_a@schools.gov.sg |
+| P3 RESI | NOOR HAIDAH MOHAMED SALL (FT) | noor_haidah_mohamed_sall@schools.gov.sg |
+|   | LIM MING HUI (Co) | lim_ming_hui@schools.gov.sg |
+| P3 ENT  | THOMAS ANG (FT) | ang_tiong_wei@schools.gov.sg |
+|   | ANGIE DAI HUILING (Co) | angie_dai_huiling@schools.gov.sg |
+| P3 INN | TAN MIAN CHOON (FT) | tan_mian_choon@schools.gov.sg |
+|   | MOHAMAD ROSHAN MOHD SAH (Co) | mohamad_roshan_mohd_sah@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 

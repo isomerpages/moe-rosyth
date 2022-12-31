@@ -1,11 +1,11 @@
 ---
 title: Principal's Message
-permalink: /about-us/principal-message
+permalink: /about-us/principal-message/
 description: ""
 ---
 <div>
 <div style="float: left">
-<img src="/images/Principal_Mdm%20Tan%20(1).jpg" 
+<img src="/images/Mr%20Suraj.jpg" 
      style="width:90%">
 </div>
 <div>
@@ -13,21 +13,29 @@ description: ""
 </div>
 </div>
 
-Welcome to Rosyth School where students and staff 
-***'Learn with Passion, Serve with Compassion and Lead with Vision'***
+Education is one of the most precious gifts that we can give any child.  A good education should inspire belief in the students and influence them to lead meaningful and purposeful lives. The focus of education is not only the pursuit of academic excellence but more importantly to develop students of character anchored in positive and enduring values. In Rosyth School, we encapsulate the values of **I**ntegrity, **C**are, Gr**A**titude, **R**espect & Resilience and **E**ntrepreneurial Spirit as **I-CARE**.
 
-Rosyth School’s vision espouses a community of life-long learners who are motivated and competent to learn. As compassionate and active citizens, Rosythians aspire to use their knowledge, skills and talents to care and serve for the betterment of others and the community.  We envision Rosythians to grow up as leaders in their own lives as they take on different leadership roles in their development, set goals to pursue their dreams and value the talents within themselves, thereby blossoming into confident and fulfilled individual.
+The school's programmes and activities are geared towards ensuring that students are developed holistically and equipped with the knowledge, skills, values and dispositions that are essential in the 21st Century. Our students get many opportunities to discover their talents and passions, and to excel in their pursuits. They are called to **Learn with Passion, Serve with Compassion and Lead with Vision**. With these, we aspire for our Rosythians to be always ready to serve in small or big ways to make a positive difference to those around them.
 
-Pursuing this vision is an innovative mind-set that the school and staff embrace. We continuously seek new ways to improve our teaching and learning programmes in the Rosyth experiences to develop our students holistically. These are underpinned by the unifying Rosyth’s **I-CARE** values of **I**ntegrity, **C**are, gr**A**titude, **R**espect and Resilience, and **E**ntrepreneurial Spirit.
+The staff in Rosyth aim to provide all our students with a vibrant learning environment by leveraging engaging learning spaces and innovative teaching pedagogies.  We want the school to be a place that stimulates and nurtures the students’ imagination and intellectual curiosity. The school also believes that providing a good education involves working closely with all our stakeholders, especially parents, and building strong supportive partnerships.
 
-In the 21st century, globalisation and advancement in technology will affect nearly every aspect of our lives. The way we work, learn and live is getting more dynamic and involves rapid changes. In Rosyth, information communication technology (ICT) is a key engine to innovate our teaching and learning to better engage and prepare our students for the future. Our students can look forward to expressing their creativity in the Manga digital art programme and engaging in self-directed and collaborative learning through ICT enhanced flipped lessons. Importantly, we want our students to grow up as responsible and ethical users in the digital age through our Rosyth’s active cyberwellness ambassador programme where they are equipped with the knowledge and skills to navigate in the dynamic world. 
+I hope our school website gives you an insight into life of our close-knit Rosythian family and provides you with the information you seek. I welcome your suggestions to further improve the content by providing your feedback via rosyth_sch@schools.gov.sg
 
-In Rosyth, we endeavour to engage students in deep learning experiences where students learn to apply their knowledge and skills in authentic contexts as they discover their interest and passion. For example, Rosythians use their Science knowledge and process skills to conserve and enhance the school and community environment through innovative green programmes. The school’s Applied Learning Programme in Lego Technology also integrates both Science and Mathematics learning to develop innovative thinking skills in students. In addition, Rosyth School develops in our students a strong sense of appreciation for the performing arts through their primary years in the school.
-
-Rosyth School has a rich history of 64 years and has held to its commitment and dedication to add value to the cohorts of Rosythians in their learning, personal growth and well-being.  In 2016, we celebrated the school 60th Anniversary (RS60) where saw many Rosythians, parents, school staff and stakeholders across the decades come together to celebrate with the theme ‘Appreciate, Affirm, Aspire’. We are very appreciative for the expertise and resources that our key stakeholders have generously contributed to enrich our students’ learning experiences and growth. In particular, our Parents Support Group’s dynamism and active involvement in school programmes is a signature in Rosyth School. The many school-child-parent programmes by the PSG have strengthened the synergy and positive outcomes for our students. 
-
-Moving forward, Rosyth School will continue to aspire for greater height of growth and learning in our students as they serve and contribute to the community to live out the school motto “Ready to Serve”.
-
-
-Mdm Elis Tan Lee Ching <br>
+Sincerely <br>
+Suraj Nair <br>
 Principal
+
+**About the Principal**
+
+**Mr. Suraj Nair** <br>
+**BAcc (Hons 1st), PGDE (Pri Merit), MSc Educational Research (Dist)**
+
+Mr. Suraj Nair joined Rosyth School on 15 December 2022.
+
+He began his journey in Education in 1999 when he joined Fuhua Primary School as a teacher.  He later became the Head of Department for Information and Communication Technology (ICT) in the same school.  In 2006, he joined the Educational Technology Division in MOE HQ.
+
+In June 2007, he was appointed Vice-Principal to start Beacon Primary School, the only new primary future school in Singapore.  Following which, he pursued his MSc in Educational Research at the University of Edinburgh, Scotland.  Upon his return in 2011, he joined the Curriculum Policy Office in MOE HQ.
+
+After attending the "Leaders in Education Programme", an executive programme at the National Institute of Education, Singapore to prepare him for school leadership, he was appointed Principal of Teck Whye Primary in December 2012.
+
+He returned to the Educational Technology Division in MOE HQ in December 2017 as Director for the Technologies for Learning Branch and was involved in developing the Singapore Student Learning Space, projects involving Artificial Intelligence in Education and Classrooms of the Future, and in growing the Makers Education movement in schools.

@@ -21,21 +21,20 @@ description: ""
 
 | Principal |  |  |
 |---|---|---|
-| Mdm Elis Tan | Email | Elis_Tan@schools.gov.sg  |
+| Mr Suraj Nair Venugopal | Email | Suraj_Nair_Venugopal@schools.gov.sg |
 |   |  |  |
 
 
 | Vice-Principals |  |  |
 |---|---|---|
 | Ms Poh Hwee Thing (EO) | Email | Poh_Hwee_Thing@schools.gov.sg  |
+| Mdm Tan Lay Wah (EO) | Email | TAN_Lay_Wah@schools.gov.sg  |
 | Mr Tan Boon Seng (Admin) | Email | Tan_Boon_Seng@schools.gov.sg  |
 |   |  |  |
 
 
 | Operations Managers |  |  |
 |---|---|---|
-| Mr Jasbir Singh | Phone | 6481 3946 |
-|  | Email | jasbir_singh_gurdial_singh@schools.gov.sg |
 | Mr Quek Kim Hoe | Phone | 6481 3180 |
 |  | Email | quek_kim_hoe@schools.gov.sg |
 | Mr Kng Ter Sern | Phone | 6481 3180 |

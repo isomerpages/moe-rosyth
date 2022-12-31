@@ -1,10 +1,10 @@
 ---
-title: Primary 6 (2022)
-permalink: /for-parents/parents-portal/primary-6-2022/
+title: Primary 6 (2023)
+permalink: /for-parents/parents-portal/primary-6-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
-### Primary 6 (2022)
+### Primary 6 (2023)
 
 | Primary 6 |  | |
 | -------- | -------- | -------- |
@@ -21,27 +21,29 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P6 COM | LEE HWEE HOON JULIA (FT)(MS)	 | lee_hwee_hoon_julia@schools.gov.sg |
-|   | GOH YONG YONG (FT)(GE)  | goh_yong_yong@schools.gov.sg |
-| P6 APP | PAMELA GOH DONG HONG (FT)(MS) | pamela_goh_dong_hong@schools.gov.sg |
-|   | SERENE YEO (FT)(GE)  | yeo_ai_ho_serene@schools.gov.sg |
-| P6 RESI | KHONG WEI JIA SERENA(FT)(MS) | khong_wei_jia_serena@schools.gov.sg |
-|   | SHI LIANG (FT)(GE) | shi_liang@schools.gov.sg |
-| P6 EMP | THOMAS ANG (FT)(MS) | ang_tiong_wei@schools.gov.sg |
-|   | AGNES LIM (FT)(GE) | lim_yin_khuan@schools.gov.sg |
-| P6 INN | SITI HIDAYAH (FT)	 | siti_hidayah_mohamad_taha@schools.gov.sg |
-|   | MOHAMMAD ZULFADLI (Co)	 | mohammad_zulfadli_mohd_rashid@schools.gov.sg |
-| P6 CARE   | EDMOND LEE KHENG TAT (FT)	 | lee_kheng_tat_edmond@schools.gov.sg |
-|   | TAY YUAN CHONG BRYAN | tay_yuan_chong_bryan_a@schools.gov.sg |
-| P6 ENT | SHIRLEY KANG (FT) | kang_li_sanshirley@schools.gov.sg |
-|   | SAIRA BEGUM ABDUL JABBAR (Co)   | saira_begum_abdul_jabbar@schools.gov.sg  |
-| P6 RESP | CHAN ELIZA JANE (FT) | chan_eliza_jane@schools.gov.sg |
-|   | ZAILANI (Co)  | mohammad_zailani_kasmuri@schools.gov.sg |
-| P6 INT | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
-|   | YEO ZIYI (Co) | yeo_ziyi@schools.gov.sg |
-| P6 GRA    | MELVIN SINGH DHILLION (FT) | melvin_singh_dhillion@schools.gov.sg |
-|   | MUHD SALIHIN ABDUL RASHID (Co) | muhd_salihin_abdul_rashid@schools.gov.sg |
-|   | SHARIFAH AMIRAH (Co) | sharifah_amirah_syed_hamid@schools.gov.sg  |
+| P6 COM | AU ZHI JUN (FT) | au_zhi_jun@schools.gov.sg |
+|   | LEE BAO LING (Co) | lee_bao_ling@schools.gov.sg |
+| P6 APP | JOSHUA WONG YOU YI (FT) | pamela_goh_dong_hong@schools.gov.sg |
+|   | ANPARASI (FT) | - |
+| P6 RESI | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
+|   | SITI HIDAYAH (FT)(GE) | siti_hidayah_mohamad_taha@schools.gov.sg |
+|   | ZAILANI (Co) | mohammad_zailani_kasmuri@schools.gov.sg |
+| P6 EMP | VINCENT LEE CHEE MUN (FT) | lee_chee_mun@schools.gov.sg |
+|   | KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
+| P6 INN | JESSLYN GOH (FT) | goh_jielin_jesslyn@schools.gov.sg |
+|   | LIM CHUI LING (Co) | lim_chui_ling@schools.gov.sg |
+| P6 CARE   | TAN KIAN TIONG (FT)	 | tan_kian_tiong@schools.gov.sg |
+|   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
+| P6 ENT | FAIRUS ATAN (FT) | fairus_atan@schools.gov.sg |
+|   | SHI LIANG (Co)   | shi_liang@schools.gov.sg  |
+| P6 RESP | SHOBA JAGANATHAN (FT) | shoba_jaganathan@schools.gov.sg |
+|   | WANG ZHUOYUN (FT) | wang_zhuoyun@schools.gov.sg |
+| P6 INT | FIONA NG KENG CHOON (FT) | ng_keng_choon@schools.gov.sg |
+|   | CHARLENE GOH SHAN MEI (FT) | charlene_goh_shan_mei@schools.gov.sg |
+| P6 GRA    | JI MIN (FT) | ji_min@schools.gov.sg |
+|   | GOH SOOK HWA (FT) | goh_sook_hwa@schools.gov.sg |
+| P6 TWK | KWOK CAIXIN AUDREY (FT) | kwok_caixin@schools.gov.sg |
+|   | MASHITA ABDOL RAHMAN (FT) | mashita_abdol_rahman@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 

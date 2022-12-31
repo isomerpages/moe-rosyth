@@ -1,6 +1,6 @@
 ---
-title: Primary 5 (2022)
-permalink: /for-parents/parents-portal/primary-5-2022/
+title: Primary 5 (2023)
+permalink: /for-parents/parents-portal/primary-5-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
@@ -16,29 +16,28 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P5 GRA | JI MIN (FT)(MS) | ji_min@schools.gov.sg |
-|   | TEO LEE PING (FT)(GE) | teo_lee_ping@schools.gov.sg |
-| P5 RESP | SHOBA JAGANATHAN (FT)(MS) | shoba_jaganathan@schools.gov.sg |
-|   | TAN JING YAN JULIENNE (FT)(GE) | tan_jing_yan@schools.gov.sg |
-| P5 INT | FIONA NG KENG CHOON (FT)(MS) | ng_keng_choon@schools.gov.sg |
-|   | MASHITA ABDOL RAHMAN (FT)(GE) | mashita_abdol_rahman@schools.gov.sg |
-| P5 TMW | KWOK CAIXIN AUDREY (FT)(MS)	 | kwok_caixin@schools.gov.sg |
-|   | CHARLENE GOH SHAN MEI (FT)(GE) | charlene_goh_shan_mei@schools.gov.sg |
-| P5 INN | JESSLYN GOH (FT)	 | goh_jielin_jesslyn@schools.gov.sg |
-|   | LIM CHUI LING (Co) | lim_chui_ling@schools.gov.sg |
-| P5 CARE   | TAN KIAN TIONG (FT) | tan_kian_tiong@schools.gov.sg |
-|   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
-| P5 ENT | FAIRUS ATAN (FT)	 | fairus_atan@schools.gov.sg |
-|   | NUR MAHANA MAHWAN (Co)	 | nur_mahana_mahwan@schools.gov.sg |
-| P5 COM | AU ZHI JUN (FT) | au_zhi_jun@schools.gov.sg |
-|   | NURUL MURNY BINTE JUBIR (FT) | nurul_murny_jubir@schools.gov.sg |
+| P5 GRA | PAMELA GOH DONG HONG (FT) | pamela_goh_dong_hong@schools.gov.sg |
+|   | TAN JING YAN JULIENNE (FT) | tan_jing_yan@schools.gov.sg |
+| P5 RESP | KHONG WEI JIA SERENA(FT) | khong_wei_jia_serena@schools.gov.sg |
+|   | SERENE YEO (FT) | yeo_ai_ho_serene@schools.gov.sg |
+| P5 INT | BERNARD SOH (FT) | soh_yang_yit@schools.gov.sg |
+|   | GOH YONG YONG (FT) | goh_yong_yong@schools.gov.sg |
+| P5 TMW | CHAN XIAO SHAN (FT) | chan_xiao_shan@schools.gov.sg |
+|   | AGNES LIM (FT) | lim_yin_khuan@schools.gov.sg |
+| P5 INN | EDMOND LEE KHENG TAT (FT)	 | lee_kheng_tat_edmond@schools.gov.sg |
+|   | USHARANI SIVARAJOO (Co) | usharani_sivarajoo@schools.gov.sg |
+| P5 CARE   | SHIRLEY KANG (FT) | kang_li_sanshirley@schools.gov.sg |
+|   | YEO ZIYI (Co) | yeo_ziyi@schools.gov.sg |
+| P5 ENT | CHAN ELIZA JANE (FT)	 | chan_eliza_jane@schools.gov.sg |
+|   | TAY YUAN CHONG BRYAN(Co)	 | tay_yuan_chong_bryan_a@schools.gov.sg |
+| P5 COM | MELVIN SINGH DHILLION (FT) | melvin_singh_dhillion@schools.gov.sg |
+|   | NUR ASSYIKIN MOHD LAIS (Co) | assyikin_mohd_lais@schools.gov.sg |
 |   | LEE BAO LING (Co) | tan_mian_choon@schools.gov.sg |
-| P5 APP | JOSHUA WONG YOU YI (FT) | wong_you_yi@schools.gov.sg |
+| P5 APP | LEOW KOK SIANG (FT) | leow_kok_siang@schools.gov.sg |
+|   | MOHAMMAD ZULFADLI (Co) | mohammad_zulfadli_mohd_rashid@schools.gov.sg |
+| P5 RESI   | NORLELA MEN (FT) | norlela_men@schools.gov.sg |
+|   | LIM KUAN CHIN (Co) | lim_kuan_chin_a@schools.gov.sg |
 |   | KOKILA ARIVANANDAN (Co) | kokila_arivanandan@schools.gov.sg |
-| P5 RESI   | NORLELA MEN (FT)	 | norlela_men@schools.gov.sg |
-|   | ALBERT ANG GUO RONG (Co) | ang_guorong_albert@schools.gov.sg |
-|  P5 Emp    |  VINCENT LEE CHEE MUN (FT)	 | lee_chee_mun@schools.gov.sg |
-|   |  KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
