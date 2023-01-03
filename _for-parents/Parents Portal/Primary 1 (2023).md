@@ -42,7 +42,7 @@ third_nav_title: Parents Portal
 
 | Circular to Parents |
 |---|
-| [2021 P1 Orientation (English)](/files/P1%20English%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
+| [2023 P1 Orientation (CCE)](/files/2023%20CCE.pdf) |
 | [2021 P1 Orientation (Chinese)](/files/P1%20Chinese%20Language-%20slides%20for%20parents%204%20Jan%202022%20(1).pdf) |
 | [2021 P1 Orientation (Malay)](/files/P1%20Malay%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
 | [2021 P1 Orientation (Tamil)](/files/P1%20Tamil%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
