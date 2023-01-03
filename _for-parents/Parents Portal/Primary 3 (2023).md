@@ -9,7 +9,7 @@ third_nav_title: Parents Portal
 | Primary 3 | | |
 | -------- | -------- | -------- |
 | YH P3/4 | Mrs Lui May Ling | tang_may_ling@schools.gov.sg | 
-| AYH P3 | Mrs Lin Weishan | lin_weishan@schools.gov.sg |
+| AYH P3 | Mdm Lin Weishan | lin_weishan@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
