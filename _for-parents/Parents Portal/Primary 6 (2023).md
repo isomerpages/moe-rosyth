@@ -9,7 +9,7 @@ third_nav_title: Parents Portal
 | Primary 6 |  | |
 | -------- | -------- | -------- |
 | YH 5/6 | Miss Lim Swee Ching | lim_swee_ching@schools.gov.sg |
-| AYH 5 | Mrs Shoba Jaganathan | shoba_jaganathan@schools.gov.sg |
+| AYH 5 | Mdm Shoba Jaganathan | shoba_jaganathan@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
