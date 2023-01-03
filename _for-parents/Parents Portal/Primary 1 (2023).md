@@ -4,12 +4,12 @@ permalink: /for-parents/parents-portal/primary-1-2023/
 description: ""
 third_nav_title: Parents Portal
 ---
-
 ### Primary 1 (2023)
 
 | Primary 1 |  | |
 | -------- | -------- | -------- |
-| AYH | Laurene Danker | danker_laurene@schools.gov.sg |
+| YH | Mdm Sim Mui Huang | sim_mui_huang@schools.gov.sg |
+| AYH | Miss Laurene Danker | danker_laurene@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
