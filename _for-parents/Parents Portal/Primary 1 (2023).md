@@ -43,11 +43,12 @@ third_nav_title: Parents Portal
 | Circular to Parents |
 |---|
 | [2023 P1 Orientation (CCE)](/files/2023%20CCE.pdf) |
-| [2021 P1 Orientation (Chinese)](/files/P1%20Chinese%20Language-%20slides%20for%20parents%204%20Jan%202022%20(1).pdf) |
-| [2021 P1 Orientation (Malay)](/files/P1%20Malay%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
-| [2021 P1 Orientation (Tamil)](/files/P1%20Tamil%20Language-%20slides%20for%20parents%204%20Jan%202022.pdf) |
-| [2021 P1 Orientation (Mathematics)](/files/P1%20Mathematics%20-%20slides%20for%20parents%204%20Jan%202022.pdf) |
-| [2021 P1 Orientation (PAL)](/files/PAL@Rosyth%20-%20slides%20for%20parents%204%20Jan%202022.pdf) |
+| [2023 P1 Orientation (English)](/files/2023%20EL.pdf) |
+| [2023 P1 Orientation (Chinese)](/files/2023%20CL.pdf) |
+| [2023 P1 Orientation (Tamil)](/files/2023%20TL.pdf) |
+| [2023 P1 Orientation (Malay)](/files/2023%20ML.pdf) |
+| [2023 P1 Orientation (Mathematics)](/files/2023%20Math.pdf) |
+| [2023 P1 Orientation (PAL)](/files/2023%20PAL.pdf) |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
