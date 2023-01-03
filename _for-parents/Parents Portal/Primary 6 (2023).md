@@ -9,6 +9,7 @@ third_nav_title: Parents Portal
 | Primary 6 |  | |
 | -------- | -------- | -------- |
 | YH 5/6 | Miss Lim Swee Ching | lim_swee_ching@schools.gov.sg |
+| AYH 5 | Mdm Shoba Jaganathan | shoba_jaganathan@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
@@ -23,8 +24,8 @@ third_nav_title: Parents Portal
 |:---:|:---:|:---:|
 | P6 COM | AU ZHI JUN (FT) | au_zhi_jun@schools.gov.sg |
 |   | LEE BAO LING (Co) | lee_bao_ling@schools.gov.sg |
-| P6 APP | JOSHUA WONG YOU YI (FT) | pamela_goh_dong_hong@schools.gov.sg |
-|   | ANPARASI (FT) | - |
+| P6 APP | JOSHUA WONG YOU YI (FT) | wong_you_yi@schools.gov.sg |
+|   | ANPARASI (FT) | anparasi_velalar_murugiam@schools.gov.sg |
 | P6 RESI | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
 |   | SITI HIDAYAH (FT)(GE) | siti_hidayah_mohamad_taha@schools.gov.sg |
 |   | ZAILANI (Co) | mohammad_zailani_kasmuri@schools.gov.sg |
