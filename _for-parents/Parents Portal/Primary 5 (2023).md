@@ -8,7 +8,7 @@ third_nav_title: Parents Portal
 
 | Primary 5 |  | |
 | -------- | -------- | -------- |
-| AYH 5 | Mrs Shoba Jaganathan | shoba_jaganathan@schools.gov.sg |
+| AYH 5 | Miss Pamela Goh | pamela_goh_dong_hong@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
