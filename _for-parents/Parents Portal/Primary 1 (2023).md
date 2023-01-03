@@ -48,9 +48,9 @@ third_nav_title: Parents Portal
 | [2023 P1 Orientation (Tamil)](/files/2023%20TL.pdf) |
 | [2023 P1 Orientation (Malay)](/files/2023%20ML.pdf) |
 | [2023 P1 Orientation (Mathematics)](/files/2023%20Math.pdf) |
-| [Article 1: Develop your brain](/files/2023%20Art1.pdf) |
-| [Article 2: Don't forget the E Word](/files/2023%20Art2.pdf) |
-| [Article 3 - Don't take pre-schoolers' claims at face value)](/files/2023%20Art3.pdf) |
+| [Article 1: Develop your brain](/files/Art1.pdf) |
+| [Article 2: Don't forget the E Word](/files/Art2.pdf) |
+| [Article 3: Don't take pre-schoolers' claims at face value](/files/Art3.pdf) |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
