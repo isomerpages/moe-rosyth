@@ -81,8 +81,8 @@ description: ""
 * YH/P5-6: Miss Lim Swee Ching
 * AYH/P1: Miss Laurene Danker
 * AYH/P2: Mrs Joyce Yeo
-* AYH/P3: Mdm Chen Jing'er
-* AYH/P4: Mdm Lin Weishan
-* AYH/P5: Mdm Shoba Jaganathan
-* AYH/P6: Miss Pamela Goh
+* AYH/P3: Mdm Lin Weishan
+* AYH/P4: Mdm Chen Jing'er
+* AYH/P5: Miss Pamela Goh
+* AYH/P6: Mdm Shoba Jaganathan
 * Senior School Counsellor: Mdm Mok Swee Peng Pauline
