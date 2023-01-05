@@ -1,6 +1,6 @@
 ---
 title: Administrative Matters
-permalink: /for-parents/administrative-matters
+permalink: /for-parents/administrative-matters/
 description: ""
 ---
 ##### 1. LEAVE OF ABSENCE
@@ -39,7 +39,7 @@ School Immersion for Children on LOA
 
 The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools and Institute of Higher Learning so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.  
 
-A student is eligible for MOE FAS if he or she meets either of the following criteria: Gross Household Income (GHI) not exceeding $2,750 per month; or Per Capita Income (PCI) not exceeding $690 per month 
+A student is eligible for MOE FAS if he or she meets either of the following criteria: Gross Household Income (GHI) not exceeding $3,000 per month; or Per Capita Income (PCI) not exceeding $750 per month.
 
 You may find out more information from the MOE [website](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2ffinancial-assistance%2fmoe-financial-assistance-scheme&user=extranet%5cAnonymous&site=moe-website) .  
 
