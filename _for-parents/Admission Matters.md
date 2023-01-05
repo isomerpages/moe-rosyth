@@ -31,7 +31,7 @@ Parents may refer to Ministry of Education (MOE) [website](https://www.moe.gov.s
 
 
 **Request for School Record** <br>
-Parents can approach the MOE Customer Service Centre to request for a copy of your school record. Parents can purchase a Certified-True-Copy of your PSLE certificate at $10 from the Customer Service Centre.
+Parents may retrieve past years’ PSLE exam results online at [MySkillsFuture portal](http://www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html) or find out from Singapore Examinations and Assessment Board  [how you can obtain past years' examination results](https://www.seab.gov.sg/home/services/statements-of-results)
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 

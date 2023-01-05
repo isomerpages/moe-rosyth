@@ -6,7 +6,7 @@ description: ""
 | General Office |  |
 |---|---|
 | Address | 21 Serangoon North Ave 4,<br>Singapore 555855 |
-| Phone | 6481 2273 / 6483 4020<br><br>In case of an emergency involving your child, kindly contact our Operations Managers,<br>Mr Quek at 9656 3932 or Mr Singh at 9755 8132 |
+| Phone | 6481 2273 / 6483 4020<br><br>In case of an emergency involving your child, kindly contact our Operations Managers,<br>Mr Quek at 9656 3932 or Mr Kng at 9755 8132 |
 | Fax | 6483 1102 |
 | Email | rosyth_sch@schools.gov.sg |
 |   |  |  |
@@ -37,7 +37,7 @@ description: ""
 |---|---|---|
 | Mr Quek Kim Hoe | Phone | 6481 3180 |
 |  | Email | quek_kim_hoe@schools.gov.sg |
-| Mr Kng Ter Sern | Phone | 6481 3180 |
+| Mr Frederick Kng | Phone | 6481 3946 |
 |  | Email | kng_ter_sern@schools.gov.sg |
 |   |  |  |
 
@@ -45,7 +45,7 @@ description: ""
 | Administration Manager |  |  |
 |---|---|---|
 | Mdm Lee Hwee Ching | Phone | 6481 2273 |
-|  | Email | rosyth_sch@schools.gov.sg |
+|  | Email | lee_hwee_ching_a@schools.gov.sg |
 |   |  |  |
 
 | | |

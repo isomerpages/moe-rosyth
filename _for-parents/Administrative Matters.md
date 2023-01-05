@@ -1,6 +1,6 @@
 ---
 title: Administrative Matters
-permalink: /for-parents/administrative-matters
+permalink: /for-parents/administrative-matters/
 description: ""
 ---
 ##### 1. LEAVE OF ABSENCE
@@ -39,7 +39,7 @@ School Immersion for Children on LOA
 
 The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools and Institute of Higher Learning so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.  
 
-A student is eligible for MOE FAS if he or she meets either of the following criteria: Gross Household Income (GHI) not exceeding $2,750 per month; or Per Capita Income (PCI) not exceeding $690 per month 
+A student is eligible for MOE FAS if he or she meets either of the following criteria: Gross Household Income (GHI) not exceeding $3,000 per month; or Per Capita Income (PCI) not exceeding $750 per month.
 
 You may find out more information from the MOE [website](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2ffinancial-assistance%2fmoe-financial-assistance-scheme&user=extranet%5cAnonymous&site=moe-website) .  
 
@@ -112,7 +112,7 @@ The peak period traffic is between 7.00am to 7.30am and 1.30pm to 2.00pm from Mo
 For parents who are picking up their children: **Before 6pm** you may walk into the school via Gate 1 or drive into the school via Gate 2 and pick up your child at the SCC.  Please show your parent access pass or security pass to our security officers when you enter the school. **After 6pm** you have to meet your child at Gate 7.
 
 ***1.6 HOAX CALLS*** <br>
-The Singapore Police Force has over the past years issued warnings about “Phone Kidnapping Scam” calls.  If you should receive such a call about your child during school hours, please contact us immediately to ascertain the safety of your child.  If the main office line is busy, kindly contact our Operations Managers **Mr Quek at 9656 3932** or **Mr Singh at 9755 8132**. 
+The Singapore Police Force has over the past years issued warnings about “Phone Kidnapping Scam” calls.  If you should receive such a call about your child during school hours, please contact us immediately to ascertain the safety of your child.  If the main office line is busy, kindly contact our Operations Managers **Mr Quek at 9656 3932** or **Mr Kng at 9755 8132**. 
 
 ***1.7 INSURANCE*** <br>
 As part of our student well-being efforts, the school has purchased insurance to provide basic coverage for our students in case of accidents. You may refer to the NTUC Income  [website](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students) for the policy coverage and benefits. In the event of any claim, you have to do e-submission of your claim through their website. If you need higher coverage for your child, please arrange a separate policy from your preferred insurer.
