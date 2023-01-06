@@ -9,7 +9,6 @@ third_nav_title: Parents Portal
 * [(2023) P1 and P3 Buddy Programme](/files/P1P3Buddy.pdf)
 * [FAQ for Newly Posted Students to P4 GEP](/files/PostingFlowchart_FAQ_(for_parents)%20(1).pdf)
 
-
 <p> </p>
 
 **News and Announcements**
