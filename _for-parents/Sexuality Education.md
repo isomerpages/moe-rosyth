@@ -6,7 +6,7 @@ description: ""
 ### ROSYTH SCHOOL
 
 
-**Moe Sexuality Education in Schools**
+**MOE Sexuality Education in Schools**
 
 1.       Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -46,8 +46,8 @@ b.       Character and Citizenship Education (CCE)
 
 7.       Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-**CCE(FTGP) THEME: Growing Years**
+**CCE(FTGP) THEME: Growing Years** <br>
+
 | **LESSON TITLE/DURATION** | **LESSON OVERVIEW** | **TIME PERIOD** | 
 | -------- | -------- | -------- |
 | The Changes in Me (60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2 Week 10 |
-
