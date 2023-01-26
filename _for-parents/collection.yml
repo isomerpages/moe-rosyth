@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Sexuality Education.md
       - Admission Matters.md
       - Administrative Matters.md
       - Information for New Students.md
@@ -16,4 +15,5 @@ collections:
       - Parents Portal/Primary 5 (2023).md
       - Parents Portal/Primary 6 (2023).md
       - Parents Support Group.md
+      - Sexuality Education.md
       - Forms and Links.md
