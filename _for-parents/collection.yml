@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sexuality Education.md
       - Admission Matters.md
       - Administrative Matters.md
       - Information for New Students.md
