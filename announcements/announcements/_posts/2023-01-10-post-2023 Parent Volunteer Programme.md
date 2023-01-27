@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Parents,
+**APPLICATION FOR PARENT VOLUNTEER (PV) PROGRAMME**
 
-Information on the Parent Volunteer Programme will be made available in the first week of February 2023 on the school website. Thank you.
+**For Parents of Children born between 2 Jan 2018 and 1 Jan 2019 (both dates inclusive)**
+
+Rosyth School PV programme will be open for application from 3 February 2023, 9am to 16 February 2023, 4pm.  Please refer to the school website for application details from 3 February 2023.  Thank you.
