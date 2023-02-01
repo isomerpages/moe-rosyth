@@ -6,7 +6,7 @@ description: ""
 **School Advisory Committee**
 * Chairman: Dr Chen Lisa
 * Vice-Chairman: Mr Alfred Chua Cheng Huat
-* Hon. Secretary: Mr. Suraj Nair
+* Hon. Secretary: Mr Suraj Nair
 * Hon. Treasurer: Mr Edwin Chin Fook Kin
 * Member: Ms Priya Jean Alexander
 * Member: Mrs Cherie Tseng
