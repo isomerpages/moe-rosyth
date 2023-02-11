@@ -23,7 +23,7 @@ third_nav_title: Parents Portal
 |   | JAYALAKSHMI DANABAL (Co)   |  jayalakshmi_danabal@schools.gov.sg |
 | P3 GRA | CHEN EIK FANG (FT)  | chen_eik_fang@schools.gov.sg |
 |   | ROSALIND TAN (Co) | tan_hwee_tiang@schools.gov.sg |
-| P3 RESP | ANNA CHEN (Co) | chen_ying_ying@schools.gov.sg |
+| P3 RESP | ANNA CHEN (Co) | chen_yingying@schools.gov.sg |
 |   | DYANA (Co) | dyana_a@schools.gov.sg |
 | P3 RESI | NOOR HAIDAH MOHAMED SALL (FT) | noor_haidah_mohamed_sall@schools.gov.sg |
 |   | LIM MING HUI (Co) | lim_ming_hui@schools.gov.sg |
