@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-rosyth-staging.netlify.app
-prod: https://moe-rosyth-prod.netlify.app
+staging: https://staging.d3suvp2ye2akna.amplifyapp.com/
+prod: https://master.d3suvp2ye2akna.amplifyapp.com/
 resources_name: announcements
