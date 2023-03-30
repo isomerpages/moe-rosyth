@@ -13,6 +13,7 @@ third_nav_title: Parents Portal
 **Updates on School Activities**
 * [(2023) Day 1 for P1 Rosythians](/files/Day1P1.pdf)
 * [(2023) P1 and P3 Buddy Programme](/files/P1P3Buddy.pdf)
+* [(2023) LNY Celebrations](/files/LNYCelebrations.pdf)
 
 <p> </p>
 

@@ -1,6 +1,6 @@
 ---
 title: Mission, Vision and Values
-permalink: /about-us/mission-vision-and-values
+permalink: /about-us/mission-vision-and-values/
 description: ""
 ---
 ### SCHOOL VISION
