@@ -9,13 +9,7 @@ description: ""
 
 **For Parents of Children born between 2 Jan 2018 and 1 Jan 2019 (both dates inclusive)**
 
-Rosyth School PV programme is open for application from 3 February 2023 to 16 February 2023.  You may read about the application procedure [here](/files/2023%20PV%20application%20procedure.pdf). Interested applicants can download the PV application form by clicking on the link [here](/files/2023%20PARENT%20VOLUNTEER%20application%20form.pdf).  All application forms should be sent to the Rosyth School General Office **through post** by **16 February 2023, 4pm**.  We regret that any application form received after 16 February 2023 will not be considered.  Thank you.
-
-Second update of applications received from 3 February to 16 February 2023 (4pm)
-
-**2023 - PARENT VOLUNTEER PROGRAMME**
-
-![](/images/List.jpg)
+Application for the Rosyth School PV programme is now closed.&nbsp;For parents of children born between 2 Jan 2019 and 1 Jan 2020, you can refer to our school website towards the end of January 2024 for further details.&nbsp; Thank you.
 
 ##### PRIMARY 1 REGISTRATION
 
@@ -43,7 +37,7 @@ Parents may refer to Ministry of Education (MOE) [website](https://www.moe.gov.s
 
 
 **Request for School Record** <br>
-Parents may retrieve past years’ PSLE exam results online at [MySkillsFuture portal](http://www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html) or find out from Singapore Examinations and Assessment Board  [how you can obtain past years' examination results](https://www.seab.gov.sg/home/services/statements-of-results)
+Parents may retrieve past years’ PSLE exam results online at [MySkillsFuture portal](http://www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html) or find out from Singapore Examinations and Assessment Board &nbsp;[how you can obtain past years' examination results](https://www.seab.gov.sg/home/services/statements-of-results)
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
