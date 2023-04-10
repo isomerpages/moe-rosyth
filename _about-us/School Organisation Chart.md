@@ -5,7 +5,6 @@ description: ""
 ---
 **School Leaders**
 * Principal: Mr Suraj Nair Venugopal
-* Vice-Principal: Ms Poh Hwee Thing
 * Vice-Principal: Mdm Tan Lay Wah
 * Vice-Principal (Admin): Mr Tan Boon Seng
 
@@ -56,19 +55,20 @@ description: ""
 **Staff Development**
 * SSD: Mr Raymond Bong
 * Lead Teacher: Mrs Jane Grosse
-* Senior Teacher (EL): Mrs Julia Ng
+* Lead Teacher (EL): Mrs Julia Ng
 * Senior Teacher (EL): Mdm Norlela Men
 * Senior Teacher (CL): Mrs Fiona Ng
+* Senior Teacher (CL): Mdm Zhang Cong
 * Senior Teacher (ML); Mdm Siti Hidayah
 * Senior Teacher (Math): Miss Serene Yeo
 * Senior Teacher (Math): Mdm Lin Eng Wah Shannen
+* Senior Teacher (Math): Mr Lee Kheng Tat Edmond
 * Senior Teacher (Science): Mdm Fairus Bte Atan
 * Senior Teacher (Science): Mdm Goh Tiang Ai
 * Senior Teacher (PE): Mr Mohd Zailani
 
 **Student Management**
 * HOD/SM: Mr Justyn Lim
-* SH/SWB: Mdm Kang Li Min
 
 **Character & Citizenship Education**
 * HOD/CCE: Mdm See Chui Geok
