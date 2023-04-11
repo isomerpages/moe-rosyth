@@ -27,7 +27,6 @@ description: ""
 
 | Vice-Principals |  |  |
 |---|---|---|
-| Ms Poh Hwee Thing (EO) | Email | Poh_Hwee_Thing@schools.gov.sg  |
 | Mdm Tan Lay Wah (EO) | Email | TAN_Lay_Wah@schools.gov.sg  |
 | Mr Tan Boon Seng (Admin) | Email | Tan_Boon_Seng@schools.gov.sg  |
 |   |  |  |
