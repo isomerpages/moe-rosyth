@@ -6,6 +6,7 @@ description: ""
 **School Leaders**
 * Principal: Mr Suraj Nair Venugopal
 * Vice-Principal: Mdm Tan Lay Wah
+* Vice-Principal: Ms Kwan Ruiying Karen
 * Vice-Principal (Admin): Mr Tan Boon Seng
 
 **School Admin Team**
