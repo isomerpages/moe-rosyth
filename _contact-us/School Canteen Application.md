@@ -9,17 +9,17 @@ description: ""
 
 ### Application Procedure
 
-1.  Download and complete the application form.
+Step 1.  Download and complete the application form.
 
 *   [Application Form](/files/form%20bf7%20(2018).pdf)
 
-2.  Attach the following documents together with the application form:
+Step 2.  Attach the following documents together with the application form:
 
 *   Photocopy of the NRIC (front and back)
 *   List of proposed menu and pricing for all items
 *   Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3.  Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+Step 3.  Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
 *   Address: Rosyth School, 21 Serangoon North Ave 4 Singapore 555855
 *   Contact No: 64812273
