@@ -5,4 +5,4 @@ description: ""
 ---
 Please click on the following link to access "Ask Rosyth" on the "AskGov" application.
 
-[ROSYTH | Q&A: Your questions answered (ask.gov.sg)](https://ask.gov.sg/rosyth)
+[Ask Rosyth](https://ask.gov.sg/rosyth)
