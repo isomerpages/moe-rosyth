@@ -40,11 +40,11 @@ We have adopted the 5-E Inquiry Approach to able our students to acquire knowled
 | -------- | -------- | 
 | **Engage** | Object, event or question used to engage students. <br> Connections facilitated between what students know and can do. |
 | **Explore** | Objects and phenomena are explored. <br> Hands-on activities, with guidance. |
-| **Explain** | Students explain their understanding concepts & processes. New concepts and skills are introduced as conceptual clarity and cohesion are sought. |
+| **Explain** | Students explain their understanding concepts &amp; processes. New concepts and skills are introduced as conceptual clarity and cohesion are sought. |
 | **Elaborate** | Activities allow students to apply concepts in contexts, and build on or extend understanding and skill. |
-| **Evalute** | Students assess their knowledge, skills and abilities. <br> Activities permit evaluation of student development & lesson effectiveness. |
+| **Evaluate** | Students assess their knowledge, skills and abilities. <br> Activities permit evaluation of student development &amp; lesson effectiveness. |
 
-***2. Helping Every Child learn Science:*** <Br> 
+***2. Helping Every Child learn Science:*** <br> 
 We have differentiated approach for each topic **(Challenge-Enrich –Support)** and we have produced our own activity books to tailor to the needs of our students.
 
 ![](/images/differentiation.png)
