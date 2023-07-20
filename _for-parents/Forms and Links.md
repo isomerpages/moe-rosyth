@@ -28,6 +28,5 @@ description: ""
 * [MOE Financial Assistance Scheme](/files/moe%20fas%20application%20form%20sep%202022.pdf)) 
 * [Wait List Application](/files/wait%20list%20application%20form.pdf)
 * [2023 School Bus Request Form](/files/rs%202023%20registration%20form%20other%20levels%20-%2010%20oct%202022.pdf)
-* [NEU PC Plus Application Form](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v4.pdf)
 
 ![](/images/FORMS%20BANNER.png)
