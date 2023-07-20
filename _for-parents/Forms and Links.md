@@ -24,9 +24,9 @@ description: ""
 <p> </p>
 
 **Forms for Parents**
-* [Interbank Giro application](https://www.moe.gov.sg/financial-matters/fees/egiro)
-* [MOE Financial Assistance Scheme](/files/2022%20MOE%20FAS%20Application%20Form.pdf) 
-* [Wait List application](/files/Wait%20List%20Application%20Form%20(1).pdf) 
+* [Interbank Giro Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
+* [MOE Financial Assistance Scheme](/files/moe%20fas%20application%20form%20sep%202022.pdf)) 
+* [Wait List Application](/files/wait%20list%20application%20form.pdf)
 * [2022 School Bus Request Form](/files/RS%202022%20School%20Bus%20Request%20Form.pdf) 
 * [NEU PC Plus Application Form](/files/Application%20Form%20for%20MOE-SPED%20FAS%20v4.pdf)
 
