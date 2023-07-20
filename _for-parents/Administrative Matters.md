@@ -41,7 +41,7 @@ The Ministry of Education provides financial assistance to needy Singapore Citiz
 
 A student is eligible for MOE FAS if he or she meets either of the following criteria: Gross Household Income (GHI) not exceeding $3,000 per month; or Per Capita Income (PCI) not exceeding $750 per month.
 
-You may find out more information from the MOE [website](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2ffinancial-assistance%2fmoe-financial-assistance-scheme&user=extranet%5cAnonymous&site=moe-website) .  
+You may find out more information from the MOE [website](https://www.moe.gov.sg/financial-matters/financial-assistance) .  
 
 **HOW TO APPLY** 
 
