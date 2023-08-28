@@ -7,7 +7,7 @@ description: ""
 
 | Student Management | | |
 | -------- | -------- | -------- |
-| HOD (SM) | Mr Justyn Lim | lim_lai_fu@schools.gov.sg |
+| HOD (SM) | Mr Justyn Lim | justyn_lim@schools.gov.sg |
 
 
 ### Guiding Principle in Student Management
