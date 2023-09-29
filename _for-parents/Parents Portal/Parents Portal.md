@@ -6,6 +6,9 @@ third_nav_title: Parents Portal
 ---
 **HBL Lesson Guides**
 
+* [P3 Daily Lesson Guide 2 Oct 2023](/files/p3%20daily%20lesson%20guide_2%20oct%202023.pdf)
+* [P4 Daily Lesson Guide 2 Oct 2023](/files/p4%20daily%20lesson%20guide_2%20oct%202023.pdf)
+* [P4 GE Daily Lesson Guide 2 Oct 2023](/files/p4%20ge%20daily%20lesson%20guide_2%20oct%202023.pdf)
 * [P1 Daily Lesson Guide 29 Sep 2023](/files/p1%20daily%20lesson%20guide%2029%20sep%202023.pdf)
 * [P2 Daily Lesson Guide 29 Sep 2023](/files/p2%20daily%20lesson%20guide%2029%20september%202023.pdf)
 * [P1 Daily Lesson Guide 28 Sep 2023](/files/p1dailylessonguide28sep2023.pdf)
