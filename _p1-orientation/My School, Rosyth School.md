@@ -5,7 +5,7 @@ description: ""
 ---
 Dear Diary,  
 
-I love going to Rosyth School every day. There are many interesting activities that I do with my friends and teachers. I enjoy going to the Science Garden and the computer lab to learn. I also like the yummy chicken rice and noodles in the school canteen.
+I love going to Rosyth School every day. There are many interesting activities that I do with my friends and teachers. I enjoy going to the Science Garden and the Computer Lab to learn. I also like the yummy chicken rice and noodles in the school canteen.
 
 This is what some of my friends have to say about learning in Rosyth School.
 
