@@ -3,8 +3,8 @@ title: Assessment Matters
 permalink: /for-parents/parents-portal/assessment/
 description: ""
 third_nav_title: Parents Portal
+variant: markdown
 ---
-
 **1.       ASSESSMENT SCHEDULE**
 
 The school will provide parents with the schedule, components, and scope of assessment on a termly basis. The tentative termly assessment periods will be shared at the Level Introduction Meetings at the beginning of the year and the termly school letters.
@@ -116,32 +116,35 @@ Please refer to the following list from SEAB for the approved calculators.
 
 **6.       STUDENTS WHO ARE UNWELL ON DAY OF ASSESSMENT**
 
-The school conducts a temperature-taking exercise at the start of every day. **If a student is unwell and has a temperature above 37.6°C, the school will contact his/her parents to fetch him/her home**. While waiting, the child will be brought to the sick bay.
+Students should generally not take the assessments should they be unwell. Students who test positive for COVID but are well with no symptoms can return to school to sit for assessments.
 
-Teachers will also check that **students who are supposed to be on medical leave do not remain in school to take the assessments.**
+Students with mild symptoms (symptoms that do not unduly affect the overall well-being of the student taking the assessment as well as others taking the assessment) may be allowed to take the assessments, subjected to the school’s approval. Students with less mild symptoms (e.g.,regular sneezing and coughing) will not be allowed to take the assessments as it could be disruptive in an assessment setting and the school will contact his/her parents to fetch him/her home. The school will make the final decision as to whether a student can be permitted to take the assessments taking into consideration the needs of all students.
+
+For students with a fever detected i.e., **a temperature above 37.6°C, the school will contact his/her parents to fetch him/her home**. While waiting, the child will be brought to the sick bay. Students with fever will not be allowed to sit for assessments.
+
+Teachers will also check that **students who are supposed to be on medical leave do not remain in school to take the assessments. Students on medical leave must adhere to the period of excuse given.**
 
 The school requests that parents co-operate and assist in this matter. Insisting that a child comes or remains in school when he/she is unwell may mean that he/she is exposing the other students in the class to the infection he/she has contracted. This is against the principle of social responsibility which we constantly try to impart to our students, and it will confuse the child.
 
-It is also in the **child’s best interest not to be in school when he/she is unwell**. He/She will not be able to focus and do well for the tests he/she is taking due to illness. He/she needs to stay home to rest. The marks he/she scores may not be a fair reflection of his/her true ability.
+It is also in the **child’s best interest not to be in school when he/she is unwell**. He/She will not be able to focus and do well for the tests he/she is taking due to illness. He/she needs to stay home to rest. The marks he/she scores may not be a fair reflection of his/her true ability.
 
 **7.       ABSENCE FROM ASSESSMENT**
 
 Students who are absent will be given the assessment papers as practice and the marks will not be included in the overall mark computation.
 
-Only the following are considered as **valid reasons for absences** during assessments:
+Only the following are considered as **valid reasons for absences** during assessments:
 
-* medical reasons supported by a medical certificate (MC) from a doctor. MCs from Traditional Chinese Medicine (TCM) practitioners are not accepted except if the TCM clinic is under the purview of a hospital.
-* bereavement of family members.
-* any other reason deemed valid by the school.
+*   medical reasons supported by a medical certificate (MC) from a doctor. MCs from Traditional Chinese Medicine (TCM) practitioners are not accepted except if the TCM clinic is under the purview of a hospital.
+*   Photo evidence of being COVID+ taken on day of assessment (e.g., ART+)
+*   bereavement of family members.
+*   any other reason deemed valid by the school.
 
-A medical certificate or copy of the death certificate must be given to the form teacher when the student returns to school to support his/her absence.
+A medical certificate or relevant evidence/documentation (e.g., copy of the death certificate) must be given to the form teacher when the student returns to school to support his/her absence.
 
-All other reasons are to be considered **on a case-by-case basis subject to school’s approval.**
+All other reasons will be considered **on a case-by-case basis subject to the school’s approval.**
 
-For students who are absent for an assessment **without** **a valid reason**, a **zero mark will be considered for that assessment** and this assessment mark will be considered in the computation of the subject and overall total.
+For students who are absent for an assessment **without** **a valid reason**, a **zero mark will be considered for that assessment** and this assessment mark will be considered in the computation of the subject and overall total.
 
 **8.       ASSESSMENT MAKE-UP**
 
 All assessments will follow the stated day and time in the assessment schedule. There is **no assessment make-up** for students who are absent except for individual performance tasks that span over a period and oral assessment, and the make-up will only be considered for students with valid reason for absence. There is no make-up for group performance tasks. If an assessment has make-up provisions, the school will decide the date for the make-up.
-
-For GEP students, do note that there is a separate guideline for students who are absent for WA/EYE on a case-by-case basis. This guideline is only applicable for GEP assessment subjects (i.e., English Language, Mathematics, Science and P4 Higher Chinese Language).
