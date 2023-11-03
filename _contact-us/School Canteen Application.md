@@ -2,10 +2,12 @@
 title: School Canteen Application
 permalink: /contact-us/schoolcanteen/
 description: ""
+variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Malay Food Stall     | 31 December 2023     | Rice/Noodle stalls are acceptable     |
+| Vegetarian Food Stall     | 31 December 2023     | Rice/Noodle stalls are acceptable     |
 
 ### Application Procedure
 
