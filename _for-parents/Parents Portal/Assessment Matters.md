@@ -147,4 +147,4 @@ For students who are absent for an assessment **without** **a valid reason**, 
 
 **8.       ASSESSMENT MAKE-UP**
 
-All assessments will follow the stated day and time in the assessment schedule. There is **no assessment make-up** for students who are absent except for individual performance tasks that span over a period and oral assessment, and the make-up will only be considered for students with valid reason for absence. There is no make-up for group performance tasks. If an assessment has make-up provisions, the school will decide the date for the make-up.
+All assessments will follow the stated day and time in the assessment schedule. There is **no assessment make-up** for students who are absent except for individual performance tasks **(not including GEP assessment)** that span over a period and oral assessment, and the make-up will only be considered for students with valid reason for absence. There is no make-up for group performance tasks. If an assessment has make-up provisions, the school will decide the date for the make-up.
