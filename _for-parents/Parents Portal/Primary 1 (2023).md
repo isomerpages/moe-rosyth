@@ -3,8 +3,9 @@ title: Primary 1 (2023)
 permalink: /for-parents/parents-portal/primary-1-2023/
 description: ""
 third_nav_title: Parents Portal
+variant: markdown
 ---
-### Primary 1 (2023)
+### Primary 1 (2024)
 
 | Primary 1 |  | |
 | -------- | -------- | -------- |
@@ -97,7 +98,7 @@ The whole process is scaffolded for success and pupils also learn about cooperat
 
 ![](/images/Unit%206.jpg)
 
-**Amazing Science Programme (P1&P6)**
+**Amazing Science Programme (P1&amp;P6)**
 
 ![](/images/Capture5.jpg)
 
@@ -108,7 +109,7 @@ Life Cycle of Plants (Introductory)
 * Objectives: 
 	1) To expose the P1 pupils to Science and heighten their interest and curiosity to the world of Science. Through this collaboration, P1 pupils will learn about the life cycle of plants and to care for the environment by not picking leaves from trees or plants.    
 	2) To integrate English lesson by getting students to write an instructional text on how to plant green beans.     
-* The P6 classes facilitate the lesson for the P1 pupils and talk about caring for the environment by not picking leaves from trees or plants. At the same time, they will share about Care & Share, Respect & Responsibility. 
+* The P6 classes facilitate the lesson for the P1 pupils and talk about caring for the environment by not picking leaves from trees or plants. At the same time, they will share about Care &amp; Share, Respect &amp; Responsibility. 
 
 **Moo-O (EL)**
 
@@ -135,7 +136,7 @@ Moo-O is the world's first immersive digital storybook. It transforms readers in
 * To provide pupils with a hands-on experience of making pizzas in an authentic setting. 
 * The pupils can then make a references to their experiences in their writing. This activity ties in with the Big Book "The Hungry Giant" and one of the English syllabus themes on 'Food'. Besides making pizzas, pupils also watch a presentation about pasta and pizza, and learn about the different kitchen equipment and their uses. 
 
-***Learning Journey to Singapore Zoological Gardens (EL, MA&MT)***
+***Learning Journey to Singapore Zoological Gardens (EL, MA&amp;MT)***
 
 ![](/images/Zoo%20compiled.jpg)
 
