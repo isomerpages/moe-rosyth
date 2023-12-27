@@ -9,7 +9,8 @@ variant: markdown
 
 | Primary 2 |  | |
 | -------- | -------- | -------- |
-| AYH | Mrs Yeo Bak Keng Joyce | yeo_bak_keng_joyce@schools.gov.sg |
+| YH | Mdm Sim Mui Huang | sim_mui_huang@schools.gov.sg |
+| AYH | Miss Laurene Danker | danker_laurene@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
@@ -17,24 +18,25 @@ variant: markdown
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P2 INT | SURIANI MOHAMAD (FT) | suriani_mohamad@schools.gov.sg |
-|   | HOE JOE HWEE (Co) | hoe_joe_hwee@schools.gov.sg |
-| P2 CARE | HALAWAH SHAKIR (FT) | halawah_shakir@schools.gov.sg |
-|   | LIM HUEY CHEE (Co) | lim_huey_chee@moe.edu.sg |
-| P2 GRA | TONG JIAN YING KELLY (FT) | tong_jian_ying_kelly@schools.gov.sg |
-|   | LI NA (Co) | li_na@schools.gov.sg |
-| P2 RESP | NURJIHAN MOHAMMED NOOR (FT) | nurjihan_mohammed_noor@schools.gov.sg |
-|   | YAM JINGWEN (Co) | yam_jingwen@schools.gov.sg |
-| P2 RESI | YEO BAK KENG JOYCE (FT) | yeo_bak_keng_joyce@schools.gov.sg |
-|   | ELIDA WONG (Co) | elida_wahyuningsih_wongsosuhendro@schools.gov.sg |
-| P2 ENT  | SITI HANOM OMAR (FT) | siti_hanom_omar@schools.gov.sg |
-|   | RAO CHUNYAN (Co) | rao_chunyan@schools.gov.sg |
-| P2 INN | LEONG MOK KAM (FT) | leong_mok_kam@schools.gov.sg |
-|   | MOHAMED NAZIRUDEEN MALIK (Co) | mohamed_nazirudeen_malik@schools.gov.sg |
-| P2 COMM | CAROLYN TOO MUI KENG (FT)   | carolyn_too_mui_keng@schools.gov.sg |
-|   | ZURAINA MOHD SENEN (Co) | zuraina_mohd_senen@moe.edu.sg |
-| P2 APP | BAI DONGMEI (FT) | bai_dongmei@schools.gov.sg |
-|   | ANNIE KOH (Co) | - |
+| P2 INTEGRITY | SIM HUI LING JACINTHA | sim_hui_ling_jacintha@schools.gov.sg |
+|   | MARDIANA | mardiana_mohd_sharip@schools.gov.sg |
+| P2 CARE | TRINA ANG YUE TING | ang_yue_ting_trina@schools.gov.sg |
+|   | LESLIE THIO | leslie_tan@schools.gov.sg |
+| P2 GRATITUDE | YAP CHAI MUAY | yap_chai_muay@schools.gov.sg |
+|   | TAN LI JIA | tan_li_jia@schools.gov.sg |
+| P2 RESPECT | AMELIA NALANI WALLACE | amelia_nalani_wallace@schools.gov.sg |
+|   | WONG MUI LAN | 	wong_mui_lan@schools.gov.sg |
+| P2 RESILIENCE | JOSEPHINE SEE HWEE MENG | josephine_see_hwee_meng@moe.edu.sg |
+|   | NUR MAHANA MAHWAN | nur_mahana_mahwan@moe.edu.sg |
+| P2 ENTREPRENEURIAL  | VERNON TAY CHIN LEONG | tay_chin_leong@schools.gov.sg | 
+| | LOW WEN HUEY | low_wen_huey@schools.gov.sg |
+| P2 INNOVATIVE | LAURENE DANKER | danker_laurene@schools.gov.sg |
+|   | MOHAMED NAZIRUDEEN MALIK | mohamed_nazirudeen_malik@schools.gov.sg |
+| P2 COMPASSION | SEE THOR HUI QI | see_thor_hui_qi@schools.gov.sg |
+|   | CAROLYN TOO MUI KENG | carolyn_too_mui_keng@schools.gov.sg |
+| P2 APPRECIATIVE | FAZILAH ABDUL AZIZ | fazilah_abdul_aziz@schools.gov.sg |
+|   | TEO WEE MENG | teo_wee_meng_a@moe.edu.sg  |
+
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
