@@ -3,6 +3,7 @@ title: Parents Portal
 permalink: /for-parents/parents-portal/
 description: ""
 third_nav_title: Parents Portal
+variant: markdown
 ---
 **HBL Lesson Guides**
 
@@ -39,7 +40,6 @@ third_nav_title: Parents Portal
 * [Infopack on Transition to Secondary School 2022](/files/Infopack%20on%20Transition%20to%20Secondary%20Schools%202022%20(1).pdf) 
 * [Infographic - What to Expect During Vaccination](/files/Infographic%20-%20What%20to%20Expect%20During%20Vaccination.pdf)
 * [Infographic - Vaccination for students](/files/Infographic%20-%20Vaccination%20for%20Students.pdf)[](https://rosyth-moe-edu-sg-admin.cwp.sg/qql/slot/u178/Sub%20pages/Primary%206%20Tab/PDF/Infographic%20-%20Vaccination%20for%20Students.pdf)
-* [FAQs for P6 Parents - Student Vaccination Exercise](/files/FAQs%20for%20P6%20Parents%20-%20Student%20Vaccination%20Exercise.pdf) 
 * [Holiday Care Pack Primary 1 - 2 Edition](/files/Holiday%20Care%20Pack%20Pri%201%20-2%20Edition(5May).pdf) 
 * [Holiday Care Pack Primary 3 - 6 Edition](/files/Holiday%20Care%20Pack%20Pri%203%20-%206%20Edition(5May).pdf) 
 
