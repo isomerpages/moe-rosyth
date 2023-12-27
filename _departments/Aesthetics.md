@@ -30,3 +30,33 @@ variant: markdown
 * Tier 1 (For All): "Arts in Action" Assembly Series, Digital Art &amp; Music Discovery., ARTS Tick ARTS Talk Programme
 * Tier 2 (For Selected): Rosyth’s Got Talent, IGNITE Programme.
 
+**Chinese Dance Students in action**
+![](/images/2024%20Aesthetics/Picture1.jpg)
+
+**Exchange Programme@Raffles Institution**
+![](/images/2024%20Aesthetics/Picture2.jpg)
+
+![](/images/2024%20Aesthetics/Picture3.jpg)
+
+**VIA Performance@Jalan Kayu Day **
+![](/images/2024%20Aesthetics/Picture4.jpg)
+
+![](/images/2024%20Aesthetics/Picture5.jpg)
+
+![](/images/2024%20Aesthetics/Picture6.jpg)
+
+**“Arts in Action” Assembly Series **
+
+![](/images/2024%20Aesthetics/Picture8.jpg)
+
+**IGNITE Drama Performance Programme **
+
+![](/images/2024%20Aesthetics/Picture9.jpg)
+
+**IGNITE Nagomi Art Programme **
+
+![](/images/2024%20Aesthetics/Picture10.jpg)
+
+**ARTS Tick ARTS Talk - Presenter **
+
+![](/images/2024%20Aesthetics/Picture11.jpg)
