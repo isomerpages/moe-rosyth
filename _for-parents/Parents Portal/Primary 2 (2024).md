@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents Portal
 variant: markdown
 ---
-### Primary 2 (2023)
+### Primary 2 (2024)
 
 | Primary 2 |  | |
 | -------- | -------- | -------- |
