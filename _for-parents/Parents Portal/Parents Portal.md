@@ -7,18 +7,7 @@ variant: markdown
 ---
 **HBL Lesson Guides**
 
-* [P5 Daily Lesson Guide 4 Oct 2023](/files/p5%20daily%20lesson%20guide%204%20oct%202023.pdf)
-* [P5 GE Daily Lesson Guide 4 Oct 2023](/files/p5%20ge%20daily%20lesson%20guide%204%20oct%202023.pdf)
-*  [P3 Daily Lesson Guide 3 Oct 2023](/files/p3%20daily%20lesson%20guide%203%20oct%202023.pdf)
-* [P4 Daily Lesson Guide 3 Oct 2023](/files/p4%20daily%20lesson%20guide%203%20oct%202023.pdf)
-* [P4 GE Daily Lesson Guide 3 Oct 2023](/files/p4%20ge%20daily%20lesson%20guide%203%20oct%202023.pdf)
-* [P3 Daily Lesson Guide 2 Oct 2023](/files/p3%20daily%20lesson%20guide_2%20oct%202023.pdf)
-* [P4 Daily Lesson Guide 2 Oct 2023](/files/p4%20daily%20lesson%20guide_2%20oct%202023.pdf)
-* [P4 GE Daily Lesson Guide 2 Oct 2023](/files/p4%20ge%20daily%20lesson%20guide_2%20oct%202023.pdf)
-* [P1 Daily Lesson Guide 29 Sep 2023](/files/p1%20daily%20lesson%20guide%2029%20sep%202023.pdf)
-* [P2 Daily Lesson Guide 29 Sep 2023](/files/p2%20daily%20lesson%20guide%2029%20september%202023.pdf)
-* [P1 Daily Lesson Guide 28 Sep 2023](/files/p1dailylessonguide28sep2023.pdf)
-* [P2 Daily Lesson Guide 28 Sep 2023](/files/p2dailylessonguide28september.pdf)
+None at the moment
 
 **News Flash**
 
