@@ -9,7 +9,7 @@ variant: markdown
 
 | Primary 6 |  | |
 | -------- | -------- | -------- |
-| YH 5/6 | Miss Lim Swee Ching | lim_swee_ching@schools.gov.sg |
+| YH 5&amp;6 | Miss Lim Swee Ching | lim_swee_ching@schools.gov.sg |
 | AYH 5 | Mdm Shoba Jaganathan | shoba_jaganathan@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
@@ -23,29 +23,28 @@ variant: markdown
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P6 COM | AU ZHI JUN (FT) | au_zhi_jun@schools.gov.sg |
-|   | LEE BAO LING (Co) | lee_bao_ling@schools.gov.sg |
-| P6 APP | JOSHUA WONG YOU YI (FT) | wong_you_yi@schools.gov.sg |
-|   | ANPARASI (FT) | anparasi_velalar_murugiam@schools.gov.sg |
-| P6 RESI | LOW RHUI YIN (FT) | low_rhui_yin@schools.gov.sg |
-|   | SITI HIDAYAH (FT)(GE) | siti_hidayah_mohamad_taha@schools.gov.sg |
-|   | ZAILANI (Co) | mohammad_zailani_kasmuri@schools.gov.sg |
-| P6 EMP | VINCENT LEE CHEE MUN (FT) | lee_chee_mun@schools.gov.sg |
-|   | KWEK LI KOON (Co) | kwek_li_koon@schools.gov.sg |
-| P6 INN | JESSLYN GOH (FT) | goh_jielin_jesslyn@schools.gov.sg |
-|   | LIM CHUI LING (Co) | lim_chui_ling@schools.gov.sg |
-| P6 CARE   | TAN KIAN TIONG (FT)	 | tan_kian_tiong@schools.gov.sg |
-|   | NG YANG HAN (Co) | ng_yang_han@schools.gov.sg |
-| P6 ENT | FAIRUS ATAN (FT) | fairus_atan@schools.gov.sg |
-|   | SHI LIANG (Co)   | shi_liang@schools.gov.sg  |
-| P6 RESP | SHOBA JAGANATHAN (FT) | shoba_jaganathan@schools.gov.sg |
-|   | WANG ZHUOYUN (FT) | wang_zhuoyun@schools.gov.sg |
-| P6 INT | FIONA NG KENG CHOON (FT) | ng_keng_choon@schools.gov.sg |
-|   | CHARLENE GOH SHAN MEI (FT) | charlene_goh_shan_mei@schools.gov.sg |
-| P6 GRA    | JI MIN (FT) | ji_min@schools.gov.sg |
-|   | GOH SOOK HWA (FT) | goh_sook_hwa@schools.gov.sg |
-| P6 TWK | KWOK CAIXIN AUDREY (FT) | kwok_caixin@schools.gov.sg |
-|   | MASHITA ABDOL RAHMAN (FT) | mashita_abdol_rahman@schools.gov.sg |
+| P6 COMPASSION | JESSLYN GOH | goh_jielin_jesslyn@schools.gov.sg |
+|   | MOHAMMAD ZULFADLI | mohammad_zulfadli_mohd_rashid@schools.gov.sg |
+| P6 APPRECIATIVE | NUR ASSYIKIN MOHD LAIS | assyikin_mohd_lais@schools.gov.sg |
+|   | TAN KIAN TIONG | tan_kiang_tiong@schools.gov.sg |
+| P6 RESILIENCE | NORLELA MEN | norlela_men@schools.gov.sg |
+|   | ELIDA WONG | elida_wahyuningsih_wongsosuhendro@schools.gov.sg |
+| P6 EMPATHETIC | LIM KUAN CHIN | lim_kuan_chin_a@schools.gov.s |
+|   | SAIRA BEGUM ABDUL JABBAR | saira_begum_abdul_jabbar@schools.gov.sg |
+| P6 INNOVATIVE | EDMOND LEE KHENG TAT | lee_kheng_tat_edmond@schools.gov.sg |
+|   | ANPARASI | anparasi_velalar_murugiam@schools.gov.sg |
+| P6 CARE   | SHIRLEY KANG | kang_li_sanshirley@schools.gov.sg |
+|   | HOE JOE HWEE | hoe_joe_hwee@schools.gov.sg  |
+| P6 ENTREPRENEURIAL | CHAN ELIZA JANE | chan_eliza_jane@schools.gov.sg |
+|   |  TAY YUAN CHONG BRYAN | tay_yuan_chong_bryan_a@schools.gov.sg  |
+| P6 RESPECT | MUHD SALIHIN ABDUL RASHID | muhd_salihin_abdul_rashid@schools.gov.sg |
+|   | JANE ONG | ong_chiew_meng@schools.gov.sg |
+| P6 INTEGRITY | AU ZHI JUN | au_zhi_jun@schools.gov.sgg |
+|   | GOH SOOK HWA | goh_sook_hwa@schools.gov.sg |
+| P6 GRATITUDE |  PAMELA GOH DONG HONG | pamela_goh_dong_hong@schools.gov.sg |
+|   | TAN JING YAN JULIENNE | tan_jing_yan@schools.gov.sg |
+| P6 TEAMWORK | CHAN XIAO SHAN | chan_xiao_shan@schools.gov.sg |
+|   | MASHITA ABDOL RAHMAN | mashita_abdol_rahman@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div> <br>
 
