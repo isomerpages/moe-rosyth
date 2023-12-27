@@ -10,7 +10,7 @@ variant: markdown
 | Primary 1 |  | |
 | -------- | -------- | -------- |
 | YH | Mdm Sim Mui Huang | sim_mui_huang@schools.gov.sg |
-| AYH | Miss Laurene Danker | danker_laurene@schools.gov.sg |
+| AYH P4 | Mdm Chen Jing'er | chen_jing_er@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
@@ -18,24 +18,26 @@ variant: markdown
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P1 INT | SIM HUI LING JACINTHA (FT) | sim_hui_ling_jacintha@schools.gov.sg |
-|   | MARDIANA (Co) | mardiana_mohd_sharip@schools.gov.sg |
-| P1 CARE | TRINA ANG YUE TING (FT) | ang_yue_ting_trina@schools.gov.sg |
-|   | LESLIE THIO (Co) | leslie_tan@schools.gov.sg |
-| P1 GRA | YAP CHAI MUAY (FT) | yap_chai_muay@schools.gov.sg |
-|   | TAN LI JIA (Co) | tan_li_jia@schools.gov.sg |
-| P1 RESP | ONG HUI LI (FT) | ong_hui_li@schools.gov.sg |
-|   | LIM YILING EILEEN (Co) | lim_yiling_eileen@schools.gov.sg |
-| P1 RESI | JOSEPHINE SEE HWEE MENG (FT) | josephine_see_hwee_meng@moe.edu.sg |
-|   | NUR MAHANA MAHWAN (Co) | nur_mahana_mahwan@moe.edu.sg |
-| P1 ENT  | VERNON TAY CHIN LEONG (FT) | tay_chin_leong@schools.gov.sg |
-|   | LOW WEN HUEY (Co) | low_wen_huey@schools.gov.sg |
-| P1 INN | LAURENE DANKER (FT) | danker_laurene@schools.gov.sg |
-|   | OH EK WAH (Co) | oh_ek_wah_a@schools.gov.sg |
-| P1 COMM | SEE THOR HUI QI (FT)   | see_thor_hui_qi@schools.gov.sg |
-|   | CELIA ONG (Co) | - |
-| P1 APP | FAZILAH ABDUL AZIZ (FT) | Fazilah_abdul_aziz@schools.gov.sg |
-|   | TEO WEE MENG | teo_wee_meng_a@moe.edu.sg  |
+| P1 INTEGRITY | SITI HANOM OMAR | siti_hanom_omar@schools.gov.sg |
+|   | YEO ZIYI | yeo_ziyi@schools.gov.sg |
+| P1 CARE | HALAWAH SHAKIR | halawah_shakir@schools.gov.sg |
+|   | LI NA | li_na@schools.gov.sg |
+| P1 GRATITUDE | BAI DONGMEI | bai_dongmei@schools.gov.sg |
+|   | CELIA ONG | ong_huen_yuen_celia@schools.gov.sg |
+|   | CHERIE LEE |  |
+| P1 RESPECT | ONG HUI LI | ong_hui_li@schools.gov.sg |
+|   | SHAZWANI KAMSARI | nur_shazwani_kamsari@schools.gov.sg |
+|   | OH EK WAH | oh_ek_wah_a@schools.gov.sg |
+| P1 RESI | LEONG MOK KAM | leong_mok_kam@schools.gov.sg |
+|   | MELACH SENG | seng_chih_hsien@schools.gov.sg |
+| P1 ENTREPRENEURIAL  | YEO BAK KENG JOYCE | yeo_bak_keng_joyce@schools.gov.sg |
+|   | SHARIFAH AMIRAH | sharifah_amirah_syed_hamid@schools.gov.sg |
+| P1 TEAMWORK | CHEN JING'ER | chen_jing_er@schools.gov.sg |
+|   | ZURAINA MOHD SENEN | zuraina_mohd_senen@schools.gov.sg |
+| P1 COMPASSION | TONG JIAN YING KELLY | tong_jian_ying_kelly@schools.gov.sg |
+|   | TAN MIAN CHOON | tan_mian_choon@schools.gov.sg |
+| P1 APPRECIATIVE | SURIANI MOHAMAD | suriani_mohamad@schools.gov.sg |
+|   | YAM JINGWEN | yam_jingwen@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
