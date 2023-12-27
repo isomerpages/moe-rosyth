@@ -28,7 +28,7 @@ variant: markdown
 | P1 RESPECT | ONG HUI LI | ong_hui_li@schools.gov.sg |
 |   | SHAZWANI KAMSARI | nur_shazwani_kamsari@schools.gov.sg |
 |   | OH EK WAH | oh_ek_wah_a@schools.gov.sg |
-| P1 RESI | LEONG MOK KAM | leong_mok_kam@schools.gov.sg |
+| P1 RESILIENCE | LEONG MOK KAM | leong_mok_kam@schools.gov.sg |
 |   | MELACH SENG | seng_chih_hsien@schools.gov.sg |
 | P1 ENTREPRENEURIAL  | YEO BAK KENG JOYCE | yeo_bak_keng_joyce@schools.gov.sg |
 |   | SHARIFAH AMIRAH | sharifah_amirah_syed_hamid@schools.gov.sg |
