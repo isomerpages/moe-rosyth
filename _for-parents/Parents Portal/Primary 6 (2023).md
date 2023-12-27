@@ -3,8 +3,9 @@ title: Primary 6 (2023)
 permalink: /for-parents/parents-portal/primary-6-2023/
 description: ""
 third_nav_title: Parents Portal
+variant: markdown
 ---
-### Primary 6 (2023)
+### Primary 6 (2024)
 
 | Primary 6 |  | |
 | -------- | -------- | -------- |
@@ -57,12 +58,12 @@ The programme aims to build and strengthen friendships among the students. Our P
 
 **Care Carnival**
 
-The Care Carnival is a unique social innovation project by our Primary  6 students that connects their innovation learning with Values-in-Action, which is a Key Student Development Experience. While students prepare for the Care Carnival, they grow in awareness about empathy and social responsibility and foster stronger I-CARE values. Working collaboratively, students put into practice skills learnt, such as creating publicity posters and making crafts and conceptualise their stalls. By putting into action their entrepreneurial spirit, students also take full ownership of these stalls with the guidance of their teachers and lead their fellow schoolmates into doing their part for the community. Games, craft and thrift stalls are the highlights of this key event.
+The Care Carnival is a unique social innovation project by our Primary &nbsp;6 students that connects their innovation learning with Values-in-Action, which is a Key Student Development Experience. While students prepare for the Care Carnival, they grow in awareness about empathy and social responsibility and foster stronger I-CARE values. Working collaboratively, students put into practice skills learnt, such as creating publicity posters and making crafts and conceptualise their stalls. By putting into action their entrepreneurial spirit, students also take full ownership of these stalls with the guidance of their teachers and lead their fellow schoolmates into doing their part for the community. Games, craft and thrift stalls are the highlights of this key event.
 
 ![](/images/P6_2.jpg)
 
- **P6 GRADUATION DAY**
+&nbsp;**P6 GRADUATION DAY**
 
-The P6 Graduation Day is pivotal for the students as they celebrate their final days as a primary school student in Rosyth School. ICARE champions, outstanding academic prize winners receive their awards and student councillors are affirmed and recognised during the Awards Ceremony segment. The concert segment gives opportunities to the students to showcase what they have learnt from their post examination activities.  It is also the platform for the students to express their appreciation for the school leaders, their teachers, friends and parents.
+The P6 Graduation Day is pivotal for the students as they celebrate their final days as a primary school student in Rosyth School. ICARE champions, outstanding academic prize winners receive their awards and student councillors are affirmed and recognised during the Awards Ceremony segment. The concert segment gives opportunities to the students to showcase what they have learnt from their post examination activities.&nbsp; It is also the platform for the students to express their appreciation for the school leaders, their teachers, friends and parents.
 
 ![](/images/P6_3.jpg)
