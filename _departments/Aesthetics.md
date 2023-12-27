@@ -38,25 +38,25 @@ variant: markdown
 
 ![](/images/2024%20Aesthetics/Picture3.jpg)
 
-**VIA Performance@Jalan Kayu Day **
+**VIA Performance@Jalan Kayu Day**
 ![](/images/2024%20Aesthetics/Picture4.jpg)
 
 ![](/images/2024%20Aesthetics/Picture5.jpg)
 
 ![](/images/2024%20Aesthetics/Picture6.jpg)
 
-**“Arts in Action” Assembly Series **
+**“Arts in Action” Assembly Series**
 
 ![](/images/2024%20Aesthetics/Picture8.jpg)
 
-**IGNITE Drama Performance Programme **
+**IGNITE Drama Performance Programme**
 
 ![](/images/2024%20Aesthetics/Picture9.jpg)
 
-**IGNITE Nagomi Art Programme **
+**IGNITE Nagomi Art Programme**
 
 ![](/images/2024%20Aesthetics/Picture10.jpg)
 
-**ARTS Tick ARTS Talk - Presenter **
+**ARTS Tick ARTS Talk - Presenter**
 
 ![](/images/2024%20Aesthetics/Picture11.jpg)
