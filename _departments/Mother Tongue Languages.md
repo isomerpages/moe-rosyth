@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /departments/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 ### Mother Tongue Languages
 
@@ -9,7 +10,7 @@ description: ""
 | -------- | -------- | -------- |
 | HOD (Mother Tongue) | Ms Tan Chia Chih | tan_chia_chih@schools.gov.sg |
 | Level Head (Chinese) | Miss Chan Xiao Shan | chan_xiao_shan@schools.gov.sg |
-| Level Head (Chinese) | Mr Thomas Ang | ang_tiong_wei@schools.gov.sg |
+| Level Head (Chinese) | Chan Wai Kin | chan_wai_kin@schools.gov.sg |
 | Subject Coordinator (Malay) | Mdm Sharifah Amirah | sharifah_amirah_syed_hamid@schools.gov.sg |
 | Subject Coordinator (Tamil) | Mdm Saira Begum Abdul Jabbar | saira_begum_abdul_jabbar@schools.gov.sg | 
 
@@ -59,4 +60,4 @@ Objectives of the programme:
 | **Malay Language** |  |
 | **Tamil Language** | |
 | **Chinese Language** | |
-| [推广华文学习委员会网站 Committee to Promote Chinese Language Learning](https://www.cpcll.sg/) | 提供由社区组织举办的与华文学习有关的活动资讯。<br> A website that contains information about the various events and programmes organized by the community to support children in the learning of Chinese Language outside schools. | 
+| [推广华文学习委员会网站 Committee to Promote Chinese Language Learning](https://www.cpcll.sg/) | 提供由社区组织举办的与华文学习有关的活动资讯。<br> A website that contains information about the various events and programmes organized by the community to support children in the learning of Chinese Language outside schools. |
