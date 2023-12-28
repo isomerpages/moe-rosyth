@@ -1,14 +1,16 @@
 ---
-title: Primary 4 (2023)
-permalink: /for-parents/parents-portal/primary-4-2023/
+title: Primary 4 (2024)
+permalink: /for-parents/parents-portal/primary-4-2024/
 description: ""
 third_nav_title: Parents Portal
+variant: tiptap
 ---
-### Primary 4 (2023)
+### Primary 4 (2024)
 
 | Primary 4 |  | |
 | -------- | -------- | -------- |
-| AYH P4 | Mdm Chen Jing'er | chen_jing_er@schools.gov.sg |
+| YH P3&amp;4 | Mrs Lui May Ling | tang_may_ling@schools.gov.sg |
+| AYH P4 | Mdm Lin Weishan | lin_weishan@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
@@ -16,26 +18,26 @@ third_nav_title: Parents Portal
 
 | Class | Form Teacher | Email |
 |:---:|:---:|:---:|
-| P4 APP | MUHD SALIHIN ABDUL RASHID (FT) | muhd_salihin_abdul_rashid@schools.gov.sg |
-|   | JANE ONG (FT) | ong_chiew_meng@schools.gov.sg |
-| P4 RESI | AZIANAH ZAKARIA (FT) | azianah_zakaria@schools.gov.sg |
-|   | NG CHIN HOON (Co) | ng_chin_hoon@schools.gov.sg |
-| P4 EMP | ELSIE LIM (FT) | lim_yin_xin@schools.gov.sg |
-|   | TEO LEE PING (FT) | teo_lee_ping@schools.gov.sg |
-| P4 INN | SUDHEESH BALAKRISHNA PILLAI (FT) | sudheesh_balakrishna_pillai@schools.gov.sg |
-|   | NUR SHAZWANI KAMSARI (Co)  | nur_shazwani_kamsari@schools.gov.sg  | 
-|   | SAIRA BEGUM ABDUL JABBAR (Co)  | saira_begum_abdul_jabbar@schools.gov.sg  | 
-| P4 CARE | CHEN JING ER (FT) | chen_jing_er@schools.gov.sg |
-|   | AQUILA (FT)  | - |
-| P4 ENT | ZHANG CONG (FT) | zhang_cong@schools.gov.sg |
-|   | DEBBIE GOH (Co) | goh_tiang_ai@schools.gov.sg |
-| P4 RESP |  LIM ENG WAH SHANNEN (FT) | lim_eng_wah@schools.gov.sg |
-|   |  MELACH SENG (Co)	 | seng_chih_hsien@schools.gov.sg |
-| P4 INT | FADILLAH SAID (FT) | fadillah_said@schools.gov.sg |
-|   | CHEN GENGSHI RUTH (Co) | chen_gengshi_ruth@schools.gov.sg |
-|   | SHARIFAH AMIRAH (Co) | sharifah_amirah_syed_hamid@schools.gov.sg |
-| P4 GRA   |  FARIDAH BTE RAMBILE (FT) | faridah_rambile@schools.gov.sg |
-|   |  KANG LI MIN (Co)  | kang_li_min@schools.gov.sg |
+| P4 APPRECIATIVE | ZHANG CONG | zhang_cong@schools.gov.sg |
+|   | GOH TIANG AI | debbie_goh_tiang_ai@schools.gov.sg |
+|   | WANG ZHUOYUN | wang_zhuoyun@schools.gov.sg |
+| P4 RESILIENCE | NOOR HAIDAH MOHAMED SALL | noor_haidah_mohamed_sall@schools.gov.sg |
+|   | KANG LI MIN | kang_li_min@schools.gov.sg |
+| P4 EMPATHETIC | FAIRUS ATAN | fairus_atan@schools.gov.sg |
+|   | SHI LIANG | shi_liang@schools.gov.sg |
+|   | AGNES LIM | lim_yin_khuan@schools.gov.sg |
+| P4 INNOVATIVE | RAO CHUNYAN | rao_chunyan@schools.gov.sg |
+|   | SRI YANTI  | 	sri_yanti_zainal_abidin@schools.gov.sg  | 
+| P4 CARE | LIN WEISHAN | lin_weishan@schools.gov.sg |
+|   | NURUL AQILAH | nurul_aqilah_mohd_kh@schools.gov.sg |
+| P4 ENTREPRENEURIAL | MELVIN SINGH DHILLION | melvin_singh_dhillion@schools.gov.sg |
+|   | LIM HUEY CHEE | lim_huey_chee@schools.gov.sg |
+| P4 RESPECT | KUAN NAI-LIN |	kuan_nai_lin@schools.gov.sg |
+|   |  VALENTINA | valentina_helen_fernandez@schools.gov.sg |
+| P4 INTEGRITY | EILEEN SEOW | seow_guat_leng@schools.gov.sg |
+|   | BERNARD SOH | soh_yang_yit@schools.gov.sg |
+| P4 GRATITUDE   |  FARIDAH BTE RAMBILE | faridah_rambile@schools.gov.sg |
+|   |  TEO LEE PING | teo_lee_ping@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
