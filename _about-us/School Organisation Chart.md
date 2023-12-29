@@ -2,6 +2,7 @@
 title: School Organisation Chart
 permalink: /about-us/school-organisation-chart/
 description: ""
+variant: markdown
 ---
 **School Leaders**
 * Principal: Mr Suraj Nair Venugopal
@@ -67,6 +68,7 @@ description: ""
 * Senior Teacher (Science): Mdm Fairus Bte Atan
 * Senior Teacher (Science): Mdm Goh Tiang Ai
 * Senior Teacher (PE): Mr Mohd Zailani
+* Senior Teacher (Educational Support): Mdm Fadillah Said
 
 **Student Management**
 * HOD/SM: Mr Justyn Lim
