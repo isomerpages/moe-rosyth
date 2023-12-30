@@ -10,24 +10,24 @@ variant: markdown
 | -------- | -------- | -------- |
 | HOD (English) | Mrs Katherine Wong | tan_nguang_leng@schools.gov.sg |
 | Level Head (English) | Mdm Au Zhi Jun| au_zhi_jun@schools.gov.sg |
-| Level Head (English) | Valentina Helen Fernandez| valentina_helen_fernandez@schools.gov.sg |
-| Senior Teachers | Mdm Norlela Men | norlela_men@schools.gov.sg |
-|  | Mrs Julia Ng | lee_hwee_hoon_julia@schools.gov.sg |
-| STELLAR Mentors | Mdm Yap Chai Muay | yap_chai_muay@schools.gov.sg |
+| Level Head (English) | Ms Valentina Helen Fernandez| valentina_helen_fernandez@schools.gov.sg |
+| Lead Teacher | Mrs Julia Ng | lee_hwee_hoon_julia@schools.gov.sg |
+| Senior Teacher | Mdm Norlela Men | norlela_men@schools.gov.sg |
+| STELLAR Mentor | Mdm Yap Chai Muay | yap_chai_muay@schools.gov.sg |
 
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
 ### VISION
 	
-***Our Students will be Effective and Confident Communicators***
+***Our Pupils will be Effective and Confident Communicators***
 
 ### MISSION  
 To instill the love for English Language learning and to cultivate a rich environment for development of reading, writing, listening and speaking skills.
 
 ##### DESIRED OUTCOMES <br>
 
-All should attain foundational skills, particularly in grammar, spelling and basic pronunciation.&nbsp; The majority of our pupils will attain a good level of competence in English, in both speech and writing.
+All pupils should attain foundational skills, particularly in grammar, spelling and basic pronunciation.&nbsp; The majority of our pupils will attain a good level of competence in English, in both speech and writing.
 
 ##### CORE CURRICULUM <br>
 
@@ -37,7 +37,7 @@ The core curriculum seeks to develop our pupils holistically, with a comprehensi
 
 **The objectives of the programme are as follows:**
 
-* To employ a variety of effective teaching and learning pedagogies that focus on WHAT and HOW students are learning;
+* To employ a variety of effective teaching and learning pedagogies that focus on WHAT and HOW pupils are learning;
 * To have a balanced and holistic assessment of our pupils.
 
 ![](/images/English1.jpg)
@@ -79,7 +79,7 @@ The Learning Support Programme (LSP) is an early intervention programme aimed at
 **PREP with MUMs @ Rosyth**<br>
 PREP with MUMs @ Rosyth is a programme that aims to equip weak readers with the reading skills necessary for their daily school work. The programme also aims to help pupils cultivate good reading habits and ignite their love for reading so that in time to come, these pupils will become successful readers who will no longer learn to read but rather, they will read at more appropriately challenging levels in order to read to learn.
 
-The programme provides opportunities for pupils to be exposed to word games, student collaboration and class presentations. There are also opportunities for independent learning through book reviews. The programme strives to foster deep learning to enhance greater student motivation.
+The programme provides opportunities for pupils to be exposed to word games, pupil collaboration and class presentations. There are also opportunities for independent learning through book reviews. The programme strives to foster deep learning to enhance greater pupil motivation.
 
 **Reading Remediation Programme (RRP) &amp; School Dyslexia Remediation Programme (SDR)**<br>
 These two intervention programmes cater to pupils who have been assessed to require further support at the mid levels. Teacher instructors are specially trained to conduct targeted and focused lessons to equip pupils with the necessary skills pertaining to phonemic awareness and reading comprehension.
