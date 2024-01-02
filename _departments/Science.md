@@ -81,6 +81,7 @@ In addition we have differentiated programmes to challenge, enrich and support o
 We collaborate with different departments to design interdisciplinary projects that integrate knowledge and skills from various subjects. This approach helps students see the interconnectedness of different fields and fosters a holistic understanding of complex topics.
 
 ***4. Instill values through Science*** <br>
-We have garnered partnerships with other organizations to help students appreciate how science influences people and the environment.
+We have garnered partnerships with other organizations to help students appreciate how science influences people and the environment
 
+P6 Learning Journey to Lee Kong Chien Natural History Museum (LKCNHM)
 ![](/images/Science%204.jpg)
