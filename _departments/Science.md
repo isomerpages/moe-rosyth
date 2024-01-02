@@ -24,7 +24,7 @@ variant: markdown
 
 ### 3 PILLARS OF THE SCIENCE DEPARTMENT
 
-
+![](/images/2024%20Science/Picture1.jpg)
 
 ##### Core Pillar: Science Curriculum
 
@@ -34,6 +34,8 @@ The Primary Science Syllabus aims to provide students with experiences/ opportun
 * Develop skills, dispositions, and attitudes for scientific inquiry. 
 * Apply scientific concepts and skills in making responsible decisions.
 * Appreciate how Science influences people and the environment.
+
+![](/images/2024%20Science/Picture2.jpg)
 
 ##### Sustainability Pillar:  Environmental Education
 
@@ -48,6 +50,8 @@ The Primary Science Syllabus aims to provide students with experiences/ opportun
 * Materials: 4Rs (Reduce, Reuse, Recycle and Repurpose), using recyclable bags, bring your own containers, reduce food waste.
 * Energy: ways to reduce energy waste and maximise solar energy
 
+![](/images/2024%20Science/Picture3.jpg)
+
 ##### Innovation Pillar: Applied Learning Programme (STEM Education)
 
 To provide students with the learning experience which can build three innovative mind shifts:
@@ -55,12 +59,17 @@ To provide students with the learning experience which can build three innovativ
 * Be Creative – There must be a better way.
 * Be the Change – Lead and Inspire others
 
+**Students preparing for Tan Kah Kee Young Inventors Award**
+![](/images/2024%20Science/Picture4.jpg)
+
+**StrEaM Learning- Designing a placemat**
+![](/images/2024%20Science/Picture5.jpg)
 ##### 4 BELIEFS OF THE SCIENCE DEPARTMENT
 
 ***1. Student – Centricity:*** <br> 
 We have adopted the 3 “IN”s Approach to encapsulates the overall experience of our students in Science education: Inspire Inquire and Innovate
 
-* (a) INspired by Science. Students enjoy learning Science and are fascinated by how everyday phenomena have scientific connections and how Science helps solve many of our global challenges. They regard Science as relevant and meaningful, appreciating how Science and Technology have transformed the world, and improved our lives. Students are open to the possibility of pursuing Science-related careers as a viable profession to serve the good of society. 
+* INspired by Science. Students enjoy learning Science and are fascinated by how everyday phenomena have scientific connections and how Science helps solve many of our global challenges. They regard Science as relevant and meaningful, appreciating how Science and Technology have transformed the world, and improved our lives. Students are open to the possibility of pursuing Science-related careers as a viable profession to serve the good of society. 
 * INquire like Scientists. Students have strong fundamentals in Science and possess the spirit of scientific inquiry. They are able to engage confidently in the Practices of Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment. They can discern, weigh alternatives, and evaluate claims and ideas critically, based on logical scientific evidence and arguments, and yet be able to suspend judgement where there is lack of evidence. 
 * INnovate using Science. Students apply Science to generate creative solutions to solve real-world problems, ranging from those affecting everyday lives to complex problems affecting humanity. It is envisaged that there will be a strong pipeline of students who can contribute towards STEM research, innovation, and enterprise.
 
@@ -83,5 +92,11 @@ We collaborate with different departments to design interdisciplinary projects t
 ***4. Instill values through Science*** <br>
 We have garnered partnerships with other organizations to help students appreciate how science influences people and the environment
 
-P6 Learning Journey to Lee Kong Chien Natural History Museum (LKCNHM)
+**P3 Learning Journey to Science Centre Singapore**
+![](/images/2024%20Science/Picture6.jpg)
+
+**P3-P1 Amazing Science – P3 students mentoring their P1 buddies**
+![](/images/2024%20Science/Picture7.jpg)
+
+**P6 Learning Journey to Lee Kong Chien Natural History Museum (LKCNHM)**
 ![](/images/Science%204.jpg)
