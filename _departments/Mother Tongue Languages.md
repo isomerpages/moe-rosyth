@@ -10,7 +10,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | HOD (Mother Tongue) | Ms Tan Chia Chih | tan_chia_chih@schools.gov.sg |
 | Level Head (Chinese) | Miss Chan Xiao Shan | chan_xiao_shan@schools.gov.sg |
-| Level Head (Chinese) | Chan Wai Kin | chan_wai_kin@schools.gov.sg |
+| Level Head (Chinese) | Mdm Chan Wai Kin | chan_wai_kin@schools.gov.sg |
 | Subject Coordinator (Malay) | Mdm Sharifah Amirah | sharifah_amirah_syed_hamid@schools.gov.sg |
 | Subject Coordinator (Tamil) | Mdm Saira Begum Abdul Jabbar | saira_begum_abdul_jabbar@schools.gov.sg | 
 
