@@ -2,14 +2,15 @@
 title: ICT & MRL
 permalink: /departments/ict-department/
 description: ""
+variant: markdown
 ---
-### ICT Department
+### Education Technologies (EdTech) Department
 
-| ICT Department | | |
+| EdTech Department | | |
 | -------- | -------- | -------- |
-| HOD (ICT) | Mr Victor Chew | chew_ansheng_victor@schools.gov.sg | 
-|Subject Head (ICT & KM) | Ms Leong Mok Kam | leong_mok_kam@schools.gov.sg |
-|Subject Head (ICT) | Mr Joshua Wong| wong_you_yi@schools.gov.sg |
+| HOD (EdTech) | Mr Victor Chew | chew_ansheng_victor@schools.gov.sg | 
+|Subject Head (EdTech &amp; KM) | Ms Leong Mok Kam | leong_mok_kam@schools.gov.sg |
+|Subject Head (EdTech) | Mr Joshua Wong| wong_you_yi@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
@@ -17,7 +18,7 @@ description: ""
 
 ***Empowering Future Ready Learners through the Use of ICT***
 
-### ICT PROGRAMMES
+### EdTech PROGRAMMES
 
 Rosyth School has benefited from the flexibility and autonomy through the devolution of ICT funds. Moving away from the standard provision of ICT equipment has given us the freedom to better choose our ICT tools that would allow us to cater to the needs and abilities of our pupils. Our ICT vision can now be driven by our educational goals and objectives, rather than by the standard provision of technologies.
 
@@ -32,4 +33,4 @@ In line with the MOE initiatives to take learning out of the classroom, Rosyth S
 
 Coding and Robotics are also infused into our curriculum. Our students were featured by the international Telecommunication Union (ITU) as they embarked on the Lab on Wheels Program.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yWrBI2LEChk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yWrBI2LEChk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
