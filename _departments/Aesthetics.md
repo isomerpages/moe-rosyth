@@ -21,14 +21,14 @@ variant: markdown
 ***To nurture and empower Rosythians in their artistic and musical endeavours.***
 
 ##### PROGRAMME GOALS
-* Holistic Development: Nurturing artistic talents while fostering 21st Century Competencies.
-* Tech-Enabled Creativity: Merging traditional arts with digital applications for innovative thinking.
-* Leadership and Collaboration: Encouraging peer-led initiatives and community involvement.
-* Interdisciplinary Learning: Blending arts with other academic disciplines for a well-rounded education.
+* **Holistic Development**: Nurturing artistic talents while fostering 21st Century Competencies.
+* **Tech-Enabled Creativity**: Merging traditional arts with digital applications for innovative thinking.
+* **Leadership and Collaboration**: Encouraging peer-led initiatives and community involvement.
+* **Interdisciplinary Learning**: Blending arts with other academic disciplines for a **well-rounded** education.
 
 ##### KEY PROGRAMMES
-* Tier 1 (For All): "Arts in Action" Assembly Series, Digital Art &amp; Music Discovery., ARTS Tick ARTS Talk Programme
-* Tier 2 (For Selected): Rosyth’s Got Talent, IGNITE Programme.
+* Tier 1 (For All): "Arts in Action" Assembly Series, Digital Art &amp; Music Discovery, ARTS Tick ARTS Talk Programmes.
+* Tier 2 (For Selected): Rosyth’s Got Talent, IGNITE Programmes.
 
 **Chinese Dance Students in action**
 ![](/images/2024%20Aesthetics/Picture1.jpg)
