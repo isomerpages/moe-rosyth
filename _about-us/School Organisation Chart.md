@@ -18,11 +18,12 @@ variant: markdown
 **English Department**
 * HOD/English: Mdm Tan Nguang Leng
 * LH/English: Mdm Au Zhi Jun
+* LH/English: Ms Valentina Helen Fernandez
 
 **Mother Tongue Department**
 * HOD/MTL: Miss Tan Chia Chih
 * LH/Chinese: Miss Chan Xiao Shan
-* LH/Chinese: Mr Thomas Ang
+* LH/Chinese: Mdm Chan Wai Kin
 
 **Mathematics Department**
 * HOD/Mathematics: Miss Jau Hsiao Chen
@@ -77,15 +78,15 @@ variant: markdown
 * HOD/CCE: Mdm See Chui Geok
 * SH/CCE&VIA: Mdm Lim Yiling Eileen
 * SH/Student Development: Mdm Nur Azianah
+* SH/NE & SS: Mr Sudheesh Balakrishna Pillai (covering)
 
 **Year Heads and Assistant YHs**
 * YH/P1-2: Mrs May Soh
 * YH/P3-4: Mdm Tang May Ling
 * YH/P5-6: Miss Lim Swee Ching
-* AYH/P1: Miss Laurene Danker
-* AYH/P2: Mrs Joyce Yeo
-* AYH/P3: Mdm Lin Weishan
-* AYH/P4: Mdm Chen Jing'er
-* AYH/P5: Miss Pamela Goh
+* AYH/P1: Mdm Chen Jing'er
+* AYH/P2: Miss Laurene Danker 
+* AYH/P3 : Mdm Anna Chen (covering)
+* AYH/P4: Mdm Lin Weishan
 * AYH/P6: Mdm Shoba Jaganathan
 * Senior School Counsellor: Mdm Mok Swee Peng Pauline
