@@ -51,7 +51,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The opt-out form is downloadable here. The completed opt-out form is to be submitted to Head of Department/Character and Citizenship Education (HOD/CCE) by 5 April 2024.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The opt-out form is downloadable [here](/files/2024%20For%20Parents/RS_Website___SEd_Lessons_Opt_Out_Form_2024.pdf). The completed opt-out form is to be submitted to Head of Department/Character and Citizenship Education (HOD/CCE) by 5 April 2024.
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can email Ms See Chui Geok, HOD/CCE, at see_chui_geok@schools.gov.sg for discussion or to seek clarification about the school’s sexuality education programme.
 
