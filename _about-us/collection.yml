@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Mission, Vision and Values.md
+      - School History.md
+      - School Awards/.keep
+      - School Awards/Best Practice Awards.md
+      - School Awards/People Developer Standard.md
+      - School Awards/School Distinction Award.md
+      - School Awards/School Green Awards.md
+      - School Awards/Singapore Quality Class.md
+      - School Organisation Chart.md
+      - School Advisory Committee.md
+      - School Alumni Association.md
+      - Students' Achievements.md

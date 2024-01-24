@@ -1,0 +1,16 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Aesthetics.md
+      - CCE Department.md
+      - English.md
+      - Gifted Education.md
+      - ICT & MRL.md
+      - Innovation.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education & CCA.md
+      - Science.md
+      - Staff Development.md
+      - Student Management.md
