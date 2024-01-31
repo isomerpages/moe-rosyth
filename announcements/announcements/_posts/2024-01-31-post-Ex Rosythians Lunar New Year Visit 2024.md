@@ -25,4 +25,4 @@ that they have learnt in school and continue to set a good example for
 our current Rosythians.</p>
 <p>Your former teachers would love to hear updates from you – so do come
 prepared to fill them in!</p>
-<p></p>
+<p>We look forward to your visit! Meanwhile, stay safe and healthy.</p>
