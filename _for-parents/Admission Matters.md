@@ -20,7 +20,7 @@ Thank you.</p>
 <p>The next update will be on <strong><u>14 Feb 2024</u></strong>.</p>
 <p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
-<p><strong><em>2022 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
+<p><strong><em>2023 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
 </p>
 <p>Parents may refer to Ministry of Education (MOE) <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 information regarding Primary One Registration Exercise.</p>
