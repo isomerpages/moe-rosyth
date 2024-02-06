@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Admission Matters</h3>
 <h5>APPLICATION FOR PARENT VOLUNTEER (PV) PROGRAMME</h5>
-<p><strong>For Parents of Children born between 2 Jan 2018 and 1 Jan 2019 (both dates inclusive)</strong>
+<p><strong>For Parents of Children born between 2 Jan 2019 and 1 Jan 2020 (both dates inclusive)</strong>
 </p>
 <p></p>
 <p>The Rosyth School PV programme is open for application from <u>6 Feb 2024 to 16 Feb 2024</u>.
