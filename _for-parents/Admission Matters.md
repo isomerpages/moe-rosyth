@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Admission Matters</h3>
 <h5>APPLICATION FOR PARENT VOLUNTEER (PV) PROGRAMME</h5>
-<p><strong>For Parents of Children born between 2 Jan 2018 and 1 Jan 2019 (both dates inclusive)</strong>
+<p><strong>For Parents of Children born between 2 Jan 2019 and 1 Jan 2020 (both dates inclusive)</strong>
 </p>
 <p></p>
 <p>The Rosyth School PV programme is open for application from <u>6 Feb 2024 to 16 Feb 2024</u>.
@@ -20,7 +20,7 @@ Thank you.</p>
 <p>The next update will be on <strong><u>14 Feb 2024</u></strong>.</p>
 <p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
-<p><strong><em>2022 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
+<p><strong><em>2023 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
 </p>
 <p>Parents may refer to Ministry of Education (MOE) <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 information regarding Primary One Registration Exercise.</p>
