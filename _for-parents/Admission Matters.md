@@ -8,9 +8,17 @@ variant: tiptap
 <h5>APPLICATION FOR PARENT VOLUNTEER (PV) PROGRAMME</h5>
 <p><strong>For Parents of Children born between 2 Jan 2018 and 1 Jan 2019 (both dates inclusive)</strong>
 </p>
-<p>Application for the Rosyth School PV programme is now closed. For parents
-of children born between 2 Jan 2019 and 1 Jan 2020, you can refer to our
-school website towards early February 2024 for further details. Thank you.</p>
+<p></p>
+<p>The Rosyth School PV programme is open for application from <u>6 Feb 2024 to 16 Feb 2024</u>.
+You may read about the <a href="/files/2024 For Parents/2024_PV_application_procedure.pdf" rel="noopener noreferrer nofollow" target="_blank">application procedure</a> here.
+Interested applicants can download the PV application form by clicking
+on the <a href="/files/2024 For Parents/2024_PARENT_VOLUNTEER_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> here.
+All application forms should be sent to the Rosyth School General Office <strong>through post by 16 February 2024</strong>,
+4pm. We regret that any application form received after 16 February 2024
+will not be considered. Please read all relevant documents thoroughly.
+Thank you.</p>
+<p>The next update will be on <strong><u>14 Feb 2024</u></strong>.</p>
+<p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
 <p><strong><em>2022 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
 </p>
