@@ -18,8 +18,9 @@ feel free to reach out to us directly.</p>
 </p>
 <p></p>
 <p>The Rosyth School PV programme is open for application from <u>6 Feb 2024 to 16 Feb 2024</u>.&nbsp;
-You may read about the <u>application procedure here</u>.&nbsp; Interested
-applicants can download the PV application form by clicking on the <u>link here</u>.&nbsp;
+You may read about the <a href="/files/2024 For Parents/2024_PV_application_procedure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>application procedure here</u></a>.&nbsp;
+Interested applicants can download the PV application form by clicking
+on the <a href="/files/2024 For Parents/2024_PARENT_VOLUNTEER_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>link here</u></a>.&nbsp;
 All application forms should be sent to the Rosyth School General Office <strong>through post </strong>by <strong>16 February 2024, 4pm</strong>.&nbsp;
 We regret that any application form received after 16 February 2024 will
 not be considered.&nbsp; Please read all relevant documents thoroughly.&nbsp;
