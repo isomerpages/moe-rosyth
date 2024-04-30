@@ -2,6 +2,7 @@
 title: Staff Development
 permalink: /departments/staff-development/
 description: ""
+variant: markdown
 ---
 ### Staff Development
 
@@ -10,8 +11,7 @@ description: ""
 
 <div>
 <div style="float: left">
-<img src="/images/staffdevelopmentqr.jpg" 
-     style="width:90%">
+<img src="/images/staffdevelopmentqr.jpg" style="width:90%">
 </div>
 <div>
 
@@ -24,23 +24,21 @@ For more details and resources, visit our microsite: [https://go.gov.sg/rosyth-s
 
 ***Our Value Proposition***
 
-*  Empower staff to make decisions, solve problems & have space to learn and grow
+*  Empower staff to make decisions, solve problems &amp; have space to learn and grow
 *  Engage staff to feel passionate and committed to making positive contributions to school improvement
 *  Motivate staff by promoting a caring and conducive work climate
 
-<img src="/images/PD%20Framework.png" 
-     style="width:60%">
+<img src="/images/PD%20Framework.png" style="width:60%">
 
 The focus on professional excellence builds a community where we show care for our teachers and strengthen our capabilities to stay ahead of the demands of the changing world, thus uplifting our confidence.
 
 ***School Key Learning Direction 2021-2024***
 
-* Critical Inquiry Methods & STP Knowledge Bases
-* FA5 (SRL) & ePedagogy (Active Learning Processes + Learning Interactions)
+* Critical Inquiry Methods &amp; STP Knowledge Bases
+* FA5 (SRL) &amp; ePedagogy (Active Learning Processes + Learning Interactions)
 * Differentiated Instruction for CES
 
-<img src="/images/STP.png" 
-     style="width:60%">
+<img src="/images/STP.png" style="width:60%">
 
 ***School Vision***
 
@@ -48,8 +46,7 @@ The focus on professional excellence builds a community where we show care for o
 * I-CARE about Serving with Compassion (2019-2020)
 * I-CARE about Leading with Vision (2021-2022)
 
-<img src="/images/Vision.jpg" 
-     style="width:60%">
+<img src="/images/Vision.jpg" style="width:60%">
 
 ***Our People Are Our Greatest Asset:***
 
@@ -80,8 +77,6 @@ For the Future of the Nation Passes through Our Hands.
 [https://www.opal2.moe.edu.sg/csl/s/educational-leadership-and-school-excelle/](https://www.opal2.moe.edu.sg/csl/s/educational-leadership-and-school-excelle/)
 * Sg Learning Designers Circle (SgLDC):
 [https://www.facebook.com/groups/sglearningdesigners/](https://www.facebook.com/groups/sglearningdesigners/)
-* HR Online:
-[https://intranet.moe.gov.sg/hronline/Pages/Home.aspx](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 * PLC: Access via MS Teams
 * Learning Page: 
 [https://sites.google.com/moe.edu.sg/rosyth-school-staffdevelopment/learning](https://sites.google.com/moe.edu.sg/rosyth-school-staffdevelopment/learning)
