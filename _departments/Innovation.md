@@ -2,6 +2,7 @@
 title: Innovation
 permalink: /departments/innovation-department/
 description: ""
+variant: markdown
 ---
 ### Innovation Department
 
@@ -23,9 +24,7 @@ description: ""
 
 Innovation does not happen magically, but it is an ongoing process of intentional exploration. This led to the birth of the **Period PHI** (**P**assion **H**our **I**ngenuity) curriculum. Our Period PHI modules are conducted in a fun and discovery manner to inspire Rosythians to use their imagination to create and be innovative thinkers, themselves!
 
-For the Primary 1s and 2s, Period PHI is incorporated termly into the Programme for Active Learning (PAL) lessons. Thereafter, it increases in intensity as it spirals upwards to the other levels.
-
-For the Primary 3s to 6s, Period PHI occurs as a fortnightly one-hour curriculum to spark our students’ curiosities and inculcate an innovation quotient in them. Rosythians learn how to use the Rosyth 7E Innovation Protocol for value creation and be exposed to mindsets needed for innovation to take place.
+For the Primary 1s to 6s, Period PHI occurs as a fortnightly 1 to 1.5-hour curriculum to spark our students’ curiosities and inculcate an innovation quotient in them. Rosythians learn how to use the Rosyth 7E Innovation Protocol for value creation and be exposed to mindsets needed for innovation to take place. 
 
 Through our school-based innovative thinking programme, we hope to nurture Rosythians who empathise, ask questions, think in new ways and are willing to take insightful actions to add new value to others.
 
@@ -33,4 +32,4 @@ Equally important, through Period PHI, we purposefully teach Rosythians the lang
 
 Over the years, as our Period PHI curriculum gained momentum, we have been consistently recognised at various platforms and most notably, affirmed at the Ministry of Education **(MOE) Innergy Schools Award** (Teaching and Learning).
 
-![](/images/innov2.jpg)
+![](/images/Period%20PHI/Period_PHI.jpg)
