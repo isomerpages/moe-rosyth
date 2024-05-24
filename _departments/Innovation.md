@@ -32,4 +32,4 @@ Equally important, through Period PHI, we purposefully teach Rosythians the lang
 
 Over the years, as our Period PHI curriculum gained momentum, we have been consistently recognised at various platforms and most notably, affirmed at the Ministry of Education **(MOE) Innergy Schools Award** (Teaching and Learning).
 
-![](/images/innov2.jpg)
+![](/images/Period%20PHI/Period_PHI.jpg)
