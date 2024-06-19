@@ -6,8 +6,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall     | 31 December 2023     | Rice/Noodle stalls are acceptable     |
-| Vegetarian Food Stall     | 31 December 2023     | Rice/Noodle stalls are acceptable     |
+| Malay Food Stall     | 31 December 2024    | To sell rice and/or noodle with halal cooked food dishes for staff and students in school canteen. |
 
 ### Application Procedure
 
@@ -18,10 +17,10 @@ Step 1.  Download and complete the application form.
 Step 2.  Attach the following documents together with the application form:
 
 *   Photocopy of the NRIC (front and back)
-*   List of proposed menu and pricing for all items
+*   List of proposed food menu and pricing
 *   Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-Step 3.  Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+Step 3.  Submit the completed application form and documents by closing date via email OR to the School’s General Office from Mon to Fri, 8.00am to 4.00pm..
 
 *   Address: Rosyth School, 21 Serangoon North Ave 4 Singapore 555855
 *   Contact No: 64812273
@@ -38,16 +37,15 @@ Step 3.  Submit the completed application form and documents by closing date via
 ### Interested applicants must meet the following criteria:
 
 *   Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-*   Able to provide good service and quality food with prices determined in consultation with the school.
+*   Able to provide good service and quality food with prices determined in conjunction with the MOE/schools guidelines.
 *   Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
-*   Able to maintain high standard of food safety and personal hygiene.
+*   Able to maintain the required standard of food safety and personal hygiene.
 *   Healthy and fit to operate the stall.
 
 
 ### Applicants should preferably fulfil the following criteria:
 
-*   Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-*   Possess catering experience or experience operating in a school environment.
+*   Successful applicant and stall assistant(s) shall possess the WSQ Basic Food Hygiene Certificate. Food catering experience in a school environment is not mandatory, but preferred.
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-_Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense._
+_Shortlisted applicants will be notified for an interview and required to provide food sampling for the School Canteen Selection Committee evaluation._
