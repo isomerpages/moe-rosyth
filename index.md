@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Rosyth School
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
