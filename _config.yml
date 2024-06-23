@@ -1,5 +1,5 @@
 title: Rosyth School
-url: ""
+url: https://rosyth.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#5e7ec9"
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.d3suvp2ye2akna.amplifyapp.com/
 prod: https://master.d3suvp2ye2akna.amplifyapp.com/
 resources_name: announcements
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
