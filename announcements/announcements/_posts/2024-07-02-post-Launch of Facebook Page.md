@@ -21,4 +21,7 @@ or through email: <a href="mailto:rosyth_sch@schools.gov.sg" rel="noopener noref
 We hope not to have to remove posts/comments not aligned to the intents
 of this page.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FB_Page.jpg">
+</div>
 <p></p>
