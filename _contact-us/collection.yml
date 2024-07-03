@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - Social Media.md
       - School Bus Service.md
       - School Canteen Application.md
       - Contact Information.md
