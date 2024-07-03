@@ -21,6 +21,13 @@ or through email: <a href="mailto:rosyth_sch@schools.gov.sg" rel="noopener noref
 We hope not to have to remove posts/comments not aligned to the intents
 of this page.</p>
 <p></p>
+<p>Please click on the following link to access the Terms of Use for Rosyth's
+Social Media.</p>
+<p></p>
+<p><a href="/files/Social Media/Guidelines_for_Social_Media.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to Terms of Use for Social Media</a>
+</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FB_Page.jpg">
 </div>
