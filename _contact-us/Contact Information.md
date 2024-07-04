@@ -2,6 +2,7 @@
 title: Contact Information
 permalink: /contact-us/
 description: ""
+variant: markdown
 ---
 | General Office |  |
 |---|---|
@@ -59,8 +60,8 @@ description: ""
 
 ##### Teachers' E-Mail Addresses
 
-[Chinese Language Teachers](/files/MT%20trs%20email%202019-CL.pdf)
+[Chinese Language Teachers](/files/MTL%20Contact/Email_CL_Unit_2024.pdf)
 
-[Malay Language Teachers](/files/MT%20trs%20email%202019-ML.pdf)
+[Malay Language Teachers](/files/MTL%20Contact/Email_ML_Unit_2024.pdf)
 
-[Tamil Language Teachers](/files/MT%20trs%20email%202019-TL.pdf)
+[Tamil Language Teachers](/files/MTL%20Contact/Email_TL_Unit_2024.pdf)
