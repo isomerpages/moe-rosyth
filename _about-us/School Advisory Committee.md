@@ -14,6 +14,6 @@ variant: markdown
 * Member: Mrs Cherie Tseng
 * Member: Ms Priya Jean Alexander
 * Member: Mdm Shalini Krishnan Ramakrishnan
+* Member: Prof Lai Kim Fatt
 * Member: Mr Chee Kuan Tat, Ken
 * Member: Mr Goh Chee How, Lanx
-* Member: Prof Lai Kim Fatt
