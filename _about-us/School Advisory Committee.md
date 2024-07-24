@@ -16,4 +16,4 @@ variant: markdown
 * Member: Mdm Shalini Krishnan Ramakrishnan
 * Member: Prof Lai Kim Fatt
 * Member: Mr Chee Kuan Tat, Ken
-* Member: Mr Goh Chee How, Lanx
+* Member: A/Prof Goh Chee How, Lanx
