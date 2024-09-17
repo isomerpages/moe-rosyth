@@ -2,10 +2,11 @@
 title: Physical Education & CCA
 permalink: /departments/physical-education-n-co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ### Physical Education
 
-| PE & CCA Department |  | |
+| PE &amp; CCA Department |  | |
 | -------- | -------- | -------- |
 | HOD (PE/CCA) | Mr Ahmad Zohri Bin Bakri | ahmad_zohri_bakri@schools.gov.sg |
 | Subject Head (PE/CCA) | Mr Mohd Roshan| mohamad_roshan_mohd_sah@schools.gov.sg |
@@ -21,9 +22,9 @@ description: ""
 
 The purpose of physical education is to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.
 
-Physical education programme thus is an integral component of Rosyth School curriculum.  It provides our students with learning opportunities that make use of movement to develop the whole person.
+Physical education programme thus is an integral component of Rosyth School curriculum.&nbsp; It provides our students with learning opportunities that make use of movement to develop the whole person.
 
-At the Rosyth School, students learn the fundamental movement skills incorporating the movement concepts.  They develop efficiency, effectiveness and versatility in their performance as they practice and transfer their skills across the seven learning areas of Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming to become competent movers.
+At the Rosyth School, students learn the fundamental movement skills incorporating the movement concepts.&nbsp; They develop efficiency, effectiveness and versatility in their performance as they practice and transfer their skills across the seven learning areas of Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming to become competent movers.
 
 With the broadbased development of physical competencies, everyone is able to continue participating at a recreational level.
 
@@ -92,4 +93,4 @@ All CCA emphasise social interaction by providing a common space for friendships
 
 ##### CCAs in Rosyth School <br>
 
-![](/images/CCA1.jpg)
+[List of CCAs for 2025](/files/2025%20PE%20CCA/CCA_Option_Schedule_for_P4_2025_Annex_A_Final.pdf)
