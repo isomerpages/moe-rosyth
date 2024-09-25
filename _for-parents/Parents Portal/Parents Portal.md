@@ -7,8 +7,9 @@ variant: markdown
 ---
 **HBL Lesson Guides**
 
-* [(23 May 2024) P6 MS HBL Daily Lesson Guide](/files/24_May_P6_MS_Daily_Lesson_Guide.pdf)
-* [(23 May 2024) P6 GE HBL Daily Lesson Guide](/files/24_May_P6_GE_Daily_Lesson_Guide.pdf)
+* [P1 HBL Daily Lesson Guide - 26 Sep 2024](/files/HBL%20Lesson%20Guide/P1_Daily_Lesson_Guide_26_Sep_2024.pdf)
+* [P2 HBL Daily Lesson Guide - 26 Sep 2024](/files/HBL%20Lesson%20Guide/P2_Daily_Lesson_Guide_26_September.pdf)
+
 
 
 **News Flash**
