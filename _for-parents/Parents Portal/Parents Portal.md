@@ -9,6 +9,18 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/HBL Lesson Guide/P3_Daily_Lesson_Guide_30_September_2024.pdf" rel="noopener nofollow" target="_blank">P3 HBL Daily Lesson Guide - 30 Sep 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/HBL Lesson Guide/P4_Daily_Lesson_Guide_30_September_2024.pdf" rel="noopener nofollow" target="_blank">P4 HBL Daily Lesson Guide - 30 Sep 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/HBL Lesson Guide/P4_GE_Daily_Lesson_Guide_30_September_2024.pdf" rel="noopener nofollow" target="_blank">P4 GE HBL Daily Lesson Guide - 30 Sep 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/files/HBL Lesson Guide/P1_Daily_Lesson_Guide_27_Sep_2024.pdf" rel="noopener nofollow" target="_blank">P1 HBL Daily Lesson Guide - 27 Sep 2024</a>
 </p>
 </li>
