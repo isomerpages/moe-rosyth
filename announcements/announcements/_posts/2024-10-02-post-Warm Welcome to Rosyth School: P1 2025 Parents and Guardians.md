@@ -52,10 +52,11 @@ connected:</p>
 <p>Follow the simple one-time onboarding process</p>
 </li>
 <li>
-<p>Please refer to <strong>Annex A</strong> for step-by-step instructions</p>
+<p>Please refer to <strong><a href="/files/2025 P1/1__Annex_A_One_Time_Onboarding_to_PG.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></strong> for
+step-by-step instructions</p>
 </li>
 <li>
-<p>We have also provided a FAQ document about PG</p>
+<p>We have also provided a <a href="/files/2025 P1/FAQs_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ </a>document about PG</p>
 </li>
 </ul>
 <p></p>
@@ -84,5 +85,5 @@ Gateway (PG) soon.</p>
 <p>Should you have any queries, please do not hesitate to contact Mdm. Aileen
 Lee, Administration Manager, or Mdm. Lorrine Lim, Administrative Executive,
 at <strong>6481 2273</strong> (General Office).</p>
-<p>&nbsp;</p>
+<p></p>
 <p>We look forward to welcoming you and our future P1 Rosythians!</p>
