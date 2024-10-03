@@ -4,7 +4,7 @@ permalink: /contact-us/schoolcanteen/
 description: ""
 variant: markdown
 ---
-We do not have any vacancies at the moment. Thank you.
+We do not have vacancies at the moment. Thank you.
 
 ### Application Procedure
 
