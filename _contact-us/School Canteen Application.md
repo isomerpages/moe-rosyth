@@ -4,9 +4,7 @@ permalink: /contact-us/schoolcanteen/
 description: ""
 variant: markdown
 ---
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-| Malay Food Stall     | 31 December 2024    | To sell rice and/or noodle with halal cooked food dishes for staff and students in school canteen. |
+We do not have any vacancies at the moment. Thank you.
 
 ### Application Procedure
 
