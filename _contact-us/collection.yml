@@ -2,9 +2,9 @@ collections:
   contact-us:
     output: true
     order:
-      - Student Care Centre.md
       - School Bus Service.md
       - School Canteen Application.md
       - Contact Information.md
+      - Student Care Centre.md
       - Social Media.md
       - FAQ.md
