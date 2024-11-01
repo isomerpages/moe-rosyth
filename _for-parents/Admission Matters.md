@@ -22,43 +22,61 @@ we continue the programme, the next application will be for parents of
 children born between 2 Jan 2020 and 1 Jan 2021.&nbsp; Thank you.</p>
 <p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
-<p><strong><em>2023 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
+<h5>PRIMARY 1 REGISTRATION</h5>
+<p><strong><em>2024 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
 </p>
-<p>Parents may refer to Ministry of Education (MOE) <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">website</a> for
+<p>Parents may refer to Ministry of Education (MOE)&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;for
 information regarding Primary One Registration Exercise.</p>
 <p><strong>Rosyth School P1 Registration Exercise Statistics</strong>
 </p>
-<table>
+<p></p>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Vacancy available</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Places taken up</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vacancy available</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Places taken up</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
@@ -67,8 +85,8 @@ information regarding Primary One Registration Exercise.</p>
 <p>Phase 2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phase 2A2
-<br>(merge under Phase 2A)</p>
+<p>Phase 2A2</p>
+<p>(merge under Phase 2A)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Phase 2B</p>
@@ -79,159 +97,35 @@ information regarding Primary One Registration Exercise.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>270</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>134</p>
+<p>120</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>75</p>
-<p>Balloting Between 1km to 2km: 27 applicants vying for 22 vacancies</p>
+<p>86
+<br>
+<br>Balloting Outside 2km: 32 applicants vying for 18 vacancies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20</p>
-<p>Balloting within 1km: 23 applicants</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>41</p>
-<p>Balloting within 1km: 120 applicants</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>270</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>136</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>73
-<br>
-<br>Balloting Between 1km to 2km: 42 applicants vying for 40 vacancies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>N.A.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>20
-<br>
-<br>Balloting within 1km: 24 applicants</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>41
-<br>
-<br>Balloting within 1km: 125 applicants</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>270</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>149</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>78
-<br>
-<br>Balloting outside 2km: 51 applicants vying for 30 vacancies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No
-<br>vacancy left after Phase 2A1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21
-<br>
-<br>Balloting within 1km: 31 applicants</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22
-<br>
-<br>Balloting within 1km: 99 applicants</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>270</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>142</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>87
-<br>
-<br>Balloting outside 2km: 59 applicants vying for 57 vacancies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No
-<br>vacancy left after Phase 2A1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21
-<br>
-<br>
-<br>Balloting within 1km: 32 applicants</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20
-<br>
-<br>Balloting within 1km: 93 applicants</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>270</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>141</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25
-<br>
-<br>
-<br>Balloting outside 2km: 18 applicants vying for 8 vacancies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20
-<br>
 <br>
 <br>Balloting within 1km: 28 applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20
+<p>44
 <br>
-<br>
-<br>Balloting within 1km: 76 applicants</p>
+<br>Balloting within 1km: 124 applicants</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Balloting</strong> will be conducted should the number of applications
 exceed the number of vacancies in any phase. Singapore Citizen (SC) children
 will be admitted first ahead of Permanent Resident children before home-school
