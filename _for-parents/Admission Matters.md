@@ -15,11 +15,9 @@ feel free to reach out to us directly.</p>
 <p></p>
 <h5>APPLICATION FOR PARENT VOLUNTEER (PV) PROGRAMME</h5>
 <p></p>
-<p>Application for the Rosyth School PV programme is now closed.&nbsp; The
-school is presently reviewing the continuation of its PV programme and
-will announce the related decision towards early February 2025.&nbsp; Should
-we continue the programme, the next application will be for parents of
-children born between 2 Jan 2020 and 1 Jan 2021.&nbsp; Thank you.</p>
+<p>Rosyth School does not recruit parent volunteers to qualify for Phase
+2B of the Primary 1 Registration Exercise, as we receive extensive support
+from our Parent Support Group for school activities and programmes.</p>
 <p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
 <h5>PRIMARY 1 REGISTRATION</h5>
