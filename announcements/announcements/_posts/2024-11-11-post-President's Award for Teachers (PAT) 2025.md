@@ -14,5 +14,5 @@ Institute, Polytechnic, Institute of Technical Education or National Institute
 of Early Childhood Development. Nominations open from Monday 21 October
 2024 and close on Friday 10 January 2025.</p>
 <p>PAT 2024 Online Nomination Form is available at:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a>
+<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/pat2025</a>
 </p>
