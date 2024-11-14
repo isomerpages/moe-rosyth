@@ -10,58 +10,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KkXczmaIkUU?si=0zFNHj5snAX4sQzp"></iframe>
 </div>
-<p><strong>HBL Lesson Guides</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/HBL Lesson Guide/P5_Daily_Lesson_Guide_2_October_2024.pdf" rel="noopener nofollow" target="_blank">P5 HBL Daily Lesson Guide - 2 Oct 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P5_GE_Daily_Lesson_Guide_2_October_2024.pdf" rel="noopener nofollow" target="_blank">P5 GE HBL Daily Lesson Guide - 2 Oct 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P3_Daily_Lesson_Guide_1_October_2024.pdf" rel="noopener nofollow" target="_blank">P3 HBL Daily Lesson Guide - 1 Oct 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P4_Daily_Lesson_Guide_1_October_2024.pdf" rel="noopener nofollow" target="_blank">P4 HBL Daily Lesson Guide - 1 Oct 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P4_GE_Daily_Lesson_Guide_1_October_2024.pdf" rel="noopener nofollow" target="_blank">P4 GE HBL Daily Lesson Guide - 1 Oct 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P3_Daily_Lesson_Guide_30_September_2024.pdf" rel="noopener nofollow" target="_blank">P3 HBL Daily Lesson Guide - 30 Sep 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P4_Daily_Lesson_Guide_30_September_2024.pdf" rel="noopener nofollow" target="_blank">P4 HBL Daily Lesson Guide - 30 Sep 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P4_GE_Daily_Lesson_Guide_30_September_2024.pdf" rel="noopener nofollow" target="_blank">P4 GE HBL Daily Lesson Guide - 30 Sep 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P1_Daily_Lesson_Guide_27_Sep_2024.pdf" rel="noopener nofollow" target="_blank">P1 HBL Daily Lesson Guide - 27 Sep 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL Lesson Guide/P2_Daily_Lesson_Guide_27_September.pdf" rel="noopener nofollow" target="_blank">P2 HBL Daily Lesson Guide - 27 Sep 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL%20Lesson%20Guide/P1_Daily_Lesson_Guide_26_Sep_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 HBL Daily Lesson Guide - 26 Sep 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HBL%20Lesson%20Guide/P2_Daily_Lesson_Guide_26_September.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 HBL Daily Lesson Guide - 26 Sep 2024</a>
-</p>
-</li>
-</ul>
 <p><strong>News Flash</strong>
 </p>
 <ul data-tight="true" class="tight">
