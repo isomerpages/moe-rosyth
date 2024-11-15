@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Parents Portal
 variant: tiptap
 ---
-<p><strong>P1 Orientation 2024</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KkXczmaIkUU?si=0zFNHj5snAX4sQzp"></iframe>
-</div>
 <p><strong>News Flash</strong>
 </p>
 <ul data-tight="true" class="tight">
