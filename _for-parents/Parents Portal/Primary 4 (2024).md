@@ -163,7 +163,7 @@ variant: tiptap
 <p>Dyana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_weishan@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ variant: tiptap
 <p>Valentina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_huey_chee@schools.gov.sg</p>
+<p>valentina_helen_fernandez@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ variant: tiptap
 <p>Lee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>valentina_helen_fernandez@schools.gov.sg</p>
+<p>teo_lee_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>Li Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seow_guat_leng@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ variant: tiptap
 <p>Jolly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>faridah_rambile@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ variant: tiptap
 <p>Zulfadi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_lee_ping@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
