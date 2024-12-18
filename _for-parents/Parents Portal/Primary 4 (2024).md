@@ -72,10 +72,10 @@ variant: tiptap
 <p>P4 APPRECIATIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eileen Lim</p>
+<p>LIM YILING EILEEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhang_cong@schools.gov.sg</p>
+<p>lim_yiling_eileen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Debbie</p>
+<p>DEBBIE LAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>debbie_goh_tiang_ai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +138,10 @@ variant: tiptap
 <p>P4 INNOVATIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fadillah</p>
+<p>FADILLAH SAID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rao_chunyan@schools.gov.sg</p>
+<p>fadillah_said@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -149,10 +149,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Cong</p>
+<p>ZHANG CONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>zhang_cong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -182,10 +182,10 @@ variant: tiptap
 <p>P4 ENTREPRENEURIAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rhui Yin</p>
+<p>LOW RHUI YIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>melvin_singh_dhillion@schools.gov.sg</p>
+<p>low_rhui_yin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -237,10 +237,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angie</p>
+<p>ANGIE DAI HUILING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soh_yang_yit@schools.gov.sg</p>
+<p>angie_dai_huiling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ variant: tiptap
 <p>Bernard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>soh_yang_yit@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
