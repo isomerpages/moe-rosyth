@@ -207,7 +207,7 @@ variant: tiptap
 <p>Anna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kuan_nai_lin@schools.gov.sg</p>
+<p>chen_yingying@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
