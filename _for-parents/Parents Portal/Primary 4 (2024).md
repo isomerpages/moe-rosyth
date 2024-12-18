@@ -86,7 +86,7 @@ variant: tiptap
 <p>Yong Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>debbie_goh_tiang_ai@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>Serena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fairus_atan@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shi Liang</p>
+<p>SHI LIANG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shi_liang@schools.gov.sg</p>
