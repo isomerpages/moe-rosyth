@@ -300,7 +300,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>I-DARE  Outdoor and Science Programme</strong>
+<p><strong>I-DARE Outdoor and Science Programme</strong>
 </p>
 <p>At Rosyth, we aim to nurture our Rosythians holistically, focusing on
 both values and character development. The I-DARE Teambuilding Day provides
