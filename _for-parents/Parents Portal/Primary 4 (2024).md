@@ -300,33 +300,39 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>I-DARE Teambuilding Day</strong>
+<p><strong>I-DARE  Outdoor and Science Programme</strong>
 </p>
-<p>At Rosyth, we aim to develop our Rosythians holistically in values and
-character. The I-DARE Teambuilding Day provides opportunities for our students
-to develop positive peer relationships and a sense of teamwork amongst
-classmates. They also get to experience outdoor learning in outdoor settings
-and develop greater resilience as they participate in challenging outdoor
-activities.</p>
+<p>At Rosyth, we aim to nurture our Rosythians holistically, focusing on
+both values and character development. The I-DARE Teambuilding Day provides
+Rosythians the chance to build positive peer relationships and foster teamwork
+with their classmates. Through engaging in challenging outdoor activities,
+students not only enhance their resilience but also gain hands-on experience
+in outdoor learning environments. Rosythians also learn to appreciate and
+care for the environment as they explore the biodiversity of plants and
+animals. Additionally, students will collaborate in activities that integrate
+STEM (Science, Technology, Engineering, and Mathematics) concepts in a
+real-world outdoor context.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_1.jpg">
 </div>
 <p></p>
-<p><strong>P4 Cohort LJ: Geylang Serai Heritage Gallery</strong>
-</p>
-<p>History comes alive for our Primary 4 students during the learning Journey
-to Geylang Serai Heitage Gallery. Students delved into the history of Geylang
-Serai and played the role of explorers to understand its importance to
-the Malay and Muslim communities in Singapore. Students get to hear stories
-and view artifacts at the gallery. Also, the students took a precinct walk
-to the Geylang Serai market, where they observed the bustling atmosphere
-of Malay, Indian, and Chinese food stalls, along with the diverse display
-of Malay traditional clothing and aromatic spice stalls. The students gained
-insights into the history of Geylang Serai and its pivotal role in the
-Malay and Muslim communities, making the learning journey an enriching
-experience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 P4/P4GeylangSerai.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E814A68F_6038_4456_B7FB_260E7F031734_.png">
+</div>
+<p></p>
+<p><strong>P4 Cohort LJ to Kreta Ayer Heritage Gallery</strong>
+</p>
+<p>Our Primary 4 students explore the Kreta Ayer Heritage Gallery, immersing
+themselves in the vibrant cultural legacy of Singapore’s Chinese community.
+Through interactive activities, they engage with traditional art forms
+such as Chinese opera, puppetry, calligraphy, nanyin music, and tea appreciation.
+A precinct walk around Chinatown enhances their experience as they uncover
+stories of iconic landmarks and trades that shaped Kreta Ayer’s history.
+This journey provides students with valuable insights into the contributions
+of the Chinese community and fosters a deeper appreciation for Singapore’s
+multicultural identity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
 </div>
 <p></p>
 <p><strong>Primary 4 Museum-Based Learning</strong>
