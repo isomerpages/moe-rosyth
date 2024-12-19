@@ -72,7 +72,7 @@ variant: tiptap
 <p>P3 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jaya</p>
+<p>JAYA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jayalakshmi_danabal@schools.gov.sg</p>
@@ -83,7 +83,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wei Shan</p>
+<p>LIN WEISHAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lin_weishan@schools.gov.sg</p>
@@ -105,7 +105,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mashita</p>
+<p>MASHITA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mashita_abdol_rahman@schools.gov.sg</p>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>P3 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eileen Seow</p>
+<p>SEOW GUAT LENG EILEEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>seow_guat_leng@schools.gov.sg</p>
@@ -149,7 +149,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Henry</p>
+<p>HENRY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>@schools.gov.sg</p>
@@ -171,7 +171,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Han</p>
+<p>NG YANG HAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_yang_han@schools.gov.sg</p>
@@ -204,7 +204,7 @@ variant: tiptap
 <p>P3 INNOVATIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norlela</p>
+<p>NORLELA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norlela_men@schools.gov.sg</p>
