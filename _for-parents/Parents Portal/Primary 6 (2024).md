@@ -75,7 +75,7 @@ variant: tiptap
 <p>SHIRLEY KANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_assyikin_mohd_lais@schools.gov.sg</p>
+<p>kang_li_sanshirley@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ variant: tiptap
 <p>ZAILANI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_kian_tiong@schools.gov.sg</p>
+<p>mohammad_zailani_kasmuri@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>SAIRA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>saira_begum_abdul_jabbar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ variant: tiptap
 <p>AMIRAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_kuan_chin_a@schools.gov.sg</p>
+<p>sharifah_amirah_syed_hamid@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AUDREY</p>
+<p>AUDREY KWOK CAIXIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>saira_begum_abdul_jabbar@schools.gov.sg</p>
+<p>kwok_caixin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>BRYAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tay_yuan_chong_bryan_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +138,10 @@ variant: tiptap
 <p>P6 INNOVATIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VINCENT</p>
+<p>VINCENT LEE CHEE MUN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_kheng_tat_edmond@schools.gov.sg</p>
+<p>lee_chee_mun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ variant: tiptap
 <p>HIDAYAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>anparasi_velalar_murugiam@schools.gov.sg</p>
+<p>siti_hidayah_mohamad_taha@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -160,10 +160,10 @@ variant: tiptap
 <p>P6 CARE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOSHUA</p>
+<p>JOSHUA WONG YOU YI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kang_li_sanshirley@schools.gov.sg</p>
+<p>wong_you_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>NAI LIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hoe_joe_hwee@schools.gov.sg</p>
+<p>kuan_nai_lin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
