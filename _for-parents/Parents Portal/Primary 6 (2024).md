@@ -259,7 +259,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AGNES</p>
+<p>AGNES TOH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jing_yan@schools.gov.sg</p>
