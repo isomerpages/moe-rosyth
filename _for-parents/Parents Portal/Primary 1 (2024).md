@@ -142,7 +142,7 @@ variant: tiptap
 <p>HAIDAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>noor_haidah_mohamed_sall@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>MUI LAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_mui_lan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@ variant: tiptap
 <p>LI JIA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_li_jia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
