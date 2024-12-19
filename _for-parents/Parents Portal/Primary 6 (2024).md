@@ -185,7 +185,7 @@ variant: tiptap
 <p>ALEX</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_eliza_jane@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ variant: tiptap
 <p>JI MIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_yuan_chong_bryan_a@schools.gov.sg</p>
+<p>ji_min@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -204,10 +204,10 @@ variant: tiptap
 <p>P6 RESPECT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JULIENNE</p>
+<p>JULIENNE TAN JING YAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhd_salihin_abdul_rashid@schools.gov.sg</p>
+<p>tan_jing_yan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -215,10 +215,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AZIANAH</p>
+<p>AZIANAH ZAKARIA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_chiew_meng@schools.gov.sg</p>
+<p>azianah_zakaria@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -226,10 +226,10 @@ variant: tiptap
 <p>P6 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SERENE</p>
+<p>SERENE YEO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>au_zhi_jun@schools.gov.sg</p>
+<p>yeo_ai_ho_serene@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ variant: tiptap
 <p>CHAN WAI KIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_sook_hwa@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -248,10 +248,10 @@ variant: tiptap
 <p>P6 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHUI LING</p>
+<p>LIM CHUI LING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pamela_goh_dong_hong@schools.gov.sg</p>
+<p>lim_chui_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ variant: tiptap
 <p>SUDHEESH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_xiao_shan@schools.gov.sg</p>
+<p>sudheesh_balakrishna_pillai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -281,10 +281,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EIK FANG</p>
+<p>CHEN EIK FANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mashita_abdol_rahman@schools.gov.sg</p>
+<p>Chen_Eik_Fang@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
