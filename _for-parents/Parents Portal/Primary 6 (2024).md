@@ -262,7 +262,7 @@ variant: tiptap
 <p>AGNES TOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_jing_yan@schools.gov.sg</p>
+<p>@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
