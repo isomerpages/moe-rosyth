@@ -40,10 +40,10 @@ variant: tiptap
 <p>AYH P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YEO BAK KENG JOYCE</p>
+<p>CHEN JING'ER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_bak_keng_joyce@schools.gov.sg</p>
+<p>chen_jing_er@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -237,7 +237,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joe Hwee</p>
+<p>JOE HWEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hoe_joe_hwee@schools.gov.sg</p>
