@@ -40,10 +40,10 @@ variant: tiptap
 <p>AYH P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Jing'er</p>
+<p>YEO BAK KENG JOYCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_jing_er@schools.gov.sg</p>
+<p>yeo_bak_keng_joyce@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
