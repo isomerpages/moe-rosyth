@@ -174,7 +174,7 @@ variant: tiptap
 <p>PANG MEI YEE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pang_Mei_Yee</p>
+<p>Pang_Mei_Yee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
