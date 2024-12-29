@@ -40,10 +40,10 @@ variant: tiptap
 <p>AYH P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shoba Jaganathan</p>
+<p>Mr Vincent Lee Chee Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shoba_jaganathan@schools.gov.sg</p>
+<p>lee_chee_mun@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
