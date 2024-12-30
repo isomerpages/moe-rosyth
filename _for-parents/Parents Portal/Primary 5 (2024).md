@@ -72,10 +72,11 @@ variant: tiptap
 <p>P5 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHOBA JAGANATHAN</p>
+<p>LEE KHENG TAT EDMOND</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shoba_jaganathan@schools.gov.sg</p>
+<p><a href="mailto:lee_kheng_tat_edmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kheng_tat_edmond@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -215,10 +216,10 @@ variant: tiptap
 <p>P5 ENTREPRENEURIAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE KHENG TAT EDMOND</p>
+<p>SHOBA JAGANATHAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_kheng_tat_edmond@schools.gov.sg</p>
+<p>shoba_jaganathan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -241,6 +242,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>anparasi_velalar_murugiam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANGELA GOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
