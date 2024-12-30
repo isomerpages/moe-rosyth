@@ -252,7 +252,7 @@ variant: tiptap
 <p>ANGELA GOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_siok_tin_angela@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
