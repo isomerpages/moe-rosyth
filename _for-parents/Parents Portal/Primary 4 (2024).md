@@ -124,17 +124,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GE Recruit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P4 INNOVATIVE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,7 +149,7 @@ variant: tiptap
 <p>P4 CARE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dyana</p>
+<p>DYANA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dyana_a@schools.gov.sg</p>
