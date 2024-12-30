@@ -185,7 +185,8 @@ variant: tiptap
 <p>ALEX</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>@schools.gov.sg</p>
+<p><a href="mailto:ng_zhiqiang_alex@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhiqiang_alex@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +241,8 @@ variant: tiptap
 <p>CHAN WAI KIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>@schools.gov.sg</p>
+<p>
+<br>chan_wai_kin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -259,10 +261,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AGNES TOH</p>
+<p>AGNES LIM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>@schools.gov.sg</p>
+<p><a href="mailto:lim_yin_khuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yin_khuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
