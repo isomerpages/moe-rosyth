@@ -251,7 +251,7 @@ variant: tiptap
 <p>JOLLY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
