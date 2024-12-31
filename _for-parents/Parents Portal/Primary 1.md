@@ -183,7 +183,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BAO LING</p>
+<p>LEE BAO LING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee_bao_ling@schools.gov.sg</p>
