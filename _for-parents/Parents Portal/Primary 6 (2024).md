@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents Portal
 variant: tiptap
 ---
-<h3>Primary 6 (2024)</h3>
+<h3>Primary 6 (2025)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -185,7 +185,7 @@ variant: tiptap
 <p>ALEX</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_zhiqiang_alex@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhiqiang_alex@schools.gov.sg</a> 
+<p><a href="mailto:ng_zhiqiang_alex@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhiqiang_alex@schools.gov.sg</a>
 </p>
 </td>
 </tr>
