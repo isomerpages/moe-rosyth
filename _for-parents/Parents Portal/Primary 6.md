@@ -264,8 +264,7 @@ variant: tiptap
 <p>Lim Yin Khuan (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yin_khuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yin_khuan@schools.gov.sg</a>
-</p>
+<p>Lim_Yin_khuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
