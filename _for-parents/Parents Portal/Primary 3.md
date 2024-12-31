@@ -160,7 +160,7 @@ variant: tiptap
 <p>P3 TEAMWORK</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONG QIAO LING</p>
+<p>ONG CHIAO LING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_chiao_ling@schools.gov.sg</p>
