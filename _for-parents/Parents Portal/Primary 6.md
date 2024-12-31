@@ -29,7 +29,7 @@ variant: tiptap
 <p>YH 5&amp;6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Swee Ching</p>
+<p>Lim Swee Ching (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_swee_ching@schools.gov.sg</p>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>AYH P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Lee Chee Mun</p>
+<p>Vincent Lee Chee Mun (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_chee_mun@schools.gov.sg</p>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>P6 APPRECIATIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHIRLEY KANG</p>
+<p>Kang Li San (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kang_li_sanshirley@schools.gov.sg</p>
@@ -83,7 +83,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ZAILANI</p>
+<p>Mohammad Zailani Bin Kasmuri (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_zailani_kasmuri@schools.gov.sg</p>
@@ -94,7 +94,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAIRA</p>
+<p>Saira Begum Bte Abdul Jabbar (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>saira_begum_abdul_jabbar@schools.gov.sg</p>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>P6 EMPATHETIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AMIRAH</p>
+<p>Sharifah Amirah Bte Syed Hamid (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sharifah_amirah_syed_hamid@schools.gov.sg</p>
@@ -116,7 +116,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AUDREY KWOK CAIXIN</p>
+<p>Kwok Caixin (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kwok_caixin@schools.gov.sg</p>
@@ -127,7 +127,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BRYAN</p>
+<p>Tay Yuan Chong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_yuan_chong_bryan_a@schools.gov.sg</p>
@@ -138,7 +138,7 @@ variant: tiptap
 <p>P6 INNOVATIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VINCENT LEE CHEE MUN</p>
+<p>Lee Chee Mun (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_chee_mun@schools.gov.sg</p>
