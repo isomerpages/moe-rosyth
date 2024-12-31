@@ -1,6 +1,6 @@
 ---
-title: Primary 5 (2024)
-permalink: /for-parents/parents-portal/primary-5-2024/
+title: Primary 5
+permalink: /for-parents/parents-portal/primary-5/
 description: ""
 third_nav_title: Parents Portal
 variant: tiptap
