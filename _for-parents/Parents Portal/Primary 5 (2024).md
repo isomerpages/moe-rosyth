@@ -75,8 +75,7 @@ variant: tiptap
 <p>LEE KHENG TAT EDMOND</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_kheng_tat_edmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kheng_tat_edmond@schools.gov.sg</a>
-</p>
+<p>lee_kheng_tat_edmond@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
