@@ -29,7 +29,7 @@ variant: tiptap
 <p>YH P3&amp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lui May Ling</p>
+<p>Lui May Ling (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_may_ling@schools.gov.sg</p>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>AYH P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Weishan</p>
+<p>Lin Weishan (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lin_weishan@schools.gov.sg</p>
