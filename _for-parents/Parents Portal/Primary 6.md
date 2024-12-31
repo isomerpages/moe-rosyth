@@ -149,7 +149,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HIDAYAH</p>
+<p>Siti Hidayah Bte Mohamad Taha (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_hidayah_mohamad_taha@schools.gov.sg</p>
@@ -160,7 +160,7 @@ variant: tiptap
 <p>P6 CARE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOSHUA WONG YOU YI</p>
+<p>Wong You Yi (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_you_yi@schools.gov.sg</p>
@@ -171,7 +171,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAI LIN</p>
+<p>Kuan Nai Lin (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kuan_nai_lin@schools.gov.sg</p>
@@ -182,7 +182,7 @@ variant: tiptap
 <p>P6 ENTREPRENEURIAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALEX</p>
+<p>Ng ZhiQiang Alex (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_zhiqiang_alex@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhiqiang_alex@schools.gov.sg</a>
@@ -194,7 +194,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JI MIN</p>
+<p>Ji Min (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ji_min@schools.gov.sg</p>
@@ -205,7 +205,7 @@ variant: tiptap
 <p>P6 RESPECT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JULIENNE TAN JING YAN</p>
+<p>Tan Jing Yan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jing_yan@schools.gov.sg</p>
@@ -216,7 +216,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AZIANAH ZAKARIA</p>
+<p>Nur Azianah Bte Zakaria (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>azianah_zakaria@schools.gov.sg</p>
@@ -227,7 +227,7 @@ variant: tiptap
 <p>P6 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SERENE YEO</p>
+<p>Yeo Ai Ho Serene (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_ai_ho_serene@schools.gov.sg</p>
@@ -238,7 +238,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHAN WAI KIN</p>
+<p>Chan Wai Kin (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -250,7 +250,7 @@ variant: tiptap
 <p>P6 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM CHUI LING</p>
+<p>Lim Chui Ling (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_chui_ling@schools.gov.sg</p>
@@ -261,7 +261,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AGNES LIM</p>
+<p>Lim Yin Khuan (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yin_khuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yin_khuan@schools.gov.sg</a>
@@ -273,7 +273,7 @@ variant: tiptap
 <p>P6 TEAMWORK</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUDHEESH</p>
+<p>Sudheesh Balakrishna Pillai (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sudheesh_balakrishna_pillai@schools.gov.sg</p>
@@ -284,7 +284,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHEN EIK FANG</p>
+<p>Chen Eik Fang (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chen_Eik_Fang@schools.gov.sg</p>
