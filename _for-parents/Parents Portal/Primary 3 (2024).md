@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents Portal
 variant: tiptap
 ---
-<h3>Primary 3 (2024)</h3>
+<h3>Primary 3 (2025)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH P3 - Covering</p>
+<p>AYH P3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lin Weishan</p>
