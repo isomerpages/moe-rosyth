@@ -185,8 +185,7 @@ variant: tiptap
 <p>Ng ZhiQiang Alex (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_zhiqiang_alex@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhiqiang_alex@schools.gov.sg</a>
-</p>
+<p>ng_zhiqiang_alex@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
