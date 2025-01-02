@@ -141,7 +141,7 @@ variant: tiptap
 <p>Vajeet (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Varjeet_kaur@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
