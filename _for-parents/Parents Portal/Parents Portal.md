@@ -5,6 +5,43 @@ description: ""
 third_nav_title: Parents Portal
 variant: tiptap
 ---
+<p><strong>P1 2025 Curriculum Talk - Briefing Slides</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025 P1/P1_Mathematics_Sharing_slides__Jan_2025.pdf" rel="noopener nofollow" target="_blank">Mathematics Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P1/PAL_Rosyth___Briefing_for_Parents_2025.pdf" rel="noopener nofollow" target="_blank">PAL Programme - Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P1/P1_Period_PHI_Sharing_Slides_2_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Period PHI - Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P1/P1_English_Sharing_Slides_2_Jan_2025.pdf" rel="noopener nofollow" target="_blank">English - Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P1/P1_CCE_Comm_Package_for_Parents_2_Jan_2025.pdf" rel="noopener nofollow" target="_blank">CCE - Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P1/P1_CL_Sharing_Slides_2_Jan_2025.pdf" rel="noopener nofollow" target="_blank">CL - Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P1/P1_TL_Sharing_Slides_2_Jan_2025.pdf" rel="noopener nofollow" target="_blank">TL - Briefing Slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P1/P1_ML_Sharing_Slides_2_Jan_2025.pdf" rel="noopener nofollow" target="_blank">ML - Briefing Slides</a>
+</p>
+<p></p>
+</li>
+</ul>
 <p><strong>News Flash</strong>
 </p>
 <ul data-tight="true" class="tight">
