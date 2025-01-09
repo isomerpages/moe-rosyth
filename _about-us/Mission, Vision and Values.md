@@ -25,5 +25,3 @@ Passionate Lifelong Learners <br>
 Compassionate Citizens <br>
 Collaborative Leaders <br>
 Innovative Creators
-
-![](/images/ICARE%20line-up.png)
