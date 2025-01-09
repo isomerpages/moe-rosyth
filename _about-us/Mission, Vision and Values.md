@@ -10,7 +10,7 @@ variant: markdown
 ### SCHOOL MISSION
 Nurturing Lives through the Development of Mind, Body and Soul
 
-<img src="/images/ICARE%20Circle%20(transparent).png" style="width:55%">
+<img src="/images/MVV%202025/2025icare.jpg" style="width:55%">
 
 ### SCHOOL VALUES
 **I**ntegrity <br>
@@ -18,5 +18,12 @@ Nurturing Lives through the Development of Mind, Body and Soul
 gr**A**titude <br>
 **R**espect and Resilience <br>
 Innovativ**E** Spirit
+
+### STUDENT OUTCOMES
+
+Passionate Lifelong Learners <br>
+Compassionate Citizens <br>
+Collaborative Leaders <br>
+Innovative Creators
 
 ![](/images/ICARE%20line-up.png)
