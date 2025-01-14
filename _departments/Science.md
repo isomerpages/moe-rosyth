@@ -28,10 +28,10 @@ variant: tiptap
 <p>HOD (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Phua Qian Hua</p>
+<p>Mdm Phua Qian Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>phua_qian_hua@schools.gov.sg</p>
+<p>phua_qian_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
