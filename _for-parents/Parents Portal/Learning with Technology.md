@@ -3,14 +3,14 @@ title: Learning with Technology
 permalink: /for-parents/parents-portal/home-based-learning-guides/
 description: ""
 third_nav_title: Parents Portal
+variant: markdown
 ---
 **Learning with Technology**
-* [SLS Login Guide](https://www.youtube.com/watch?v=5TYrh83EzIw&feature=youtu.be)
+* [SLS Login Guide](https://www.youtube.com/watch?v=5TYrh83EzIw&amp;feature=youtu.be)
 * [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
-* [Google Meet Guide](https://drive.google.com/file/d/15x7EOtHP_Khr6XAmKGeeq16DNJ_bu17F/view) 
-* [Zoom Learning Guide](/files/Zoom%20for%20Students.pdf) 
+
 * [RS Video-Conferencing Code of Conduct and Rules](/files/VC%20Code%20of%20Conduct.pdf)
-* [Rules for Online Class Meeting (P1 & P2)](/files/Rules%20for%20Online%20Class%20Meeting%20(P1%20and%20P2).pdf) 
+* [Rules for Online Class Meeting (P1 &amp; P2)](/files/Rules%20for%20Online%20Class%20Meeting%20(P1%20and%20P2).pdf) 
 * [Home-Based Learning Resource Kit Part 1](/files/Resource%20Kit%20-%20HBL.pdf)
 * [Home-Based Learning Resource Kit Part 2](/files/Resource%20Kit%20-%20HBL%20(Part%202).pdf)
 * [Home-Based Learning Resource Kit Part 3](/files/Resource%20Kit%20-%20HBL%20(Part%203).pdf) 
