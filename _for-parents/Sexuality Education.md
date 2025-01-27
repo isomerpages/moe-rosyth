@@ -31,7 +31,7 @@ variant: markdown
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of Rosyth School’s Sexuality Education Programme for 2024**
+**Overview of Rosyth School’s Sexuality Education Programme for 2025**
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.  You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -51,7 +51,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The opt-out form is downloadable [here](/files/2024%20For%20Parents/RS_Website___SEd_Lessons_Opt_Out_Form_2024.pdf). The completed opt-out form is to be submitted to Head of Department/Character and Citizenship Education (HOD/CCE) by 5 April 2024.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The opt-out form is downloadable [here](/files/Sexuality%20Education/RS_Website___SEd_Lessons_Opt_Out_Form_2025.pdf). The completed opt-out form is to be submitted to Head of Department/Character and Citizenship Education (HOD/CCE) by 4 April 2025.
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can email Ms See Chui Geok, HOD/CCE, at see_chui_geok@schools.gov.sg for discussion or to seek clarification about the school’s sexuality education programme.
 
