@@ -2,13 +2,13 @@
 title: Gifted Education
 permalink: /departments/gifted-education/
 description: ""
+variant: markdown
 ---
 ### Gifted Education Programme (GEP) in Rosyth School
 
 | GEP |  | |
 | -------- | -------- | -------- |
 | GEP HOD (Humanities) | Mrs Helen Tan | sing_helen@schools.gov.sg |
-| GEP HOD (Mathematics & Science) | Mr Michael Kao | kao_horng_yih@schools.gov.sg |
 
 <div style="line-height: 19.6px; width: 408px; float: left;"><div style="margin-top: 8px; margin-bottom: 8px; line-height: 19.6px; width: 680px; border-bottom: 1px dashed rgb(204, 204, 204); height: 1px; clear: both;"></div></div>
 
@@ -31,7 +31,7 @@ Every child is different. He has strengths or talents. He is helped and guided, 
 
 **VALUES-IN-ACTION (VIA)** <br>
 
-Character and Citizenship Education (CCE) in the GEP is the formal instructional curriculum developed for the teaching of desired values and life-skills essential to nurturing pupils, guiding them on their journey towards realising their potential.  The strategies and activities used in teaching CCE aim to help pupils affirm their gifts, equip them with self-awareness and self-management skills to achieve personal and social well-being.
+Character and Citizenship Education (CCE) in the GEP is the formal instructional curriculum developed for the teaching of desired values and life-skills essential to nurturing pupils, guiding them on their journey towards realising their potential.&nbsp; The strategies and activities used in teaching CCE aim to help pupils affirm their gifts, equip them with self-awareness and self-management skills to achieve personal and social well-being.
 
 In Rosyth School, the Values-In-Action programme is undergirded by our beliefs:
 
@@ -42,7 +42,7 @@ I can make a difference through:
 * C herishing people and
 * H elping others
 
-Pupils undertake Values-In-Action (VIA) projects to identify real community needs.  Through these projects, the pupils learn with passion, serve with compassion and lead with vision.
+Pupils undertake Values-In-Action (VIA) projects to identify real community needs.&nbsp; Through these projects, the pupils learn with passion, serve with compassion and lead with vision.
 
 ![](/images/ge1.jpg)
 Building 21st Century Competencies: Being Confident Speakers
