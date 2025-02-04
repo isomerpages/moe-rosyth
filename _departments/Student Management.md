@@ -2,13 +2,14 @@
 title: Student Management
 permalink: /departments/studentmanagement/
 description: ""
+variant: markdown
 ---
 ### Student Management Department
 
 | Student Management | | |
 | -------- | -------- | -------- |
 | HOD (SM) | Mr Justyn Lim | justyn_lim@schools.gov.sg |
-
+| SH (SWB) - Covering | Mr Lim Kuan Chin | lim_kuan_chin@schools.gov.sg |
 
 ### Guiding Principle in Student Management
 
