@@ -9,7 +9,8 @@ sections:
   - hero:
       background: /images/IMG_5338v3.jpg
       title: Rosyth School
-      subtitle: Learn with Passion, Serve with Compassion, Lead with Vision
+      subtitle: A Future-ready Community that Learns with Passion, Serves with
+        Compassion, Leads with Vision and Innovates for Excellence
       key_highlights:
         - title: FREQUENTLY ASKED QUESTIONS
           description: ""

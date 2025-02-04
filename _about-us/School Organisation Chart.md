@@ -31,7 +31,7 @@ variant: markdown
 * LH/Mathematics: Ms Jesslyn Goh
 
 **Science Department**
-* HOD Science: Mdm Parvathy R
+* HOD Science: Mdm Phua Qian Hui
 * LH/Science: Mr Vincent Lee
 * LH/Science: Mdm Eileen Seow
 
@@ -40,20 +40,20 @@ variant: markdown
 * SH/Music: Mr Bernard Soh
 
 **Physical Education Department**
-* HOD/PE&CCA: Mr Ahmad Zohri Bakri
+* HOD/PE&CCA: Mr Kassidy B Kamis
 * SH/PE&CCA: Mr Mohd Roshan
 
 **Gifted Education Department**
 * HOD/GE(Humanities): Mrs Helen Tan
-* HOD/GE(Math&Science): Mr Michael Kao
 
 **Innovation Department**
 * HOD/Innovation: Mdm Evelyn Koh
 
-**ICT Department**
-* HOD/ICT: Mr Chew Ansheng Victor
-* SH/ICT: Miss Leong Mok Kam
-* SH/ICT: Mr Joshua Wong
+**EdTech Department**
+* HOD/EdTech: Mr Chew Ansheng Victor
+* Dy HOD EdTech: Ms Au Zhi Jun
+* SH/EdTech: Miss Leong Mok Kam
+* SH/EdTech: Mr Joshua Wong
 
 **Staff Development**
 * SSD: Mr Raymond Bong
@@ -73,20 +73,22 @@ variant: markdown
 
 **Student Management**
 * HOD/SM: Mr Justyn Lim
+* SH/SWB: Mr Lim Kuan Chin (covering)
 
 **Character & Citizenship Education**
 * HOD/CCE: Mdm See Chui Geok
 * SH/CCE&VIA: Mdm Lim Yiling Eileen
 * SH/Student Development: Mdm Nur Azianah
-* SH/NE & SS: Mr Sudheesh Balakrishna Pillai (covering)
+* SH/NE & SS: Mr Sudheesh Balakrishna Pillai
 
 **Year Heads and Assistant YHs**
 * YH/P1-2: Mrs May Soh
 * YH/P3-4: Mdm Tang May Ling
 * YH/P5-6: Miss Lim Swee Ching
-* AYH/P1: Mdm Chen Jing'er
-* AYH/P2: Miss Laurene Danker 
-* AYH/P3 : Mdm Anna Chen (covering)
-* AYH/P4: Mdm Lin Weishan
-* AYH/P6: Mdm Shoba Jaganathan
+* AYH/P1: Miss Laurene Danker
+* AYH/P2: Mdm Chen Jing'er
+* AYH/P3 : Mdm Lin Weishan
+* AYH/P4: Mdm Anna Chen
+* AYH/P5: Mdm Shoba Jaganathan
+* AYH/P6: Mr Vincent Lee Chee Mun
 * Senior School Counsellor: Mdm Mok Swee Peng Pauline
