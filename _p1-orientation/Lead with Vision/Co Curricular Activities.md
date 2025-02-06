@@ -3,36 +3,94 @@ title: Co Curricular Activities
 permalink: /p1-orientation/lead-with-vision/co-curricular-activities/
 description: ""
 third_nav_title: Lead with Vision
+variant: tiptap
 ---
-When I am in P3, I can take part in CCAs.
-
-CCAs in Rosyth School:
-
-1. Badminton
-2. Tennis
-3. Art Club
-4. Manga Club
-5. Infocomm Club
-6. Debate
-7. Scouts
-8. Robotics
-9. Athletics
-10. Brownies
-11. Football
-12. Choir
-13. Chinese Orchestra
-14. Band
-15. Indian Dance
-16. Malay Dance
-17. Chess Club
-18. Chinese Ambassadors’ Club
-19. Oratorical
-20. Rosyth Environment Club
-
-We even have a Passion Board that allows us to pick and choose the programmes that we are interested in.
-
-<img src="/images/IMG_20201002_134937.jpg" 
-    style="width:80%">
-
-<img src="/images/IMG_20201002_134559.jpg" 
-    style="width:80%">
+<p>When I am in P3, I can take part in CCAs.</p>
+<h3><strong>CCAs in Rosyth School:</strong></h3>
+<h4><strong>Sports CCA</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Badminton</p>
+</li>
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Football</p>
+</li>
+<li>
+<p>Tennis</p>
+</li>
+<li>
+<p>Track &amp; Field</p>
+</li>
+<li>
+<p>Wushu</p>
+</li>
+</ol>
+<h4><strong>Performing Arts</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Band</p>
+</li>
+<li>
+<p>Chinese Dance</p>
+</li>
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Modern Dance</p>
+</li>
+</ol>
+<h4><strong>Clubs and Societies</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Art Club</p>
+</li>
+<li>
+<p>Chess Club</p>
+</li>
+<li>
+<p>Debate Club</p>
+</li>
+<li>
+<p>Environment Club</p>
+</li>
+<li>
+<p>Infocomm Club</p>
+</li>
+<li>
+<p>Manga Club</p>
+</li>
+<li>
+<p>Media Club</p>
+</li>
+<li>
+<p>Oratorical Club</p>
+</li>
+<li>
+<p>Robotics Club</p>
+</li>
+</ol>
+<h4><strong>Uniformed Groups</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Girl Guide (Brownies)</p>
+</li>
+<li>
+<p>Scouts</p>
+</li>
+</ol>
+<p>We even have a Passion Board that allows us to pick and choose the programmes
+that we are interested in.</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/IMG_20201002_134937.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/IMG_20201002_134559.jpg">
+</div>
+<p></p>
