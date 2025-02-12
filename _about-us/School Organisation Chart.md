@@ -74,6 +74,7 @@ variant: markdown
 
 **Student Management**
 * HOD/SM: Mr Justyn Lim
+* Dy HOD/SM: Ms Jesslyn Goh
 * SH/SWB: Mr Lim Kuan Chin (covering)
 
 **Character & Citizenship Education**
