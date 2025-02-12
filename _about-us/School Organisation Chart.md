@@ -11,7 +11,8 @@ variant: markdown
 * Vice-Principal (Admin): Mr Tan Boon Seng
 
 **School Admin Team**
-* Admin Manager: Mdm Lee Hwee Ching
+* Admin Manager 1: Mdm Lee Hwee Ching
+* Admin Manager 2: Mdm Lorrine Lim
 * Operations Manager: Mr Quek Kim Hoe
 * Operations Manager: Mr Kng Ter Sern
 

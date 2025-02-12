@@ -7,6 +7,7 @@ variant: markdown
 **School Advisory Committee**
 * Chairman:  Mr Alfred Chua Cheng Huat
 * Hon. Secretary: Mr Suraj Nair
+* Vice-Chairman: Dr Kevin Lee Boon Leng
 * Member: Dr Kevin Lee Boon Leng
 * Member: Mr Sathinathan S/O M R Karuppiah
 * Member: Mr Tan Wee Pin
