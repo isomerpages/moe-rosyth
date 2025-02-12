@@ -86,87 +86,111 @@ our staff will get back to you.</p>
 <p><strong><em>THINK SAFE, PLAY SAFE, STAY SAFE</em></strong>
 </p>
 <p><em>1. TRAFFIC ARRANGEMENTS</em> 
-<br>a) Traffic arrangement for dropping off and picking up of students. i)
-Below is a map (Diagram 1) of Rosyth School campus to guide your daily
-commute to school.</p>
+</p>
+<p>Please ensure all caregivers transporting your child to/from school are
+aware of these procedures.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/traffice_diagram.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Traffic/Diagram_1.png">
 </div>
-<p>ii) Gates 1 and 7 are accessible to pedestrians only. We strongly urge
-parents/ guardians and their children to use the designated pedestrian
-crossings (marked with the letter A in Diagram 1 above) when walking to
-school. For students who cycle to school, bicycle racks are available near
-Gate 1. iii) Vehicles entering the school via Gate 2 during arrival and
-dismissal can opt to take one of 2 routes depending on which drop off point
-you are driving to. Students arriving by car must alight only at Drop-Off
-Points 1 or 2 which are located outside the Indoor Sports Hall.</p>
-<p>iv) For pick-up during dismissal, parents of P1 and P2 students, please
-follow Route 1 as your children will be waiting for you at pick-up point
-B1. Parents of P3 to P6 students, please follow Route 2 as your children
-will be waiting for you at pick-up point B2. Families with 2 or more children
-in the school will follow the arrangement of the youngest child. For dismissal,
-please remind your child to be at the pick-up point early to facilitate
-smooth traffic flow. No waiting is allowed at the pick-up points. Upon
-arrival, please follow the instructions from our security personnel. While
-driving inside the school compound, please be alert and adhere to the speed
-limit of 15 km/h.</p>
-<p>v) To ensure smooth traffic flow, we discourage parents from getting off
-their cars to help their children with their bags, especially during arrival
-and dismissal times. We seek parents’ support to prepare their children
-to be ready to get off or into the car independently when the car stops
-at the drop-off/ pick-up points.</p>
-<p>vi) We advise all parents not to proceed beyond Gate 1 or Gate 7 if travelling
-on foot when sending your child to school. All students should report directly
-to the assembly venues punctually by 7.30a.m. for daily morning assembly.</p>
-<p>vii) If you are picking up your child on foot, you will be allowed to
-enter the school and wait at the parents’ waiting area near Gate 1 or you
-can wait at the void deck outside Gate 7 after 1.20 p.m. Parents picking
-your child up on foot via Gate 1 or Gate 7 should arrive to meet your child
-only at the staggered dismissal timings provided in the table below and
-not too early before. This is to avoid congestion at both areas. If you
-need to wait for your older child after picking your younger child, please
-do so without blocking the walkways.</p>
+<p>Pedestrian Access:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gates 1 and 7 are for pedestrians only.</p>
+</li>
+<li>
+<p>Use designated pedestrian crossings (marked with the in Diagram above).</p>
+</li>
+<li>
+<p>Bicycle racks are available near Gate 1.</p>
+</li>
+</ul>
+<p>Vehicle Access (Gate 2):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>During gate opening hours, parents/guardians have been issued with vehicle
+entry labels to facilitate easy identification by school security staff
+when driving into school to drop-off and/or pick-up your child. Please
+ensure that this label is prominently displayed during your arrival into
+the school.</p>
+</li>
+<li>
+<p>Arrival: Drop off at Points 1 or 2 outside the Indoor Sports Hall (ISH).</p>
+</li>
+<li>
+<p>Dismissal:
+<br>P1 and P2 students: Follow Route 1 to pick-up point 1.
+<br>P3 to P6 students: Follow Route 2 to pick-up point 2.</p>
+</li>
+</ul>
+<p>General Guidelines:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Do not get out of your car to assist your child during arrival and dismissal.</p>
+</li>
+<li>
+<p>Prepare your child to exit/enter the car independently.</p>
+</li>
+<li>
+<p>No waiting is allowed at the pick-up points.</p>
+</li>
+<li>
+<p>Adhere to the 15 km/h speed limit within the school compound.</p>
+</li>
+<li>
+<p>Follow instructions from security personnel.</p>
+</li>
+</ul>
+<p>Pick-up and Drop-off Reminders:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Do not proceed into the school beyond Gate 1 or Gate 7.</p>
+</li>
+<li>
+<p>Do not drop off or pick up children along Serangoon North Avenue 4.</p>
+</li>
+<li>
+<p>Do not wait in vehicles outside school gates or bus bays.</p>
+</li>
+<li>
+<p>Peak period traffic is between 6.55a.m. to 7.25a.m. and 1.30p.m. to 2.00p.m.
+from Mondays to Fridays. This may be longer during rainy weather.</p>
+</li>
+<li>
+<p>Do allow enough time to reach the school before school starts at 7.30a.m.</p>
+</li>
+<li>
+<p>Arrive after designated gate opening/pick-up times to avoid congestion:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dismissal_timings.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Traffic/Diagram_2.png">
 </div>
-<p>b) If you are driving to school from Ang Mo Kio Ave 3 (see Diagram 2 below)
-and encounter problems keeping to the right lane at Serangoon North Ave
-3, you should continue driving down the left lane and make a U-turn at
-the next U-turn point. This will bring you back to the junction of Serangoon
-North Ave 3 and Serangoon North Ave 4.** Please be considerate and refrain
-from cutting queue and/or making unauthorised U-turns at any part of the
-roads leading to the school.**</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/diagram_2.jpg">
-</div>
-<p>c) Dropping Off and Picking Up of Students Outside School. i. If you are
-driving your child to school and wish to drop him/her off at Gates 1 or
-7, please refrain from dropping your child off along Serangoon North Ave
-4 as this will be dangerous for your child and add to the peak period traffic
-congestion. ii. For your child’s safety as well as adherence to traffic
-regulations as responsible motorists, please do not wait outside the school
-gates or bus bays along Serangoon North Ave 4 to pick up your child.</p>
-<p>d) School Gates Opening Hours:</p>
+</li>
+</ul>
+<p></p>
+<p>School Gates Opening Hours:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/gate_opening_hours.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/gate_opening_hours_2.jpg">
 </div>
-<p>e) Vehicle Access. Parents/guardians will be issued with vehicle entry
-labels to facilitate easy identification by school security staff when
-driving into school to drop-off and/or pick-up your child. Access to the
-school compound outside of the stipulated timings will be strictly by prior
-appointment with school staff and/or for official business. Such visits
-will require registration at the guard post. To facilitate the issuance
-of vehicle entry labels, parents/guardians will need to complete an online
-request form via the PG. Families with 2 or more children in the school
-will submit the request under the eldest child, indicating details of the
-other children in the form. Each family will receive a physical vehicle
-entry label. Please ensure that this label is prominently displayed during
-your arrival into the school.</p>
-<p>f) Entering School Premises. i) Visitors and parents entering the school
-premises are permitted to access only the following parts of the school:</p>
+<p></p>
+<p>Vehicle Access:</p>
+<p>Parents/guardians will be issued with vehicle entry labels to facilitate
+easy identification by school security staff when driving into school to
+drop-off and/or pick-up your child. Access to the school compound outside
+of the stipulated timings will be strictly by prior appointment with school
+staff and/or for official business. Such visits will require registration
+at the guard post. To facilitate the issuance of vehicle entry labels,
+parents/guardians will need to complete an online request form via the
+PG. Families with 2 or more children in the school will submit the request
+under the eldest child, indicating details of the other children in the
+form. Each family will receive a physical vehicle entry label. Please ensure
+that this label is prominently displayed during your arrival into the school.</p>
+<p>Entering School Premises:</p>
+<p>i) Visitors and parents entering the school premises are permitted to
+access only the following parts of the school:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/places_in_sch_for_parents.jpg">
 </div>
@@ -174,40 +198,33 @@ premises are permitted to access only the following parts of the school:</p>
 post (Gates 1 and 2) before accessing school grounds. As registered visitors
 will be provided with a security clearance sticker, the parent access passes
 will no longer be issued/valid from 2024.</p>
-<ol start="2">
-<li>
-<p>Use of HDB Car Parks. Should you use the HDB car parks near Gates 1 and
-7, please help us to be good neighbours by not causing any inconvenience
-or obstruction to the residents living there and by not honking vehicle
-horns impatiently. Do not park in the no parking zones or the red lots
-meant for season parking holders. Please slow down as you enter the car
-park and give way to pedestrians.</p>
-</li>
-<li>
-<p>Peak Period Traffic. The peak period traffic is between 6.55a.m. to 7.25a.m.
-and 1.30p.m. to 2.00p.m. from Mondays to Fridays. This may be longer during
-rainy weather. Parents are requested to drive safely and follow the instructions
-provided by the school personnel on duty. Do allow enough time to reach
-the school before school starts at 7.30a.m.</p>
-</li>
-<li>
-<p>Student Care Centre (SCC) Pick-up. For parents who are fetching their
-child before 6.00p.m. do contact the SCC staff in advance to arrange for
-pick-up at point B2 if you are driving or at the parents’ waiting area
-via Gate 1 between 4:15pm to 6:00pm. You may also arrange to pick-up your
-child from Gate 7 during this period. All parents are to refrain from leaving
-your vehicle and/or walk to the SCC to meet your child. After 6.00pm, parents
-will have to pick-up your child only from Gate 7.</p>
-</li>
-<li>
-<p>Fetching Students Early. Should you wish to pick up your child prior to
-school dismissal (e.g., medical appointments, external examinations), kindly
-inform your child’s form teacher in advance so that the staff can make
-the necessary arrangements. Please also arrange with your child on the
-timing to meet you at the GO. The GO staff will then assist with the early
-dismissal for your child upon your arrival.</p>
-</li>
-</ol>
+<p>Use of HDB Car Parks:</p>
+<p>Should you use the HDB car parks near Gates 1 and 7, please help us to
+be good neighbours by not causing any inconvenience or obstruction to the
+residents living there and by not honking vehicle horns impatiently. Do
+not park in the no parking zones or the red lots meant for season parking
+holders. Please slow down as you enter the car park and give way to pedestrians.</p>
+<p>Peak Period Traffic:</p>
+<p>The peak period traffic is between 6.55a.m. to 7.25a.m. and 1.30p.m. to
+2.00p.m. from Mondays to Fridays. This may be longer during rainy weather.
+Parents are requested to drive safely and follow the instructions provided
+by the school personnel on duty. Do allow enough time to reach the school
+before school starts at 7.30a.m.</p>
+<p>Student Care Centre (SCC) Pick-up:</p>
+<p>For parents who are fetching their child before 6.00p.m. do contact the
+SCC staff in advance to arrange for pick-up at point B2 if you are driving
+or at the parents’ waiting area via Gate 1 between 4:15pm to 6:00pm. You
+may also arrange to pick-up your child from Gate 7 during this period.
+All parents are to refrain from leaving your vehicle and/or walk to the
+SCC to meet your child. After 6.00pm, parents will have to pick-up your
+child only from Gate 7.</p>
+<p>Fetching Students Early:</p>
+<p>Should you wish to pick up your child prior to school dismissal (e.g.,
+medical appointments, external examinations), kindly inform your child’s
+form teacher in advance so that the staff can make the necessary arrangements.
+Please also arrange with your child on the timing to meet you at the GO.
+The GO staff will then assist with the early dismissal for your child upon
+your arrival.</p>
 <p><strong><em>1.6 HOAX CALLS</em></strong> 
 <br>The Singapore Police Force has over the past years issued warnings about
 “Phone Kidnapping Scam” calls. If you should receive such a call about
