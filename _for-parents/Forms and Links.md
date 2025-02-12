@@ -2,14 +2,8 @@
 title: Forms and Links
 permalink: /for-parents/forms/
 description: ""
+variant: markdown
 ---
-**For Teachers**
-* [SLS: Student Learning Space](https://learning.moe.edu.sg)
-* [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
-* [School Cockpit](http://schoolcockpit.moe.gov.sg/)
-
-<p> </p>
-
 **For Parents and Students**
 * [Ministry of Education (MOE)](https://www.moe.gov.sg/)
 * [Rosyth School Parents Support Group](http://rosythpsg.com/)

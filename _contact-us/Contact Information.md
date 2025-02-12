@@ -28,9 +28,9 @@ variant: markdown
 
 | Vice-Principals |  |  |
 |---|---|---|
-| Mdm Tan Lay Wah (EO) | Email | TAN_Lay_Wah@schools.gov.sg  |
-| Ms Kwan Ruiying Karen (EO) | Email | Kwan_Ruiying_Karen@schools.gov.sg  |
-| Mr Tan Boon Seng (Admin) | Email | Tan_Boon_Seng@schools.gov.sg  |
+| Mdm Tan Lay Wah (Academic) | Email | TAN_Lay_Wah@schools.gov.sg  |
+| Ms Kwan Ruiying Karen (Academic) | Email | Kwan_Ruiying_Karen@schools.gov.sg  |
+| Mr Tan Boon Seng (Administrative) | Email | Tan_Boon_Seng@schools.gov.sg  |
 |   |  |  |
 
 
