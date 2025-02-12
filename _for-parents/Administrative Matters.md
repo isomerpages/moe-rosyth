@@ -85,7 +85,7 @@ our staff will get back to you.</p>
 <h5>4. SAFETY OF OUR CHILDREN</h5>
 <p><strong><em>THINK SAFE, PLAY SAFE, STAY SAFE</em></strong>
 </p>
-<p><em>1. TRAFFIC ARRANGEMENTS</em> 
+<p><em>TRAFFIC ARRANGEMENTS</em>
 </p>
 <p>Please ensure all caregivers transporting your child to/from school are
 aware of these procedures.</p>
