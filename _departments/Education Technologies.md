@@ -1,6 +1,6 @@
 ---
-title: ICT & MRL
-permalink: /departments/ict-department/
+title: Education Technologies
+permalink: /departments/edtech-department/
 description: ""
 variant: markdown
 ---
