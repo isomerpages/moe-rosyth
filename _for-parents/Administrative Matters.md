@@ -83,7 +83,9 @@ our staff will get back to you.</p>
 <p><strong>Parents may refer to the school bookshop if your child has misplaced the hardcopy booklist.</strong>
 </p>
 <h5>4. SAFETY OF OUR CHILDREN</h5>
-<p><strong><em>THINK SAFE, PLAY SAFE, STAY SAFE</em></strong>  <em>1. TRAFFIC ARRANGEMENTS</em> 
+<p><strong><em>THINK SAFE, PLAY SAFE, STAY SAFE</em></strong> 
+</p>
+<p><em>1. TRAFFIC ARRANGEMENTS</em> 
 <br>a) Traffic arrangement for dropping off and picking up of students. i)
 Below is a map (Diagram 1) of Rosyth School campus to guide your daily
 commute to school.</p>
