@@ -8,7 +8,6 @@ variant: markdown
 * Chairman:  Mr Alfred Chua Cheng Huat
 * Hon. Secretary: Mr Suraj Nair
 * Vice-Chairman: Dr Kevin Lee Boon Leng
-* Member: Dr Kevin Lee Boon Leng
 * Member: Mr Sathinathan S/O M R Karuppiah
 * Member: Mr Tan Wee Pin
 * Member: Mr Yap Voon Kian
