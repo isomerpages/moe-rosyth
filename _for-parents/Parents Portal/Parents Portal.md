@@ -5,6 +5,19 @@ description: ""
 third_nav_title: Parents Portal
 variant: tiptap
 ---
+<p><strong>P6 HBL 28/3/2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025 P6 HBL 28 Mar 2025/28_Mar_P6_GE_Daily_Lesson_Guide.pdf" rel="noopener nofollow" target="_blank">P6 GE HBL Daily Lesson Guide - 28/3/25</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 P6 HBL 28 Mar 2025/28_Mar_P6_MS_Daily_Lesson_Guide.pdf" rel="noopener nofollow" target="_blank">P6 MS HBL Daily Lesson Guide - 28/3/25</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>P1 2025 Curriculum Talk - Briefing Slides</strong>
 </p>
 <ul data-tight="true" class="tight">
