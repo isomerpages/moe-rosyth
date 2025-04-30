@@ -169,13 +169,10 @@ from Mondays to Fridays. This may be longer during rainy weather.</p>
 </ul>
 <p></p>
 <p>School Gates Opening Hours:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gate_opening_hours.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gate_opening_hours_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_Opening_Hours.jpg">
+</div>
 <p>Vehicle Access:</p>
 <p>Parents/guardians will be issued with vehicle entry labels to facilitate
 easy identification by school security staff when driving into school to
