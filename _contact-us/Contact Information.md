@@ -30,7 +30,7 @@ variant: markdown
 |---|---|---|
 | Mdm Tan Lay Wah (Academic) | Email | Tan_Lay_Wah@schools.gov.sg  |
 | Ms Kwan Ruiying Karen (Academic) | Email | Kwan_Ruiying_Karen@schools.gov.sg  |
-| Mr Tan Boon Seng (Administrative) | Email | Tan_Boon_Seng@schools.gov.sg  |
+| Mr Tan Boon Seng (Administration) | Email | Tan_Boon_Seng@schools.gov.sg  |
 |   |  |  |
 
 
