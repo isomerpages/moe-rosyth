@@ -8,7 +8,7 @@ variant: markdown
 * Principal: Mr Suraj Nair Venugopal
 * Vice-Principal (Academic): Mdm Tan Lay Wah
 * Vice-Principal (Academic): Ms Kwan Ruiying Karen
-* Vice-Principal (Administrative): Mr Tan Boon Seng
+* Vice-Principal (Administration): Mr Tan Boon Seng
 
 **School Admin Team**
 * Admin Manager 1: Mdm Lee Hwee Ching
