@@ -58,25 +58,43 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>VISION <br></h3>
-<p><strong><em>A School of Active and Physically Competent Individuals</em></strong>
+<h3>VISION</h3>
+<p><strong><em>An Active and Physically Competent Community that Learns with Passion, Serves with Compassion and Engages in Healthy Practices.</em></strong>
 </p>
-<h5>INTRODUCTION <br></h5>
+<h3>MISSION</h3>
+<p>Every Rosythian to be Equipped with Knowledge and Skills in PE and CCA,
+Exhibit Values and Develop Character for a Dynamic World.</p>
+<h3>INTRODUCTION</h3>
 <p>The purpose of physical education is to enable students to demonstrate
 individually and with others, the physical skills, practices and values
 to enjoy a lifetime of active, healthy living.</p>
 <p>Physical education programme thus is an integral component of Rosyth School
-curriculum.&nbsp; It provides our students with learning opportunities
-that make use of movement to develop the whole person.</p>
-<p>At the Rosyth School, students learn the fundamental movement skills incorporating
-the movement concepts.&nbsp; They develop efficiency, effectiveness and
-versatility in their performance as they practice and transfer their skills
-across the seven learning areas of Athletics, Dance, Games and Sports,
-Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming
-to become competent movers.</p>
+curriculum. It provides our students with learning opportunities that make
+use of movement to develop the whole person.</p>
+<p>In Rosyth School, students learn the fundamental movement skills incorporating
+the movement concepts. They develop efficiency, effectiveness and versatility
+in their performance as they practice and transfer their skills across
+various learning areas of Athletics, Dance, Games and Sports, Gymnastics,
+Outdoor Education, Physical Health and Fitness, and Swimming to become
+competent movers.</p>
 <p>With the broadbased development of physical competencies, everyone is
 able to continue participating at a recreational level.</p>
-<h5>GOALS OF PHYSICAL EDUCATION <br></h5>
+<h3>HOLISTIC DEVELOPMENT OF STUDENTS</h3>
+<h5>Physical and Cognitive</h5>
+<p>Nurture the Joy of Learning to motivate the students intrinsically and
+drive them forward to explore and discover their interests and passions
+(Innovative Spirit).</p>
+<p>Provide opportunities for all students to develop an Entrepreneurial Dare
+and capacity to persevere so that they will apply what they learn, act
+on their passions, and pursue them (Resilience)</p>
+<h5>Social and Emotional</h5>
+<p>Inculcate a sense of responsibility, care for others, tolerance and understanding
+through authentic teambuilding and leadership platforms (Care and Empathy,
+Gratitude and Respect)</p>
+<h5>Moral and Character Education</h5>
+<p>Explicit teaching of values followed by facilitation and deep reflection
+(Integrity)</p>
+<h5>Goals of Physical Education</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,9 +164,13 @@ life.</p>
 </tr>
 </tbody>
 </table>
-<h5>OUR SIGNATURE PROGRAMMES <br></h5>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/PE&amp;CCA/PE_1.png">
+</div>
+<h5>OUR SIGNATURE PROGRAMMES</h5>
+<p></p>
 <p><strong>PROGRAMME FOR ACTIVE LEARNING (PAL)</strong>
-<br>
 </p>
 <p>Programme for Active Learning (PAL) is aimed at providing a greater emphasis
 on non-academic programmes for all Primary 1 and 2 students. PAL is part
@@ -161,22 +183,21 @@ cooperation skills in students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1.jpg">
 </div>
+<p></p>
 <p><strong>LOWER PRIMARY SPORTS DAY</strong>
-<br>
 </p>
 <p>The Lower Primary Sports Day (P1 to P2) is held every year as part of
-the National Day celebrations. The event is aimed at providing the students
+the Children’s Day celebrations. The event is aimed at providing the students
 with the opportunity to apply the motor skills learnt in the PE syllabus
-in the form of relay games to cultivate the various ICARE values. It also
-develops the camaraderie in students as they compete and cheer on their
-classmates. All students will participate in at least two relay events
-competing with other classes in the same level. These relay events would
-involve skills such as throwing and catching a ball, dribbling a ball with/without
-an equipment implement, and performing general locomotor movements such
-as running and balancing. Everyone is a winner during LPS Day as we celebrate
-our nation’s birthday and goes home with a medal.</p>
-<p><strong>SWIMSAFER</strong> 
-<br>
+in the form of games to cultivate the various ICARE values. It also develops
+the camaraderie in students as they compete and cheer on their classmates.
+All students will participate in at least two events competing with other
+classes in the same level. These relay events would involve skills such
+as throwing and catching a ball, dribbling a ball with/without an equipment
+implement, and performing general locomotor movements such as running and
+balancing. Everyone is a winner and goes home with a medal.</p>
+<p></p>
+<p><strong>SWIMSAFER 2.0</strong>
 </p>
 <p>The SwimSafer™ 2.0 is a National Water Safety Programme in Singapore designed
 to teach participants how to stay safe around aquatic environments. The
@@ -185,24 +206,24 @@ in a fun manner.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE2.jpg">
 </div>
-<p><strong>PRIMARY 5 CAMP</strong> 
-<br>
+<p></p>
+<p><strong>PRIMARY 5 OUTDOOR ADVENTURE LEARNING (OAL) CAMP</strong>
 </p>
-<p>The Primary 5 Cohort Camp is a key Student Development Experiences (SDE),
+<p>The Primary 5 OAL Camp is a key Student Development Experiences (SDE),
 under the CCE curriculum as well as serves as an extension of the Outdoor
 Education in the PE curriculum. The camp provides opportunities for students
 to apply their learning in an authentic context through a variety of outdoor
 living experiences and adventurous activities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/PE&amp;CCA/PE_2.png">
 </div>
-<p><strong>IDARE Series</strong> 
-<br>
+<p></p>
+<p><strong>IDARE SERIES</strong>
 </p>
-<p>The IDARE Series (P3 to P6) are school-based Student Development Experiences
+<p>The I-Dare Series (P3 to P6) are school-based Student Development Experiences
 (SDE) that provide students with experiences that cannot be replicated
-in the classroom. Students go through activities such as rope climbing,
-Skyline Luge, Dragonboating, Laser and Archery Tag, 12km North Eastern
+in the classroom. Students go through activities such as Orienteering,
+Skyline Luge, Dragonboating, Sport Climbing, and the 12km North Eastern
 Riverine Loop Hike. These activities are aimed at providing authentic contexts
 in which students apply what they have learnt from Character and Citizenship
 Education (CCE) and Outdoor Education in Physical Education (OE in PE)
@@ -211,10 +232,10 @@ their peers to overcome challenges or navigating in a new environment during
 a journey, allow them to extend and deepen their learning from the classroom
 into real-life.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/PE&amp;CCA/PE_3.png">
 </div>
-<h3>Co-Curricular Activities (CCA)</h3>
-<h5>INTRODUCTION <br></h5>
+<p></p>
+<h3>CO-CURRICULAR ACTIVITIES (CCA)</h3>
 <p>The CCA Programme provides students with a platform to discover their
 interests and talents. Well-organised and implemented, they can fuel in
 the individual a life-long love for a particular activity, be it a sport
@@ -238,7 +259,8 @@ and emotional competencies and the emerging 21st Century Competencies.</p>
 <p>All CCA emphasise social interaction by providing a common space for friendships
 and social integration amongst students of diverse backgrounds. Through
 CCA, students develop a sense of identity and belonging to the school.</p>
-<h5>LEARNING OUTCOMES <br></h5>
+<p></p>
+<h5>LEARNING OUTCOMES</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Passion</p>
@@ -260,6 +282,7 @@ competencies as articulated in the 21st Century Competencies Framework</p>
 <p>Spirit of service to the community</p>
 </li>
 </ul>
-<h5>CCAs in Rosyth School <br></h5>
+<p></p>
+<h5>CCAs in Rosyth School</h5>
 <p><a href="/files/2025%20PE%20CCA/CCA_Option_Schedule_for_P4_2025_Annex_A_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">List of CCAs for 2025</a>
 </p>
