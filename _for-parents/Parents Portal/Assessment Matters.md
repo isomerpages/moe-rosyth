@@ -308,7 +308,7 @@ except if the TCM clinic is under the purview of a hospital</p>
 <p>A medical certificate or any other relevant documentation (e.g., death
 certificate) must be given to the form teacher when the student returns
 to school to support his/her absence.</p>
-<p>All other reasons will be considered <strong>on a case-by-case basis subject to the school’s approval. </strong>
+<p>All other reasons will be considered <strong>on a case-by-case basis subject to the school’s approval.</strong>
 </p>
 <p>Students who are absent for an assessment <strong>with an invalid reason will get a zero mark for that assessment</strong> and
 this assessment mark will be considered in the computation of the subject
@@ -325,7 +325,7 @@ who are absent for WA/EYE on a case-by-case basis. This guideline is only
 applicable for GEP assessment subjects (i.e., English Language, Mathematics
 and Science).</p>
 <p></p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMPUTATION OF SUBJECT TOTAL FOR STUDENTS WHO ARE ABSENT </strong>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMPUTATION OF SUBJECT TOTAL FOR STUDENTS WHO ARE ABSENT</strong>
 </p>
 <p>Computation of EYE Subject Total for a Student who is Absent for a Language
 Component or Mathematics Paper</p>
@@ -335,16 +335,23 @@ the marks for that assessment will not be included in the overall subject
 total for the year if the weighting of the component or paper missed is <strong>20% and more</strong> of
 the total weighting. This would mean that a VR (Valid Reason) will be reflected
 in the Report Book, where relevant.</p>
-<p><em>Example 1: Primary 5 English Language EYE </em>
+<p><em>Example 1: Primary 5 English Language EYE</em>
 </p>
 <p>A student is absent with valid reason for Paper 1 which is less than 20%
 of the total weighting</p>
-<p><em>Example 2: Primary 5 Mathematics EYE </em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Assessment/Assessment_1.png">
+</div>
+<p><em>Example 2: Primary 5 Mathematics EYE</em>
 </p>
 <p>A student is absent with valid reason for Paper 1 which is 20% and more
 of the total weighting</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Assessment/Assessment_2.png">
+</div>
 <p></p>
-<p><strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; QUALIFYING FOR SCHOOL-BASED ACADEMIC AWARDS </strong>
+<p><strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; QUALIFYING FOR SCHOOL-BASED ACADEMIC AWARDS</strong>
 </p>
 <p>To qualify for school-based academic awards the students<strong> must have assessment marks computed for ALL the assessments in that year (i.e., WAs/Prelim/EYE) for the academic subjects (i.e., English, Mathematics, Mother Tongue Languages(including NTIL) and Science)</strong>.
 That is to say that should a child miss any of the assessments even with
@@ -362,7 +369,7 @@ who are absent.</p>
 are based on a separate criteria and are not dependent on qualifying for
 the school-based awards.</p>
 <p></p>
-<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROMOTION AND SUBJECT COMBINATION </strong>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROMOTION AND SUBJECT COMBINATION</strong>
 </p>
 <p>Students are promoted to the following year’s classes based on the following
 criteria:</p>
