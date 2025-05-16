@@ -100,8 +100,7 @@ through deeper appreciation of culture, traditions, literature and history.</p>
 </li>
 </ul>
 <h3>KEY PROGRAMMES</h3>
-<p><strong>Reading Programmes (P1 - P6)</strong>
-</p>
+<h5>1. Reading Programmes (P1 - P6)</h5>
 <p>Objectives of the programme:</p>
 <ul data-tight="true" class="tight">
 <li>
