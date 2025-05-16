@@ -118,6 +118,7 @@ struggles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math1.jpg">
 </div>
+<p></p>
 <p>Learning Centres (P1 and P2):
 <br>Learning Centre is a method of instruction in which small groups of students
 move through many learning centers, or stations, allowing teachers to differentiate
@@ -126,8 +127,9 @@ This involves group work whereby our students have the opportunities to
 apply their learning and demonstrate their thinking skills aloud to their
 peers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Math/Math_1.png">
 </div>
+<p></p>
 <p>Formative Assessment:
 <br>The Mathematics department makes use of Formative Assessment (FA) to discover
 what our students know while they’re still in the process of learning it.</p>
@@ -171,7 +173,15 @@ in the 21st century. For example, the Primary 4 students have to take on
 the role of an Urban Planner, plan its land usage for a particular plot
 of land, and come up with all the possible dimensions of the rectangular
 plot of land and calculate the cost of fencing, based on the type of fencing!</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Math/Math_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Math/Math_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Math/Math_4.png">
+</div>
 <p>Gamification:
 <br>Motivation is one of the core benefits of game-based learning. It tends
 to be increased, as games are naturally thrilling and successful in keeping
