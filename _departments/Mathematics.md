@@ -64,7 +64,7 @@ variant: tiptap
 <h3>MISSION</h3>
 <p><strong><em>Developing lifelong learning with a passion for Mathematics.</em></strong>
 </p>
-<h5>DESIRED OUTCOMES</h5>
+<h3>DESIRED OUTCOMES</h3>
 <p>In Rosyth School, we aim to nurture Rosythians who are able to think logically,
 abstractly, critically, creatively and innovatively.</p>
 <p>Through Rosyth Signature Programmes and Rosyth Learning Experiences, we
@@ -83,15 +83,11 @@ and platforms to extend and apply their learning of Mathematics.</p>
 <br>- Learning Centres
 <br>- Formative Assessment
 <br>- Open-ended Tasks
-<br>- Gamification
-<br>
-</p>
-</li>
-<li>
-<p>Student Leaders in Mathematics</p>
+<br>- Gamification</p>
 </li>
 </ul>
-<h5>SIGNATURE PROGRAMMES</h5>
+<p></p>
+<h3>SIGNATURE PROGRAMMES</h3>
 <p><strong>STAR approach to problem-solving (P1 – P6)</strong>
 </p>
 <p>In Rosyth School, we have a structured approach for teaching heuristics
@@ -117,7 +113,7 @@ approach.</p>
 <br>All students have the same learning goal. In Rosyth School, our teachers
 have developed a series of DI lessons to meet the diverse learning needs
 of our students in order to maximise their progress in learning; these
-lessons vary based on students' interests, preferences, strengths, and
+lessons vary based on students’ interests, preferences, strengths, and
 struggles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math1.jpg">
@@ -125,7 +121,7 @@ struggles.</p>
 <p>Learning Centres (P1 and P2):
 <br>Learning Centre is a method of instruction in which small groups of students
 move through many learning centers, or stations, allowing teachers to differentiate
-instruction by incorporating students' needs, interests, and learning styles.
+instruction by incorporating students’ needs, interests, and learning styles.
 This involves group work whereby our students have the opportunities to
 apply their learning and demonstrate their thinking skills aloud to their
 peers.</p>
@@ -147,72 +143,44 @@ allows teachers to assess students on their knowledge of the topics and
 their ability to perform procedural skills in mathematics. The feedback
 gained would be used by teachers to determine if the class is ready to
 move on to more challenging tasks.</p>
-<p>One of the main strategies used in FA is “<strong>Find the errors and fix them</strong>”.</p>
-<p>Our students are provided with solutions, both right and wrong to evaluate.&nbsp;
+<p>One of the main strategies used in FA is “Find the errors and fix them”.</p>
+<p>Our students are provided with solutions, both right and wrong to evaluate.
 They would comment on the mistakes made, the organization of the solutions
 and misconception. This allows our students to be more reflective learners
 and understand the concepts taught better.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math4.png">
 </div>
-<p>“<strong>If you learned it, help someone who hasn’t</strong>” is another
-strategy that teachers use to guide their students to be self-directed
-learners.</p>
+<p>“If you learned it, help someone who hasn’t” is another strategy that
+teachers use to guide their students to be self-directed learners.</p>
 <p>Students are encouraged to share their learning with their friends and
-point out key words/&nbsp; phrases which help them to identify the concepts
-and methods to use in problem solving. Through teaching and learning from
-their peers, our students are able to understand the concepts and strategies
+point out key words/ phrases which help them to identify the concepts and
+methods to use in problem solving. Through teaching and learning from their
+peers, our students are able to understand the concepts and strategies
 better.</p>
+<p></p>
 <p>Open-ended Tasks:
 <br>Learning Mathematics with open-ended tasks is an important experience
 that our students undergo in Rosyth School. Such tasks are open, i.e. there
-is no one fixed answer (many possible answers).&nbsp; They can be solved
-in different ways and on different levels (accessible to mixed abilities).&nbsp;
-These open-ended tasks empower our Rosythians to make their own mathematical
-decisions and make room for their own mathematical thinking. These enable
-them to further develop reasoning and communication skills, which is an
-important competency in the 21st century. For example, the Primary 4 students
-have to take on the role of an Urban Planner, plan its land usage for a
-particular plot of land, and come up with all the possible dimensions of
-the rectangular plot of land and calculate the cost of fencing, based on
-the type of fencing!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math5.jpg">
-</div>
+is no one fixed answer (many possible answers). They can be solved in different
+ways and on different levels (accessible to mixed abilities). These open-ended
+tasks empower our Rosythians to make their own mathematical decisions and
+make room for their own mathematical thinking. These enable them to further
+develop reasoning and communication skills, which is an important competency
+in the 21st century. For example, the Primary 4 students have to take on
+the role of an Urban Planner, plan its land usage for a particular plot
+of land, and come up with all the possible dimensions of the rectangular
+plot of land and calculate the cost of fencing, based on the type of fencing!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math6.png">
-</div>
 <p>Gamification:
 <br>Motivation is one of the core benefits of game-based learning. It tends
 to be increased, as games are naturally thrilling and successful in keeping
-the players hooked. Our Math department uses a lot of gamification to get
-our students to arrive at that “high joy, high learning” state, so that
-they are engaged and be able to apply what they have learnt.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math8.jpg">
-</div>
-<p>One example of such a learning experience is when the department created
-a Halloween-themed Escape Room (Imagine dimmed room, light stick, spooky
-music, scary decorations and actors who ‘scare’ the students!) for our
-Math learners to work as a team and solve challenging Math questions on
-Volume, Geometry and Fractions!</p>
-<p><strong>Student Leaders in Mathematics</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math9.png">
-</div>
-<p>The Mathematics Student Representatives of Rosyth School are chosen to
-serve a pivotal role in the classroom ecosystem of care and leadership.
-They serve two main groups of people – their Mathematics teachers and their
-classmates. They are to lead with passion in their classrooms by being
-innovative problem-solvers and creative thinkers in learning Mathematics,
-and be role-models of lifelong learners with a passion for Mathematics.
-For example, they do research on famous Mathematicians and the positive
-traits that they have, and how they contribute to the world with their
-findings.&nbsp; Together with their teachers, the Mathematics representatives
-in the class help to shape the dynamics of the class towards a positive
-and caring climate in the learning of Mathematics.</p>
+the players hooked. Our Math department uses gamification to get our students
+to arrive at that “high joy, high learning” state, so that they are engaged
+and be able to apply what they have learnt. We have created online escape
+rooms in SLS and physical escape rooms for our students to apply what they
+have learnt in Mathematics.</p>
+<p></p>
 <h5>Rosyth Learning Support Programme for Mathematics</h5>
 <p>The programme provides early intervention so that pupils will have a good
 foundation in Mathematics. The focus is on equipping pupils with basic
