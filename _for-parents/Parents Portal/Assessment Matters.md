@@ -283,39 +283,197 @@ may not be a fair reflection of his/her true ability.</p>
 </p>
 <p>Students who are absent will be given the assessment papers as practice
 and the marks will not be included in the overall mark computation.</p>
-<p>Only the following are considered as&nbsp;<strong>valid reasons for absences</strong>&nbsp;during
+<p>Only the following are considered as <strong>valid reasons for absences</strong> during
 assessments:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>medical reasons supported by a medical certificate (MC) from a doctor.
 MCs from Traditional Chinese Medicine (TCM) practitioners are not accepted
-except if the TCM clinic is under the purview of a hospital.</p>
+except if the TCM clinic is under the purview of a hospital</p>
 </li>
 <li>
-<p>Photo evidence of being COVID+ taken on day of assessment (e.g., ART+)</p>
+<p>bereavement of family members</p>
 </li>
 <li>
-<p>bereavement of family members.</p>
+<p>COVID 19 ART+ on day of paper</p>
 </li>
 <li>
-<p>any other reason deemed valid by the school.</p>
+<p>parent letter explaining absence with valid reason (valid for WA/TA only)</p>
+</li>
+<li>
+<p>any other reason(s) deemed valid by the school</p>
+<p></p>
 </li>
 </ul>
-<p>A medical certificate or relevant evidence/documentation (e.g., copy of
-the death certificate) must be given to the form teacher when the student
-returns to school to support his/her absence.</p>
-<p>All other reasons will be considered&nbsp;<strong>on a case-by-case basis subject to the school’s approval.</strong>
+<p>A medical certificate or any other relevant documentation (e.g., death
+certificate) must be given to the form teacher when the student returns
+to school to support his/her absence.</p>
+<p>All other reasons will be considered <strong>on a case-by-case basis subject to the school’s approval. </strong>
 </p>
-<p>For students who are absent for an assessment&nbsp;<strong>without</strong>&nbsp;<strong>a valid reason</strong>,
-a&nbsp;<strong>zero mark will be considered for that assessment</strong>&nbsp;and
+<p>Students who are absent for an assessment <strong>with an invalid reason will get a zero mark for that assessment</strong> and
 this assessment mark will be considered in the computation of the subject
 and overall total.</p>
+<p></p>
 <p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ASSESSMENT MAKE-UP</strong>
 </p>
-<p>All assessments will follow the stated day and time in the assessment
-schedule. There is <strong>no assessment make-up</strong> for students who
-are absent except for individual performance tasks <strong>(not including GEP assessment)</strong> that
-span over a period and oral assessment, and the make-up will only be considered
-for students with valid reason for absence. There is no make-up for group
-performance tasks. If an assessment has make-up provisions, the school
-will decide the date for the make-up.</p>
+<p>All assessments will be conducted as stated in the assessment schedule.
+There is no assessment make-up for students who are absent except for oral
+assessment, and the oral make-up will only be considered for students with
+valid reason for absence.</p>
+<p>For GEP students, do note that there is a separate guideline for students
+who are absent for WA/EYE on a case-by-case basis. This guideline is only
+applicable for GEP assessment subjects (i.e., English Language, Mathematics
+and Science).</p>
+<p></p>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; COMPUTATION OF SUBJECT TOTAL FOR STUDENTS WHO ARE ABSENT </strong>
+</p>
+<p>Computation of EYE Subject Total for a Student who is Absent for a Language
+Component or Mathematics Paper</p>
+<p>For English Language, Mother Tongue Language and Mathematics EYE, if a
+student is <strong>absent with a valid reason for either a component or paper</strong>,
+the marks for that assessment will not be included in the overall subject
+total for the year if the weighting of the component or paper missed is <strong>20% and more</strong> of
+the total weighting. This would mean that a VR (Valid Reason) will be reflected
+in the Report Book, where relevant.</p>
+<p><em>Example 1: Primary 5 English Language EYE </em>
+</p>
+<p>A student is absent with valid reason for Paper 1 which is less than 20%
+of the total weighting</p>
+<p><em>Example 2: Primary 5 Mathematics EYE </em>
+</p>
+<p>A student is absent with valid reason for Paper 1 which is 20% and more
+of the total weighting</p>
+<p></p>
+<p><strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; QUALIFYING FOR SCHOOL-BASED ACADEMIC AWARDS </strong>
+</p>
+<p>To qualify for school-based academic awards the students<strong> must have assessment marks computed for ALL the assessments in that year (i.e., WAs/Prelim/EYE) for the academic subjects (i.e., English, Mathematics, Mother Tongue Languages(including NTIL) and Science)</strong>.
+That is to say that should a child miss any of the assessments even with
+Valid Reason(s), he/she would not qualify for school-based awards for that
+year. They will continue to be eligible for Edusave Awards where relevant.</p>
+<p>As there are only a few students taking Non-Tamil Indian Languages (NTIL)
+and Mother Tongue in-lieu (foreign language), the school does not have
+an Academic Excellence in Subject Awards for NTIL and foreign language
+subjects. Students who are exempted from Mother Tongue Language are only
+eligible for Academic Excellence in Subject Awards for English, Mathematics
+and Science.</p>
+<p>* Please refer to Section 9 on Computation of Subject Total for students
+who are absent.</p>
+<p>** Please note that qualification for the Edusave Awards/Scholarships
+are based on a separate criteria and are not dependent on qualifying for
+the school-based awards.</p>
+<p></p>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROMOTION AND SUBJECT COMBINATION </strong>
+</p>
+<p>Students are promoted to the following year’s classes based on the following
+criteria:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>From</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>To</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Criteria</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>En-bloc promotion in most cases.</p>
+<p>Students generally remain in the same classes unless there are strong
+reasons to effect a change.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are reallocated into new classes based on non-academic considerations
+such as gender, ethnic mix, and student dynamics. This list is non-exhaustive.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most students are promoted en-bloc with their classmates unless there
+are strong reasons to effect a change or if students are placed in mixed
+form classes. The school will continue to use non-academic considerations
+such as gender, ethnic mix, learning needs, and student dynamics. This
+list is non-exhaustive.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are generally promoted based on both academic and non-academic
+considerations such as gender, ethnic mix, learning needs, and student
+dynamics. This list is non-exhaustive.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are generally promoted en-bloc with their classmates unless there
+are strong reasons to effect a change. Such reasons could include student
+needs and changes in subject combinations (if applicable).</p>
+<p>Students who do not pass any subject at the end of P5 may be advised to
+switch to a less demanding subject combination at P6.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Starting from the 2023 P6 cohort, students are posted through Posting
+Groups 1, 2 and 3 under Full Subject-Based Banding (Full SBB). This allows
+them greater flexibility to offer subjects at appropriate subject levels
+in the secondary schools.</p>
+<p>Students who do not qualify for the above courses after PSLE and have
+attempted the PSLE for the first time may re-attempt PSLE with the same
+subject combination taken in the first attempt or a different subject combination
+based on his/her PSLE results or apply to Assumption Pathway School (APS)/
+NorthLight School (NLS). Those who have made more than one attempt at PSLE
+will be preferentially offered a place in APS or NLS.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>* For additional information please refer to the Assessment Booklet for Parents sent via PG.</em></strong>
+</p>
+<p></p>
