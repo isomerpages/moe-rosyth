@@ -112,9 +112,15 @@ focus on WHAT and HOW pupils are learning;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English1.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EL/EL_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EL/EL_1.jpg">
+</div>
 <p></p>
 <h5>SIGNATURE PROGRAMMES</h5>
-<p><strong>ERP @ Rosyth ( Extensive Reading Programme)</strong> 
+<p><strong>ERP @ Rosyth ( Extensive Reading Programme)</strong>
 </p>
 <p>As part of our ERP@Rosyth, one English period a week is ringfenced in
 the timetable to provide dedicated time for leisure reading in all Primary
@@ -140,14 +146,14 @@ self-directedness in learning.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Reading Circles</strong> 
+<p><strong>Reading Circles</strong>
 </p>
 <p>Literature is incorporated into our curriculum for selected pupils. Through
 this programme, we hope to provide opportunities for advanced readers to
 develop greater appreciation of the various literary elements in stories
 and deepen comprehension skills based on prescribed texts.</p>
 <p></p>
-<p><strong>Read@Rosyth</strong> 
+<p><strong>Read@Rosyth</strong>
 </p>
 <p>To promote the use of good English in Speaking, Reading, Writing and Listening,
 a host of engaging activities are planned to arouse pupils’ interest in
@@ -164,9 +170,14 @@ able to use English to communicate well with each other and build happy
 relationships. Teachers and parents are especially important in this initiative
 as we are the main facilitators who play a very important role in the acquisition
 and usage of Standard English.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EL/EL_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EL/EL_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EL/EL_5.jpg">
 </div>
 <p></p>
 <p><strong>Primary 1 Moo-O PiSP (Parents-in-School Programme)</strong>
@@ -209,6 +220,12 @@ more appropriately challenging levels in order to read to learn.</p>
 games, pupil collaboration and class presentations. There are also opportunities
 for independent learning through book reviews. The programme strives to
 foster deep learning to enhance greater pupil motivation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EL/EL_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EL/EL_7.jpg">
+</div>
 <p></p>
 <p><strong>Reading Remediation Programme (RRP) &amp; School Dyslexia Remediation Programme (SDR)</strong>
 </p>
