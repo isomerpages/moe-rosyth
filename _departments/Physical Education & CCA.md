@@ -59,7 +59,7 @@ variant: tiptap
 </tbody>
 </table>
 <h3>VISION</h3>
-<p><strong><em>An Active and Physically Competent Community that Learns with Passion, Serves with Compassion and Engages in Healthy Practices. </em></strong>
+<p><strong><em>An Active and Physically Competent Community that Learns with Passion, Serves with Compassion and Engages in Healthy Practices.</em></strong>
 </p>
 <h3>MISSION</h3>
 <p>Every Rosythian to be Equipped with Knowledge and Skills in PE and CCA,
@@ -164,7 +164,11 @@ life.</p>
 </tr>
 </tbody>
 </table>
-<h5>OUR SIGNATURE PROGRAMMES </h5>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/PE&amp;CCA/PE_1.png">
+</div>
+<h5>OUR SIGNATURE PROGRAMMES</h5>
 <p></p>
 <p><strong>PROGRAMME FOR ACTIVE LEARNING (PAL)</strong>
 </p>
@@ -211,7 +215,7 @@ Education in the PE curriculum. The camp provides opportunities for students
 to apply their learning in an authentic context through a variety of outdoor
 living experiences and adventurous activities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/PE&amp;CCA/PE_2.png">
 </div>
 <p></p>
 <p><strong>IDARE SERIES</strong>
@@ -228,11 +232,10 @@ their peers to overcome challenges or navigating in a new environment during
 a journey, allow them to extend and deepen their learning from the classroom
 into real-life.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/PE&amp;CCA/PE_3.png">
 </div>
 <p></p>
 <h3>CO-CURRICULAR ACTIVITIES (CCA)</h3>
-<h3>Co-Curricular Activities (CCA)</h3>
 <p>The CCA Programme provides students with a platform to discover their
 interests and talents. Well-organised and implemented, they can fuel in
 the individual a life-long love for a particular activity, be it a sport
@@ -257,7 +260,7 @@ and emotional competencies and the emerging 21st Century Competencies.</p>
 and social integration amongst students of diverse backgrounds. Through
 CCA, students develop a sense of identity and belonging to the school.</p>
 <p></p>
-<h5>LEARNING OUTCOMES </h5>
+<h5>LEARNING OUTCOMES</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Passion</p>
@@ -280,6 +283,6 @@ competencies as articulated in the 21st Century Competencies Framework</p>
 </li>
 </ul>
 <p></p>
-<h5>CCAs in Rosyth School </h5>
+<h5>CCAs in Rosyth School</h5>
 <p><a href="/files/2025%20PE%20CCA/CCA_Option_Schedule_for_P4_2025_Annex_A_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">List of CCAs for 2025</a>
 </p>
