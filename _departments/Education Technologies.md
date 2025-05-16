@@ -109,9 +109,14 @@ by the Cyber Wellness Student Ambassador Programme, these initiatives foster
 compassionate, collaborative and future-ready learners.
 <br>
 </p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EdTech/EdTech_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/EdTech/EdTech_2.png">
+</div>
+<p></p>
 <p>Computational Thinking, Coding and Robotics are also infused into our
 curriculum. In the process, they learn how to solve real world problems
 with technology and improve the lives of those around them. Our students
