@@ -83,7 +83,7 @@ This develops greater self-awareness and self-management skills in students,
 enabling them to use their talents to help those who are in need and exemplifies
 our school motto “Ready to Serve”.</p>
 <p></p>
-<p><strong>Computer Enrichment Programme (CEP) </strong>
+<p><strong>Computer Enrichment Programme (CEP)</strong>
 </p>
 <p>In today's digital age, computer literacy is paramount. Our Computer Enrichment
 Programme (CEP) offers students an exciting opportunity to delve into the
@@ -102,4 +102,29 @@ study option allow students to delve into topics of personal interest while
 receiving guided support from teacher mentors. This approach fosters creativity,
 problem-solving, and self-motivation—preparing students to be future ready
 in an ever-evolving world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide1.jpg">
+</div>
 <p></p>
