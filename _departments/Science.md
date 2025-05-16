@@ -54,12 +54,24 @@ variant: tiptap
 <p>Inspiring and nurturing a passion for Science to critically engage with
 the world around them</p>
 <h3>DESIRED OUTCOMES</h3>
-<p>• Stimulate curiosity about themselves and their environment</p>
-<p>• Acquire basic scientific concepts to help them understand themselves
-and the world around them</p>
-<p>• Develop skills, dispositions and attitudes for scientific inquiry</p>
-<p>• Apply scientific concepts and skills in making responsible decisions</p>
-<p>• Appreciate how Science influences people and the environment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Stimulate curiosity about themselves and their environment</p>
+</li>
+<li>
+<p>Acquire basic scientific concepts to help them understand themselves and
+the world around them</p>
+</li>
+<li>
+<p>Develop skills, dispositions and attitudes for scientific inquiry</p>
+</li>
+<li>
+<p>Apply scientific concepts and skills in making responsible decisions</p>
+</li>
+<li>
+<p>Appreciate how Science influences people and the environment</p>
+</li>
+</ul>
 <h3>KEY PROGRAMMES</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 Updates/Science/Science_1.png">
@@ -68,20 +80,27 @@ and the world around them</p>
 <p>1. Student – centricity:</p>
 <p>We have adopted the 3 “IN”s approach to encapsulate the overall experience
 of our students in Science education: Inspire Inquire and Innovate</p>
-<p>• INquire like Scientists: Students possess strong Science fundamentals,
+<ul data-tight="true" class="tight">
+<li>
+<p>INquire like Scientists: Students possess strong Science fundamentals,
 engage in scientific practices, and critically evaluate claims based on
 evidence, while remaining open to suspending judgment when evidence is
 insufficient.</p>
-<p>• INspired by Science: Students enjoy learning Science, fascinated by
-its connection to everyday phenomena and global challenges. They value
-its relevance, recognizing how Science and Technology improve lives, and
-are open to pursuing Science-related careers for societal benefit.</p>
-<p>• INnovate using Science. Students apply Science to solve real-world problems,
+</li>
+<li>
+<p>INspired by Science: Students enjoy learning Science, fascinated by its
+connection to everyday phenomena and global challenges. They value its
+relevance, recognizing how Science and Technology improve lives, and are
+open to pursuing Science-related careers for societal benefit.</p>
+</li>
+<li>
+<p>INnovate using Science. Students apply Science to solve real-world problems,
 fostering innovation. This creates a strong pipeline of individuals contributing
 to STEM research, innovation, and enterprise.</p>
+</li>
+</ul>
 <p>2. Helping every child learn Science:</p>
 <p>We have differentiated approach for each topic (Challenge-Enrich –Support).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Science/Science_2.png">
 </div>
@@ -159,12 +178,20 @@ by reducing our carbon footprint across school, home, and society. We hope
 to achieve this through the Three E’s: Education, Exposure, and Experience,
 to foster awareness, inspire action, and effect lasting changes.</p>
 <p>Areas of Focus:</p>
-<p>• Food: Urban Farming – to grow your own plants for food to achieve 30%
+<ul data-tight="true" class="tight">
+<li>
+<p>Food: Urban Farming – to grow your own plants for food to achieve 30%
 of local food produce as part of food security; how to select food from
 sustainable sources.</p>
-<p>• Materials: 4Rs (Reduce, Reuse, Recycle and Repurpose), using recyclable
+</li>
+<li>
+<p>Materials: 4Rs (Reduce, Reuse, Recycle and Repurpose), using recyclable
 bags, bring your own containers, reduce food waste.</p>
-<p>• Energy: Ways to reduce energy waste and maximise solar energy</p>
+</li>
+<li>
+<p>Energy: Ways to reduce energy waste and maximise solar energy</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Science/Science_9.jpg">
@@ -176,9 +203,17 @@ three key innovative mind shifts: curiosity-driven exploration, critical
 thinking and problem-solving, to develop a deep appreciation for the role
 of Science in shaping the future of society and the environment.</p>
 <p>Our innovation spirit:</p>
-<p>• Be Curious – What is the problem?</p>
-<p>• Be Creative – There must be a better way.</p>
-<p>• Be the Change – Lead and inspire others!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Be Curious – What is the problem?</p>
+</li>
+<li>
+<p>Be Creative – There must be a better way.</p>
+</li>
+<li>
+<p>Be the Change – Lead and inspire others!</p>
+</li>
+</ul>
 <p></p>
 <p>STEM ALP Tier 2</p>
 <div class="isomer-image-wrapper">
