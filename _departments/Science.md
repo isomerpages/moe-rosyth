@@ -61,7 +61,6 @@ and the world around them</p>
 <p>• Apply scientific concepts and skills in making responsible decisions</p>
 <p>• Appreciate how Science influences people and the environment</p>
 <h3>KEY PROGRAMMES</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 Updates/Science/Science_1.png">
 </div>
