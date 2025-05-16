@@ -51,14 +51,16 @@ variant: tiptap
 <p><strong><em>Confident Learners, Active Inquirers</em></strong>
 </p>
 <h3>MISSION</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Having a strong focus on process and thinking skills.</p>
-</li>
-<li>
-<p>Stimulating curiosity and inculcating responsibility to the environment.</p>
-</li>
-</ul>
+<p>Inspiring and nurturing a passion for Science to critically engage with
+the world around them</p>
+<h3>DESIRED OUTCOMES</h3>
+<p>• Stimulate curiosity about themselves and their environment</p>
+<p>• Acquire basic scientific concepts to help them understand themselves
+and the world around them</p>
+<p>• Develop skills, dispositions and attitudes for scientific inquiry</p>
+<p>• Apply scientific concepts and skills in making responsible decisions</p>
+<p>• Appreciate how Science influences people and the environment</p>
+<p></p>
 <h3>3 PILLARS OF THE SCIENCE DEPARTMENT</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Science/Picture1.jpg">
