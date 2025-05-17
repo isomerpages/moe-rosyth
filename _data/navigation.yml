@@ -46,6 +46,8 @@ links:
         url: /departments/staff-development
       - title: Student Management
         url: /departments/studentmanagement
+  - title: Levels
+    collection: levels
   - title: For Parents
     url: /for-parents/admission-matters
     sublinks:
