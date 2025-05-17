@@ -291,48 +291,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024%20P1%20Orientation/English.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation: English</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024%20P1%20Orientation/CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation: CCE</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024%20P1%20Orientation/Chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation: Chinese</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024%20P1%20Orientation/Malay.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation: Malay</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024%20P1%20Orientation/Tamil.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation: Tamil</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024%20P1%20Orientation/Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation: Mathematics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024%20P1%20Orientation/PAL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation: PAL</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Art1.pdf" rel="noopener noreferrer nofollow" target="_blank">Article 1: Develop your brain</a>
 </p>
 </td>
@@ -352,6 +310,16 @@ variant: tiptap
 </tbody>
 </table>
 <h5>LEARNING JOURNEYS FOR PRIMARY 1</h5>
+<p><strong>Primary 1 Ant Exploration @ Rosyth</strong>
+</p>
+<p>Get ready for an exciting adventure in Primary 1! Students will explore
+the fascinating world of ants through a fun, hands-on session with expert
+ant-keepers. Tied to the "Ants in a Hurry" English STELLAR unit, this engaging
+experience allows students to discover different ant species, learn about
+their amazing qualities, and understand the power of teamwork. It's a thrilling
+way to bring classroom lessons to life and connect them with the real world!</p>
+<p></p>
+<p></p>
 <p><strong>EL Pre-Writing Activities</strong>
 </p>
 <p>With the pre-writing activities, there is a shared experience that is
