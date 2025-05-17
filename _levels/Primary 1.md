@@ -309,7 +309,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <h5>KEY PROGRAMMES FOR PRIMARY 1</h5>
+<p></p>
 <p><strong>Primary 1 Ant Exploration @ Rosyth</strong>
 </p>
 <p>Get ready for an exciting adventure in Primary 1! Students will explore
