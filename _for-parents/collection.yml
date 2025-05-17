@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Portal.md
-      - Assessment Matters.md
-      - Learning with Technology.md
       - Admission Matters.md
       - Administrative Matters.md
+      - Assessment Matters.md
+      - Parents Portal.md
       - Parents Support Group.md
+      - Learning with Technology.md
       - Sexuality Education.md
       - Forms and Links.md
