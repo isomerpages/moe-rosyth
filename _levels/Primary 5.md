@@ -310,7 +310,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><br>KEY PROGRAMMES FOR PRIMARY 5</h3>
+<p></p>
+<h5>KEY PROGRAMMES FOR PRIMARY 5</h5>
 <p></p>
 <p><strong>Outdoor Learning Programme</strong>
 </p>
@@ -330,12 +331,16 @@ bonds amongst classmates, preparing them for future challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P5_2.png">
 </div>
+<p></p>
 <p><strong>Interclass Games</strong>
 </p>
-<p>The interclass games are usually held as part of the post-examination
-activity (PEA) in primary 5. Besides giving students an opportunity to
-have fun together as a level, the interclass games foster stronger bonds
-and build rapport amongst one another.</p>
+<p>The Interclass Games, a highlight of the Post-Examination Activities (PEA)
+for Primary 5 students, brings the entire level together in friendly competition.
+Beyond providing an engaging platform for students to unwind after their
+examinations, these games strengthen class spirit and cultivate meaningful
+relationships amongst peers. Through shared experiences of triumph and
+challenge, students forge lasting friendships while developing sportsmanship
+and camaraderie.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_3.png">
 </div>
