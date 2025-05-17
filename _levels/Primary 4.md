@@ -2,7 +2,6 @@
 title: Primary 4
 permalink: /for-parents/parents-portal/primary-4/
 description: ""
-third_nav_title: Parents Portal
 variant: tiptap
 ---
 <h3>Primary 4 (2025)</h3>
@@ -289,6 +288,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h5>KEY PROGRAMMES FOR PRIMARY 4</h5>
+<p></p>
 <p><strong>I-DARE Outdoor and Science Programme</strong>
 </p>
 <p>At Rosyth, we aim to nurture our Rosythians holistically, focusing on

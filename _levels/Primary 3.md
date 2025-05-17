@@ -2,7 +2,6 @@
 title: Primary 3
 permalink: /for-parents/parents-portal/primary-3/
 description: ""
-third_nav_title: Parents Portal
 variant: tiptap
 ---
 <h3>Primary 3 (2025)</h3>
@@ -224,7 +223,26 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>P3 LEARNING JOURNEY TO SCIENCE CENTRE SINGAPORE</strong>
+<h5>KEY PROGRAMMES FOR PRIMARY 3</h5>
+<p></p>
+<p><strong>P3 Learning Journey to Geylang Serai Heritage Gallery</strong>
+</p>
+<p>History came alive for our Primary 3 students during the learning Journey
+to Geylang Serai Heritage Gallery. Students delved into the history of
+Geylang Serai and played the role of explorers to understand its importance
+to the Malay and Muslim communities in Singapore. Students got to hear
+stories and view artifacts at the gallery. Also, the students took a precinct
+walk to the Geylang Serai market, where they observed the bustling atmosphere
+of Malay, Indian, and Chinese food stalls, along with the diverse display
+of Malay traditional clothing and aromatic spice stalls. The students gained
+insights into the history of Geylang Serai and its pivotal role in the
+Malay and Muslim communities, making the learning journey an enriching
+experience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P3_1.jpg">
+</div>
+<p></p>
+<p><strong>P3 Learning Journey to Science Centre Singapore</strong>
 </p>
 <p>To deepen Rosythians’ understanding on insects’ characteristics, their
 adaptations and life cycles which is part of their Science curriculum,
@@ -235,10 +253,10 @@ the “I am a Young Entomologist” badge. They are also provided with opportuni
 to explore their interest in Science beyond the syllabus through exhibit-learning
 as part of their self-directed learning experience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 P3/P3ScienceCentre.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P3_2.png">
 </div>
 <p></p>
-<p><strong>P3 TITANS CHALLENGE</strong>
+<p><strong>P3 Titans Challenge</strong>
 </p>
 <p>Titans Challenge integrates the subject disciplines of Science and PE.
 This programme aims to provide opportunities for students to practise growth
@@ -246,10 +264,10 @@ mindset, develop collaborative skills, teamwork and care for peers, as
 they face physically challenging obstacles while attempting to complete
 a given Science challenge at each station.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 P3/P3TitanChallenge.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P3_3.png">
 </div>
 <p></p>
-<p><strong>P3-P1 AMAZING SCIENCE</strong>
+<p><strong>P3-P1 Amazing Science</strong>
 </p>
 <p>This collaboration allows our P3 students to share their knowledge on
 Diversity of Living Things with our P1 students in a fun and interactive
@@ -257,6 +275,6 @@ way. Besides reinforcing their knowledge, it provides opportunities for
 the P3 students to build their confidence and also hone up their presentation
 and mentoring skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 P3/P3AmazingScience.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P3_4.png">
 </div>
 <p></p>

@@ -46,21 +46,10 @@ links:
         url: /departments/staff-development
       - title: Student Management
         url: /departments/studentmanagement
+  - title: Levels
+    collection: levels
   - title: For Parents
-    url: /for-parents/admission-matters
-    sublinks:
-      - title: Admission Matters
-        url: /for-parents/admission-matters
-      - title: Administrative Matters
-        url: /for-parents/administrative-matters
-      - title: Parents Portal
-        url: /for-parents/parents-portal
-      - title: Parents Support Group
-        url: /for-parents/parents-support-group
-      - title: Sexuality Education
-        url: /for-parents/sexuality-education
-      - title: Forms and Links
-        url: /for-parents/forms
+    collection: for-parents
   - title: P1 Orientation
     collection: p1-orientation
   - title: Contact Us

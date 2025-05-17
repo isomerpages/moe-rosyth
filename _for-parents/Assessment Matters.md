@@ -2,7 +2,6 @@
 title: Assessment Matters
 permalink: /for-parents/parents-portal/assessment/
 description: ""
-third_nav_title: Parents Portal
 variant: tiptap
 ---
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ASSESSMENT SCHEDULE</strong>

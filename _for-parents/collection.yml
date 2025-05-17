@@ -4,16 +4,9 @@ collections:
     order:
       - Admission Matters.md
       - Administrative Matters.md
-      - Parents Portal/.keep
-      - Parents Portal/Parents Portal.md
-      - Parents Portal/Learning with Technology.md
-      - Parents Portal/Assessment Matters.md
-      - Parents Portal/Primary 1.md
-      - Parents Portal/Primary 2.md
-      - Parents Portal/Primary 3.md
-      - Parents Portal/Primary 4.md
-      - Parents Portal/Primary 5.md
-      - Parents Portal/Primary 6.md
+      - Assessment Matters.md
+      - Circulars.md
+      - Learning with Technology.md
       - Parents Support Group.md
       - Sexuality Education.md
       - Forms and Links.md

@@ -2,7 +2,6 @@
 title: Primary 2
 permalink: /for-parents/parents-portal/primary-2/
 description: ""
-third_nav_title: Parents Portal
 variant: tiptap
 ---
 <h3>Primary 2 (2025)</h3>
@@ -289,6 +288,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h5>KEY PROGRAMMES FOR PRIMARY 2</h5>
+<p></p>
 <p><strong><em>AMAZING SCIENCE PROGRAMME (PRIMARY 2 AND 5) (TERM 2)</em></strong>
 </p>
 <p>Objective:</p>

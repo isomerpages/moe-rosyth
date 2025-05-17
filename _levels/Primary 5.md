@@ -2,7 +2,6 @@
 title: Primary 5
 permalink: /for-parents/parents-portal/primary-5/
 description: ""
-third_nav_title: Parents Portal
 variant: tiptap
 ---
 <h3>Primary 5 (2025)</h3>
@@ -311,40 +310,37 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong>Immersion Programme</strong>
-</p>
-<p>The Overseas immersion trip is a key student learning experience for our
-Primary 5 Rosythians. Such pivoted virtual or face to face exchange programmes
-between Rosyth School and international schools play an important part
-in our students’ learning. They aim to nurture students’ cultural quotient
-and global perspectives, in line with key objectives of the 21st Century
-Competencies of Critical Thinking, Creativity, Collaboration and Communication.
-Such programmes also expose students to Asia with greater focus on ASEAN
-countries and sensitise them to Singapore’s place in the world, strengthening
-their commitment and rootedness to Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_1.jpg">
-</div>
+<p></p>
+<h5>KEY PROGRAMMES FOR PRIMARY 5</h5>
+<p></p>
 <p><strong>Outdoor Learning Programme</strong>
 </p>
-<p>The outdoor learning programme (OLP) is a milestone event for all Primary
-5 students as it aims to provide opportunities for our students to experience
-a rugged outdoor experience. In addition, the school also intends to build
-resilience in students when they participate in challenging outdoor activities.
-Students also develop a strong sense of teamwork and co-operation amongst
-one another.</p>
+<p>The Outdoor Learning Programme (OLP) stands as a pivotal milestone in
+every Primary 5 student's educational journey. Through immersive and challenging
+outdoor activities, students develop essential life skills that extend
+beyond the classroom. The programme cultivates resilience as students push
+beyond their comfort zones, fostering valuable teamwork and collaborative
+skills as they support one another through various challenges. This transformative
+experience not only strengthens individual character but also builds lasting
+bonds amongst classmates, preparing them for future challenges.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P5_1.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P5_2.png">
+</div>
+<p></p>
 <p><strong>Interclass Games</strong>
 </p>
-<p>The interclass games are usually held as part of the post-examination
-activity (PEA) in primary 5. Besides giving students an opportunity to
-have fun together as a level, the interclass games foster stronger bonds
-and build rapport amongst one another.</p>
+<p>The Interclass Games, a highlight of the Post-Examination Activities (PEA)
+for Primary 5 students, brings the entire level together in friendly competition.
+Beyond providing an engaging platform for students to unwind after their
+examinations, these games strengthen class spirit and cultivate meaningful
+relationships amongst peers. Through shared experiences of triumph and
+challenge, students forge lasting friendships while developing sportsmanship
+and camaraderie.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_3.png">
 </div>
