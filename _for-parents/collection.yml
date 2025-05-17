@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Learning with Technology.md
       - Admission Matters.md
       - Administrative Matters.md
       - Parents Portal/.keep
