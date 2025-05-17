@@ -318,7 +318,21 @@ ant-keepers. Tied to the "Ants in a Hurry" English STELLAR unit, this engaging
 experience allows students to discover different ant species, learn about
 their amazing qualities, and understand the power of teamwork. It's a thrilling
 way to bring classroom lessons to life and connect them with the real world!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P1_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P1_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P1_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P1_4.jpg">
+</div>
 <p></p>
 <p><strong>EL Pre-Writing Activities</strong>
 </p>
