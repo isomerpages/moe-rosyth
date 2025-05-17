@@ -288,6 +288,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h5>KEY PROGRAMMES FOR PRIMARY 2</h5>
+<p></p>
 <p><strong><em>AMAZING SCIENCE PROGRAMME (PRIMARY 2 AND 5) (TERM 2)</em></strong>
 </p>
 <p>Objective:</p>
