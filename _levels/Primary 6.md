@@ -292,42 +292,49 @@ variant: tiptap
 <p></p>
 <h5>KEY PROGRAMMES FOR PRIMARY 6</h5>
 <p></p>
-<p><strong>Team Building</strong>
+<p><strong>Immersion Programme</strong>
 </p>
-<p>The programme aims to build and strengthen friendships among the students.
-Our Primary 6 students learn to support one another with care and resilience
-as they work together to achieve a common goal set out for them in the
-various activities.</p>
+<p>The Overseas Immersion Programme offers a transformative learning experience
+for our Primary 6 Rosythians. Designed to broaden their cultural awareness
+and nurture a global perspective, it aligns with the 21st Century Competencies
+of Critical Thinking, Creativity, Collaboration, and Communication. Additionally,
+this programme provides students with greater exposure to Asia, particularly
+ASEAN countries, deepening their understanding of Singapore’s role in the
+world while fostering a strong sense of belonging and commitment to the
+nation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P6_1.png">
 </div>
+<p></p>
 <p><strong>Care Carnival</strong>
 </p>
-<p>The Care Carnival is a unique social innovation project by our Primary
-&nbsp;6 students that connects their innovation learning with Values-in-Action,
-which is a Key Student Development Experience. While students prepare for
-the Care Carnival, they grow in awareness about empathy and social responsibility
-and foster stronger I-CARE values. Working collaboratively, students put
-into practice skills learnt, such as creating publicity posters and making
-crafts and conceptualise their stalls. By putting into action their entrepreneurial
-spirit, students also take full ownership of these stalls with the guidance
-of their teachers and lead their fellow schoolmates into doing their part
-for the community. Games, craft and thrift stalls are the highlights of
-this key event.</p>
+<p>The Care Carnival is a unique social innovation project led by our Primary
+6 students, integrating their innovation learning with Values-in-Action—a
+Key Student Development Experience. As students prepare for the Care Carnival,
+they cultivate empathy, social responsibility, and strengthen their I-CARE
+values.</p>
+<p>Through collaboration, they apply skills such as designing publicity posters,
+crafting handmade items, and conceptualizing their stalls. With an entrepreneurial
+mindset, students take full ownership of their stalls, guided by their
+teachers, and inspire their peers to contribute to the community. The event
+features exciting game booths, creative craft stations, and thrift stalls,
+making it a memorable and meaningful experience for all.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P6_2.png">
 </div>
-<p>&nbsp;<strong>P6 GRADUATION DAY</strong>
+<p></p>
+<p><strong>P6 Graduation Day</strong>
 </p>
-<p>The P6 Graduation Day is pivotal for the students as they celebrate their
-final days as a primary school student in Rosyth School. ICARE champions,
-outstanding academic prize winners receive their awards and student councillors
-are affirmed and recognised during the Awards Ceremony segment. The concert
-segment gives opportunities to the students to showcase what they have
-learnt from their post examination activities.&nbsp; It is also the platform
-for the students to express their appreciation for the school leaders,
-their teachers, friends and parents.</p>
+<p>The P6 Graduation Day is a significant milestone for students as they
+celebrate their final days at Rosyth School. During the Awards Ceremony
+segment, I-CARE champions, outstanding academic prize winners, student
+councillors and CCA leaders are recognised for their achievements and contributions.</p>
+<p>The concert segment provides students with an opportunity to showcase
+what they have learned from their post-examination activities. It also
+serves as a heartfelt platform for them to express their appreciation to
+school leaders, teachers, parents, and friends, making the occasion both
+meaningful and memorable.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P6_3.png">
 </div>
 <p></p>
