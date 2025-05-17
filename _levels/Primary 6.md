@@ -289,9 +289,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<h5>KEY PROGRAMMES FOR PRIMARY 6</h5>
+<p></p>
 <p><strong>Team Building</strong>
 </p>
 <p>The programme aims to build and strengthen friendships among the students.
