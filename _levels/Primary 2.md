@@ -291,59 +291,45 @@ variant: tiptap
 <p></p>
 <h5>KEY PROGRAMMES FOR PRIMARY 2</h5>
 <p></p>
-<p><strong><em>AMAZING SCIENCE PROGRAMME (PRIMARY 2 AND 5) (TERM 2)</em></strong>
+<p><strong>P2 Learning Journey to Science Centre</strong>
 </p>
-<p>Objective:</p>
-<ol>
-<li>
-<p>To expose the P2 pupils to Science and heighten their interest and curiosity
-to the world of Science. Through this collaboration with the Primary 5,
-the P2 pupils will learn about the different types of manets and how to
-make a fridge magnet.</p>
-</li>
-<li>
-<p>To integrate English (Big Book - 'Magnetic Max') and provide the experience
-for the P2 pupils to write an instructional text on how to make a fridge
-magnet.</p>
-</li>
-</ol>
+<p>Primary 2 students are invited to embark on exciting learning journeys
+to the Science Centre, where they can explore the wonders of nature through
+the English STELLAR units, "Life in A Shell" or "A Butterfly is Born."</p>
+<p>In the "Life in A Shell" experience, students will get up close to seashells,
+garden snails, and hermit crabs, engaging in a sensory adventure that brings
+these fascinating creatures to life. They'll learn about their unique traits
+and create their very own snail craft, making the experience both educational
+and fun.</p>
+<p>In the "A Butterfly is Born" journey, students will step into the world
+of insects, observing live butterflies and discovering their amazing life
+cycles. To cap off the experience, they’ll take home a beautiful butterfly
+life cycle craft, making their learning even more memorable.</p>
+<p>These hands-on, interactive sessions connect classroom lessons with real-world
+experiences, sparking curiosity and inspiring creativity in every child.
+It’s a wonderful way for students to learn and explore the natural world
+in an exciting and engaging way!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amazing%20Science%20P2%20compiled.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P2_1.jpg">
 </div>
-<p><strong><em>LEARNING JOURNEY TO CHANGI AIRPORT (TERM 2)</em></strong>
-</p>
-<p>This learning journey provides opportunities for our pupils to put into
-practice Mathematics concepts as well as skills taught during English.
-During the airport trail, pupils will work in groups as well as individually
-to complete assigned tasks.</p>
-<p>Mathematics - Estimating Length using Metre and Centimetre</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20Maths1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P2_2.jpg">
 </div>
-<p>English - Extracting information from the board</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20English.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P2_3.jpg">
 </div>
-<p>Social Studies - Learning about the Singapore as a hub and our neighboring
-countries</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20SS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P2_4.jpg">
 </div>
-<p><strong><em>LEARNING JOURNEY TO SCIENCE CENTRE (TERM 3)</em></strong>
-</p>
-<p>The learning journey to the Science Centre has been planned to coincide
-with the STELLAR unit - World of Tools. Pupils will learn about tools in
-a fun and interactive manner. They will be intrigued by the amazing world
-of tools, how it works and how it helps us in our daily life. Pupils will
-also take a walk at the Kinetic Garden to see examples of simple machines.
-At the end of the class, pupils will make and take home their own craft
-of a simple machine.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJSC%20compiled%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/Levels/P2_5.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJSC%20compiled%202.jpg">
-</div>
+<p></p>
 <h5>RECOMMENDED RESOURCES</h5>
 <p>MOE Website: <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a> 
 <br>This includes information on subject syllabus, subject-based banding,
