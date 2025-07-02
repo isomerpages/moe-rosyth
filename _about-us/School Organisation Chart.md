@@ -45,6 +45,7 @@ variant: markdown
 * SH/PE&CCA: Mr Mohd Roshan
 
 **Gifted Education Department**
+* HOD/Gifted Education and Dean Curriculum: Mdm Parvathy
 * HOD/GE(Humanities): Mrs Helen Tan
 
 **Innovation Department**
