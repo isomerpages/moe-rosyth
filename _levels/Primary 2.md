@@ -137,7 +137,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vajeet (Mdm)</p>
+<p>Varjeet (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Varjeet_kaur@schools.gov.sg</p>
