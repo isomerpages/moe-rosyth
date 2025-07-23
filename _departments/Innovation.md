@@ -46,8 +46,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 <p>With the restrictions of the real-world still undiscovered, children are
-often the best innovators. We wanted to catch them young and instil in
-them innovation as their way of thinking and behaviour.</p>
+often the best innovators. We want to catch them young and instil in them
+innovation as their way of thinking and behaviour.</p>
 <p>Innovation does not happen magically, but it is an ongoing process of
 intentional exploration. This led to the birth of the <strong>Period</strong>  <strong>PHI*</strong> (<strong>P</strong>assion <strong>H</strong>our <strong>I</strong>ngenuity)
 curriculum. Our Period PHI modules are conducted in a fun and discovery
