@@ -23,7 +23,7 @@ of $156 is computed based on the miscellaneous fee:</p>
 at 6481 2273 or email rosyth_sch@schools.gov.sg</p>
 </li>
 <li>
-<p>Complete and submit the <a href="https://form.gov.sg/#!/60bec0092dd57e00117caadf" rel="noopener noreferrer nofollow" target="_blank">online application form</a>
+<p>Complete and submit the <a href="https://go.gov.sg/application-form-for-leave-of-absence" rel="noopener noreferrer nofollow" target="_blank">online application form</a>
 </p>
 </li>
 <li>
