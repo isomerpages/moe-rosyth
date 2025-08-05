@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_5338v3.jpg
+      background: /images/Website_Banner.jpg
       title: Rosyth School
       subtitle: A Future-ready Community that Learns with Passion, Serves with
         Compassion, Leads with Vision and Innovates for Excellence
