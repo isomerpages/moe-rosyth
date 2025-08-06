@@ -236,39 +236,12 @@ mental and physical well-being.</p>
 <a href="https://go.gov.sg/hmhh4rosythians" rel="noopener noreferrer nofollow" target="_blank">://go.gov.sg/hmhh4rosythians</a>
 </p>
 <h5>Partnership</h5>
-<ol data-tight="true" class="tight">
-<li>
 <p>PiSP (Parents in School Programme)</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>increases the level of parental involvement in the school curriculum as
 well as key programmes, so as to enhance the development of social emotional
 skills and process of values inculcation in our students.</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Parent Support Group (PSG) Weekend Enrichment Classes @ Rosyth</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>provide enrichment classes to complement regular school curriculum for
-those who are interested.</p>
-</li>
-<li>
-<p>increase student motivation and foster the students’ social skills, learning
-strategies and self-confidence.</p>
-</li>
-<li>
-<p>provide safe venues for enrichment classes and enrichment resources at
-a more affordable rate.</p>
-</li>
-<li>
-<p>strengthen the partnership between the school and PSG to benefit student’s
-learning.</p>
 </li>
 </ul>
 <p></p>
