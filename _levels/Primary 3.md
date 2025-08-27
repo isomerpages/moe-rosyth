@@ -214,10 +214,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Siew Noi (Miss)</p>
+<p>Swaminathan Kiruthika
+<br>(Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_siew_noi@schools.gov.sg</p>
+<p>swaminathan_kiruthika@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Na (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>li_na@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
