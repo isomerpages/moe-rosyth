@@ -59,7 +59,7 @@ Google Play Store (Android) and follow navigation steps</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>LOA status lapses if renewal is not submitted by 31 October</p>
+<p>LOA status lapses if renewal is not submitted by 30 November each year</p>
 </li>
 <li>
 <p>Child's school place will be released to waitlisted students upon lapse</p>
@@ -81,9 +81,9 @@ capita income (PCI) ≤$750</p>
 <p>You may find out more information from the MOE <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">website</a> .</p>
 <p><strong>HOW TO APPLY</strong>
 </p>
-<p>Application forms are available from the school. Please return the completed
-form together with the required supporting documents to the school and
-our staff will get back to you.</p>
+<p>Please be informed that updated application details and procedures will
+be released in October 2025 as MOE will be implementing changes to the
+FAS application process.</p>
 <h5>3. BOOKLIST</h5>
 <p><strong>Parents may refer to the school bookshop if your child has misplaced the hardcopy booklist.</strong>
 </p>

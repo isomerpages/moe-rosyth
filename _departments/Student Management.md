@@ -13,7 +13,7 @@ variant: markdown
 
 ### Guiding Principle in Student Management
 
-In accordance to Rosyth School’s mission of maximising potential through the development of Mind, Body and Soul, the school’s Student Management Department aims to create a safe and conducive environment so that learning can be maximised. It is therefore important that all students formed positive behaviours, and respectful and caring relationships in school to uphold the highest standard of the school’s I-CARE values. This is the key purpose and function of Student Management in Rosyth School.
+In accordance to Rosyth School’s mission of nurturing lives through the development of mind, body and soul, the school’s Student Management Department aims to create a safe and conducive environment so that learning can be maximised. It is therefore important that all students formed positive behaviours, and respectful and caring relationships in school to uphold the highest standard of the school’s I-CARE values. This is the key purpose and function of Student Management in Rosyth School.
 
 <img src="/images/SM_Care1.jpg" style="width:50%">
 
