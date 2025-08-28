@@ -328,13 +328,24 @@ Managers,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lim Lorrine</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Phone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6481 2273</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_lorrie@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
