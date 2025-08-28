@@ -6,18 +6,19 @@ variant: tiptap
 ---
 <h3>Admission Matters</h3>
 <h5>GETTING TO KNOW THE SCHOOL</h5>
-<p>We appreciate your interest in Rosyth School. Regrettably, there are no
-plans to organise an open house in 2024. We encourage you to explore the
-wealth of information available on our website to gain a deeper understanding
-of the unique educational experience we offer and our school history.</p>
+<p>We appreciate your interest in Rosyth School. There are currently no plans
+for an open house. We encourage you to explore the wealth of information
+available on our website to gain a deeper understanding of the unique educational
+experience we offer and our school history.</p>
 <p>Should you have any specific queries or require further assistance, please
 feel free to reach out to us directly.</p>
 <p></p>
 <h5>APPLICATION FOR PARENT VOLUNTEER (PV) PROGRAMME</h5>
 <p></p>
-<p>Rosyth School does not recruit parent volunteers to qualify for Phase
-2B of the Primary 1 Registration Exercise, as we receive extensive support
-from our Parent Support Group for school activities and programmes.</p>
+<p>Going forward from 2025, Rosyth School does not recruit parent volunteers
+to qualify for Phase 2B of the Primary 1 Registration Exercise as we receive
+extensive support from our Parent Support Group (PSG) for various school
+activities and programmes.</p>
 <p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
 <h5>PRIMARY 1 REGISTRATION</h5>
