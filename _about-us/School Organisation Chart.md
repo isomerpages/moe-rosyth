@@ -19,7 +19,6 @@ variant: markdown
 **English Department**
 * HOD/English: Mdm Tan Nguang Leng
 * LH/English: Mdm Au Zhi Jun
-* LH/English: Ms Valentina Helen Fernandez
 
 **Mother Tongue Department**
 * HOD/MTL: Miss Tan Chia Chih
@@ -59,6 +58,7 @@ variant: markdown
 
 **Staff Development**
 * SSD: Mr Raymond Bong
+* SH/Special Projects (Professional Learning): Ms Valentina Helen Fernandez
 * Lead Teacher: Mrs Jane Grosse
 * Lead Teacher (EL): Mrs Julia Ng
 * Senior Teacher (EL): Mdm Norlela Men
@@ -74,7 +74,6 @@ variant: markdown
 * Senior Teacher (Educational Support): Mdm Fadillah Said
 
 **Student Management**
-* HOD/SM: Mr Justyn Lim
 * Dy HOD/SM: Ms Jesslyn Goh
 * SH/SWB: Mr Lim Kuan Chin (covering)
 
