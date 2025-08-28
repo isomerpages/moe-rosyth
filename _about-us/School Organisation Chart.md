@@ -32,7 +32,6 @@ variant: markdown
 
 **Science Department**
 * HOD Science: Mdm Phua Qian Hui
-* LH/Science: Mr Vincent Lee
 * LH/Science: Mdm Eileen Seow
 
 **Aesthetics Department**
