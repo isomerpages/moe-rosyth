@@ -345,7 +345,7 @@ Managers,
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_lorrie@schools.gov.sg</p>
+<p>lim_lorrine@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
