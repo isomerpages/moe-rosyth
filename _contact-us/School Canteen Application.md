@@ -4,7 +4,10 @@ permalink: /contact-us/schoolcanteen/
 description: ""
 variant: markdown
 ---
-We do not have vacancies at the moment. Thank you.
+| Type of Stall | Closing Date | Requirement |
+| -------- | -------- | -------- |
+| Malay Food Stall | 31 December 2025 | Rice/Noodle stalls are acceptable |
+
 
 ### Application Procedure
 
