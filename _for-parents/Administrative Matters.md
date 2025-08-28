@@ -45,10 +45,10 @@ Google Play Store (Android) and follow navigation steps</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email will be sent by the school to LOA parents by 31 October each year</p>
+<p>Email will be sent by the school to parents by 31 October each year</p>
 </li>
 <li>
-<p>Payment instructions will be provided upon receipt of LOA renewal applications</p>
+<p>Payment instructions will be provided during the LOA renewal applications</p>
 </li>
 <li>
 <p>Parents must update the school of any changes to their contact address
