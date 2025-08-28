@@ -5,64 +5,69 @@ description: ""
 variant: tiptap
 ---
 <h5>1. LEAVE OF ABSENCE</h5>
-<p>The Leave of Absence (LOA) scheme was implemented in 1999 to enable students
-accompanying their parents on overseas postings to maintain links with
-Singapore and their schools through allowing them to retain their existing
-school places. <strong>LOA fees</strong> are charged to defray the schools’
-administrative costs of keeping in touch with these students. The LOA fee
-of $156 is computed based on the miscellaneous fee:</p>
-<p>Monthly Miscellaneous fee $13 = Standard fee $6.50 + 2nd tier $6.50
-<br>Annual LOA Fee = $13 x 12 months = $156</p>
-<p>LOA fee is non-refundable.</p>
-<p><strong>Procedures for Application for LOA</strong>
+<p>The Leave of Absence scheme, implemented in 1999, enables students accompanying
+their parents on overseas postings to maintain links with Singapore and
+retain their existing school places. The annual LOA fee of $156 (based
+on monthly miscellaneous fee of $13 x 12 months) helps defray administrative
+costs.</p>
+<p><strong>Application Procedures</strong>
 </p>
-<p>First time applicant needs to do the following:</p>
+<p><strong>First-Time Applicants:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inform your child's Form Teacher or the school’s Admin Manager by phone
-at 6481 2273 or email rosyth_sch@schools.gov.sg</p>
+<p>Inform your child's Form Teacher or Admin Manager (phone 6481 2273 or
+email <a rel="noopener noreferrer nofollow" target="_blank">rosyth_sch@schools.gov.sg</a>)</p>
 </li>
 <li>
 <p>Complete and submit the <a href="https://go.gov.sg/application-form-for-leave-of-absence" rel="noopener noreferrer nofollow" target="_blank">online application form</a>
 </p>
 </li>
 <li>
-<p>Payment should be made in SGD by cash or cheque at the General Office.
-Cheque should be made payable to <strong>Rosyth School</strong>
+<p>Make payment via AXS:</p>
+</li>
+</ul>
+<p><strong>Payment Methods:</strong>
 </p>
-</li>
-</ul>
-<p>Renewal of LOA</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit the renewal application form together with the required payment
-to the school before 31 October each year.</p>
+<p><strong>AXS Website (e-Station):</strong>&nbsp;Visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://e-station.axs.com.sg</a>&nbsp;→
+eServices → Education/Government → Ministry of Education → "Other payment
+to schools (LOA)" → Enter child's Birth Certificate Number or Invoice Number</p>
+</li>
+<li>
+<p><strong>AXS Mobile App:</strong>&nbsp;Download from App Store (iOS) or
+Google Play Store (Android) and follow navigation steps</p>
+<p></p>
 </li>
 </ul>
-<p>Confirmation of LOA</p>
+<p><strong>LOA Renewal</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The official receipt and the approved copy of the application form will
-be mailed to the local address specified by an applicant.</p>
+<p>Email will be sent by the school to LOA parents by 31 October each year</p>
 </li>
 <li>
-<p>Parents are required to update the school for any change of contact address
-(local or overseas).</p>
+<p>Payment instructions will be provided upon receipt of LOA renewal applications</p>
 </li>
-</ul>
-<p>Termination of LOA</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Please note that LOA status will lapse if parents do not renew their application
-by 31 October of the current year. The child’s place in the school will
-be released to other children on the wait list.</p>
+<p>Parents must update the school of any changes to their contact address
+(local or overseas) and/or overseas postings</p>
 </li>
 </ul>
-<p>School Immersion for Children on LOA</p>
+<p><strong>Important Notes</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please write to us for placement of your child in the school for immersion
-at least one month in advance.</p>
+<p>LOA status lapses if renewal is not submitted by 31 October</p>
+</li>
+<li>
+<p>Child's school place will be released to waitlisted students upon lapse</p>
+</li>
+<li>
+<p>For school immersion placement, contact us at least one month in advance
+(phone 6481 2273 or email <a rel="noopener noreferrer nofollow" target="_blank">rosyth_sch@schools.gov.sg</a>)</p>
+<p></p>
 </li>
 </ul>
 <h5>2. FINANCIAL ASSISTANCE</h5>
