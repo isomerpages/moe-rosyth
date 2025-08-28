@@ -12,7 +12,6 @@ variant: markdown
 * Member: Mr Tan Wee Pin
 * Member: Mr Yap Voon Kian
 * Member: Mrs Cherie Tseng
-* Member: Ms Priya Jean Alexander
 * Member: Mdm Shalini Krishnan Ramakrishnan
 * Member: Prof Lai Kim Fatt
 * Member: Mr Chee Kuan Tat, Ken
