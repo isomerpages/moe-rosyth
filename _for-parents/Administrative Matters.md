@@ -59,7 +59,7 @@ Google Play Store (Android) and follow navigation steps</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>LOA status lapses if renewal is not submitted by 31 October</p>
+<p>LOA status lapses if renewal is not submitted by 30 November each year</p>
 </li>
 <li>
 <p>Child's school place will be released to waitlisted students upon lapse</p>
