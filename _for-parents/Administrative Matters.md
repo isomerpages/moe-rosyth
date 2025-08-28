@@ -227,14 +227,14 @@ form teacher in advance so that the staff can make the necessary arrangements.
 Please also arrange with your child on the timing to meet you at the GO.
 The GO staff will then assist with the early dismissal for your child upon
 your arrival.</p>
-<p><strong><em>1.6 HOAX CALLS</em></strong> 
-<br>The Singapore Police Force has over the past years issued warnings about
+<h5>5. HOAX CALLS</h5>
+<p>The Singapore Police Force has over the past years issued warnings about
 “Phone Kidnapping Scam” calls. If you should receive such a call about
 your child during school hours, please contact us immediately to ascertain
 the safety of your child. If the main office line is busy, kindly contact
 our Operations Managers <strong>Mr Quek at 9656 3932</strong> or <strong>Mr Kng at 9755 8132</strong>.</p>
-<p><strong><em>1.7 INSURANCE</em></strong> 
-<br>As part of our student well-being efforts, the school has purchased insurance
+<h5>6. INSURANCE</h5>
+<p>As part of our student well-being efforts, the school has purchased insurance
 to provide basic coverage for our students in case of accidents. You may
 refer to the NTUC Income <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 the policy coverage and benefits. In the event of any claim, you have to
