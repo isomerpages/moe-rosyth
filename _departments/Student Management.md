@@ -8,7 +8,6 @@ variant: markdown
 
 | Student Management | | |
 | -------- | -------- | -------- |
-| HOD (SM) | Mr Justyn Lim | justyn_lim@schools.gov.sg |
 | Dy HOD (SM) | Mdm Jesslyn Goh | goh_jielin_jesslyn@schools.gov.sg |
 | SH (SWB) - Covering | Mr Lim Kuan Chin | lim_kuan_chin@schools.gov.sg |
 

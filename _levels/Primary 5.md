@@ -225,17 +225,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Usharani d/o Sivarajoo (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>usharani_sivarajoo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Anparasi d/o Velalar Murugian (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">

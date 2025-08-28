@@ -130,7 +130,7 @@ will be admitted first ahead of Permanent Resident children before home-school
 distance is considered. Should the number of SC applications exceed the
 number of vacancies in a specific phase, places will be balloted according
 to the home-school distance category in the following order of priority:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Children living within 1km of the school of choice</p>
 </li>
@@ -140,7 +140,7 @@ to the home-school distance category in the following order of priority:</p>
 <li>
 <p>Children living outside 2km of the school of choice</p>
 </li>
-</ol>
+</ul>
 <p><strong>Request for School Record</strong> 
 <br>Parents may retrieve past years’ PSLE exam results online at <a href="http://www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture portal</a> or
 find out from Singapore Examinations and Assessment Board &nbsp;<a href="https://www.seab.gov.sg/home/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank">how you can obtain past years' examination results</a>
@@ -162,17 +162,65 @@ visit <a href="https://www.moe.gov.sg/international-students" rel="noopener nore
 more information. <strong>The school does not admit any Non SC / Non PR children directly.</strong>
 </p>
 <h5>TRANSFER TO ROSYTH SCHOOL (FOR SC OR SPR)</h5>
-<p>The application is only applicable to a child who is a Singapore Citizen
-or Singapore Permanent Resident. For a child who is not a Singaporean Citizen
-or Singapore Permanent Resident, please refers to International students
-above.</p>
-<p>At present, we have a full student enrolment and do not have any vacancy
-for transfer. If you wish to transfer your child to our school, please
-apply to place him/her on our wait list. Application form with supporting
-documents can be submitted via email to <a href="mailto:Rosyth_Sch@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosyth_sch@schools.gov.sg</a> by
-1 November to be considered in the current year for transfer/admission.
-The application will lapse after one year and parents will need to submit
-a fresh application yearly. Incomplete submission of documents will not
-be considered. The school will contact you in November/December if you
-are successful in obtaining a place in our school. <a href="/files/wait%20list%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Click</a> to download
-Wait List Application Form.</p>
+<p><strong>Student Transfer and Waitlist Information</strong>
+</p>
+<p>Please note that vacancies are rare and limited. Admission via the waitlist
+is at the discretion of the school.</p>
+<p><strong>Applying for the Waitlist</strong>
+</p>
+<p>If you wish to place your child on the waitlist for admission consideration,
+please:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete and submit the <a href="https://go.gov.sg/rs-wait-list-application" rel="noopener nofollow" target="_blank">online Waitlist Application Form</a>.</p>
+</li>
+<li>
+<p>For all levels, submit application with all documents by 1 November for
+current year consideration.</p>
+</li>
+<li>
+<p>For P1 placement in the following year, applications submitted by 1 November
+in the current year will be valid till 1 November of the following year
+(e.g. for P1 admission in 2026, applications submitted on 1 October 2025
+will be valid till 1 November 2026).</p>
+</li>
+</ul>
+<p><strong>Important Notes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications are valid for one year only. The following year’s applications
+will open in January (e.g., &nbsp;for admission in 2027, applications can
+be submitted from January 2026 till 1 November 2026).</p>
+</li>
+<li>
+<p>Applications received between 2 November to 31 December will be processed
+in January the following year (e.g.,&nbsp; applications submitted on 15
+November 2025 will be considered for transfer from 1 January 2026 till
+1 November 2026).</p>
+</li>
+<li>
+<p>Incomplete applications (i.e., missing documents or information) will
+not be considered.</p>
+</li>
+<li>
+<p>Parents may provide updated assessment results (SA1, SA2) as they become
+available during the academic year.</p>
+</li>
+<li>
+<p>For amended or duplicate applications, only the latest submission will
+be considered.</p>
+</li>
+<li>
+<p>The school will contact applicants by November/December only <em>if a vacancy arises AND your application is successful.</em>
+</p>
+</li>
+<li>
+<p>Once the waitlist application is sent, it is not necessary to call to
+check status as the school will call you when there is a vacancy.</p>
+</li>
+<li>
+<p>MP referrals or appeals are not required for school admission consideration.</p>
+</li>
+</ul>
+<p></p>
