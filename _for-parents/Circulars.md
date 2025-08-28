@@ -77,25 +77,4 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>Updates on School Activities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/investiture.pdf" rel="noopener noreferrer nofollow" target="_blank">(2023) Student Leaders' Investiture</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Day1P1.pdf" rel="noopener noreferrer nofollow" target="_blank">(2023) Day 1 for P1 Rosythians</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P1P3Buddy.pdf" rel="noopener noreferrer nofollow" target="_blank">(2023) P1 and P3 Buddy Programme</a>
-</p>
-</li>
-<li>
-<p><a href="/files/LNYCelebrations.pdf" rel="noopener noreferrer nofollow" target="_blank">(2023) LNY Celebrations</a>
-</p>
-<p></p>
-</li>
-</ul>
 <p></p>
