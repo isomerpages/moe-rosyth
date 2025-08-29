@@ -18,6 +18,14 @@ variant: markdown
 
 **Forms for Parents**
 * [Interbank Giro Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
-
+* [Edusave Standing Order](https://form.gov.sg/68511c58e85a5dd195cf326f)
+: Parents of Singapore citizens can apply to use your child’s Edusave account to pay for school and enrichment programme fees.
+* [MOE GIRO scheme](https://www.moe.gov.sg/financial-matters/fees/egiro)
+: Parents can apply for the scheme, which provides a convenient and hassle-free arrangement, and eliminate the need for your child to bring cash to school.
+* [Waitlist Application Form](https://go.gov.sg/rs-wait-list-application)
+: Parents can complete and submit by 1 November 2025. Please note that vacancies are rare and limited. Admission via the waitlist is at the discretion of the school.
+* [Leave of Absence](https://go.gov.sg/application-form-for-leave-of-absence)
+: Parents can apply and submit for your child to accompany you on overseas postings. This will allow the child to maintain links with Singapore and retain their existing school places.
+* Financial Assistance: To be updated soon.
 
 ![](/images/FORMS%20BANNER.png)
