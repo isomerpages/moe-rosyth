@@ -2,6 +2,7 @@
 title: School Alumni Association
 permalink: /about-us/rosyth-school-alumni-association/
 description: ""
+variant: markdown
 ---
 <img src="/images/Capture.jpg" style="width:70%">
 
@@ -17,3 +18,5 @@ The boys and girls of Rosyth School will march in thousands strong ...
 We know too much of a good thing can be bad but not always. Rosyth is the exception.We know you want your kids to experience the best in life just like you did. Well, you are right.
 
 Old traditions and new beginnings are what we offer.
+
+![](/images/RSAA_Flyer__Updated_.png)
