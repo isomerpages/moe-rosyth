@@ -21,19 +21,17 @@ extensive support from our Parent Support Group (PSG) for various school
 activities and programmes.</p>
 <p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
-<h5>PRIMARY 1 REGISTRATION</h5>
+<h5></h5>
 <p><strong><em>2024 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
 </p>
 <p>Parents may refer to Ministry of Education (MOE)&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;for
 information regarding Primary One Registration Exercise.</p>
 <p><strong>Rosyth School P1 Registration Exercise Statistics</strong>
 </p>
-<p></p>
-<table style="minWidth: 175px">
+<p>2025 Registration Results</p>
+<p>Total Available Vacancies: 270</p>
+<table style="minWidth: 100px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -42,85 +40,72 @@ information regarding Primary One Registration Exercise.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>Phase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vacancy available</strong>
-</p>
+<p>Vacancies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Places taken up</strong>
-</p>
+<p>Total Applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p>Balloting Details</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Phase 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phase 2A</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phase 2A2</p>
-<p>(merge under Phase 2A)</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phase 2B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phase 2C</p>
+<p>All eligible applicants were offered a place</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>Phase 2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>270</p>
+<p>76</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>120</p>
+<p>110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>86
-<br>
-<br>Balloting Outside 2km: 32 applicants vying for 18 vacancies</p>
+<p>Yes - SC between 1km to 2km (35 applicants, 29 vacancies)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20
-<br>
-<br>Balloting within 1km: 28 applicants</p>
+<p>31</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>44
-<br>
-<br>Balloting within 1km: 124 applicants</p>
+<p>Yes – SC within 1km (29 applicants, 20 vacancies)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phase 2C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>132</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yes – SC within 1km (122 applicants, 42 vacancies)</p>
 </td>
 </tr>
 </tbody>
@@ -140,12 +125,14 @@ to the home-school distance category in the following order of priority:</p>
 </li>
 <li>
 <p>Children living outside 2km of the school of choice</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Request for School Record</strong> 
 <br>Parents may retrieve past years’ PSLE exam results online at <a href="http://www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture portal</a> or
 find out from Singapore Examinations and Assessment Board &nbsp;<a href="https://www.seab.gov.sg/home/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank">how you can obtain past years' examination results</a>
 </p>
+<p></p>
 <h5>INTERNATIONAL STUDENTS</h5>
 <p>Non-Singapore Citizen (SC) / non-Permanent Resident (PR) children who
 wish to seek admission to Primary One (P1) are required to undergo a two-step
