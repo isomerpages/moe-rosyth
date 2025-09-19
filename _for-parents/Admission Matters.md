@@ -22,7 +22,7 @@ activities and programmes.</p>
 <p></p>
 <h5>PRIMARY 1 REGISTRATION</h5>
 <h5></h5>
-<p><strong><em>2024 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
+<p><strong><em>2025 PRIMARY 1 REGISTRATION EXERCISE</em></strong>
 </p>
 <p>Parents may refer to Ministry of Education (MOE)&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;for
 information regarding Primary One Registration Exercise.</p>
