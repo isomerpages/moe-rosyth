@@ -39,7 +39,8 @@ the assigned tasks for the day.</p>
 </p>
 </li>
 <li>
-<p>[P4 GE Daily Lesson Guide – 25 Sep]</p>
+<p><a href="/files/HBL Lesson Guide/2025 HBL/P4_GE_HBL_Lesson_Guide___25_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[P4 GE Daily Lesson Guide – 25 Sep]</a>
+</p>
 </li>
 </ul>
 <hr>
