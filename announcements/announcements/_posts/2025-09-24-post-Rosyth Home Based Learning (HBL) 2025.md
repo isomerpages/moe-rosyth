@@ -49,13 +49,16 @@ the assigned tasks for the day.</p>
 </p>
 <ul>
 <li>
-<p>[P3 Daily Lesson Guide – 26 Sep]</p>
+<p><a href="/files/HBL Lesson Guide/2025 HBL/P3_HBL_Lesson_Guide___26_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[P3 Daily Lesson Guide – 26 Sep]</a>
+</p>
 </li>
 <li>
-<p>[P4 Daily Lesson Guide – 26 Sep]</p>
+<p><a href="/files/HBL Lesson Guide/2025 HBL/P4_HBL_Lesson_Guide___26_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[P4 Daily Lesson Guide – 26 Sep]</a>
+</p>
 </li>
 <li>
-<p>[P4 GE Daily Lesson Guide – 26 Sep]</p>
+<p><a href="/files/HBL Lesson Guide/2025 HBL/P4_GE_HBL_Lesson_Guide___26_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">[P4 GE Daily Lesson Guide – 26 Sep]</a>
+</p>
 </li>
 </ul>
 <hr>
