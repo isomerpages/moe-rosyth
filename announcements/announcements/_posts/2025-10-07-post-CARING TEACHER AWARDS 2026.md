@@ -27,7 +27,7 @@ with support from <strong>ExxonMobil Asia Pacific Pte Ltd</strong> and the <stro
 <h3>💬 Nominate a Caring Teacher</h3>
 <p>We invite all <strong>parents, students, and alumni</strong> to nominate
 teachers who have made a positive impact through their care and dedication.</p>
-<p>👉 <strong><a href="#" class="decorated-link" rel="noopener" target="_blank">Submit your nomination here</a></strong>
+<p>👉 <strong><a href="https://www.cta.nie.edu.sg/nominate" class="decorated-link" rel="noopener" target="_blank">Submit your nomination here</a></strong>
 <br>
 </p><a class="isomer-image-wrapper" href="https://www.cta.nie.edu.sg/nominate"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/cta_2026.jpg"></a>
 <p></p>
