@@ -2,7 +2,7 @@ collections:
   p1-orientation:
     output: true
     order:
-      - Example Title.md
+      - Administrative Matters for 2026 P1 Intake.md
       - My School, Rosyth School.md
       - Learn with Passion/.keep
       - Learn with Passion/The Subjects We Learn.md
