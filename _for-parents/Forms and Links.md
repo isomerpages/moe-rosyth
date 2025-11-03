@@ -26,6 +26,6 @@ variant: markdown
 : Parents can complete and submit by 1 November 2025. Please note that vacancies are rare and limited. Admission via the waitlist is at the discretion of the school.
 * [Leave of Absence](https://go.gov.sg/application-form-for-leave-of-absence)
 : Parents can apply and submit for your child to accompany you on overseas postings. This will allow the child to maintain links with Singapore and retain their existing school places.
-* Financial Assistance: To be updated soon.
-
+* [MOE Financial Assistance Scheme](https://go.gov.sg/moe-efasggas)
+: The objective of the MOE Financial Assistance Scheme (MOE FAS) is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 ![](/images/FORMS%20BANNER.png)
