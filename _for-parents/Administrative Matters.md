@@ -71,19 +71,48 @@ Google Play Store (Android) and follow navigation steps</p>
 </li>
 </ul>
 <h5>2. FINANCIAL ASSISTANCE</h5>
-<p>The Ministry of Education provides financial assistance to needy Singapore
-Citizen students in Government, Government-aided schools and Institute
-of Higher Learning so that all Singaporeans, regardless of their financial
-background, can benefit from the best opportunities in education.</p>
-<p>A student is eligible for MOE FAS if he or she meets either of the following
-criteria: Monthly gross household income (GHI) ≤$3,000, or a monthly per
-capita income (PCI) ≤$750</p>
-<p>You may find out more information from the MOE <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">website</a> .</p>
+<p><strong>OBJECTIVE</strong>
+</p>
+<p>The objective of the MOE Financial Assistance Scheme (MOE FAS) is to help
+financially needy Singaporean students in Government and Government-aided
+schools to meet basic schooling expenses.</p>
+<p><strong>ELIGIBILITY CRITERIA</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The student must be a Singapore citizen enrolled in a Government or Government-aided
+school as a full-time student and must not be enrolled in any other schools
+or institutes of higher learning.</p>
+</li>
+<li>
+<p>The student must attend school regularly. As financial assistance is provided
+to assist students in paying for expenses in connection with attending
+school, a student who fails to attend school regularly for any reason (including
+but not limited to Leave of Absence, medical leave, or hospitalisation
+leave) shall have his eligibility for financial assistance reassessed.
+In such circumstances, MOE is entitled to withdraw, reduce and/or withhold
+financial assistance without providing further reasons.</p>
+</li>
+<li>
+<p>The student must not be receiving financial assistance provided by more
+than one MOE funded school or institute of higher learning.</p>
+</li>
+<li>
+<p>The student must meet either one of the following criteria:</p>
+</li>
+</ul>
+<p>a. Gross household income (GHI) as at the time of application does not
+exceed $4,000 per month; or</p>
+<p>b. Household per capita income (PCI) as at the time of application does
+not exceed $1,000 per month. PCI = Monthly GHI / No. of members in the
+same household.</p>
+<p>You can find more information on the MOE <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">website</a>.</p>
 <p><strong>HOW TO APPLY</strong>
 </p>
-<p>Please be informed that updated application details and procedures will
-be released in October 2025 as MOE will be implementing changes to the
-FAS application process.</p>
+<p>Parents/Guardians can apply for the financial assistance through the Parents
+Gateway app services or <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+<p></p>
 <h5>3. BOOKLIST</h5>
 <p><strong>Parents may refer to the school bookshop if your child has misplaced the hardcopy booklist.</strong>
 </p>
