@@ -71,12 +71,12 @@ Google Play Store (Android) and follow navigation steps</p>
 </li>
 </ul>
 <h5>2. FINANCIAL ASSISTANCE</h5>
-<p><strong>OBJECTIVE </strong>
+<p><strong>OBJECTIVE</strong>
 </p>
 <p>The objective of the MOE Financial Assistance Scheme (MOE FAS) is to help
 financially needy Singaporean students in Government and Government-aided
 schools to meet basic schooling expenses.</p>
-<p><strong>ELIGIBILITY CRITERIA </strong>
+<p><strong>ELIGIBILITY CRITERIA</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
