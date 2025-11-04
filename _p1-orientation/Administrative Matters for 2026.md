@@ -7,11 +7,10 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>P1 Booklist (2026)</strong>
-</p>
-<p>Complete booklist for Primary 1 students with online and onsite purchasing
+<br>Complete booklist for Primary 1 students with online and onsite purchasing
 options, including ordering timelines, delivery schedules, and vendor contact
-details.</p>
-<p><a href="/files/2026 P1 Orientation/Rosyth_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
+details.
+<br>Attachment: <a href="/files/2026 P1 Orientation/Rosyth_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
 </p>
 <p></p>
 </li>
@@ -20,6 +19,7 @@ details.</p>
 <br>Common questions about school routines, dismissal arrangements, recess,
 belongings, and settling-in support.
 <br>Attachment: <a href="/files/FREQUENTLY_ASKED_QUESTIONS__FAQS_.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions (FAQs)</a>
+<br>Chatbot: <a href="https://ask.gov.sg/rosyth" rel="noopener nofollow" target="_blank">https://ask.gov.sg/rosyth</a>
 </p>
 <p></p>
 </li>
@@ -49,8 +49,7 @@ to the primary school environment.
 </li>
 <li>
 <p><strong>School Dental Services</strong>
-</p>
-<p>Information about dental screenings for Primary 1, 3, and 5 students,
+<br>Information about dental screenings for Primary 1, 3, and 5 students,
 including treatment scope and consent requirements. Watch the introductory
 video at <a href="https://go.gov.sg/schdentalservices" rel="noopener nofollow" target="_blank">https://go.gov.sg/schdentalservices</a> and
 learn more about the programme at <a href="https://www.healthhub.sg/programmes/school_dental_programme" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/school_dental_programme</a>.</p>
@@ -58,31 +57,27 @@ learn more about the programme at <a href="https://www.healthhub.sg/programmes/s
 </li>
 <li>
 <p><strong>Student Care Services — Kidz Treehouse @ Rosyth School</strong>
-</p>
-<p>Enrolment details for after-school student care services, including application
-procedures, fees, and programme information.</p>
-<p><a href="/files/2026 P1 Orientation/Kidz_Treehouse_Newsletter_v2.pdf" rel="noopener nofollow" target="_blank">Kidz Treehouse Newsletter</a>
-</p>
-<p><a href="/files/2026 P1 Orientation/Kidz_Treehouse_Registration_Form.pdf" rel="noopener nofollow" target="_blank">Kidz Treehouse Registration Form</a>
+<br>Enrolment details for after-school student care services, including application
+procedures, fees, and programme information.
+<br>Attachment: <a href="/files/2026 P1 Orientation/Kidz_Treehouse_Newsletter_v2.pdf" rel="noopener nofollow" target="_blank">Kidz Treehouse Newsletter</a>
+<br>Attachment: <a href="/files/2026 P1 Orientation/Kidz_Treehouse_Registration_Form.pdf" rel="noopener nofollow" target="_blank">Kidz Treehouse Registration Form</a>
 </p>
 <p></p>
 </li>
 <li>
 <p><strong>POSB Smart Buddy Programme</strong>
-</p>
-<p>Introduction to the digital payment and savings programme for students,
+<br>Introduction to the digital payment and savings programme for students,
 featuring contactless payment options, spending tracking, savings goals,
-and financial literacy development tools.</p>
-<p><a href="/files/2026 P1 Orientation/POSB_Smart_Buddy.pdf" rel="noopener nofollow" target="_blank">POSB Smart Buddy</a>
+and financial literacy development tools.
+<br>Attachment: <a href="/files/2026 P1 Orientation/POSB_Smart_Buddy.pdf" rel="noopener nofollow" target="_blank">POSB Smart Buddy</a>
 </p>
 <p></p>
 </li>
 <li>
 <p><strong>School Bus Service Registration for Primary 1 (2026)</strong>
-</p>
-<p>Registration information and requirements for school bus services, including
-routes, rates, and submission deadlines for transport arrangements.</p>
-<p><a href="/files/2026 P1 Orientation/RS_2026_Registration_Form_P1___4_N___.pdf" rel="noopener nofollow" target="_blank">School Bus Service Registration Form</a>
+<br>Registration information and requirements for school bus services, including
+routes, rates, and submission deadlines for transport arrangements.
+<br>Attachment: <a href="/files/2026 P1 Orientation/RS_2026_Registration_Form_P1___4_N___.pdf" rel="noopener nofollow" target="_blank">School Bus Service Registration Form</a>
 </p>
 </li>
 </ul>
