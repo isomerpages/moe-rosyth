@@ -11,7 +11,7 @@ description: ""
 <p>Complete booklist for Primary 1 students with online and onsite purchasing
 options, including ordering timelines, delivery schedules, and vendor contact
 details.</p>
-<p><a href="/files/2026 P1 Orientation/Rosyth_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist </a>
+<p><a href="/files/2026 P1 Orientation/Rosyth_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 Primary 1 Booklist</a>
 </p>
 <p></p>
 </li>
@@ -82,9 +82,8 @@ and financial literacy development tools.</p>
 </p>
 <p>Registration information and requirements for school bus services, including
 routes, rates, and submission deadlines for transport arrangements.</p>
-</li>
-<li>
-<p></p>
+<p><a href="/files/2026 P1 Orientation/RS_2026_Registration_Form_P1___4_N___.pdf" rel="noopener nofollow" target="_blank">School Bus Service Registration Form</a>
+</p>
 </li>
 </ul>
 <p></p>
