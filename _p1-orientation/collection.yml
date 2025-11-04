@@ -2,7 +2,6 @@ collections:
   p1-orientation:
     output: true
     order:
-      - Administrative Matters for 2026 P1 Intake.md
       - My School, Rosyth School.md
       - Learn with Passion/.keep
       - Learn with Passion/The Subjects We Learn.md
@@ -18,3 +17,4 @@ collections:
       - Lead with Vision/Leadership Opportunities.md
       - Lead with Vision/Co Curricular Activities.md
       - Lead with Vision/Dismissal Arrangements.md
+      - Administrative Matters for 2026.md
