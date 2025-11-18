@@ -34,9 +34,7 @@ Creators who think critically and creatively to solve authentic problems,
 act with empathy and design purposeful solutions that benefit others.</p>
 <p>The programme emphasises that innovation is not just invention, but finding
 meaning and joy in creating value for the community.</p>
-<p></p>
 <p>Below is a sample lesson that the P1s will go through.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/innop13.jpg">
 </div>
@@ -57,10 +55,5 @@ the group!</p>
 </div>
 <p>In groups, students explain their bridge design and stress test their
 bridges.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>built.&nbsp;contribute meaningfully to others.</p>
