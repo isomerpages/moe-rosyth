@@ -24,7 +24,7 @@ are good at, what the world needs, and what you can be valued for.</p>
 while applying innovative thinking to contribute meaningfully to others.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
 <p></p>
 <p><strong>Developing Innovative Creators</strong>
