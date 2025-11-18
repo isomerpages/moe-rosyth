@@ -21,7 +21,7 @@ are good at, what the world needs, and what you can be valued for.</p>
 <p>•Four blades inspired by Ikigai principles</p>
 <p>•A lollipop-shaped core representing the Rosyth 7E Innovation Protocol</p>
 <p>Through this framework, students explore their strengths and interests
-while applying innovative thinking to</p>
+while applying innovative thinking to contribute meaningfully to others.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
@@ -41,7 +41,7 @@ meaning and joy in creating value for the community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/innop13.jpg">
 </div>
 <p>As a class, students establish what constitutes a strong bridge and how
-bridges across the world are</p>
+bridges across the world are built.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/innop14.jpg">
 </div>
