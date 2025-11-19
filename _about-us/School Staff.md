@@ -761,7 +761,8 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:quek_kim_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kim_hoe@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -772,7 +773,8 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kng_ter_sern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kng_ter_sern@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
