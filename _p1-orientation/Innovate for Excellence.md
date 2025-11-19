@@ -55,5 +55,3 @@ the group!</p>
 </div>
 <p>In groups, students explain their bridge design and stress test their
 bridges.</p>
-<p></p>
-<p>built.&nbsp;contribute meaningfully to others.</p>
