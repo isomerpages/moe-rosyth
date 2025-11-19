@@ -191,7 +191,7 @@ variant: tiptap
 <p>Mdm Tan Nguang Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English Language</p>
+<p>HOD/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -224,7 +224,7 @@ variant: tiptap
 <p>Mdm Phua Qian Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -285,119 +285,281 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Ansheng Victor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Bong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm See Chui Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Au Zhi Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dy HOD/EdTech
+<br>LH/English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jesslyn Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dy HOD/SM</p>
+<p>LH/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Laurene Danker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (P1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chen Jing'er</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (P2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lin Weishan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anna Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shoba Jaganathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Lee Chee Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chan Xiao Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Wai Kin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kian Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Eileen Seow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Bernard Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Roshan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/PE&amp;CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Leong Mok Kam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Valentina Helen Fernandez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Special Projects (Professional Learning)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kuan Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/SWB</p>
+<p>(covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Yiling Eileen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CCE&amp;VIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Azianah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sudheesh Balakrishna Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/NE &amp; SS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>Miss Laurene Danker | Asst Year Head (P1) | Mdm Chen Jing'er | Asst Year
-Head (P2) | Mdm Lin Weishan | Asst Year Head (P3) | Mdm Anna Chen | Asst
-Year Head (P4) | Mdm Shoba Jaganathan | Asst Year Head (P5) | Mr Vincent
-Lee Chee Mun | Asst Year Head (P6) |</p>
-<p><strong>English Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>HOD/English:</p>
-</li>
-<li>
-<p>LH/English: Mdm Au Zhi Jun</p>
-</li>
-</ul>
-<p><strong>Mother Tongue Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>:</p>
-</li>
-<li>
-<p>LH/Chinese: Miss Chan Xiao Shan</p>
-</li>
-<li>
-<p>LH/Chinese: Mdm Chan Wai Kin</p>
-</li>
-</ul>
-<p><strong>Mathematics Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>:</p>
-</li>
-<li>
-<p>LH/Mathematics: Mr Tan Kian Tiong</p>
-</li>
-<li>
-<p>LH/Mathematics: Ms Jesslyn Goh</p>
-</li>
-</ul>
-<p><strong>Science Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>:</p>
-</li>
-<li>
-<p>LH/Science: Mdm Eileen Seow</p>
-</li>
-</ul>
-<p><strong>Aesthetics Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>:</p>
-</li>
-<li>
-<p>SH/Music: Mr Bernard Soh</p>
-</li>
-</ul>
-<p><strong>Physical Education Department</strong>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p></p>
-</li>
-<li>
-<p>SH/PE&amp;CCA: Mr Mohd Roshan</p>
-</li>
-</ul>
-<p><strong>Gifted Education Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>:</p>
-</li>
-<li>
-<p>:</p>
-</li>
-</ul>
-<p><strong>Innovation Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-<p><strong>EdTech Department</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>HOD/EdTech: Mr Chew Ansheng Victor</p>
-</li>
-<li>
-<p>Dy HOD EdTech: Ms Au Zhi Jun</p>
-</li>
-<li>
-<p>SH/EdTech: Miss Leong Mok Kam</p>
-</li>
-<li>
-<p>SH/EdTech: Mr Joshua Wong</p>
-</li>
-</ul>
-<p><strong>Staff Development</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SSD: Mr Raymond Bong</p>
-</li>
-<li>
-<p>SH/Special Projects (Professional Learning): Ms Valentina Helen Fernandez</p>
 </li>
 <li>
 <p>Lead Teacher: Mrs Jane Grosse</p>
@@ -443,26 +605,26 @@ Lee Chee Mun | Asst Year Head (P6) |</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dy HOD/SM: Ms Jesslyn Goh</p>
+<p>:</p>
 </li>
 <li>
-<p>SH/SWB: Mr Lim Kuan Chin (covering)</p>
+<p>:</p>
 </li>
 </ul>
 <p><strong>Character &amp; Citizenship Education</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>HOD/CCE: Mdm See Chui Geok</p>
+<p>:</p>
 </li>
 <li>
-<p>SH/CCE&amp;VIA: Mdm Lim Yiling Eileen</p>
+<p></p>
 </li>
 <li>
-<p>SH/Student Development: Mdm Nur Azianah</p>
+<p>:</p>
 </li>
 <li>
-<p>SH/NE &amp; SS: Mr Sudheesh Balakrishna Pillai</p>
+<p>:</p>
 </li>
 </ul>
 <p><strong>Year Heads and Assistant YHs</strong>
