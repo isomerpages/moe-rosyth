@@ -4,24 +4,48 @@ permalink: /about-us/school-organisation-chart/
 description: ""
 variant: markdown
 ---
-**School Leaders**
-* Principal: Mr Suraj Nair Venugopal
-* Vice-Principal (Academic): Mdm Tan Lay Wah
-* Vice-Principal (Academic): Ms Kwan Ruiying Karen
-* Vice-Principal (Administration): Mr Tan Boon Seng
+### School Leaders
 
-**School Admin Team**
-* Admin Manager 1: Mdm Lee Hwee Ching
-* Admin Manager 2: Mdm Lorrine Lim
-* Operations Manager: Mr Quek Kim Hoe
-* Operations Manager: Mr Kng Ter Sern
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+|  Mr Suraj Nair Venugopal    | Principal     | suraj_nair_venugopal@schools.gov.sg    |
+Mdm Tan Lay Wah | Vice-Principal (Academic) | tan_lay_wah@schools.gov.sg
+Ms Kwan Ruiying Karen | Vice-Principal (Academic) | kwan_ruiying_karen@schools.gov.sg
+ Mr Tan Boon Seng | Vice-Principal (Administration) | tan_boon_seng@schools.gov.sg
+
+### School Admin Team
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+Mdm Lee Hwee Ching | Admin Manager 1 | 
+Mdm Lorrine Lim | Admin Manager 2 |
+Mr Quek Kim Hoe |  Operations Manager | 
+Mr Kng Ter Sern | Operations Manager
+
+### Key Personnel
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+Mrs May Soh | Year Head (P1 & P2) |
+Mdm Tang May Ling | Year Head (P3 & P4) |
+Miss Lim Swee Ching | Year Head (P5 & P6) |
+Mdm Tan Nguang Leng | HOD English Language |
+Miss Tan Chia Chih | HOD/MTL |
+
+
+
+Miss Laurene Danker | Asst Year Head (P1) |
+Mdm Chen Jing'er | Asst Year Head (P2) |
+Mdm Lin Weishan | Asst Year Head (P3) |
+Mdm Anna Chen | Asst Year Head (P4) |
+Mdm Shoba Jaganathan | Asst Year Head (P5) |
+Mr Vincent Lee Chee Mun | Asst Year Head (P6) |
+
 
 **English Department**
-* HOD/English: Mdm Tan Nguang Leng
+* HOD/English: 
 * LH/English: Mdm Au Zhi Jun
 
 **Mother Tongue Department**
-* HOD/MTL: Miss Tan Chia Chih
+* : 
 * LH/Chinese: Miss Chan Xiao Shan
 * LH/Chinese: Mdm Chan Wai Kin
 
@@ -83,13 +107,5 @@ variant: markdown
 * SH/NE & SS: Mr Sudheesh Balakrishna Pillai
 
 **Year Heads and Assistant YHs**
-* YH/P1-2: Mrs May Soh
-* YH/P3-4: Mdm Tang May Ling
-* YH/P5-6: Miss Lim Swee Ching
-* AYH/P1: Miss Laurene Danker
-* AYH/P2: Mdm Chen Jing'er
-* AYH/P3 : Mdm Lin Weishan
-* AYH/P4: Mdm Anna Chen
-* AYH/P5: Mdm Shoba Jaganathan
-* AYH/P6: Mr Vincent Lee Chee Mun
+
 * Senior School Counsellor: Mdm Mok Swee Peng Pauline
