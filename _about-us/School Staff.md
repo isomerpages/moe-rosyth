@@ -31,7 +31,9 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suraj_nair_venugopal@schools.gov.sg</p>
+<p><a href="mailto:suraj_nair_venugopal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suraj_nair_venugopal@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -42,7 +44,9 @@ variant: tiptap
 <p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_lay_wah@schools.gov.sg</p>
+<p><a href="mailto:tan_lay_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_wah@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,7 +57,9 @@ variant: tiptap
 <p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kwan_ruiying_karen@schools.gov.sg</p>
+<p><a href="mailto:kwan_ruiying_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_ruiying_karen@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -64,7 +70,9 @@ variant: tiptap
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_boon_seng@schools.gov.sg</p>
+<p><a href="mailto:tan_boon_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_seng@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
