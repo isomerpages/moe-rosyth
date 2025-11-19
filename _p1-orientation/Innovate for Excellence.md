@@ -1,7 +1,7 @@
 ---
 title: Innovate for Excellence
 permalink: /innovate-for-excellence/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p></p>
