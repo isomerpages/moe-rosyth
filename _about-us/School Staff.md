@@ -379,7 +379,7 @@ variant: tiptap
 <p>Miss Chan Xiao Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/Chinese</p>
+<p>LH/Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">CHAN_Xiao_Shan@schools.gov.sg</a>
@@ -391,7 +391,7 @@ variant: tiptap
 <p>Mdm Chan Wai Kin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/Chinese</p>
+<p>LH/Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_kin@schools.gov.sg</a>
