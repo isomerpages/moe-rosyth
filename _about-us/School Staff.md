@@ -69,71 +69,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>School Admin Team</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Hwee Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lorrine Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Quek Kim Hoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kng Ter Sern</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Key Personnel</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -554,84 +489,233 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>Teacher Leaders</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jane Grosse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Julia Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norlela Men</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Fiona Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</li>
-<li>
-<p>Lead Teacher: Mrs Jane Grosse</p>
-</li>
-<li>
-<p>Lead Teacher (EL): Mrs Julia Ng</p>
-</li>
-<li>
-<p>Senior Teacher (EL): Mdm Norlela Men</p>
-</li>
-<li>
-<p>Senior Teacher (CL): Mrs Fiona Ng</p>
-</li>
-<li>
-<p>Senior Teacher (CL): Mdm Zhang Cong</p>
-</li>
-<li>
-<p>Senior Teacher (ML); Mdm Siti Hidayah</p>
-</li>
-<li>
-<p>Senior Teacher (Math): Miss Serene Yeo</p>
-</li>
-<li>
-<p>Senior Teacher (Math): Mdm Lin Eng Wah Shannen</p>
-</li>
-<li>
-<p>Senior Teacher (Math): Mr Lee Kheng Tat Edmond</p>
-</li>
-<li>
-<p>Senior Teacher (Science): Mdm Fairus Bte Atan</p>
-</li>
-<li>
-<p>Senior Teacher (Science): Mdm Goh Tiang Ai</p>
-</li>
-<li>
-<p>Senior Teacher (PE): Mr Mohd Zailani</p>
-</li>
-<li>
-<p>Senior Teacher (Educational Support): Mdm Fadillah Said</p>
-</li>
-</ul>
-<p><strong>Student Management</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>:</p>
-</li>
-<li>
-<p>:</p>
-</li>
-</ul>
-<p><strong>Character &amp; Citizenship Education</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>:</p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Cong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</li>
-<li>
-<p>:</p>
-</li>
-<li>
-<p>:</p>
-</li>
-</ul>
-<p><strong>Year Heads and Assistant YHs</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Senior School Counsellor: Mdm Mok Swee Peng Pauline</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Hidayah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Serene Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lin Eng Wah Shannen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Kheng Tat Edmond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fairus Bte Atan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Zailani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Educational Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fadillah Said</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>School Admin Team</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Hwee Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lorrine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Kim Hoe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kng Ter Sern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
