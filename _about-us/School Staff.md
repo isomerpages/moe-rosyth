@@ -513,7 +513,7 @@ variant: tiptap
 <p>Mrs Jane Grosse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Lead Teacher (Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -623,7 +623,7 @@ variant: tiptap
 <p>Mr Mohd Zailani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Educational Support)</p>
+<p>Senior Teacher (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -634,18 +634,7 @@ variant: tiptap
 <p>Mdm Fadillah Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (CL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
