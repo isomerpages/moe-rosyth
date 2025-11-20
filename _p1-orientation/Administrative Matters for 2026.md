@@ -5,11 +5,9 @@ variant: markdown
 description: ""
 ---
 <ul data-tight="true" class="tight">
-<li>
-<p>P1 Experiences - What are my favourite things to do in school
-<br>
-</p>
-</li>
+
+<p></p>
+
 <li>
 <p><strong>P1 Booklist (2026)</strong>
 <br>Complete booklist for Primary 1 students with online and onsite purchasing
