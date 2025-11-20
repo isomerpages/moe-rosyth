@@ -1,15 +1,10 @@
 ---
 title: Administrative Matters for 2026
 permalink: /admin2026/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <ul data-tight="true" class="tight">
-<li>
-<p>P1 Experiences - What are my favourite things to do in school
-<br>
-</p>
-</li>
 <li>
 <p><strong>P1 Booklist (2026)</strong>
 <br>Complete booklist for Primary 1 students with online and onsite purchasing
@@ -86,14 +81,19 @@ routes, rates, and submission deadlines for transport arrangements.
 </p>
 <p></p>
 </li>
-</ul>
+<li>
 <p><strong>School Uniform (2026)<br></strong>School uniform and PE attire
 guide for Primary 1 students, including uniform specifications, grooming
-guidelines and frequently asked questions.
-<br><strong>Appointed Uniform Vendor</strong>
-<br>Shirley Season Wear
-<br>Website: <a href="https://www.shirleyuni.com" rel="noopener nofollow" target="_blank">https://www.shirleyuni.com</a>.</p>
-<br>Attachment: <a href="/files/2026 P1 Orientation/Guide_on_Student_Attire_v3.pdf" rel="noopener nofollow" target="_blank">Guide on Student Attire</a>
+guidelines and frequently asked questions.</p>
+<p><strong>Appointed Uniform Vendor</strong>
+</p>
+<p>Shirley Season Wear</p>
+<p>Website: <a href="https://www.shirleyuni.com" rel="noopener nofollow" target="_blank">https://www.shirleyuni.com</a>
+</p>
+<p>Attachment: <a href="/files/2026 P1 Orientation/Guide_on_Student_Attire_v3.pdf" rel="noopener nofollow" target="_blank">Guide on Student Attire</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
