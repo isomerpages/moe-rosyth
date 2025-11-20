@@ -86,7 +86,7 @@ routes, rates, and submission deadlines for transport arrangements.
 </p>
 <p></p>
 </li>
-<li>
+</ul>
 <p><strong>School Uniform (2026)<br></strong>School uniform and PE attire
 guide for Primary 1 students, including uniform specifications, grooming
 guidelines and frequently asked questions.
@@ -95,8 +95,6 @@ guidelines and frequently asked questions.
 <br>Website: <a href="www.shirleyuni.com" rel="noopener nofollow" target="_blank">www.shirleyuni.com</a>
 <br>Attachment: <a href="/files/2026 P1 Orientation/Guide_on_Student_Attire_v3.pdf" rel="noopener nofollow" target="_blank">Guide on Student Attire</a>
 </p>
-</li>
-</ul>
 <p></p>
 <p></p>
 <p></p>
