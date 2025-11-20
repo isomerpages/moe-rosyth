@@ -84,6 +84,19 @@ and financial literacy development tools.
 routes, rates, and submission deadlines for transport arrangements.
 <br>Attachment: <a href="/files/2026 P1 Orientation/RS_2026_Registration_Form_P1___4_N___.pdf" rel="noopener nofollow" target="_blank">School Bus Service Registration Form</a>
 </p>
+<p></p>
+</li>
+<li>
+<p><strong>School Uniform (2026)<br></strong>School uniform and PE attire
+guide for Primary 1 students, including uniform specifications, grooming
+guidelines and frequently asked questions.
+<br><strong>Appointed Uniform Vendor</strong>
+<br>Shirley Season Wear
+<br>Website: <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
+<br>Attachment: <a href="/files/2026 P1 Orientation/Guide_on_Student_Attire_v3.pdf" rel="noopener nofollow" target="_blank">Guide on Student Attire</a>
+</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <p></p>
