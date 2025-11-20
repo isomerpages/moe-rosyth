@@ -85,5 +85,18 @@ routes, rates, and submission deadlines for transport arrangements.
 <br>Attachment: <a href="/files/2026 P1 Orientation/RS_2026_Registration_Form_P1___4_N___.pdf" rel="noopener nofollow" target="_blank">School Bus Service Registration Form</a>
 </p>
 </li>
+<li>
+<p><strong>School Uniform (2026)<br></strong>School uniform and PE attire
+guide for Primary 1 students, including uniform specifications, grooming
+guidelines and frequently asked questions.</p>
+</li>
 </ul>
+<p><strong>Appointed Uniform Vendor</strong>
+</p>
+<p>Shirley Season Wear</p>
+<p>Website: <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
+</p>
+<p>Attachment:</p>
+<p></p>
+<p></p>
 <p></p>
