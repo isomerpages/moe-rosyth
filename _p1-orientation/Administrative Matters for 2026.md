@@ -89,15 +89,14 @@ routes, rates, and submission deadlines for transport arrangements.
 <li>
 <p><strong>School Uniform (2026)<br></strong>School uniform and PE attire
 guide for Primary 1 students, including uniform specifications, grooming
-guidelines and frequently asked questions.</p>
+guidelines and frequently asked questions.
+<br><strong>Appointed Uniform Vendor</strong>
+<br>Shirley Season Wear
+<br>Website: <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
+<br>Attachment: <a href="/files/2026 P1 Orientation/Guide_on_Student_Attire_v3.pdf" rel="noopener nofollow" target="_blank">Guide on Student Attire</a>
+</p>
 </li>
 </ul>
-<p><strong>Appointed Uniform Vendor</strong>
-</p>
-<p>Shirley Season Wear</p>
-<p>Website: <a rel="noopener noreferrer nofollow" target="_blank">www.shirleyuni.com</a>
-</p>
-<p>Attachment:</p>
 <p></p>
 <p></p>
 <p></p>
