@@ -1,7 +1,7 @@
 ---
 title: Administrative Matters for 2026
 permalink: /admin2026/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <ul data-tight="true" class="tight">
@@ -92,9 +92,9 @@ guide for Primary 1 students, including uniform specifications, grooming
 guidelines and frequently asked questions.
 <br><strong>Appointed Uniform Vendor</strong>
 <br>Shirley Season Wear
-<br>Website: <a href="www.shirleyuni.com" rel="noopener nofollow" target="_blank">www.shirleyuni.com</a>
+<br>Website: <a href="https://www.shirleyuni.com" rel="noopener nofollow" target="_blank">https://www.shirleyuni.com</a>.</p>
 <br>Attachment: <a href="/files/2026 P1 Orientation/Guide_on_Student_Attire_v3.pdf" rel="noopener nofollow" target="_blank">Guide on Student Attire</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
