@@ -295,8 +295,8 @@ variant: tiptap
 <p>Ms Jesslyn Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dy HOD/SM</p>
-<p>LH/Mathematics</p>
+<p>Dy HOD/SM
+<br>LH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_jielin_jesslyn@schools.gov.sg</a>
@@ -512,7 +512,7 @@ variant: tiptap
 <p>Mdm Nur Azianah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Development</p>
+<p>SH/Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">azianah_zakaria@schools.gov.sg</a>
