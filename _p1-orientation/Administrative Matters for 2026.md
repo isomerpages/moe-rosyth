@@ -1,7 +1,7 @@
 ---
 title: Administrative Matters for 2026
 permalink: /admin2026/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <ul data-tight="true" class="tight">
