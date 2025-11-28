@@ -4,6 +4,10 @@ permalink: /p1-orientation/my-school-rosyth-school/
 description: ""
 variant: tiptap
 ---
+<h4>2025 P1 Students</h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F822046323938571%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+</div>
 <h4>2024 P1 Students</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KkXczmaIkUU"></iframe>
