@@ -1,10 +1,10 @@
 ---
-title: Education Technologies
+title: Educational Technology
 permalink: /departments/edtech-department/
 description: ""
 variant: tiptap
 ---
-<h3>Education Technologies (EdTech) Department</h3>
+<h3>Educational Technology (EdTech) Department</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

@@ -128,3 +128,69 @@ in an ever-evolving world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Updates/GEP/Slide1.jpg">
 </div>
 <p></p>
+<p><strong>📄 P4 GEP Booklist (2026)</strong>
+</p>
+<p>Booklist for Primary 4 GEP students with online and onsite purchasing
+options, including ordering timelines, delivery schedules, and vendor contact
+details.</p>
+<p>Attachment:&nbsp;<a href="/files/01_Rosyth_Booklist_2026_Primary_4_GEP.pdf" rel="noopener nofollow" target="_blank">Rosyth Booklist 2026 Primary 4 GEP</a>
+</p>
+<p><strong>📄 School Uniform (2026)<br></strong>School uniform and PE attire
+guide for students, including uniform specifications, grooming guidelines,
+and frequently asked questions.</p>
+<p><strong>Appointed Uniform Vendor</strong>
+</p>
+<p>Shirley Season Wear</p>
+<p>Website: <a href="https://www.shirleyuni.com" rel="noopener nofollow" target="_blank">www.shirleyuni.com</a> (order
+online or visit the vendor at their retail shop.)</p>
+<p><strong>On-Site Sales</strong>
+</p>
+<p>Our school uniform vendor will be operating at the school premises on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Thursday, 11 December 2025</strong> (9am to 3pm)</p>
+</li>
+<li>
+<p><strong>Friday, 12 December 2025</strong> (9am to 3pm)</p>
+</li>
+</ul>
+<p>Payment methods accepted: PayNow or Cash</p>
+<p>Parking is not available in the school premises.&nbsp; Please park at
+the neighbouring car park and enter via Gate 1 (main entrance).&nbsp; All
+visitors must sign in at the main entrance guard post.</p>
+<p>Attachment:&nbsp;&nbsp;<a href="/files/02_Guide_on_Student_Attire_v3.pdf" rel="noopener nofollow" target="_blank">Guide on Student Attire</a>
+</p>
+<p><strong>📄 P4 GEP Recommended Titles for Extensive Reading 2026</strong>
+</p>
+<p>Curated reading list to support students’ literacy development and encourage
+extensive reading habits.</p>
+<p>&nbsp;Attachment:&nbsp;&nbsp;<a href="/files/03_2026_GEP_ERP_LIST_P4_with_Synopsis.pdf" rel="noopener nofollow" target="_blank">2026 GEP ERP List P4 with Synopsis</a>
+</p>
+<p><strong>📄 School Bus Service Registration for Primary 4 GEP (2026)</strong>
+</p>
+<p>Registration information and requirements for school bus services, including
+routes, rates, and submission deadlines for transport arrangements.</p>
+<p>Attachment:&nbsp;&nbsp;<a href="/files/04_RS_2026_Registration_Form_GEP___28_Nov_2025.pdf" rel="noopener nofollow" target="_blank">RS 2026 Registration Form GEP </a>
+</p>
+<p><strong>📄 Student Care Services — Kidz Treehouse @ Rosyth School</strong>
+</p>
+<p>Enrolment details for after-school student care services, including application
+procedures, fees, and programme information.</p>
+<p>Attachment:&nbsp;&nbsp;<a href="/files/06_Kidz_Treehouse___Registration_Form_2026.pdf" rel="noopener nofollow" target="_blank">Kidz Treehouse Registration Form 2026</a>
+</p>
+<p><strong>📄 POSB Smart Buddy Programme</strong>
+</p>
+<p>Introduction to the digital payment and savings programme for students,
+featuring contactless payment options, spending tracking, savings goals,
+and financial literacy development tools.</p>
+<p>Attachment:&nbsp;&nbsp;<a href="/files/07_POSB_Smart_Buddy.pdf" rel="noopener nofollow" target="_blank">POSB Smart Buddy</a>
+</p>
+<p><strong>Parent Support Group (PSG)</strong>
+</p>
+<p>The Rosyth School Parent Support Group (PSG) is a non-profit voluntary
+organisation.&nbsp; It aims to foster a strong and trusting partnership
+between parents and the school, support school programmes, and organise
+meaningful activities for our Rosythian students and parents.&nbsp;</p>
+<p>Join the Rosyth PSG as a member today <a href="https://rosythpsg.com/" rel="noopener nofollow" target="_blank">https://rosythpsg.com/</a>
+</p>
+<p></p>
