@@ -2225,4 +2225,95 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3><strong>Special Educational Needs (SEN) Officers/School Counsellor</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Pei Zhi, Crystal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_pei_zhi_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_pei_zhi_crystal@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Kah Hoe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_kah_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kah_hoe@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lashvina D/O Pathmanathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lashvina_pathmanathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lashvina_pathmanathan@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Liyana Binte Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_liyana_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_liyana_aziz@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mok Swee Peng, Pauline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mok_swee_peng_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mok_swee_peng_pauline@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
