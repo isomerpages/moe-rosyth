@@ -334,7 +334,7 @@ variant: tiptap
 <p>Mdm Shoba Jaganathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (P6)</p>
+<p>Asst Year Head (P6) &amp; DyHOD/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">shoba_jaganathan@schools.gov.sg</a>
@@ -382,7 +382,7 @@ variant: tiptap
 <p>Mdm Lin Weishan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/Mathematicsst</p>
+<p>LH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lin_weishan@schools.gov.sg</a>
@@ -507,6 +507,54 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sudheesh_balakrishna_pillai@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Charlene Goh Shan Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting LH/EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:charlene_goh_shan_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">charlene_goh_shan_mei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Aqilah Binte Mohd Khirashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting LH/EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_aqilah_mohd_kh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_aqilah_mohd_kh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Jing Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH/Innovation &amp; EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jing_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_yan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm See Thor Hui Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH/Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:see_thor_hui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_thor_hui_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
