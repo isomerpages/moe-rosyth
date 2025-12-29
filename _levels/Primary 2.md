@@ -31,7 +31,9 @@ variant: tiptap
 <p>Sim Mui Huang (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_mui_huang@schools.gov.sg</p>
+<p><a href="mailto:sim_mui_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_mui_huang@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -42,7 +44,9 @@ variant: tiptap
 <p>Laurene Danker (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>laurene_danker@schools.gov.sg</p>
+<p><a href="mailto:laurene_danker@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">laurene_danker@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
