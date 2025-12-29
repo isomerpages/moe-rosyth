@@ -31,7 +31,9 @@ variant: tiptap
 <p>Lui May Ling (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_may_ling@schools.gov.sg</p>
+<p><a href="mailto:tang_may_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_may_ling@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -39,10 +41,12 @@ variant: tiptap
 <p>AYH P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Jing'Er (Mdm)</p>
+<p>Chen Jing'er (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_jing_er@schools.gov.sg</p>
+<p><a href="mailto:chen_jing_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jing_er@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
