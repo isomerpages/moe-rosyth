@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-6/
 description: ""
 variant: tiptap
 ---
-<h3>Primary 6 (2025)</h3>
+<h3>Primary 6 (2026)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,7 +31,9 @@ variant: tiptap
 <p>Lim Swee Ching (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_swee_ching@schools.gov.sg</p>
+<p><a href="mailto:lim_swee_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_ching@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -39,259 +41,17 @@ variant: tiptap
 <p>AYH P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vincent Lee Chee Mun (Mr)</p>
+<p>Shoba d/o Jaganathan (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_chee_mun@schools.gov.sg</p>
+<p><a href="mailto:shoba_jaganathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shoba_jaganathan@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>FORM TEACHERS</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 APPRECIATIVE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kang Li San (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kang_li_sanshirley@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohammad Zailani Bin Kasmuri (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohammad_zailani_kasmuri@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saira Begum Bte Abdul Jabbar (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>saira_begum_abdul_jabbar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 EMPATHETIC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sharifah Amirah Bte Syed Hamid (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sharifah_amirah_syed_hamid@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwok Caixin (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kwok_caixin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay Yuan Chong (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tay_yuan_chong_bryan_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 INNOVATIVE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Chee Mun (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_chee_mun@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Siti Hidayah Bte Mohamad Taha (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_hidayah_mohamad_taha@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 CARE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong You Yi (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_you_yi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kuan Nai Lin (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kuan_nai_lin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 ENTREPRENEURIAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng ZhiQiang Alex (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_zhiqiang_alex@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ji Min (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ji_min@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 RESPECT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Jing Yan (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_jing_yan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Azianah Bte Zakaria (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>azianah_zakaria@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 INTEGRITY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yeo Ai Ho Serene (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeo_ai_ho_serene@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Wai Kin (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>chan_wai_kin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 GRATITUDE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Chui Ling (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_chui_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Yin Khuan (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim_Yin_khuan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6 TEAMWORK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sudheesh Balakrishna Pillai (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sudheesh_balakrishna_pillai@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chen Eik Fang (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chen_Eik_Fang@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h5>KEY PROGRAMMES FOR PRIMARY 6</h5>
-<p></p>
 <p><strong>Immersion Programme</strong>
 </p>
 <p>The Overseas Immersion Programme offers a transformative learning experience
