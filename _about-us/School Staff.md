@@ -2115,67 +2115,73 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Teachers</h3>
-<p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Pang Mei Yee</p>
+</td>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Pang_Mei_Yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_mei_yee@schools.gov.sg</a>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Edgar Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:edgar_lim_ee_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">edgar_lim_ee_lee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lena Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lena_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_teo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zoe Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zoe_wong_pui_wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zoe_wong_pui_wan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Sun Mengyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sun_mengyi_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sun_mengyi_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Albert Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_guo_rong_albert@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_guo_rong_albert@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Angela Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_siok_tin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siok_tin_angela@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
