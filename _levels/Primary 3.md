@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-3/
 description: ""
 variant: tiptap
 ---
-<h3>Primary 3 (2025)</h3>
+<h3>Primary 3 (2026)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
