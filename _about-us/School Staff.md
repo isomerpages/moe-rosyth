@@ -1889,7 +1889,7 @@ variant: tiptap
 <p>P6 Integrity&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Eng Wah (Mdm)</p>
+<p>Mdm Lim Eng Wah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_kian_tiong@schools.gov.sg</a>
@@ -1898,10 +1898,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Integrity&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Yong Yong (Mdm)</p>
+<p>Mdm Goh Yong Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_yong_yong@schools.gov.sg</a>
@@ -1913,7 +1913,7 @@ variant: tiptap
 <p>P6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Eliza Jane (Mdm)</p>
+<p>Mdm Chan Eliza Jane</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chan_eliza_jane@schools.gov.sg</a>
@@ -1922,10 +1922,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Care</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khong Wei Jia Serena (Mdm)</p>
+<p>Mdm Khong Wei Jia Serena</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">khong_wei_jia_serena@schools.gov.sg</a>
@@ -1934,10 +1934,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Care</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saira Begum Bte Abdul Jabbar (Mdm)&nbsp;</p>
+<p>Mdm Saira Begum Bte Abdul Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">saira_begum_abdul_jabbar@schools.gov.sg</a>
@@ -1949,7 +1949,7 @@ variant: tiptap
 <p>P6 GrAtitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kheng Tat Edmond (Mr)</p>
+<p>Mr Lee Kheng Tat Edmond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_kheng_tat_edmond@schools.gov.sg</a>
@@ -1958,10 +1958,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 GrAtitude</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Chiew Meng (Mdm)</p>
+<p>Mdm Ong Chiew Meng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ong_chiew_meng@schools.gov.sg</a>
@@ -1973,7 +1973,7 @@ variant: tiptap
 <p>P6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fairus Binte Atan (Mdm)</p>
+<p>Mdm Fairus Binte Atan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">fairus_atan@schools.gov.sg</a>
@@ -1982,10 +1982,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Respect</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Ming Hui (Miss)</p>
+<p>Miss Lim Ming Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lim_ming_hui_a@schools.gov.sg</a>
@@ -1997,7 +1997,7 @@ variant: tiptap
 <p>P6 Entrepreneurial</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Yang Yit (Mr)</p>
+<p>Mr Soh Yang Yit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">soh_yang_yit@schools.gov.sg</a>
@@ -2006,10 +2006,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Entrepreneurial</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharifah Amirah Bte Syed Hamid (Mdm)</p>
+<p>Mdm Sharifah Amirah Bte Syed Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sharifah_amirah_syed_hamid@schools.gov.sg</a>
@@ -2018,10 +2018,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Entrepreneurial</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anparasi d/o Velalar Murugian (Mdm)</p>
+<p>Mdm Anparasi d/o Velalar Murugian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">anparasi_velalar_murugiam@schools.gov.sg</a>
@@ -2033,7 +2033,7 @@ variant: tiptap
 <p>P6 Innovative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Zhiqiang Alex (Mr)</p>
+<p>Mr Ng Zhiqiang Alex</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_zhiqiang_alex@schools.gov.sg</a>
@@ -2042,10 +2042,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Innovative</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohamad Roshan Bin Mohd Sah (Mr)</p>
+<p>Mr Mohamad Roshan Bin Mohd Sah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_roshan_mohd_sah@schools.gov.sg</a>
@@ -2057,7 +2057,7 @@ variant: tiptap
 <p>P6 Appreciative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kian Tiong (Mr)</p>
+<p>Tan Kian Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_kian_tiong@schools.gov.sg</a>
@@ -2066,10 +2066,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Appreciative</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Assyikin Binti Mohamad Lais (Mdm)</p>
+<p>Mdm Nur Assyikin Binti Mohamad Lais</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_assyikin_mohd_lais@schools.gov.sg</a>
@@ -2078,10 +2078,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Appreciative</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>See Thor Hui Qi (Mdm)</p>
+<p>Mdm See Thor Hui Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">see_thor_hui_qi@schools.gov.sg</a>
@@ -2093,7 +2093,7 @@ variant: tiptap
 <p>P6 Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Xiao Shan (Miss)</p>
+<p>Miss Chan Xiao Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chan_xiao_shan@schools.gov.sg</a>
@@ -2102,10 +2102,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Teamwork</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Sook Hwa (Mdm)</p>
+<p>Mdm Goh Sook Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_sook_hwa@schools.gov.sg</a>
