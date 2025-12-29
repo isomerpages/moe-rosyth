@@ -2171,6 +2171,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Edgar Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2220,6 +2230,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_mei_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_mei_yee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Angela Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_siok_tin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siok_tin_angela@moe.edu.sg</a>
 </p>
 </td>
 </tr>
