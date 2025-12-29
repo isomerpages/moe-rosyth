@@ -539,7 +539,7 @@ variant: tiptap
 <p>Miss Tan Jing Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting SH/Innovation &amp; EdTech</p>
+<p>Acting SH/Innovation &amp; Data Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jing_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_yan@schools.gov.sg</a>
