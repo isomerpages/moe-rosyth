@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-4/
 description: ""
 variant: tiptap
 ---
-<h3>Primary 4 (2025)</h3>
+<h3>Primary 4 (2026)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -102,4 +102,4 @@ form part of the collective memory for all students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 P4/P4MBL2.png">
 </div>
-<p></p>
+<p>6</p>
