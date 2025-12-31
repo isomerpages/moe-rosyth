@@ -1630,7 +1630,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Teck Hee Henry</p>
+<p>Mr Lee Teck Hee Henry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Henry_lee_teck_hee@schools.gov.sg</a>
