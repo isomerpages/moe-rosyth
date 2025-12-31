@@ -391,7 +391,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Eileen Seow</p>
+<p>Mdm Seow Guat Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/Science</p>
@@ -1073,7 +1073,7 @@ variant: tiptap
 <p>Mdm Nur Shazwani Bte Kamsari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_shazwari_kamsari@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_shazwani_kamsari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
