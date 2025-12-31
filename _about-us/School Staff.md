@@ -794,7 +794,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Juliana Abdul Jalil</p>
+<p>Mdm Juliana Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -2169,7 +2169,7 @@ variant: tiptap
 <p>P6 Appreciative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kian Tiong</p>
+<p>Mr Tan Kian Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_kian_tiong@schools.gov.sg</a>
