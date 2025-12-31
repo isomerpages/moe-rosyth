@@ -1829,6 +1829,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P5 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chee Mun Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chee_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chee_mun@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kang Li Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kang_li_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kang_li_min@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P5 Innovative</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2050,6 +2076,31 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lim_ming_hui_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kuan Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_kuan_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kuan_chin@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd SALIHIN ABDUL RASHID</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhd_salihin_abdul_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_salihin_abdul_rashid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
