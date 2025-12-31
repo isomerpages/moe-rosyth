@@ -1440,6 +1440,18 @@ variant: tiptap
 <p>P3 Innovative</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Charmine Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Charmine_Sim_Ting_Ting_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Charmine_Sim_Ting_Ting_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Fadillah Bte Said</p>
 </td>
 <td rowspan="1" colspan="1">
