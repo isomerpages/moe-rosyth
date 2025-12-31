@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs May Soh</p>
+<p>Mdm Sim Mui Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (P1 &amp; P2)</p>
