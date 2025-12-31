@@ -2097,7 +2097,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd SALIHIN ABDUL RASHID</p>
+<p>Mr Muhd Salihin Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhd_salihin_abdul_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_salihin_abdul_rashid@schools.gov.sg</a>
