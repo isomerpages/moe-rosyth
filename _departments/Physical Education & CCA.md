@@ -28,7 +28,7 @@ variant: tiptap
 <p>HOD (PE/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kassidy B Kamis</p>
+<p>Mr Kassidy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kassidy_b_kamis@schools.gov.sg</p>
