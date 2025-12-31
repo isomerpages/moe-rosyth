@@ -1832,7 +1832,7 @@ variant: tiptap
 <p>P5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chee Mun Vincent</p>
+<p>Mr Lee Chee Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chee_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chee_mun@schools.gov.sg</a>
@@ -2097,7 +2097,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Salihin Abdul Rashid</p>
+<p>Mr Muhammad Salihin Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhd_salihin_abdul_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_salihin_abdul_rashid@schools.gov.sg</a>
