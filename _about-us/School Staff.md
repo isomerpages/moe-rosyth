@@ -319,7 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Lee Chee Mun</p>
+<p>Mr Lee Chee Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst Year Head (P5)</p>
