@@ -593,7 +593,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Julia Ng</p>
+<p>Mdm Lee Hwee Julia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (EL)</p>
@@ -617,7 +617,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fiona Ng</p>
+<p>Mrs Ng Keng Choon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (CL)</p>
@@ -713,7 +713,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Zailani</p>
+<p>Mr Mohammad Zailani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (PE)</p>
