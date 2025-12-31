@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs May Soh</p>
+<p>Mdm Sim Mui Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (P1 &amp; P2)</p>
@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Parvathy</p>
+<p>Mdm R Parvathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Gifted Education and Dean Curriculum</p>
@@ -593,7 +593,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Julia Ng</p>
+<p>Mdm Lee Hwee Julia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (EL)</p>
@@ -617,7 +617,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fiona Ng</p>
+<p>Mrs Ng Keng Choon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (CL)</p>
@@ -713,7 +713,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Zailani</p>
+<p>Mr Mohammad Zailani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (PE)</p>
@@ -794,7 +794,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Juliana Abdul Jalil</p>
+<p>Mdm Juliana Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -2169,7 +2169,7 @@ variant: tiptap
 <p>P6 Appreciative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kian Tiong</p>
+<p>Mr Tan Kian Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_kian_tiong@schools.gov.sg</a>
