@@ -1811,7 +1811,7 @@ variant: tiptap
 <p>Mdm Chan Wai Kin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_wan_kin@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_kin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
