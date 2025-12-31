@@ -349,7 +349,7 @@ variant: tiptap
 <p>LH/Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">CHAN_Xiao_Shan@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_xiao_Shan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -593,7 +593,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hwee Julia</p>
+<p>Mdm Lee Hwee Hoon Julia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (EL)</p>
