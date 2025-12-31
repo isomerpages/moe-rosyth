@@ -940,10 +940,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Cherie</p>
+<p>Mrs Cherie Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_cherie@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">cherie_lee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1392,7 +1392,7 @@ variant: tiptap
 <p>P3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Shi Hui</p>
+<p>Mrs Ong Shi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ong_shi_hui_a@schools.gov.sg</a>
@@ -2097,7 +2097,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd SALIHIN ABDUL RASHID</p>
+<p>Mr Muhd Salihin Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhd_salihin_abdul_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_salihin_abdul_rashid@schools.gov.sg</a>
