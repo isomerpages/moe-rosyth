@@ -940,10 +940,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Cherie</p>
+<p>Mrs Cherie Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_cherie@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">cherie_lee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
