@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-3/
 description: ""
 variant: tiptap
 ---
-<h3>Primary 3 (2025)</h3>
+<h3>Primary 3 (2026)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,7 +31,9 @@ variant: tiptap
 <p>Lui May Ling (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_may_ling@schools.gov.sg</p>
+<p><a href="mailto:tang_may_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_may_ling@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -39,204 +41,17 @@ variant: tiptap
 <p>AYH P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Weishan (Mdm)</p>
+<p>Chen Jing'er (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_weishan@schools.gov.sg</p>
+<p><a href="mailto:chen_jing_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jing_er@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5>FORM TEACHERS</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 INTEGRITY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jayalakshmi d/o Danabal (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jayalakshmi_danabal@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lin Weishan (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lin_weishan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 CARE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wang Zhuoyun (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wang_zhuoyun@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mashita Bte Abdol Rahman (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mashita_abdol_rahman@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 GRATITUDE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Seow Guat Leng (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seow_guat_leng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maggie Chong Mei Kei (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_mei_kei_maggie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 RESPECT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Faridah Bte Rambile (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>faridah_rambile@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Teck Hee Henry (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>henry_lee_teck_hee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 TEAMWORK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong Chiao Ling (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_chiao_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Yang Han (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_yang_han@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 ENTREPRENEURIAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Melvin Singh Dhillon (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>melvin_singh_dhillion@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Huey Chee (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_huey_chee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 INNOVATIVE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Norlela Bte Men (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norlela_men@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Swaminathan Kiruthika
-<br>(Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>swaminathan_kiruthika@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Li Na (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>li_na@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h5>KEY PROGRAMMES FOR PRIMARY 3</h5>
-<p></p>
 <p><strong>P3 Learning Journey to Geylang Serai Heritage Gallery</strong>
 </p>
 <p>History came alive for our Primary 3 students during the learning Journey

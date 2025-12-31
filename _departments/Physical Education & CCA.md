@@ -2,7 +2,7 @@
 title: Physical Education & CCA
 permalink: /departments/physical-education-n-co-curricular-activities/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>Physical Education</h3>
 <table style="minWidth: 75px">
@@ -28,7 +28,7 @@ variant: tiptap
 <p>HOD (PE/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kassidy B Kamis</p>
+<p>Mr Kassidy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kassidy_b_kamis@schools.gov.sg</p>
@@ -284,5 +284,4 @@ competencies as articulated in the 21st Century Competencies Framework</p>
 </ul>
 <p></p>
 <h5>CCAs in Rosyth School</h5>
-<p><a href="/files/2025%20PE%20CCA/CCA_Option_Schedule_for_P4_2025_Annex_A_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">List of CCAs for 2025</a>
-</p>
+<h5><a href="/files/ROS154_CCA_Schedule_for_P3_to_P6_2026.pdf" rel="noopener nofollow" target="_blank">List of CCAs in 2026</a></h5>

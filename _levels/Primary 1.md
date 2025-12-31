@@ -4,7 +4,7 @@ permalink: /for-parents/parents-portal/primary-1/
 description: ""
 variant: tiptap
 ---
-<h3>Primary 1 (2025)</h3>
+<h3>Primary 1 (2026)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,7 +31,9 @@ variant: tiptap
 <p>Sim Mui Huang (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_mui_huang@schools.gov.sg</p>
+<p><a href="mailto:sim_mui_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_mui_huang@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -39,241 +41,12 @@ variant: tiptap
 <p>AYH P1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laurene Danker (Miss)</p>
+<p>Chen Jing'er (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>danker_laurene@schools.gov.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>FORM TEACHERS</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 INTEGRITY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong Huen Yuen Celia (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_huen_yuen_celia@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_jing_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jing_er@schools.gov.sg</a>
+</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Shazwani Bte Kamsari (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur_shazwani_kamsari@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 CARE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thio Chui Pheng Leslie (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>leslie_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ang Yue Ting Trina (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_yue_ting_trina@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 GRATITUDE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yap Chai Muay (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yap_chai_muay@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mardiana Bte Mohd Sharip (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mardiana_mohd_sharip@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 RESPECT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Noor Haidah Bte Mohamed Salleh (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>noor_haidah_mohamed_sall@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>See Thor Hui Qi (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>see_thor_hui_qi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 RESILIENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Danker Laurene (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>danker_laurene@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SHERMAINE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Bao Ling (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee_bao_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 ENTREPRENEURIAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vernon Tay Chin Leong (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay_chin_leong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Low Wen Huey (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_wen_huey@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 TEAMWORK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sim Hui Ling Jacintha (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_hui_ling_jacintha@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Mui Lan (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_mui_lan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 COMPASSION</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Too Mui Keng Carolyn (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Carolyn_too_mui_keng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Li Jia (Miss)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_li_jia@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 APPRECIATIVE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fazilah Bte Abdul Aziz (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fazilah_abdul_aziz@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teo Wee Meng (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_wee_meng_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
