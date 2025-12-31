@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Parvathy</p>
+<p>Mdm R Parvathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Gifted Education and Dean Curriculum</p>
