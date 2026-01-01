@@ -403,7 +403,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard Soh</p>
+<p>Mr Soh Yang Kit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Music</p>
@@ -415,7 +415,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Roshan</p>
+<p>Mr Mohamad Roshan in Mohd Sah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/PE&amp;CCA</p>
@@ -677,7 +677,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Eng Wah Shannen</p>
+<p>Mdm Lim Eng Wah Shannen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Math)</p>
@@ -880,7 +880,7 @@ variant: tiptap
 <p>P1 GrAtitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Quah Heng Yin Qi</p>
+<p>Mrs Quah-Heng Yin Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">heng_yin_qi@schools.gov.sg</a>
@@ -1546,7 +1546,7 @@ variant: tiptap
 <p>P4 GrAtitude&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kasthuree d/o T Kabilan</p>
+<p>Ms Kasthuree d/o T Kabilan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">kasthuree_T_kabilan@schools.gov.sg</a>
@@ -1748,7 +1748,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nrs Ng Keng Choon</p>
+<p>Mrs Ng Keng Choon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_keng_choon@schools.gov.sg</a>
