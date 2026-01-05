@@ -36,7 +36,7 @@ variant: tiptap
 <br>
 <br>In case of an emergency involving your child, kindly contact our Operations
 Managers,
-<br>Mr Quek at 9656 3932 or Mr Kng at 9755 8132</p>
+<br>Mr Kng at 9755 8132 or Mdm Juliana at 9656 3932</p>
 </td>
 </tr>
 <tr>
@@ -53,14 +53,6 @@ Managers,
 </td>
 <td rowspan="1" colspan="1">
 <p>rosyth_sch@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -95,14 +87,6 @@ Managers,
 <p>6483 2517</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -125,28 +109,6 @@ Managers,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Kim Hoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phone</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6481 3180</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quek_kim_hoe@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Frederick Kng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +126,20 @@ Managers,
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kng_ter_sern@schools.gov.sg</p>
+<p><a href="mailto:kng_ter_sern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kng_ter_sern@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Abdul Jalil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6481 3180</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +147,11 @@ Managers,
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:juliana_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_abdul_jalil@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -266,5 +242,5 @@ Managers,
 </tr>
 </tbody>
 </table>
-<h5>Please refer to <a href="https://www.rosyth.moe.edu.sg/about-us/school-staff/" rel="noopener noreferrer nofollow" target="_blank">https://www.rosyth.moe.edu.sg/about-us/school-staff/</a> for the email addresses of school staff. </h5>
+<h5>Please refer to <a href="https://www.rosyth.moe.edu.sg/about-us/school-staff/" rel="noopener noreferrer nofollow" target="_blank">https://www.rosyth.moe.edu.sg/about-us/school-staff/</a> for the email addresses of school staff.</h5>
 <p></p>
