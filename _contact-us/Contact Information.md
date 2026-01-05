@@ -36,7 +36,7 @@ variant: tiptap
 <br>
 <br>In case of an emergency involving your child, kindly contact our Operations
 Managers,
-<br>Mr Kng at 9755 8132 or Mdm Juliana at 9656 3932</p>
+<br>Mr Kng at 9795 5525 or Mdm Juliana at 9247 2147</p>
 </td>
 </tr>
 <tr>
