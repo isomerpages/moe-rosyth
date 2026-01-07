@@ -28,18 +28,7 @@ variant: tiptap
 <p>HOD (EdTech)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Victor Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chew_ansheng_victor@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dy HOD (EdTech)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Au Zhi Jun</p>
+<p>Mdm Au Zhi Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>au_zhi_jun@schools.gov.sg</p>
