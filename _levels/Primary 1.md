@@ -82,7 +82,67 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>P4 Orientation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P1_Period_PHI_Programme.pdf" rel="noopener nofollow" target="_blank">2026_P1 Period PHI Programme</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P1_Mathematics_Programme.pdf" rel="noopener nofollow" target="_blank">2026_P1 Mathematics Programme</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P1_Period_PHI_Programme.pdf" rel="noopener nofollow" target="_blank">2026_P1 Period PHI Programme</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P1_Parents_Briefing_TL.pdf" rel="noopener nofollow" target="_blank">2026 P1 Parents Briefing_TL</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P1_Parents_Briefing_ML.pdf" rel="noopener nofollow" target="_blank">2026 P1 Parents Briefing_ML</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P1_Parents_Briefing_CL.pdf" rel="noopener nofollow" target="_blank">2026 P1 Parents Briefing_CL</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P1_CCE.pdf" rel="noopener nofollow" target="_blank">2026 P1 CCE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>KEY PROGRAMMES FOR PRIMARY 1</h5>
 <p></p>
 <p><strong>Primary 1 Ant Exploration @ Rosyth</strong>
