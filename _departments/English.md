@@ -36,13 +36,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (English)</p>
+<p>Acting Level Head (English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Au Zhi Jun</p>
+<p>Mdm Nurul Aqilah Binte Mohd Khirashid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>au_zhi_jun@schools.gov.sg</p>
+<p><a href="mailto:nurul_aqilah_mohd_kh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_aqilah_mohd_kh@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting Level Head (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Charlene Goh Shan Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:charlene_goh_shan_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>charlene_goh_shan_mei@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,17 +78,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>norlela_men@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STELLAR Mentor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yap Chai Muay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yap_chai_muay@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
