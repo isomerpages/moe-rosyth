@@ -25,13 +25,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Innovation)</p>
+<p>Acting SH (Innovation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Evelyn Koh</p>
+<p>Miss Tan Jing Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_mui_lee_evelyn@schools.gov.sg</p>
+<p><a href="mailto:tan_jing_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_jing_yan@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -36,7 +36,7 @@ variant: tiptap
 <br>
 <br>In case of an emergency involving your child, kindly contact our Operations
 Managers,
-<br>Mr Quek at 9656 3932 or Mr Kng at 9755 8132</p>
+<br>Mr Kng at 9795 5525 or Mdm Juliana at 9247 2147</p>
 </td>
 </tr>
 <tr>
@@ -53,14 +53,6 @@ Managers,
 </td>
 <td rowspan="1" colspan="1">
 <p>rosyth_sch@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -95,120 +87,6 @@ Managers,
 <p>6483 2517</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Principal</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Suraj Nair Venugopal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Suraj_Nair_Venugopal@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Vice-Principals</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Lay Wah (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan_Lay_Wah@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kwan Ruiying Karen (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwan_Ruiying_Karen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Boon Seng (Administration)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan_Boon_Seng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -231,28 +109,6 @@ Managers,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Kim Hoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phone</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6481 3180</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quek_kim_hoe@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Frederick Kng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,49 +126,20 @@ Managers,
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kng_ter_sern@schools.gov.sg</p>
+<p><a href="mailto:kng_ter_sern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kng_ter_sern@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Hwee Ching</p>
+<p>Mdm Juliana Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Phone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6481 2273</p>
+<p>6481 3180</p>
 </td>
 </tr>
 <tr>
@@ -323,29 +150,8 @@ Managers,
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_hwee_ching_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Lorrine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phone</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6481 2273</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_lorrine@schools.gov.sg</p>
+<p><a href="mailto:juliana_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_abdul_jalil@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -434,20 +240,7 @@ Managers,
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h5>Teachers' E-Mail Addresses</h5>
-<p><a href="/files/MTL%20Contact/Email_CL_Unit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language Teachers</a>
-</p>
-<p><a href="/files/MTL%20Contact/Email_ML_Unit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language Teachers</a>
-</p>
-<p><a href="/files/MTL%20Contact/Email_TL_Unit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language Teachers</a>
-</p>
+<h5>Please refer to <a href="https://www.rosyth.moe.edu.sg/about-us/school-staff/" rel="noopener noreferrer nofollow" target="_blank">https://www.rosyth.moe.edu.sg/about-us/school-staff/</a> for the email addresses of school staff.</h5>
+<p></p>

@@ -491,7 +491,7 @@ variant: tiptap
 <p>Mdm Nur Azianah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Leadership</p>
+<p>SH/Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">azianah_zakaria@schools.gov.sg</a>
@@ -2099,7 +2099,7 @@ variant: tiptap
 <p>Mr Lim Kuan Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kuan_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kuan_chin@schools.gov.sg</a>
+<p><a href="mailto:lim_kuan_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kuan_chin_a@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
