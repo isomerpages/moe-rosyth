@@ -28,6 +28,11 @@ variant: tiptap
 <p>Wushu</p>
 </li>
 </ol>
+<p><em> Tennis - Please note that </em>P2 2025 will be the final batch that
+can select Tennis as a CCA. The school will over time (2026-2029) phase
+out this CCA. Even if not offered as a CCA option after 2025, the school
+will support the students who wish to participate in the National School
+Games for Tennis.</p>
 <h4><strong>Performing Arts</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
