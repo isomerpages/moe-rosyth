@@ -142,11 +142,10 @@ aware of these procedures.</p>
 <p>Vehicle Access (Gate 2):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>During gate opening hours, parents/guardians have been issued with vehicle
-entry labels to facilitate easy identification by school security staff
-when driving into school to drop-off and/or pick-up your child. Please
-ensure that this label is prominently displayed during your arrival into
-the school.</p>
+<p>Please note that the school will no longer be issuing vehicle entry labels
+(car decals) for parents/guardians. Our Parent Support Group (PSG) and
+Alumni Association (RSAA) are designing new car decals showcasing Rosyth's
+identity for parents to acquire. We will notify you when they are available.</p>
 </li>
 <li>
 <p>Arrival: Drop off at Points 1 or 2 outside the Indoor Sports Hall (ISH).</p>
