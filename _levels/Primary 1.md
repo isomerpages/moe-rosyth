@@ -91,7 +91,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>P4 Orientation</p>
+<p>P1 Orientation</p>
 </th>
 </tr>
 <tr>
@@ -139,6 +139,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><a href="/files/Parents_Briefing__PE_and_CCA__Briefing.pdf" rel="noopener nofollow" target="_blank">Parents Briefing (PE and CCA) Briefing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2026_P_Opening_Address_to_P1_Parents.pdf" rel="noopener nofollow" target="_blank">2026 P Opening Address to P1 Parents</a>
 </p>
 </td>
 </tr>
