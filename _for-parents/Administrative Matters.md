@@ -329,18 +329,6 @@ and Student Care Centre dismissal.</p>
 </tr>
 </tbody>
 </table>
-<p>Vehicle Access:</p>
-<p>Parents/guardians will be issued with vehicle entry labels to facilitate
-easy identification by school security staff when driving into school to
-drop-off and/or pick-up your child. Access to the school compound outside
-of the stipulated timings will be strictly by prior appointment with school
-staff and/or for official business. Such visits will require registration
-at the guard post. To facilitate the issuance of vehicle entry labels,
-parents/guardians will need to complete an online request form via the
-PG. Families with 2 or more children in the school will submit the request
-under the eldest child, indicating details of the other children in the
-form. Each family will receive a physical vehicle entry label. Please ensure
-that this label is prominently displayed during your arrival into the school.</p>
 <p>Entering School Premises:</p>
 <p>i) Visitors and parents entering the school premises are permitted to
 access only the following parts of the school:</p>
