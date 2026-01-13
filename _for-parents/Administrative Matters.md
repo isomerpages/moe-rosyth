@@ -153,7 +153,9 @@ identity for parents to acquire. We will notify you when they are available.</p>
 <li>
 <p>Dismissal:
 <br>P1 and P2 students: Follow Route 1 to pick-up point 1.
-<br>P3 to P6 students: Follow Route 2 to pick-up point 2.</p>
+<br>P3 to P6 students: Follow Route 2 to pick-up point 2.
+<br>Families with multiple children: Follow the arrangement of the youngest
+child</p>
 </li>
 </ul>
 <p>General Guidelines:</p>
@@ -224,10 +226,10 @@ access only the following parts of the school:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/places_in_sch_for_parents.jpg">
 </div>
-<p>ii) All visitors will be required to register at the main entrance guard
-post (Gates 1 and 2) before accessing school grounds. As registered visitors
-will be provided with a security clearance sticker, the parent access passes
-will no longer be issued/valid from 2024.</p>
+<p>ii) All visitors are required to register at the main entrance guard post
+(Gates 1 and 2) before accessing school grounds. Please wear the issued
+visitor pass at all times while on school grounds.&nbsp; The classroom
+block is strictly out-of-bounds.</p>
 <p>Use of HDB Car Parks:</p>
 <p>Should you use the HDB car parks near Gates 1 and 7, please help us to
 be good neighbours by not causing any inconvenience or obstruction to the
@@ -260,7 +262,8 @@ your arrival.</p>
 “Phone Kidnapping Scam” calls. If you should receive such a call about
 your child during school hours, please contact us immediately to ascertain
 the safety of your child. If the main office line is busy, kindly contact
-our Operations Managers <strong>Mr Quek at 9656 3932</strong> or <strong>Mr Kng at 9755 8132</strong>.</p>
+our Operations Managers <strong>Mr Kng at 9755 8132</strong> or <strong>Mdm Juliana at 9247 2147.</strong>
+</p>
 <h5>6. INSURANCE</h5>
 <p>As part of our student well-being efforts, the school has purchased insurance
 to provide basic coverage for our students in case of accidents. You may
