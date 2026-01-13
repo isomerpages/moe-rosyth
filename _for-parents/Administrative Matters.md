@@ -204,10 +204,131 @@ from Mondays to Fridays. This may be longer during rainy weather.</p>
 </ul>
 <p></p>
 <p>School Gates Opening Hours:</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_Opening_Hours.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gate Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Hours</strong>
+</p>
+<p><strong>(Monday – Friday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 1</p>
+<p>School Main Gate (Pedestrians Access)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15 a.m. to 6.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Register at the main entrance guard post before entering school grounds.</p>
+</li>
+<li>
+<p>For dismissal, enter Gate 1 after 1.20 p.m. to the Parents Waiting Area.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 2</p>
+<p>School Main Gate</p>
+<p>(Vehicles Access)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15 a.m. to 7.30 a.m.</p>
+<p><strong>1.45 p.m. to 2.15 p.m.</strong>
+</p>
+<p><strong>3.15 p.m. to 3.45 p.m.</strong>
+</p>
+<p><strong>[Wednesday ONLY]</strong>
+</p>
+<p><strong>4.15 p.m. to 6.00 p.m.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Only for morning drop-off, afternoon pick-up, after school CCAs/events
+and Student Care Centre dismissal.</p>
+</li>
+<li>
+<p><strong>Outside these hours, please use pedestrian gates 1 or 7.</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 4</p>
+<p>Exit Gate</p>
+<p>(Vehicle Exit Only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15 a.m. to 7.30 a.m.</p>
+<p>1.45 p.m. to 2.15 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Only for morning drop-off and afternoon pick-up.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 5</p>
+<p>Exit Gate</p>
+<p>(Vehicle Exit Only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15 a.m. to 6.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Automated vehicle exit. Drive close to sensor.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gate 7</p>
+<p>School Rear Gate</p>
+<p>(Staff &amp; Students Access Only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.45 a.m. to 7.30 a.m.</p>
+<p>1.20 p.m. to 6.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Staff and students only.</p>
+</li>
+<li>
+<p>Students: Enter/exit during opening hours.</p>
+</li>
+<li>
+<p>Visitors/parents: <strong><u>ONLY</u></strong> exit during opening hours.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Vehicle Access:</p>
 <p>Parents/guardians will be issued with vehicle entry labels to facilitate
 easy identification by school security staff when driving into school to
