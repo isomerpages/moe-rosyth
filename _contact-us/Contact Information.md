@@ -41,14 +41,6 @@ Managers,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fax</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6483 1102</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,7 +182,7 @@ Managers,
 </td>
 <td rowspan="1" colspan="1">
 <p>Min Yang Trading and Transport Services Pte Ltd
-<br>Telephone: 6288 8298
+<br>Telephone: 6288 8298 (Office) / 9788 8298 (WhatsApp)
 <br>Email: <a href="info@myservices.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@myservices.com.sg</a>
 </p>
 </td>
@@ -224,8 +216,7 @@ Managers,
 <br>Opening hours: Mon-Sat 12noon to 6pm. Close on Sun
 <br>
 <br>Supplier will be in school during the following period:
-<br>Term 1: Every Monday from 9.30am to 2.00pm
-<br>Term 2 to 3: First Monday of the month from 9.30am to 2.00pm</p>
+<br>Term 1: First and second Mondays from 9.30am to 2.00pm</p>
 </td>
 </tr>
 <tr>
