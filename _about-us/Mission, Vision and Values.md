@@ -11,6 +11,10 @@ variant: tiptap
 <p>Nurturing Lives through the Development of Mind, Body and Soul</p>
 <p></p>
 <h3>SCHOOL VALUES</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/FINAL.png">
+</div>
 <p><strong>I</strong>ntegrity
 <br><strong>C</strong>are &amp; <strong>E</strong>mpathy
 <br>gr<strong>A</strong>titude
