@@ -2,26 +2,26 @@
 title: Mission, Vision and Values
 permalink: /about-us/mission-vision-and-values/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### SCHOOL VISION
-***A Future-ready Community that Learns with Passion, Serves with Compassion, Leads with Vision and Innovates for Excellence***
-
-### SCHOOL MISSION
-Nurturing Lives through the Development of Mind, Body and Soul
-
-<img src="/images/MVV%202025/2025icare.jpg" style="width:55%">
-
-### SCHOOL VALUES
-**I**ntegrity <br>
-**C**are &amp; **E**mpathy <br>
-gr**A**titude <br>
-**R**espect and Resilience <br>
-Innovativ**E** Spirit
-
-### STUDENT OUTCOMES
-
-Passionate Lifelong Learners <br>
-Compassionate Citizens <br>
-Collaborative Leaders <br>
-Innovative Creators
+<h3>SCHOOL VISION</h3>
+<p><strong><em>A Future-ready Community that Learns with Passion, Serves with Compassion, Leads with Vision and Innovates for Excellence</em></strong>
+</p>
+<h3>SCHOOL MISSION</h3>
+<p>Nurturing Lives through the Development of Mind, Body and Soul</p>
+<p></p>
+<h3>SCHOOL VALUES</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/FINAL.png">
+</div>
+<p><strong>I</strong>ntegrity
+<br><strong>C</strong>are &amp; <strong>E</strong>mpathy
+<br>gr<strong>A</strong>titude
+<br><strong>R</strong>espect and Resilience
+<br>Innovativ<strong>E</strong> Spirit</p>
+<h3>STUDENT OUTCOMES</h3>
+<p>Passionate Lifelong Learners
+<br>Compassionate Citizens
+<br>Collaborative Leaders
+<br>Innovative Creators</p>
