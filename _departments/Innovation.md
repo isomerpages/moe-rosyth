@@ -13,17 +13,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Innovation Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Acting SH (Innovation)</p>
 </td>
@@ -42,37 +31,51 @@ variant: tiptap
 </p>
 <h3>MISSION</h3>
 <p>Igniting Passion and Purpose Through Innovation</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_2026.png">
 </div>
-<p>With the restrictions of the real-world still undiscovered, children are
-often the best innovators. We want to catch them young and instil in them
-innovation as their way of thinking and behaviour.</p>
-<p>Innovation does not happen magically, but it is an ongoing process of
-intentional exploration. This led to the birth of the <strong>Period</strong>  <strong>PHI*</strong> (<strong>P</strong>assion <strong>H</strong>our <strong>I</strong>ngenuity)
-curriculum. Our Period PHI modules are conducted in a fun and discovery
-manner to inspire Rosythians to use their imagination to create and be
-innovative thinkers, themselves!</p>
-<p>For the Primary 1s to 6s, Period PHI occurs as a fortnightly 1 to 1.5-hour
-curriculum to spark our students’ curiosities and inculcate an innovation
-quotient in them. Rosythians learn how to use the Rosyth 7E Innovation
-Protocol for value creation and be exposed to mindsets needed for innovation
-to take place.</p>
-<p>Through our school-based innovative thinking programme, we hope to nurture
-Rosythians who empathise, ask questions, think in new ways and are willing
-to take insightful actions to add new value to others.</p>
-<p>Equally important, through Period PHI, we purposefully teach Rosythians
-the language and dispositions to work collaboratively and the different
-techniques they can tap on to communicate effectively with one another.
-They also learn presentation and publicity skills on how to excite the
-audience with their innovation!</p>
-<p>Over the years, as our Period PHI curriculum gained momentum, we have
-been consistently recognised at various platforms and most notably, affirmed
-at the Ministry of Education <strong>(MOE) Innergy Schools Award </strong>(Teaching
-and Learning).</p>
+<p><strong>Period PHI (Passion Hour Ingenuity): Igniting Passion and Purpose through Innovation</strong>
+</p>
+<p>Period PHI is a school-based innovation programme conducted fortnightly
+for 1 to 1.5 hours. It is designed to ignite passion and purpose in our
+students through the PHI Windmill Framework, which integrates the Rosyth
+7E Innovation Protocol with principles from Ikigai, a Japanese concept
+referring to one’s sense of purpose or reason for being. Ikigai is found
+at the intersection of four elements: what you love, what you are good
+at, what the world needs, and what you can be valued for.</p>
+<p></p>
+<p>The PHI Windmill is designed to bring together the two key components:</p>
+<p>•Four blades inspired by Ikigai principles</p>
+<p>•A lollipop-shaped core representing the Rosyth 7E Innovation Protocol</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_2026.png">
+</div>
+<p>Through this framework, students explore their strengths and interests
+while applying innovative thinking to contribute meaningfully to others.</p>
+<p>&nbsp;The PHI programme comprises 3 core modules:</p>
+<p>I.Passion T-Time: Teachers inspire students by sharing personal passions,
+encouraging them to explore and experience new interests.</p>
+<p>II.Roszania: Students learn about different occupations through realistic
+role-play, gaining insights into how professions contribute to society.</p>
+<p>III.Innovation: Students apply the 7E Innovation Protocol to design creative
+solutions that improve lives, blending empathy, purpose and innovation
+in action.</p>
+<p><strong>Developing Innovative Creators and 21st Century Competencies (21CC)</strong>
+</p>
+<p>Period PHI supports Rosyth’s desired student outcome of developing Innovative
+Creators who think critically and creatively to solve authentic problems,
+act with empathy, and design purposeful solutions that benefit others.</p>
+<p>The programme emphasises that innovation is not just invention, but finding
+meaning and joy in creating value for the community.</p>
+<p>&nbsp;Period PHI is also a key vehicle for developing 21CC. It equips
+students with adaptive and inventive thinking, collaboration, communication
+and civic literacy skills.</p>
+<p>Students learn to work collaboratively, communicate effectively, and present
+their ideas confidently. They also develop the ability to excite and inspire
+others through creative expression and purposeful innovation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3_2026.png">
 </div>
 <p></p>
