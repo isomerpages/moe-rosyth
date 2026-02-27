@@ -44,7 +44,7 @@ variant: tiptap
 <p>Laurene Danker (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laurene_danker@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">laurene_danker@schools.gov.sg</a>
+<p><a href="mailto:laurene_danker@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">danker_laurene@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
