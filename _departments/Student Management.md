@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (SM)</p>
+<p>HOD/Student Managaement</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jesslyn Goh</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (SWB)</p>
+<p>SH/Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kuan Chin</p>
@@ -47,14 +47,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH/Student Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Azianah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>azianah_zakaria@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Acting SH/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm See Thor Hui Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_thor_hui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>see_thor_hui_qi@schools.gov.sg</u></a>
-</p>
+<p>see_thor_hui_qi@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
