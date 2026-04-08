@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Student Managaement</p>
+<p>HOD/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jesslyn Goh</p>
