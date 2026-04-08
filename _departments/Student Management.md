@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Managaement)</p>
+<p>HOD/Student Managaement</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jesslyn Goh</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Student Well-being)</p>
+<p>SH/Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kuan Chin</p>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH (Student Development)</p>
+<p>SH/Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Azianah</p>
